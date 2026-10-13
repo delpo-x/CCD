@@ -27,6 +27,7 @@ Una specifica approvata, abbastanza precisa da affidare l'implementazione, di un
 - Il formato comune è lo Stato di partita JSON di `mystery-agents`, con un convertitore dall'esportazione di `murder-generator`.
 - Output in italiano; la traduzione la fa il Provider LLM durante la conversione.
 - Progetti separati, collegati solo via file JSON.
+- [Cosa richiede lo Stato di partita e come saltare gli agenti LLM](tickets/02-requisiti-stato-di-partita.md): lo stato è già serializzabile e basta un grafo ridotto `a8_5 → a9` per produrre i PDF senza LLM (provato: 18/19 PDF).
 
 ## Not yet specified
 

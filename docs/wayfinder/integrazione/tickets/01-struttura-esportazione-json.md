@@ -3,7 +3,7 @@ id: "01"
 title: "Struttura dell'esportazione JSON di murder-generator"
 labels: [wayfinder:research]
 status: open
-assignee:
+assignee: claude-research
 blocked_by: []
 ---
 
