@@ -1,0 +1,858 @@
+{
+ "version": "40a0d27a4ca97c707402c28e87daaaa8c1b2775d\n",
+ "characters": [
+  {
+   "name": "Tharria",
+   "attributes": {
+    "Famousness": "Famous",
+    "Specy": "God",
+    "Gender": "Female",
+    "Age": "Young",
+    "Born": "True",
+    "Job": "Journalist",
+    "SecretSociety": "?Triumvirate",
+    "GrammarEO": "Normal",
+    "GrammarEN": "Normal",
+    "GrammarFR": "Normal",
+    "Richness": "Neutral"
+   },
+   "contacts": [
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Harm"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    },
+    {
+     "FamilyRelation": "?GrandParent",
+     "Goal": "Help",
+     "Know": "True"
+    }
+   ],
+   "relations": [],
+   "complexity": 17,
+   "difficulty": 10
+  },
+  {
+   "name": "Erson",
+   "attributes": {
+    "Famousness": "Famous",
+    "Specy": "God",
+    "Gender": "NonBinary",
+    "Age": "Old",
+    "Born": "AlwaysExisted",
+    "Job": "Journalist",
+    "SecretSociety": "?Triumvirate",
+    "GrammarEO": "Normal",
+    "GrammarEN": "Normal",
+    "GrammarFR": "Normal",
+    "Richness": "Neutral"
+   },
+   "contacts": [
+    {
+     "FamilyRelation": "None",
+     "Goal": "Harm"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "Goal": "Protect",
+     "Know": "True"
+    }
+   ],
+   "relations": [
+    "neutral"
+   ],
+   "complexity": 18,
+   "difficulty": 12
+  },
+  {
+   "name": "Lookay",
+   "attributes": {
+    "Famousness": "Famous",
+    "Specy": "?God",
+    "Gender": "NonBinary",
+    "Age": "Old",
+    "Born": "AlwaysExisted",
+    "Disability": "Blind",
+    "Job": "King",
+    "SecretSociety": "?Triumvirate",
+    "GrammarEO": "Normal",
+    "GrammarEN": "Normal",
+    "GrammarFR": "Normal",
+    "Richness": "Neutral"
+   },
+   "contacts": [
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Help",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Harm"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    }
+   ],
+   "relations": [
+    "neutral",
+    "neutral"
+   ],
+   "complexity": 5,
+   "difficulty": 23
+  },
+  {
+   "name": "Cethirson",
+   "attributes": {
+    "Famousness": "Famous",
+    "Specy": "God",
+    "Gender": "NonBinary",
+    "Age": "Old",
+    "Born": "AlwaysExisted",
+    "Curse": "Immortal",
+    "Job": "Seller",
+    "SecretSociety": "?Triumvirate",
+    "GrammarEO": "Normal",
+    "GrammarEN": "Normal",
+    "GrammarFR": "Normal",
+    "Richness": "Neutral"
+   },
+   "contacts": [
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Harm",
+     "Know": "?True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    }
+   ],
+   "relations": [
+    "hate",
+    "neutral",
+    "strong neutral"
+   ],
+   "complexity": 18,
+   "difficulty": 12
+  },
+  {
+   "name": "Icester",
+   "attributes": {
+    "Famousness": "Famous",
+    "Specy": "God",
+    "Gender": "NonBinary",
+    "Age": "Old",
+    "Born": "AlwaysExisted",
+    "Job": "Seller",
+    "SecretSociety": "?Triumvirate",
+    "GrammarEO": "Normal",
+    "GrammarEN": "Normal",
+    "GrammarFR": "Normal",
+    "Richness": "Neutral"
+   },
+   "contacts": [
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "?True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Harm"
+    }
+   ],
+   "relations": [
+    "neutral",
+    "strong trust",
+    "asymmetrical hate neutral",
+    "hate"
+   ],
+   "complexity": 17,
+   "difficulty": 11
+  },
+  {
+   "name": "Uburgen",
+   "attributes": {
+    "Famousness": "Famous",
+    "Specy": "God",
+    "Gender": "NonBinary",
+    "Age": "Old",
+    "Born": "AlwaysExisted",
+    "Curse": "Immortal",
+    "Job": "Seller",
+    "SecretSociety": "?Triumvirate",
+    "GrammarEO": "Normal",
+    "GrammarEN": "Normal",
+    "GrammarFR": "Normal",
+    "Richness": "Neutral"
+   },
+   "contacts": [
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "?Harm",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Harm",
+     "Know": "True"
+    },
+    {
+     "FamilyRelation": "None",
+     "Goal": "Protect"
+    }
+   ],
+   "relations": [
+    "neutral",
+    "strong neutral",
+    "strong asymmetrical hate neutral",
+    "hate",
+    "strong neutral"
+   ],
+   "complexity": 17,
+   "difficulty": 13
+  }
+ ],
+ "events": [
+  {
+   "begin": "20040101T190100",
+   "end": "20040101T190100",
+   "event": "GodAlwaysExisted#0",
+   "attendees": [
+    2
+   ],
+   "all": [
+    2
+   ]
+  },
+  {
+   "begin": "20040101T190600",
+   "end": "20040101T190600",
+   "event": "GodAlwaysExisted#0",
+   "attendees": [
+    4
+   ],
+   "all": [
+    4
+   ]
+  },
+  {
+   "begin": "20040101T191000",
+   "end": "20040101T191000",
+   "event": "GodAlwaysExisted#0",
+   "attendees": [
+    1
+   ],
+   "all": [
+    1
+   ]
+  },
+  {
+   "begin": "20040101T191300",
+   "end": "20040101T191300",
+   "event": "GodAlwaysExisted#0",
+   "attendees": [
+    3
+   ],
+   "all": [
+    3
+   ]
+  },
+  {
+   "begin": "20040101T191800",
+   "end": "20040101T191800",
+   "event": "GodAlwaysExisted#0",
+   "attendees": [
+    5
+   ],
+   "all": [
+    5
+   ]
+  },
+  {
+   "begin": "20040101T192400",
+   "end": "20040101T192400",
+   "event": "WarBetweenGod#0",
+   "attendees": [
+    2,
+    3
+   ],
+   "all": [
+    2,
+    3
+   ]
+  },
+  {
+   "begin": "20040101T192400",
+   "end": "20040101T192400",
+   "event": "WarBetweenGod#0",
+   "attendees": [
+    4,
+    0
+   ],
+   "all": [
+    4,
+    0
+   ]
+  },
+  {
+   "begin": "20040101T193000",
+   "end": "20040101T193000",
+   "event": "WarBetweenGod#0",
+   "attendees": [
+    5,
+    1
+   ],
+   "all": [
+    5,
+    1
+   ]
+  },
+  {
+   "begin": "20040101T194300",
+   "end": "20040101T194300",
+   "event": "GodHasNoGender#0",
+   "attendees": [
+    5
+   ],
+   "all": [
+    5
+   ]
+  },
+  {
+   "begin": "20040101T194800",
+   "end": "20040101T194800",
+   "event": "HelpingGod#0",
+   "attendees": [
+    2,
+    4
+   ],
+   "all": [
+    2,
+    4
+   ]
+  },
+  {
+   "begin": "20040101T205400",
+   "end": "20040101T205400",
+   "event": "GodHasNoGender#0",
+   "attendees": [
+    3
+   ],
+   "all": [
+    3
+   ]
+  },
+  {
+   "begin": "20040101T212600",
+   "end": "20040101T212600",
+   "event": "GodHasNoGender#0",
+   "attendees": [
+    4
+   ],
+   "all": [
+    4
+   ]
+  },
+  {
+   "begin": "20040101T224800",
+   "end": "20040101T224800",
+   "event": "BirthYoung#0",
+   "attendees": [
+    0
+   ],
+   "all": [
+    0
+   ]
+  },
+  {
+   "begin": "20060101T230500",
+   "end": "20060101T230500",
+   "event": "GodHasNoGender#0",
+   "attendees": [
+    1
+   ],
+   "all": [
+    1
+   ]
+  },
+  {
+   "begin": "20060101T231800",
+   "end": "20140101T231800",
+   "event": "JournalistSinceYoung#0",
+   "attendees": [
+    1
+   ],
+   "all": [
+    1
+   ]
+  },
+  {
+   "begin": "20070101T231800",
+   "end": "20140101T231800",
+   "event": "TriumvirateTooFrequentMeetings#0",
+   "attendees": [
+    4
+   ],
+   "all": [
+    4,
+    1
+   ]
+  },
+  {
+   "begin": "20090101T232200",
+   "end": "20190101T232200",
+   "event": "JournalistSinceYoung#0",
+   "attendees": [
+    0
+   ],
+   "all": [
+    0
+   ]
+  },
+  {
+   "begin": "20140101T233200",
+   "end": "20240101T233200",
+   "event": "TriumvirateMeetings#0",
+   "attendees": [
+    1,
+    4,
+    3
+   ],
+   "all": [
+    1,
+    4,
+    3
+   ]
+  },
+  {
+   "begin": "20190101T231900",
+   "end": "20190101T231900",
+   "event": "GodHasNoGender#0",
+   "attendees": [
+    2
+   ],
+   "all": [
+    2
+   ]
+  },
+  {
+   "begin": "20190101T234400",
+   "end": "20240101T234400",
+   "event": "TriumvirateMeetings#0",
+   "attendees": [
+    0,
+    5,
+    2
+   ],
+   "all": [
+    0,
+    5,
+    2
+   ]
+  },
+  {
+   "begin": "20230520T225300",
+   "end": "20230815T225300",
+   "event": "BlindAfterBeingBeaten#0",
+   "attendees": [
+    5
+   ],
+   "all": [
+    2,
+    5
+   ]
+  },
+  {
+   "begin": "20230720T224300",
+   "end": "20230722T224300",
+   "event": "BecameSellerForHumanContact#0",
+   "attendees": [
+    3
+   ],
+   "all": [
+    3
+   ]
+  },
+  {
+   "begin": "20230722T231000",
+   "end": "20230916T231000",
+   "event": "BecameSellerForHumanContact#1",
+   "attendees": [
+    3
+   ],
+   "all": [
+    3
+   ]
+  },
+  {
+   "begin": "20230812T230700",
+   "end": "20230815T230700",
+   "event": "BecameSellerForHumanContact#0",
+   "attendees": [
+    5
+   ],
+   "all": [
+    5
+   ]
+  },
+  {
+   "begin": "20230815T231800",
+   "end": "20230930T231800",
+   "event": "BecameSellerForHumanContact#1",
+   "attendees": [
+    5
+   ],
+   "all": [
+    5
+   ]
+  },
+  {
+   "begin": "20230916T232100",
+   "end": "20231225T232100",
+   "event": "SellerIsEasilyKnown#0",
+   "attendees": [
+    0
+   ],
+   "all": [
+    3,
+    0
+   ]
+  },
+  {
+   "begin": "20230930T233800",
+   "end": "20231224T233800",
+   "event": "SellerIsEasilyKnown#0",
+   "attendees": [
+    2
+   ],
+   "all": [
+    5,
+    2
+   ]
+  },
+  {
+   "begin": "20231012T222500",
+   "end": "20231019T222500",
+   "event": "BecameSellerForHumanContact#0",
+   "attendees": [
+    4
+   ],
+   "all": [
+    4
+   ]
+  },
+  {
+   "begin": "20231019T225100",
+   "end": "20231111T225100",
+   "event": "BecameSellerForHumanContact#1",
+   "attendees": [
+    4
+   ],
+   "all": [
+    4
+   ]
+  },
+  {
+   "begin": "20231111T231500",
+   "end": "20231225T231500",
+   "event": "SellerIsEasilyKnown#0",
+   "attendees": [
+    1
+   ],
+   "all": [
+    4,
+    1
+   ]
+  },
+  {
+   "begin": "20231224T234900",
+   "end": "20240101T234900",
+   "event": "SellerIsEasilyKnown#1",
+   "attendees": [
+    5
+   ],
+   "all": [
+    5,
+    2
+   ]
+  },
+  {
+   "begin": "20231225T233900",
+   "end": "20240101T233900",
+   "event": "SellerIsEasilyKnown#1",
+   "attendees": [
+    4
+   ],
+   "all": [
+    4,
+    1
+   ]
+  },
+  {
+   "begin": "20231225T234300",
+   "end": "20240101T234300",
+   "event": "SellerIsEasilyKnown#1",
+   "attendees": [
+    3
+   ],
+   "all": [
+    3,
+    0
+   ]
+  },
+  {
+   "begin": "20231226T224000",
+   "end": "20231226T224000",
+   "event": "BlindAfterBeingBeaten#1",
+   "attendees": [
+    5
+   ],
+   "all": [
+    2,
+    5
+   ]
+  },
+  {
+   "begin": "20231226T230900",
+   "end": "20231229T230900",
+   "event": "BlindAfterBeingBeaten#2",
+   "attendees": [
+    2
+   ],
+   "all": [
+    2,
+    5
+   ]
+  },
+  {
+   "begin": "20231226T234100",
+   "end": "20240101T234100",
+   "event": "TriumvirateTooFrequentMeetings#1",
+   "attendees": [
+    1
+   ],
+   "all": [
+    4,
+    1
+   ]
+  },
+  {
+   "begin": "20231229T233200",
+   "end": "20240101T233200",
+   "event": "TheOneKing#0",
+   "attendees": [
+    2
+   ],
+   "all": [
+    2,
+    0
+   ]
+  },
+  {
+   "begin": "20240101T213000",
+   "end": "20240101T234000",
+   "event": "DreamAboutBeingOlder#0",
+   "attendees": [
+    0
+   ],
+   "all": [
+    0,
+    1
+   ]
+  },
+  {
+   "begin": "20240101T231900",
+   "end": "20240101T233000",
+   "event": "BlindAfterBeingBeaten#3",
+   "attendees": [
+    2
+   ],
+   "all": [
+    2,
+    5
+   ]
+  },
+  {
+   "begin": "20240101T233100",
+   "end": "20240101T233100",
+   "event": "GodIsImmortal#0",
+   "attendees": [
+    5
+   ],
+   "all": [
+    5
+   ]
+  },
+  {
+   "begin": "20240101T233400",
+   "end": "20240101T233400",
+   "event": "Paparazzi#0",
+   "attendees": [
+    1
+   ],
+   "all": [
+    2,
+    1
+   ]
+  },
+  {
+   "begin": "20240101T233500",
+   "end": "20240101T233500",
+   "event": "KingIsKnownToBeKing#0",
+   "attendees": [
+    3
+   ],
+   "all": [
+    2,
+    3
+   ]
+  },
+  {
+   "begin": "20240101T233800",
+   "end": "20240101T233800",
+   "event": "Paparazzi#0",
+   "attendees": [
+    0
+   ],
+   "all": [
+    1,
+    0
+   ]
+  },
+  {
+   "begin": "20240101T234100",
+   "end": "20240101T234100",
+   "event": "KingIsKnownToBeKing#0",
+   "attendees": [
+    0
+   ],
+   "all": [
+    2,
+    0
+   ]
+  },
+  {
+   "begin": "20240101T234100",
+   "end": "20240101T234100",
+   "event": "KingIsKnownToBeKing#0",
+   "attendees": [
+    4
+   ],
+   "all": [
+    2,
+    4
+   ]
+  },
+  {
+   "begin": "20240101T234400",
+   "end": "20240101T234400",
+   "event": "KingIsKnownToBeKing#0",
+   "attendees": [
+    1
+   ],
+   "all": [
+    2,
+    1
+   ]
+  },
+  {
+   "begin": "20240101T234400",
+   "end": "20240101T234400",
+   "event": "KingIsKnownToBeKing#0",
+   "attendees": [
+    5
+   ],
+   "all": [
+    2,
+    5
+   ]
+  },
+  {
+   "begin": "20240101T234600",
+   "end": "20240101T234600",
+   "event": "GodIsImmortal#0",
+   "attendees": [
+    3
+   ],
+   "all": [
+    3
+   ]
+  }
+ ]
+}
