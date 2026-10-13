@@ -1,0 +1,459 @@
+{
+  "meta": {
+    "id": "42adcb77-453c-414b-8133-ce94eab42608",
+    "created_at": "2026-10-13T15:12:58.501637Z",
+    "version": "v1.6"
+  },
+  "config": {
+    "language": "es",
+    "country": "Spain",
+    "region": "Las Palmas de Gran Canaria",
+    "epoch": "modern",
+    "custom_epoch_description": null,
+    "theme": "family_mansion",
+    "custom_theme_description": null,
+    "players": {
+      "total": 6,
+      "male": 3,
+      "female": 3
+    },
+    "host_gender": "male",
+    "duration_minutes": 90,
+    "difficulty": "medium",
+    "killer_knows_identity": false,
+    "generate_images": false,
+    "dry_run": true,
+    "debug_model": false,
+    "config_file": "game.example.yml",
+    "keep_work_dir": false,
+    "verbosity": 0,
+    "quiet_mode": false,
+    "log_file": null
+  },
+  "world": {
+    "epoch": "Modern",
+    "location_type": "Mansion",
+    "location_name": "Thornfield Manor",
+    "summary": "A grand family mansion in the countryside, hosting a reunion.",
+    "gathering_reason": "Annual family reunion to commemorate the patriarch's legacy",
+    "visual_keywords": [
+      "gothic",
+      "elegant",
+      "mysterious",
+      "candlelit"
+    ],
+    "constraints": [
+      "Limited access to certain rooms",
+      "No modern technology in some areas"
+    ]
+  },
+  "crime": {
+    "victim": {
+      "id": "victim-4d98a6f0",
+      "name": "Lord Reginald Thornfield",
+      "age": 65,
+      "gender": "male",
+      "role_in_setting": "Patriarch and mansion owner",
+      "public_persona": "Wealthy, controlling, with many secrets",
+      "personality_traits": [],
+      "secrets": [
+        "Changed his will recently",
+        "Had affairs in the past",
+        "Financial troubles"
+      ],
+      "costume_suggestion": null,
+      "image_path": null
+    },
+    "murder_method": {
+      "type": "poison",
+      "description": "Poison in evening drink",
+      "weapon_used": "Arsenic-laced brandy",
+      "live_action_method_description": null
+    },
+    "crime_scene": {
+      "room_id": "study",
+      "description": "The victim's private study",
+      "scene_description_post_discovery": "Body found slumped in armchair"
+    },
+    "time_of_death_approx": "22:30",
+    "possible_weapons": [
+      "poison bottle",
+      "brandy glass",
+      "unknown vial"
+    ],
+    "possible_opportunities": []
+  },
+  "characters": [
+    {
+      "id": "char-0b3e445c",
+      "name": "Character 1",
+      "gender": "male",
+      "age_range": "30-40",
+      "role": "Role 1",
+      "public_description": "A mysterious figure with connections to the victim.",
+      "personality_traits": [
+        "clever",
+        "suspicious",
+        "charming"
+      ],
+      "relation_to_victim": "Relationship 1",
+      "personal_secrets": [
+        "Secret 1"
+      ],
+      "personal_goals": [
+        "Goal 1"
+      ],
+      "act1_objectives": [
+        "Objective 1",
+        "Objective 2"
+      ],
+      "motive_for_crime": "Motive 1",
+      "costume_suggestion": "Costume suggestion 1",
+      "live_action_killer_instructions": null,
+      "image_path": null
+    },
+    {
+      "id": "char-0e896878",
+      "name": "Character 2",
+      "gender": "female",
+      "age_range": "30-40",
+      "role": "Role 2",
+      "public_description": "A mysterious figure with connections to the victim.",
+      "personality_traits": [
+        "clever",
+        "suspicious",
+        "charming"
+      ],
+      "relation_to_victim": "Relationship 2",
+      "personal_secrets": [
+        "Secret 2"
+      ],
+      "personal_goals": [
+        "Goal 2"
+      ],
+      "act1_objectives": [
+        "Objective 2",
+        "Objective 3"
+      ],
+      "motive_for_crime": "Motive 2",
+      "costume_suggestion": "Costume suggestion 2",
+      "live_action_killer_instructions": null,
+      "image_path": null
+    },
+    {
+      "id": "char-d77f2d65",
+      "name": "Character 3",
+      "gender": "male",
+      "age_range": "30-40",
+      "role": "Role 3",
+      "public_description": "A mysterious figure with connections to the victim.",
+      "personality_traits": [
+        "clever",
+        "suspicious",
+        "charming"
+      ],
+      "relation_to_victim": "Relationship 3",
+      "personal_secrets": [
+        "Secret 3"
+      ],
+      "personal_goals": [
+        "Goal 3"
+      ],
+      "act1_objectives": [
+        "Objective 3",
+        "Objective 4"
+      ],
+      "motive_for_crime": "Motive 3",
+      "costume_suggestion": "Costume suggestion 3",
+      "live_action_killer_instructions": null,
+      "image_path": null
+    },
+    {
+      "id": "char-005c35df",
+      "name": "Character 4",
+      "gender": "female",
+      "age_range": "30-40",
+      "role": "Role 4",
+      "public_description": "A mysterious figure with connections to the victim.",
+      "personality_traits": [
+        "clever",
+        "suspicious",
+        "charming"
+      ],
+      "relation_to_victim": "Relationship 4",
+      "personal_secrets": [
+        "Secret 4"
+      ],
+      "personal_goals": [
+        "Goal 4"
+      ],
+      "act1_objectives": [
+        "Objective 4",
+        "Objective 5"
+      ],
+      "motive_for_crime": "Motive 4",
+      "costume_suggestion": "Costume suggestion 4",
+      "live_action_killer_instructions": null,
+      "image_path": null
+    },
+    {
+      "id": "char-dae383c1",
+      "name": "Character 5",
+      "gender": "male",
+      "age_range": "30-40",
+      "role": "Role 5",
+      "public_description": "A mysterious figure with connections to the victim.",
+      "personality_traits": [
+        "clever",
+        "suspicious",
+        "charming"
+      ],
+      "relation_to_victim": "Relationship 5",
+      "personal_secrets": [
+        "Secret 5"
+      ],
+      "personal_goals": [
+        "Goal 5"
+      ],
+      "act1_objectives": [
+        "Objective 5",
+        "Objective 6"
+      ],
+      "motive_for_crime": "Motive 5",
+      "costume_suggestion": "Costume suggestion 5",
+      "live_action_killer_instructions": null,
+      "image_path": null
+    },
+    {
+      "id": "char-9e52af19",
+      "name": "Character 6",
+      "gender": "female",
+      "age_range": "30-40",
+      "role": "Role 6",
+      "public_description": "A mysterious figure with connections to the victim.",
+      "personality_traits": [
+        "clever",
+        "suspicious",
+        "charming"
+      ],
+      "relation_to_victim": "Relationship 6",
+      "personal_secrets": [
+        "Secret 6"
+      ],
+      "personal_goals": [
+        "Goal 6"
+      ],
+      "act1_objectives": [
+        "Objective 6",
+        "Objective 7"
+      ],
+      "motive_for_crime": "Motive 6",
+      "costume_suggestion": "Costume suggestion 6",
+      "live_action_killer_instructions": null,
+      "image_path": null
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel-b1d04909",
+      "from_character_id": "char-0b3e445c",
+      "to_character_id": "char-0e896878",
+      "type": "professional",
+      "description": "Former business partners with unresolved disputes",
+      "tension_level": 2
+    },
+    {
+      "id": "rel-63df2a6b",
+      "from_character_id": "char-0b3e445c",
+      "to_character_id": "char-d77f2d65",
+      "type": "rivalry",
+      "description": "Competing for the same professional recognition",
+      "tension_level": 3
+    }
+  ],
+  "timeline_global": {
+    "time_blocks": [
+      {
+        "id": "tb-c02710d1",
+        "start": "20:00",
+        "end": "21:00",
+        "events": [
+          {
+            "id": "gevt-bf74758c",
+            "time_approx": "20:30",
+            "description": "Guests arrive and mingle",
+            "character_ids_involved": [
+              "char-0b3e445c",
+              "char-0e896878",
+              "char-d77f2d65"
+            ],
+            "room_id": "main_hall"
+          }
+        ]
+      },
+      {
+        "id": "tb-1ca4e387",
+        "start": "21:00",
+        "end": "22:00",
+        "events": [
+          {
+            "id": "gevt-3e7be7e0",
+            "time_approx": "21:30",
+            "description": "Dinner is served",
+            "character_ids_involved": [
+              "char-0b3e445c",
+              "char-0e896878",
+              "char-d77f2d65",
+              "char-005c35df",
+              "char-dae383c1",
+              "char-9e52af19"
+            ],
+            "room_id": "dining_room"
+          }
+        ]
+      },
+      {
+        "id": "tb-f9d39440",
+        "start": "22:00",
+        "end": "23:00",
+        "events": [
+          {
+            "id": "gevt-6b21bb23",
+            "time_approx": "22:30",
+            "description": "Murder occurs",
+            "character_ids_involved": [],
+            "room_id": "study"
+          }
+        ]
+      }
+    ],
+    "live_action_murder_event": {
+      "id": "gevt-726ee851",
+      "time_approx": "22:30",
+      "description": "The lights go out and a scream is heard",
+      "character_ids_involved": [],
+      "room_id": "study"
+    }
+  },
+  "killer_selection": {
+    "killer_id": "char-0b3e445c",
+    "rationale": "This character had the strongest motive and best opportunity.",
+    "modified_events": [
+      "Adjusted timeline to place killer near victim at time of death"
+    ],
+    "truth_narrative": "The killer poisoned the victim's evening brandy during Act 1.\nThey had access to the study and the means to obtain the poison.\nThe motive was related to the recent change in the victim's will.\nAll evidence points to this conclusion when properly analyzed."
+  },
+  "personal_timelines": {},
+  "clues": [
+    {
+      "id": "clue-90bce2f3",
+      "type": "note",
+      "title": "Threatening Letter",
+      "description": "A letter threatening the victim",
+      "incriminates": [
+        "char-0b3e445c"
+      ],
+      "exonerates": [],
+      "relates_to_events": [],
+      "reveal_phase": "Act 2",
+      "assigned_to_character_id": null,
+      "is_red_herring": false
+    },
+    {
+      "id": "clue-365d4a75",
+      "type": "object",
+      "title": "Poison Bottle",
+      "description": "An empty bottle of poison found in the study",
+      "incriminates": [],
+      "exonerates": [],
+      "relates_to_events": [],
+      "reveal_phase": "Act 2",
+      "assigned_to_character_id": null,
+      "is_red_herring": false
+    }
+  ],
+  "maps": [],
+  "host_guide": {
+    "spoiler_free_intro": "Welcome to Thornfield Manor! A mystery awaits...",
+    "host_act1_role_description": "You are Lord Reginald Thornfield, the patriarch of this estate. You have many secrets and enemies...",
+    "setup_instructions": [
+      "Send individual player packages 1 week before the game",
+      "Prepare the space with appropriate decorations",
+      "Print the clues and place them strategically"
+    ],
+    "runtime_tips": [
+      "Stay in character as the victim during Act 1",
+      "Encourage interactions between guests",
+      "Watch for natural transition moments to trigger the murder"
+    ],
+    "live_action_murder_event_guide": "At approximately 10:30 PM, excuse yourself to the study. Turn off the lights. Let out a scream. You are now 'dead'. Wait 2 minutes, then return as the Detective.",
+    "act_2_intro_script": "Ladies and gentlemen, I am Detective Inspector Morrison. I've been called to investigate this terrible tragedy...",
+    "host_act2_detective_role": {
+      "character_name": "Detective Inspector Morrison",
+      "public_description": "A renowned detective with keen observation skills",
+      "personality_traits": [],
+      "clues_to_reveal": [
+        {
+          "clue_id": "clue-1",
+          "how_to_interpret": "This note reveals a financial motive"
+        }
+      ],
+      "guiding_questions": [
+        "Who had access to the study?",
+        "Who benefits from the victim's death?"
+      ],
+      "final_solution_script": "The killer is... [reveal based on evidence]",
+      "costume_suggestion": null,
+      "image_path": null
+    },
+    "solution_timeline": null
+  },
+  "killer_brief_narrative": null,
+  "visual_style": {
+    "style_description": "Modern photorealistic portrait photography",
+    "art_direction": "Sophisticated mystery game aesthetic",
+    "color_palette": [
+      "neutral tones",
+      "warm skin tones",
+      "subtle shadows"
+    ],
+    "color_grading": "Natural color grading with slight warmth",
+    "lighting_setup": "Professional portrait lighting with soft key light",
+    "lighting_mood": "Elegant and slightly dramatic",
+    "background_aesthetic": "Subtle, blurred neutral background",
+    "background_blur": "Shallow depth of field, f/2.8",
+    "technical_specs": "8K resolution, professional portrait photography",
+    "camera_specs": "85mm portrait lens, f/2.8, professional DSLR",
+    "negative_prompts": [
+      "text",
+      "labels",
+      "names",
+      "watermarks",
+      "black and white",
+      "grayscale",
+      "modern smartphones",
+      "contemporary casual wear",
+      "cartoon",
+      "anime"
+    ],
+    "period_references": [
+      "Contemporary professional portrait photography"
+    ]
+  },
+  "validation": {
+    "is_consistent": true,
+    "issues": [],
+    "suggested_fixes": []
+  },
+  "world_validation": {
+    "is_coherent": true,
+    "issues": [],
+    "suggestions": []
+  },
+  "packaging": null,
+  "generated_assets": {},
+  "retry_count": 0,
+  "max_retries": 3,
+  "world_retry_count": 0,
+  "max_world_retries": 2
+}
