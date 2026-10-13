@@ -18,6 +18,7 @@ Una specifica approvata, abbastanza precisa da affidare l'implementazione, di un
 - **Provider LLM** intercambiabile: oggi Claude in chat, Gemini solo se si attiva la fatturazione.
 - I due progetti restano separati, collegati solo via JSON ([ADR 0001](../../adr/0001-progetti-separati-collegati-via-json.md)).
 - Vocabolario: vedi `CONTEXT.md`.
+- Ogni testo destinato ai giocatori (schede, inviti, indizi, guida, soluzione) passa da un controllo con la skill humanizer prima della consegna; la pipeline deve prevedere questo passaggio.
 - Questa mappa è di pianificazione: ogni ticket produce una decisione, non codice.
 
 ## Decisions so far
