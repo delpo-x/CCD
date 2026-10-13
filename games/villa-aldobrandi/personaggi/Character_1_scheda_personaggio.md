@@ -40,4 +40,4 @@ Ottavio è tuo padre: lo ammiri e lo temi. Ti ha sempre fatto sentire di dover �
 - **Giulio Ferraris** (Notaio di famiglia, tensione 1/3): ti fidi di lui e gli hai chiesto di preparare le carte per la vendita.
 
 ---
-Ricorda: usa i tuoi segreti strategicamente durante l'indagine!
+Ricorda: nessuno sa della trattativa con Renzi né dei bilanci in perdita. Decidi tu se e quando dirlo.

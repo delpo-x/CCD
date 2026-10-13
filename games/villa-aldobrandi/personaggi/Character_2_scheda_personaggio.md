@@ -40,4 +40,4 @@ Ottavio è tuo padre: ti ha sempre salvato, ma ora ti ha detto «basta».
 - **Beatrice Conti** (Assistente del padre, tensione 2/3): sospetti che ti controlli per conto di Ottavio.
 
 ---
-Ricorda: usa i tuoi segreti strategicamente durante l'indagine!
+Ricorda: la lettera firmata «M.» è tua, e nessuno deve saperlo.

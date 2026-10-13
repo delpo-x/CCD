@@ -40,4 +40,4 @@ Ottavio è un rivale che rispetti, e che hai spesso battuto sul prezzo.
 - **Matteo** (Figlio, tensione 1/3): lo trovi simpatico e inaffidabile.
 
 ---
-Ricorda: usa i tuoi segreti strategicamente durante l'indagine!
+Ricorda: hai parlato con Ottavio dei conti, e nessuno deve saperlo.

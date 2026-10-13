@@ -41,4 +41,4 @@ Ottavio è tuo nonno e la persona che ti ha capita di più.
 - **Giulio Ferraris** (Notaio, tensione 1/3): è come uno zio acquisito.
 
 ---
-Ricorda: usa i tuoi segreti strategicamente durante l'indagine!
+Ricorda: Davide resta un segreto, per ora. Quello che hai sentito in giardino, invece, potrebbe tornarti utile.

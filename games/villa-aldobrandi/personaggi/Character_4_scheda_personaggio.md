@@ -40,4 +40,4 @@ Ottavio è il tuo più vecchio amico e cliente. Ti ha sempre protetto, ma negli 
 - **Tommaso Renzi** (Acquirente, tensione 2/3): le sue domande sui conti ti mettono a disagio.
 
 ---
-Ricorda: usa i tuoi segreti strategicamente durante l'indagine!
+Ricorda: nessuno deve collegare il tuo nome a quei trasferimenti.

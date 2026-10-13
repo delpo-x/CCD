@@ -40,4 +40,4 @@ Ottavio è il tuo capo e quasi un secondo padre: ti ha dato fiducia quando nessu
 - **Matteo** (Figlio, tensione 2/3): ti chiede spesso informazioni sull'umore del padre.
 
 ---
-Ricorda: usa i tuoi segreti strategicamente durante l'indagine!
+Ricorda: hai giurato di non parlare del rapporto prima di domani.
