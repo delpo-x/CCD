@@ -42,3 +42,4 @@ Hal ti ha lasciato lo scantinato per un affitto basso e un pezzo di ogni carico.
 
 ---
 Ricorda: lo scantinato è il tuo segreto, e Tommy anche.
+La tua missione segreta è su un foglio a parte.

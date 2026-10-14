@@ -26,6 +26,7 @@ Tenente Kimo Alapai, 52 anni, della Polizia di Honolulu, Sezione Omicidi. Calmo,
 | 10 | Bozza del nuovo testamento | Lani, Tommy e Auntie Lei avevano qualcosa da guadagnare. Falsa pista. |
 | 11 | Biglietto di ricatto di Jimbo | Jimbo ricatta Claudia per 20.000 dollari. Movente per lei, falsa pista per lui. |
 | 12 | Taccuino di Noe | «C.D. = Claudia Delaney?» Lega le iniziali al nome. |
+| 13 | Copia del registro (bonus) | Ricevute firmate «C. Delaney»: prova finale. Solo se Tommy consegna la chiave. |
 
 ## Domande guida da porre
 - A tutti: «Dov'era alle 23:15?»

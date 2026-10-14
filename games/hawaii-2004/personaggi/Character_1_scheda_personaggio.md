@@ -42,3 +42,4 @@ Hal è tuo padre. Ti ha insegnato il mestiere e ti chiama Cookie anche davanti a
 
 ---
 Ricorda: il debito con Brad e quello che senti per Tommy restano affari tuoi.
+La tua missione segreta è su un foglio a parte.

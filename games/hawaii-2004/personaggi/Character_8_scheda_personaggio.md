@@ -42,3 +42,4 @@ Hal è la tua fonte migliore. Ti ha detto che ti darà qualcosa «quando sarà i
 
 ---
 Ricorda: le foto che hai scattato valgono più di quello che pensi.
+La tua missione segreta è su un foglio a parte.

@@ -42,3 +42,4 @@ Hal ti sembra un cliente difficile, ma ti piace: dice quello che pensa. L'unica 
 
 ---
 Ricorda: l'anticipo l'hai già speso, e Brad non lo sa.
+La tua missione segreta è su un foglio a parte.

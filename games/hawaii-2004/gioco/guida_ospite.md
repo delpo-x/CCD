@@ -13,7 +13,8 @@
 3. Prepara un **ufficio**: un angolo con una scrivania, un blocco appunti (con l'impronta «C. – 23:10»), un cestino con una pagina strappata, un cassettone vuoto.
 4. Prepara una **veranda**: un angolo con sedie, per le foto di Noe.
 5. Nascondi gli indizi come indicato in `riferimento_indizi.md`.
-6. Procurati: un cannoncino di coriandoli o un popper, un palloncino da far scoppiare, una torcia o un modo per spegnere le luci, un cappello di paglia per il tenente, un microfono (anche finto) per Lani, un po' di musica hawaiana in sottofondo.
+6. Stampa le **missioni segrete** (`personaggi/Character_N_missione.md`) e gli **oggetti** (`oggetti/`). Metti ogni oggetto in una busta chiusa con il nome del proprietario e consegnale a inizio serata. Leggi `gioco/mini_trame.md`.
+7. Procurati: un cannoncino di coriandoli o un popper, un palloncino da far scoppiare, una torcia o un modo per spegnere le luci, un cappello di paglia per il tenente, un microfono (anche finto) per Lani, un po' di musica hawaiana in sottofondo.
 
 ## Atto 1 – La serata (≈ 40 minuti) – Tu sei Hal Kealoha
 Leggi la scheda vittima. Sei il padrone di casa: accogli, gira tra gli ospiti, pungola ciascuno sul suo segreto (domande nella scheda vittima).
@@ -37,9 +38,11 @@ Leggi la scheda detective (indizi da rivelare, domande guida, soluzione).
 3. **Interrogatori (20')**: chiama un giocatore alla volta nell'«ufficio»; usa le domande guida.
 4. **Turno delle accuse (10')**: ogni giocatore dice chi è la colpevole e perché.
 5. **La rivelazione (10')**: leggi la soluzione; presenta movente e opportunità di ogni sospetto, poi l'assassina.
+6. **Epiloghi e punti (5')**: leggi gli epiloghi personali (`gioco/mini_trame.md`), somma i punti delle missioni e proclama il vincitore.
 
 ## Consigli
 - Se i giocatori si bloccano, chiedi: «Chi era dove, alle 23:15? E chi può provarlo?» (indizio 06).
+- Le missioni segrete tengono occupati i giocatori anche quando non hanno niente da scoprire sul delitto. Se qualcuno è fermo, ricordagli un compito.
 - Gli indizi con *Falsa pista = Sì* servono a depistare; da soli non devono incastrare nessuno.
 - Con 10 giocatori gli interrogatori sono lunghi: dai a ciascuno due minuti, e interrompi chi parla troppo.
 - La colpevole non sa di esserlo dalla scheda: la sua contiene solo i segreti economici e le istruzioni di movimento. Quando viene smascherata, lasciala recitare la confessione (testo in `soluzione.md`).

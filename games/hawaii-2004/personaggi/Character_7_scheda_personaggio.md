@@ -42,3 +42,4 @@ Hal è un vecchio amico di famiglia e il tuo tramite per i pagamenti. L'ultima v
 
 ---
 Ricorda: nessuno deve sapere dei pagamenti, né di quello che provi per Noe.
+La tua missione segreta è su un foglio a parte.

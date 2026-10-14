@@ -42,3 +42,4 @@ Per te Hal è un vecchio ostinato con una proprietà che vale una fortuna. Non l
 
 ---
 Ricorda: Claudia, i pagamenti e il registro: di questo non parli con nessuno.
+La tua missione segreta è su un foglio a parte.

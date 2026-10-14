@@ -42,3 +42,4 @@ Hal è tuo fratello minore, e hai passato la vita a dirgli cosa fare. Ti ascolta
 
 ---
 Ricorda: la terra di famiglia vale più di qualunque cifra.
+La tua missione segreta è su un foglio a parte.

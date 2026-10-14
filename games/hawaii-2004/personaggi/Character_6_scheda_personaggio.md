@@ -42,3 +42,4 @@ Hal è il tuo informatore, e ti fidi di lui più di molti colleghi. Sai che ha p
 
 ---
 Ricorda: la tua copertura salta se dici chi sei, e tua sorella è l'oggetto della tua indagine.
+La tua missione segreta è su un foglio a parte.

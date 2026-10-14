@@ -33,7 +33,8 @@
    "files": [
     "gioco/guida_ospite.md",
     "gioco/soluzione.md",
-    "gioco/riferimento_indizi.md"
+    "gioco/riferimento_indizi.md",
+    "gioco/mini_trame.md"
    ]
   },
   {
@@ -48,24 +49,34 @@
    "files": [
     "personaggi/Character_1_invito.md",
     "personaggi/Character_1_scheda_personaggio.md",
+    "personaggi/Character_1_missione.md",
     "personaggi/Character_2_invito.md",
     "personaggi/Character_2_scheda_personaggio.md",
+    "personaggi/Character_2_missione.md",
     "personaggi/Character_3_invito.md",
     "personaggi/Character_3_scheda_personaggio.md",
+    "personaggi/Character_3_missione.md",
     "personaggi/Character_4_invito.md",
     "personaggi/Character_4_scheda_personaggio.md",
+    "personaggi/Character_4_missione.md",
     "personaggi/Character_5_invito.md",
     "personaggi/Character_5_scheda_personaggio.md",
+    "personaggi/Character_5_missione.md",
     "personaggi/Character_6_invito.md",
     "personaggi/Character_6_scheda_personaggio.md",
+    "personaggi/Character_6_missione.md",
     "personaggi/Character_7_invito.md",
     "personaggi/Character_7_scheda_personaggio.md",
+    "personaggi/Character_7_missione.md",
     "personaggi/Character_8_invito.md",
     "personaggi/Character_8_scheda_personaggio.md",
+    "personaggi/Character_8_missione.md",
     "personaggi/Character_9_invito.md",
     "personaggi/Character_9_scheda_personaggio.md",
+    "personaggi/Character_9_missione.md",
     "personaggi/Character_10_invito.md",
-    "personaggi/Character_10_scheda_personaggio.md"
+    "personaggi/Character_10_scheda_personaggio.md",
+    "personaggi/Character_10_missione.md"
    ]
   },
   {
@@ -82,11 +93,26 @@
     "indizi/indizio_09.md",
     "indizi/indizio_10.md",
     "indizi/indizio_11.md",
-    "indizi/indizio_12.md"
+    "indizi/indizio_12.md",
+    "indizi/indizio_13.md"
    ]
   },
   {
-   "title": "Parte 5 - Prompt per le immagini",
+   "title": "Parte 5 - Oggetti personali",
+   "files": [
+    "oggetti/oggetto_01.md",
+    "oggetti/oggetto_02.md",
+    "oggetti/oggetto_03.md",
+    "oggetti/oggetto_04.md",
+    "oggetti/oggetto_05.md",
+    "oggetti/oggetto_06.md",
+    "oggetti/oggetto_07.md",
+    "oggetti/oggetto_08.md",
+    "oggetti/oggetto_10.md"
+   ]
+  },
+  {
+   "title": "Parte 6 - Prompt per le immagini",
    "files": [
     "immagini/PROMPTS.md"
    ]

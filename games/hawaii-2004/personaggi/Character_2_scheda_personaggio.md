@@ -42,3 +42,4 @@ Hal ti ha tirato fuori dalla strada e ti ha insegnato a servire un Mai Tai a reg
 
 ---
 Ricorda: nessuno deve sapere di Ray, e a Brad devi dei soldi.
+La tua missione segreta è su un foglio a parte.

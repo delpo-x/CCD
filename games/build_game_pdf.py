@@ -81,8 +81,9 @@ for sec in cfg["sections"]:
             lines.append(ln + "  " if ln.startswith("▢") else ln)
             prev = ln
         md.reset()
-        kind = ("invito" if f.endswith("_invito.md") else "scheda" if "scheda_personaggio" in f
-                else "indizio" if f.startswith("indizi/") else "")
+        kind = ("invito" if f.endswith("_invito.md")
+                else "scheda" if ("scheda_personaggio" in f or f.endswith("_missione.md"))
+                else "indizio" if f.startswith(("indizi/", "oggetti/")) else "")
         parts.append(f'<div class="doc {kind}">{md.convert(chr(10).join(lines))}</div>')
 
 html = f"<html lang='it'><head><meta charset='utf-8'><style>{css}</style></head><body>{''.join(parts)}</body></html>"

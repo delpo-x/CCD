@@ -42,3 +42,4 @@ Hal ti ha dato un lavoro quando nessuno ti voleva. Gli devi molto, e non lo dici
 
 ---
 Ricorda: il ricatto a Claudia e i sigari di Ray restano tra te e loro.
+La tua missione segreta è su un foglio a parte.

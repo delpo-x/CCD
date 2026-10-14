@@ -16,5 +16,6 @@
 | 10 | Bozza del nuovo testamento | Documento | Cartellina nell'ufficio | Lani, Tommy, Auntie Lei | – | **Sì** |
 | 11 | Biglietto di ricatto | Nota | Nella giacca di Jimbo | Jimbo | – | **Parziale** (rafforza il movente di Claudia) |
 | 12 | Taccuino di Noe | Oggetto | Lo consegna Noe se interrogata | Claudia | – | No |
+| 13 | Copia del registro (bonus) | Documento | Solo se Tommy consegna la chiave d'ottone (oggetto 02) | Claudia | – | No |
 
 Consiglio: 01, 08 e 09 ben visibili nell'ufficio; 03 e 04 vicino alla porta di servizio; 05 sul bancone; 07 nello scantinato; 11 nella giacca di Jimbo.
