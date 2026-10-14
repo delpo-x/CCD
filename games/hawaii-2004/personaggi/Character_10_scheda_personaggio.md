@@ -16,7 +16,7 @@
 - Hai prestato 50.000 dollari a Ike. Sai che non li rivedrai.
 - Keoki ti ha detto che sta rifacendo il testamento: il locale a Lani, 50.000 dollari a Nalu, a te la tua quota.
 - Il terreno su cui sorge il Kapu apparteneva a vostra madre. Venderlo ti spezza il cuore. L'atto del 1958 (oggetto 10) dice che serve il consenso scritto di tutta la famiglia.
-- Alle 22:55, nell'ufficio, Keoki ha aperto il cassetto e l'ha trovato vuoto: «Mi hanno portato via il vecchio Smith.» Non gli hai chiesto altro. Te ne pentirai a lungo.
+- Alle 22:55, nell'ufficio, Keoki ha aperto il cassetto e l'ha trovato vuoto: «Mi hanno portato via il vecchio Smith.» Poi ha aggiunto: «Meglio. Adesso so chi verrà. Non dirlo a nessuno.» Non gli hai chiesto altro. Te ne pentirai a lungo.
 
 ## La tua serata, com'è andata davvero
 - **21:00** Sulla tua sedia accanto al guardaroba, come ogni sabato da quarant'anni. Hai visto tutti arrivare.

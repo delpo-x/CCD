@@ -208,6 +208,8 @@ Auntie Lei non chiese cos'era. Il bastone batté una volta sul pavimento. «Al b
 
 «Non lo so, Keoki. Ho settantun anni e quello specchio è peggio dei miei occhi.» Alzò un dito storto. «Ma dopo, quando sono andata a prendere lo scialle, il vaso delle orchidee all'imbocco del corridoio aveva perso i petali. Tutti sul pavimento. E qualcuno li aveva calpestati.»
 
+«Meglio» disse Keoki. «Adesso so chi verrà. Non lo dire a nessuno, Leilani.»
+
 Keoki bevve il caffè, che era amaro e troppo caldo, e lo finì lo stesso.
 
 «E non vendere la terra di nostra madre» disse Auntie Lei. «Se vendi la terra, venditi anche il nome.»

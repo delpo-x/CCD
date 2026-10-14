@@ -122,7 +122,7 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 | 5 | «Chi non vuole che la terra resti alla famiglia» | Parziale | Media |
 | 6 | *Ha visto qualcosa di strano al brindisi?* «Una schiena che andava verso il corridoio, nello specchio, e i petali calpestati» | Vero | **Alta**: apre la pista del furto |
 
-Domanda che Auntie Lei vuole sentirsi fare per dire di più: *«Keoki le ha detto che mancava qualcosa nell'ufficio?»* Risposta: «Mi ha detto che il cassetto era vuoto: gli hanno portato via il vecchio Smith.»
+Domanda che Auntie Lei vuole sentirsi fare per dire di più: *«Keoki le ha detto che mancava qualcosa nell'ufficio?»* Risposta: «Mi ha detto che il cassetto era vuoto: gli hanno portato via il vecchio Smith. E poi: "Meglio. Adesso so chi verrà."»
 
 ## Come usare i dati
 

@@ -50,7 +50,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 
 | Chi | Cosa sa | Come arriva |
 |-----|---------|-------------|
-| Auntie Lei | Schiena vista al brindisi; petali calpestati; «cassetto vuoto: mi hanno portato via il vecchio Smith» (22:55) | Se le si chiede del brindisi e della stanza |
+| Auntie Lei | Schiena vista al brindisi; petali calpestati; «cassetto vuoto: mi hanno portato via il vecchio Smith», poi «Meglio. Adesso so chi verrà» (22:55) | Se le si chiede del brindisi e della stanza |
 | Nalu | Nessuno è passato dalla porta a vetri tra le 23:12 e le 23:19 | Se gli si chiede chi passava |
 | Kapono | Kalea entra nel bagno alle 23:13; la lampadina era allentata alle 23:37 | Se gli si chiede del corridoio |
 | Lani | Dal palco, al «dieci», la sala è piena di ospiti; in fondo non vede nessuno ma era accecata dai fari | Se le si chiede del fondo sala |
