@@ -27,7 +27,7 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 3. Stampa i **rapporti del laboratorio** (`indizi/rapporti/`) e tienili in ordine di numero. Solo il referto (01) esce da solo.
 4. Prepara le **buste degli oggetti** (`oggetti/`): ogni oggetto in una busta chiusa con il nome del proprietario, da consegnare a inizio serata. Stampa anche la **piantina** (`gioco/piantina.md`) in dieci copie, una per giocatore.
 5. Prepara un **cartellone delle dichiarazioni**: un foglio grande con una colonna per ciascun personaggio, per segnare ciò che dice ai tuoi interrogatori. Servirà ai giocatori per scovare le bugie.
-6. Procurati: un cappello di paglia per te, un d6 per ogni giocatore, un cronometro, un quaderno, musica hawaiana bassa. Per ogni luogo del locale prepara un cartoncino con il nome (Ufficio, Corridoio, Cucina, Cassa degli ampli, Bancone, Scantinato, Veranda, Bagno) e appendilo alla parete come mappa. Nessuno ci va: serve a dire dove si sta cercando.
+6. Procurati: un cappello di paglia per te, un d6 per ogni giocatore, un cronometro, un quaderno, un blocco di post-it e una penna, musica hawaiana bassa. Per ogni luogo del locale prepara un cartoncino con il nome (Ufficio, Corridoio, Cucina, Cassa degli ampli, Bancone, Scantinato, Veranda, Bagno) e appendilo alla parete come mappa. Nessuno ci va: serve a dire dove si sta cercando.
 7. Prepara la stanza (vedi «Una sola stanza»): il tuo tavolo con i rapporti e le buste delle carte, un angolo per i colloqui riservati, spazio per muoversi.
 8. Leggi tutto prima della serata: `soluzione.md`, `fascicolo_caso.md`, `matrice_sospetti.md`, `interviste.md`, e i due fogli di scena `personaggi/scheda_vittima.md` e `personaggi/scheda_detective.md`.
 
@@ -37,7 +37,7 @@ Si gioca in un'unica stanza: è la sala del Kapu dopo la chiusura. Tutti gli alt
 
 - **Il tavolo del tenente.** È l'«ufficio del direttore». Ci tieni rapporti, buste e cartellone. È sigillato (nastro giallo, se vuoi): si va solo se chiamati o per una ricerca, al massimo due giocatori alla volta.
 - **L'angolo «veranda».** Un angolo lontano dal tavolo, per i colloqui riservati. Due giocatori ci vanno, parlano a bassa voce per due minuti, poi tornano. Gli altri non ascoltano, salvo un'azione rischiosa (origliare, d6). Se la stanza è piccola, fai parlare una coppia per volta.
-- **La mappa a parete.** I cartoncini dei luoghi. Quando un giocatore dice «cerco nell'ufficio» o «vado in cucina», tocca il cartoncino e lo dichiara a voce. Tu decidi cosa trova, o se perde un minuto per niente.
+- **La mappa a parete.** I cartoncini dei luoghi. Quando un giocatore dice «cerco nell'ufficio» o «vado in cucina», tocca il cartoncino, scrive su un post-it luogo, mossa e ora, e lo attacca sotto il cartoncino. Tu decidi cosa trova, o se perde un minuto per niente.
 
 Carte indizio, rapporti e oggetti sono invece reali: passano di mano nella stanza, si mostrano, si nascondono, si sequestrano. Dai a ogni giocatore la piantina (`gioco/piantina.md`): ci sono tutte le porte, compresa quella laterale della veranda. Se un giocatore chiede com'è fatto il locale, rimandalo al foglio. Il mistero è chi, non dove.
 
@@ -65,7 +65,7 @@ Consegna le buste degli oggetti. Ognuno è libero di aprirle, mostrarle, tacerle
 
 ## L'intervista (25 minuti)
 
-Chiama i giocatori uno alla volta, **davanti a tutti**, nell'ordine del cartellone. Usa `interviste.md`: ogni personaggio ha sei domande, con la risposta che il giocatore ha sulla sua scheda («versione ufficiale»). Scrivi le risposte sul cartellone, parola per parola.
+Chiama i giocatori uno alla volta, **davanti a tutti**, nell'ordine del cartellone. Usa `interviste.md`: ogni personaggio ha sei domande, con la risposta che il giocatore ha sulla sua scheda («versione ufficiale»). Sul cartellone scrivi solo orari e luoghi citati («23:15, palco», «23:12, veranda»), non le frasi intere: ai giocatori basta per scovare le bugie e tu non rimani indietro.
 
 Regole:
 - 2 minuti a persona. Se uno divaga, tagli.
@@ -79,7 +79,7 @@ Tutto è consentito: parlare, cercare, interrogarsi, ricattarsi, allearsi, menti
 
 ### Cosa fai tu
 
-- **Ricerche.** Un giocatore dice a voce cosa cerca e dove. Se il luogo è giusto e dice cosa fa, passa un minuto di tempo reale e gli consegni la carta (`riferimento_indizi.md`). Nel frattempo il giocatore resta con te, al tavolo. L'**ufficio è sigillato**: si entra solo con te, al massimo due persone alla volta.
+- **Ricerche.** Un giocatore dice a voce cosa cerca e dove. Se il luogo è giusto e dice cosa fa, leggi il post-it, prepari la busta e la consegni dopo un minuto di tempo reale (`riferimento_indizi.md`), mentre il tavolo continua a giocare. Il giocatore non resta fermo ad aspettare: torna in sala. Se i post-it si accumulano, consegna nell'ordine di arrivo. L'**ufficio è sigillato**: si entra solo con te, al massimo due persone alla volta.
 - **Rapporti del laboratorio.** Il referto (01) lo porti tu a T+15. Gli altri non escono da soli: un giocatore deve chiederli al tenente, nominando un sospetto e dicendo cosa vuole verificare («il tabulato di Kalea, perché mente sulla veranda»). Se la richiesta è generica, rispondi: «Verificare cosa, e su chi?». Il rapporto 03 si dà solo dopo il 02; il 06 e il 07 hanno le loro condizioni.
 - **Chiamate.** Un giocatore può chiederti di telefonare a qualcuno (il medico, la compagnia telefonica, il conducente, il capo campagna). Rispondi con il contenuto del rapporto giusto se la richiesta è motivata. Altrimenti: «Verificare cosa, e su chi?».
 - **Convocazioni.** Puoi chiamare chiunque al tuo tavolo (a due) per una domanda in privato. Usalo per mettere pressione al colpevole e per dare una mano a chi è fermo.
