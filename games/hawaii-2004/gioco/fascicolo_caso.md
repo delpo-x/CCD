@@ -19,10 +19,10 @@ Ricostruito così:
 | Luogo | Note |
 |-------|------|
 | **Sala** | Bancone (Nalu), palco con la band, tavoli. Luci al neon, buio a tratti. |
-| **Anticamera** | Tra la sala e il CS, accanto al guardaroba. Uno specchio macchiato inquadra l'imbocco del CS. La sedia di Auntie Lei sta lì. |
+| **Anticamera** | Tra la sala e il CS, accanto al guardaroba. Uno specchio macchiato inquadra la porta dietro il bancone (PB), cioè l'imbocco del CS: non esiste un terzo ingresso. La sedia di Auntie Lei sta lì. |
 | **Veranda** | Sul lato spiaggia. Ha una **porta laterale (PL)** che dà sul corridoio di servizio. |
 | **Corridoio di servizio (CS)** | Dietro il palco. Si entra dalla sala con la **porta dietro il bancone (PB)** e dalla veranda con la PL. Serve: ufficio di Keoki, bagno signore, cucina, scala dello scantinato, porta di servizio sul vicolo (PS). Una lampadina, cambiata tre volte da Kapono. |
-| **Ufficio di Keoki** | Una porta sola, sul CS. Scrivania, cassetto, cestino, archivio con l'orologio a pile (avanti di un minuto), cassa di fogli. |
+| **Ufficio di Keoki** | Una porta sola, sul CS. Durante le serate resta aperto, con la chiave nella toppa: si chiude solo a fine serata. Chi entra al brindisi non ha bisogno di chiavi. Scrivania, cassetto, cestino, archivio con l'orologio a pile (avanti di un minuto), cassa di fogli. |
 | **Bagno signore** | Sul CS, tra l'ufficio e la PL. Porta sottile. |
 | **Cucina e retro** | Sul CS. Lì Ike ha bevuto con Keoki. Lavello e braciere a carbone. |
 | **Scantinato** | Scala dal CS, portello sul vicolo per lo scarico. Magazzino di Ike. |

@@ -36,7 +36,7 @@
 - Chi voleva Keoki morto: Akoni e Pua volevano il locale. Keoki aveva nemici. (Non dici del tuo debito.)
 
 ## Cosa sai e puoi dire se te lo chiedono
-- Le chiavi dell'ufficio e dei libri le avete tu, Nalu (per la cassa) e Kapono (per i fusibili).
+- Le chiavi dell'ufficio e dei libri le avete tu, Nalu (per la cassa) e Kapono (per i fusibili). Durante le serate l'ufficio resta aperto, con la chiave nella toppa: la porta si chiude solo a fine serata.
 - Dal palco, con i fari negli occhi, non hai visto il fondo della sala. Non puoi giurare chi c'era.
 - Alle 22:00 hai chiuso a chiave la porta sulla strada: da allora si esce e non si entra. Sull'elenco ci sono diciotto ospiti e il trio. Il trio ha lasciato amplificatori e cassa in fondo al corridoio fino a lunedì.
 - Hai aspettato venticinque minuti prima di cercarlo, perché Keoki ti aveva detto: «Non voglio nessuno fino a mezzanotte».

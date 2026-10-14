@@ -28,6 +28,7 @@ Keoki Kealoha, 64 anni, ex cuoco della Marina, fondatore del Kapu Lounge nel 197
 | 23:15 | Muore, seduto alla scrivania | Maleko |
 
 ## L'ufficio com'è stato trovato (23:40)
+- La porta era chiusa ma non a chiave: durante le serate l'ufficio resta aperto, e la chiave sta nella toppa.
 - Keoki seduto alla scrivania, accasciato in avanti. Un solo colpo al petto.
 - La giacca ha la tasca interna sinistra vuota, con un filo di tela verde: è dov'era il registro.
 - Sulla scrivania: il foglio «K. – 23:10 – qui, da sola» (indizio 01), il cassetto in alto vuoto (indizio 14), la cartellina con l'offerta (09) e la bozza del testamento (10).
