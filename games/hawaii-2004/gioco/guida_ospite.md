@@ -28,6 +28,13 @@ Leggi la scheda vittima. Sei il padrone di casa: accogli, gira tra gli ospiti, p
 - 25'–35' Brindisi: il tuo discorso (nella scheda vittima), poi gli incontri privati nell'ufficio (Auntie Lei, Brad, Claudia).
 - 35'–40' Conto alla rovescia di Lani e coriandoli di Tommy.
 
+## Chi esce dalla sala (tempi di scena)
+Per far funzionare gli alibi, a un certo punto alcuni giocatori devono **uscire davvero** dalla sala. Avvisali a voce bassa:
+- **Ray e Jimbo**: escono verso il minuto 30 (le 23:05 di storia), per «scaricare nello scantinato». Tornano solo dopo lo sparo.
+- **Claudia**: esce verso il minuto 31 (le 23:10) dal lato del bar, per l'«ufficio».
+- **Marcus**: esce verso il minuto 34 (le 23:14) per «cercare Claudia».
+Tommy resta al bar e Lani sul palco: sono i testimoni dell'alibi di tutti gli altri.
+
 ## L'omicidio (transizione)
 Al momento del conto alla rovescia di Lani e dei coriandoli di Tommy, dì: «Torno in ufficio a prendere il registro. Dopo, vi dico tutto.» ed **esci**. Spegni le luci per qualche secondo; dal corridoio fai scoppiare un palloncino (lo sparo, coperto dai coriandoli) e un tonfo. Aspetta 2 minuti nell'altra stanza, indossa il cappello di paglia e rientra come **tenente Alapai**.
 

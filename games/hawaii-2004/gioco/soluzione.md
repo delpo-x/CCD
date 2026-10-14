@@ -23,7 +23,7 @@ Per due anni Pacific Crest ha pagato Claudia 18.000 dollari al mese, tramite la 
 | Ray | Perde lo scantinato | In scantinato con Jimbo dalle 23:05 (indizio 07). |
 | Brad | L'affare da 6,5 milioni | Esce dall'ufficio alle 23:08. In veranda alle 23:12 e 23:16 (indizio 06). |
 | Vicki | Commissione di 260.000 dollari | In veranda alle 23:12 e 23:16 (indizio 06). |
-| Marcus | Proteggere la sorella | Lascia la veranda alle 23:14 per seguirla, ma non entra nell'ufficio. Non ha l'arma né i petali. |
+| Marcus | Proteggere la sorella | Alle 23:12 nota che Claudia non c'è e lascia la veranda alle 23:14 per cercarla, ma non entra nell'ufficio. Non ha l'arma né i petali. |
 | Noe | Lo scoop | Scatta le foto in veranda alle 23:12 e 23:16. |
 | Jimbo | Ricatto, contrabbando | In scantinato con Ray (indizio 07). Il biglietto prova il ricatto, non l'omicidio. |
 | Auntie Lei | La terra di famiglia | In veranda alle 23:12 e 23:16 (indizio 06). I suoi petali sono dello stesso tipo, ma Claudia non era in veranda. |
@@ -37,7 +37,7 @@ Per due anni Pacific Crest ha pagato Claudia 18.000 dollari al mese, tramite la 
 - **23:05** Ray e Jimbo cominciano a scaricare. Finiscono alle 23:35.
 - **23:10** Claudia entra nell'ufficio.
 - **23:12** Noe fotografa la veranda: Brad, Vicki, Auntie Lei, Marcus. Claudia non c'è.
-- **23:14** Marcus lascia la veranda.
+- **23:14** Marcus lascia la veranda per cercare Claudia, che non vede dalle 23:09.
 - **23:15** Lani fa il conto alla rovescia, Tommy spara i coriandoli, Claudia spara a Hal.
 - **23:16** Seconda foto di Noe: Brad, Vicki, Auntie Lei. Marcus non c'è.
 - **23:18** Claudia esce dalla porta di servizio e nasconde il revolver.

@@ -6,4 +6,4 @@
 
 Acceso dall'inizio della serata. Contiene due frasi registrate.
 
-L'ospite legge in Atto 2, se Marcus lo chiede: Brad, ore 22:40: «Il voto è già comprato.» Claudia, ore 23:05: «Dillo a Hal: finirà tutto domani.»
+L'ospite legge in Atto 2, se Marcus lo chiede: Brad, ore 22:40: «Il voto è già comprato.» Claudia, ore 22:50: «Dillo a Hal: finirà tutto domani.»

@@ -47,7 +47,7 @@ Leggi solo quelli che corrispondono a come è andata la serata. Se un compito è
 
 - **Lani Kealoha**: Lani apre la lettera: sua madre le ha lasciato una sola riga. Il Kapu non era un affare. Era una promessa.
 - **Tommy Akana**: Tommy consegna la chiave. Nella cassetta c'è la copia del registro. Hal si fidava di lui più di quanto lui credesse.
-- **Ray Lund**: Ray scopre che Hal gli aveva dato un mese. Non per amicizia: per una promessa fatta a Malia.
+- **Ray Lund**: Ray scopre che Hal gli aveva dato un mese. Poi sarebbe finita, e Hal lo aveva già deciso.
 - **Brad Lund**: Brad scopre che la sua offerta valeva meno di niente. Hal morto la rendeva carta straccia.
 - **Vicki Lund**: Vicki si salva la faccia, ma non i soldi. Brad scopre l'anticipo e le dice che dovrà restituirlo con gli interessi.
 - **Marcus Delaney**: Marcus fa la sua scelta davanti a tutti. Non sarà più sergente, sarà un fratello.

@@ -15,7 +15,7 @@
 ## Segreti personali (tienili segreti!)
 - Sei sergente della polizia di Honolulu, Sezione Reati Finanziari. Da mesi indaghi in segreto su Claudia, tua sorella, per tangenti. Hal era la tua fonte.
 - Hal ti ha promesso il suo registro dei pagamenti entro domenica. Non sai ancora cosa c'è dentro.
-- Alle 23:14 hai lasciato la veranda per seguire Claudia. Alle 23:20 l'hai vista rientrare dalla porta di servizio, con la borsetta stretta al petto e un petalo viola sul bavero. Non sai cosa abbia fatto.
+- Alle 23:12 ti sei accorto che Claudia non era più in veranda. Alle 23:14 sei andato a cercarla e non l'hai trovata. Alle 23:20 l'hai vista rientrare dalla porta di servizio, con la borsetta stretta al petto e un petalo viola sul bavero. Non sai cosa abbia fatto.
 
 ## Obiettivi personali
 - Tenere la copertura fino a domani.
@@ -29,7 +29,7 @@ Camicia aloha spenta, pantaloni cachi, scarpe comode, un taccuino nella tasca po
 
 ## I tuoi obiettivi dell'Atto 1
 ▢ Restare in veranda e ascoltare chi parla di soldi.
-▢ Farti vedere in veranda verso le 23:12 (Noe farà delle foto), poi lasciare il posto verso le 23:14.
+▢ Farti vedere in veranda verso le 23:12 (Noe farà delle foto). Poi accorgerti che Claudia non c'è e lasciare il posto verso le 23:14 per cercarla.
 ▢ Provare a sapere da Hal se il registro è pronto.
 
 ## La tua relazione con la vittima
