@@ -55,9 +55,9 @@ Genera le immagini con il tuo strumento preferito e salvale in questa cartella *
 ## Oggetti di scena (indizi)
 
 ### 01 · `indizio_01_foglio_impronta.png`
-> Un foglio a righe con l'impronta di scrittura di una penna, il testo «C. – 23:10 – qui, da sola» leggibile in rilievo, appoggiato su una scrivania di legno scuro. [Blocco di stile comune]
+> Un foglio a righe con l'impronta di scrittura di una penna, il testo «K. – 23:10 – qui, da sola» leggibile in rilievo, appoggiato su una scrivania di legno scuro. [Blocco di stile comune]
 
-### 02 · `indizio_02_tabulato.png`
+### Rapporto 02 · `rapporto_02_tabulato.png`
 > Un estratto conto telefonico con una riga evidenziata, appoggiato accanto a un cellulare a conchiglia del 2004. [Blocco di stile comune]
 
 ### 03 · `indizio_03_revolver.png`
@@ -90,12 +90,49 @@ Genera le immagini con il tuo strumento preferito e salvale in questa cartella *
 ### 12 · `indizio_12_taccuino_noe.png`
 > Un taccuino con una pagina aperta e un appunto sottolineato due volte, accanto a un registratore a cassetta. [Blocco di stile comune]
 
+### 13 · `indizio_13_copia_registro.png`
+> Una fotocopia di un registro con ventidue righe di date e importi, in fondo una riga sottolineata a matita, appoggiata su una cassetta di sicurezza metallica aperta. [Blocco di stile comune]
+
+### 14 · `indizio_14_cassetto_vuoto.png`
+> Il cassetto aperto di una scrivania di legno scuro, vuoto, con la sagoma di una pistola ancora visibile nella polvere sul fondo. [Blocco di stile comune]
+
+### 15 · `indizio_15_lampadina.png`
+> Una lampadina a vite allentata nel suo portalampada, in un corridoio buio, con un filo di cotone bianco impigliato nel vetro. [Blocco di stile comune]
+
+### 16 · `indizio_16_braciere.png`
+> Un braciere di ferro in una cucina di locale, con della cenere fredda e un angolo di tela verde carbonizzata, scritta a penna parzialmente leggibile. [Blocco di stile comune]
+
+### 17 · `indizio_17_strofinacci.png`
+> Una pila di strofinacci bianchi con la sigla «KAPU» ricamata in blu, sul bancone di un bar, ne manca uno dalla pila. [Blocco di stile comune]
+
+### 26 · `indizio_26_img_0414.png`
+> Il display di una macchina fotografica digitale compatta del 2004 che mostra una foto notturna: una veranda, una porta a vetri con coriandoli che esplodono dietro il vetro, un uomo di profilo con il telefono all'orecchio su una scala laterale, una donna anziana seduta. [Blocco di stile comune]
+
+---
+
+## Oggetti personali
+
+### O6 · `oggetto_06_registratore_marcus.png`
+> Un piccolo registratore a microcassette con una spia rossa, appoggiato su un bancone di legno scuro accanto a una birra intatta. [Blocco di stile comune]
+
+### O7 · `oggetto_07_busta_claudia.png`
+> Una busta marrone spessa con banconote da cento che sporgono, dentro una borsetta di pelle avorio aperta. [Blocco di stile comune]
+
+### O8 · `oggetto_08_cassetta_hal.png`
+> Un registratore a cassetta da giornalista con una cassetta dentro, una mano che schiaccia il tasto di riproduzione, luci al neon sullo sfondo. [Blocco di stile comune]
+
+### O9 · `oggetto_09_macchina_noe.png`
+> Una macchina fotografica digitale compatta argento con il badge stampa appeso alla tracolla, appoggiata su un tavolino di una veranda di notte. [Blocco di stile comune]
+
 ---
 
 ## Copertina e scene
 
-### 13 · `copertina.png`
+### C1 · `copertina.png`
 > Locandina verticale di un locale notturno sulla spiaggia di Waikiki, insegna al neon rosa «Kapu Lounge» (testo consentito solo qui), una sagoma in controluce di un uomo anziano che esce da una porta, palme e luci al neon. [Blocco di stile comune, ma qui il testo è permesso]
 
-### 14 · `scena_ufficio.png`
-> Interno di un piccolo ufficio degli anni 2000, scrivania di legno scuro, lampada verde, blocco appunti, un registro verde chiuso, tappeto scuro, luce al neon dalla finestra. [Blocco di stile comune]
+### C2 · `scena_ufficio.png`
+> Interno di un piccolo ufficio degli anni 2000, scrivania di legno scuro, lampada verde, blocco appunti, una cartellina di cartone, tappeto scuro, luce al neon dalla finestra. [Blocco di stile comune]
+
+### C3 · `scena_corridoio_buio.png`
+> Un corridoio di servizio stretto, con una sola lampadina spenta, la porta socchiusa di un ufficio in fondo, un vaso con petali viola schiacciati sul pavimento, una cassa nera di amplificatori contro la parete. [Blocco di stile comune]

@@ -1,20 +1,20 @@
 # Missione segreta: Il registratore
 
-**Per**: Marcus Delaney · **Punti in palio**: 15
+**Per**: Maleko Hanohano · **Punti in palio**: 15
 
 ## La tua storia
-Stai raccogliendo prove su tua sorella da mesi. Stasera hai un registratore tascabile in giacca e una sola regola: non farti scoprire. Il tuo problema vero è che non vuoi più trovare quello che cerchi.
+Hai un registratore in tasca e una sorella nei guai. Nessuno deve capire quanto le due cose siano legate. Il registratore è la tua unica rete di sicurezza e, se lo guardano bene, anche il tuo guaio.
 
 ## Il tuo oggetto
 Registratore tascabile (oggetto 06)
 
 ## Compiti
-▢ **Fai dire a Claudia la parola «consulenza» mentre il registratore è acceso (basta dire «registro attivo» all'ospite).** (5 punti)
-▢ **Dopo le 23:20, di' a Claudia una sola frase: «Domani devo parlarti.»** (5 punti)
-▢ **All'Atto 2, decidi se dire al tenente che hai visto Claudia uscire dal corridoio di servizio. Se lo dici prima delle accuse, ottieni punti. Se taci, perdi questi punti.** (5 punti)
+▢ **Resta da solo con Kalea due minuti e dille una frase sola: «Non parlare col tenente senza di me».** (5 punti)
+▢ **Fai in modo che almeno due giocatori diversi nominino Akoni o Pua come sospettati. Usa domande e osservazioni, mai un'accusa diretta tua.** (5 punti)
+▢ **Non consegnare il registratore (oggetto 06) al tenente di tua volontà. Se te lo sequestrano per una prova documentata, non perdi niente; se lo consegni tu, perdi questi punti.** (5 punti)
 
 ## Una svolta (non leggerla prima del momento giusto)
-Il registratore è acceso da due ore: c'è una frase di Brad e una di Claudia. L'ospite te le legge in Atto 2 solo se lo chiedi.
+Il nastro ha due pause. Il direttore le legge solo se il tenente sequestra il registratore o se lo consegni tu.
 
 ---
-Se riesci, avrai fatto qualcosa che nessuno, tra gli altri, si aspettava da te. Se non riesci, non succede niente: tieni il segreto e gioca.
+Se non ci riesci, non succede niente: tieni il segreto e gioca.

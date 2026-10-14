@@ -2,6 +2,6 @@
 
 **Tipo**: Oggetto
 
-*Trovato dietro la porta di servizio, avvolto in uno straccio.*
+*In fondo al corridoio, accanto alla porta di servizio, c'è la cassa degli amplificatori della band. Dentro, avvolto in uno strofinaccio da cucina con la sigla KAPU ricamata, un revolver.*
 
-Smith & Wesson Model 36, calibro .38, intestato a Harold Kealoha. Tamburo da cinque colpi: uno esploso, quattro ancora in canna.
+Smith & Wesson Model 36, calibro .38, matricola intestata a Keoki Kealoha. Cinque cartucce nel tamburo, una esplosa. Lo strofinaccio è umido e porta macchie grigie, come di cenere.

@@ -1,45 +1,45 @@
-# Scheda Vittima: Hal Kealoha (Atto 1)
+# Dossier della vittima: Keoki Kealoha (SOLO DIRETTORE)
 
-**Occasione**: ultima sera del Kapu Lounge · **Luogo**: Kapu Lounge, Waikiki · **Data**: sabato 14 agosto 2004
+Keoki non è un personaggio giocante. È morto prima dell'inizio della scena. Questa scheda serve a te: per rispondere alle domande dei giocatori, per descrivere l'ufficio e per non contraddirti.
 
-## Chi sei
-Harold «Hal» Kealoha, 64 anni, ex cuoco della Marina, fondatore del Kapu Lounge nel 1971. Vedovo dal 1996. Hai una figlia, Lani, e un figlio adottivo, Tommy. Parli poco e ascolti molto. Stasera dovevi annunciare a mezzanotte la vendita del locale a Pacific Crest Development, ma hai cambiato idea.
+## Chi era
+Keoki Kealoha, 64 anni, ex cuoco della Marina, fondatore del Kapu Lounge nel 1971. Vedovo dal 1996 (la moglie si chiamava Malia). Una figlia, Lani, e un figlio adottivo, Nalu. Parlava poco e ascoltava molto. Il locale era l'ultima cosa che gli restava.
 
-## Tratti
-- burbero
-- ostinato
-- generoso
+## Cosa aveva deciso
+- Non vendere a Pacific Crest. Il contratto con Akoni era pronto, ma Keoki non firmava.
+- Consegnare il registro verde al tenente Alapai, della Omicidi, lunedì 16 agosto. Per due anni ci aveva segnato date, importi e iniziali «K.H.»: i pagamenti di Pacific Crest a Kalea Hanohano, passati dal conto del Kapu.
+- Dare a K.H. una possibilità: dimettersi entro mezzanotte. Per questo le aveva fissato un incontro alle 23:10 in ufficio.
+- Rifare il testamento: il Kapu a Lani, 50.000 dollari a Nalu, la quota di Auntie Lei (15%) resta a lei. La bozza è nella cartellina (indizio 10), non ancora autenticata.
 
-## Cosa sai (e non dici)
-- Da due anni il conto del Kapu serve a far passare soldi da Pacific Crest a una persona che ha voce nel Comune. Ti hanno costretto a tenere il conto, e tu hai scritto tutto in un registro verde: date, importi, iniziali **C.D.**
-- Hai deciso di **non vendere**. Consegnerai il registro al tenente Alapai, della Omicidi, lunedì mattina.
-- Hai dato a C.D. una possibilità: dimettersi prima di mezzanotte. Le hai chiesto di venire nel tuo ufficio alle 23:10, da sola.
-- Hai cambiato il testamento: il locale a Lani, 50.000 dollari a Tommy, la quota di tua sorella resta a lei.
+## Le sue ultime ore
+| Ora | Cosa fa | Chi lo sa |
+|-----|---------|-----------|
+| 20:45 | Dice a Maleko (che crede un cliente, ma sa essere un poliziotto) che lunedì porterà tutto ad Alapai, non a lui | Maleko |
+| 21:45 | Brindisi. Alla fine dice «Mahalo» | Tutti |
+| 21:55 | A Lani e Nalu: «Nessuno perderà niente, stanotte» | Lani, Nalu |
+| 22:05 | Chiede a Nalu la chiave della cassetta. Nalu ammette i 4.000 dollari presi dalla cassa | Nalu |
+| 22:15 | In cucina con Ike: «Un mese. Poi basta» | Ike |
+| 22:30 | Chiede a Lani chi ha le chiavi dell'ufficio e dei libri | Lani |
+| 22:55 | Auntie Lei gli porta il caffè. Apre il cassetto per fare spazio e lo trova vuoto: «Mi hanno portato via il vecchio Smith» | Auntie Lei |
+| 23:00–23:08 | Akoni lo mette alle strette. Keoki: «Non firmo. Il registro lo porto lunedì al tenente Alapai. C'è già chi ha parte del libro e non ha fatto niente» | Akoni |
+| 23:10 | Dice agli ospiti che si chiude in ufficio fino a mezzanotte | Tutti |
+| 23:10–23:13 | Colloquio con Kalea. Le mostra la pagina con «K.H.» e le dà tempo fino a mezzanotte. Lei gliela strappa di mano | Kalea |
+| 23:14:40 | Entra Maleko. Keoki capisce e non dice il suo nome | Maleko |
+| 23:15 | Muore, seduto alla scrivania | Maleko |
 
-## Come interpretare Hal
-Gira tra gli ospiti con un bicchiere in mano e il tuo sorriso storto. Pungola ciascuno sul punto debole, ma **non rivelare le tue decisioni**: lascia che sia ciascuno a pensare di sapere cosa farai.
+## L'ufficio com'è stato trovato (23:40)
+- Keoki seduto alla scrivania, accasciato in avanti. Un solo colpo al petto.
+- La giacca ha la tasca interna sinistra vuota, con un filo di tela verde: è dov'era il registro.
+- Sulla scrivania: il foglio «K. – 23:10 – qui, da sola» (indizio 01), il cassetto in alto vuoto (indizio 14), la cartellina con l'offerta (09) e la bozza del testamento (10).
+- Nel cestino: mezza pagina strappata del registro (indizio 08).
+- Sul tappeto e sul vaso del corridoio: petali di orchidea viola (indizio 04).
+- L'orologio a pile dell'archivio va avanti di un minuto. Lo sa Auntie Lei.
+- Il revolver non c'è. Si trova nella cassa degli amplificatori, in fondo al corridoio (indizio 03).
 
-### Domande da fare agli ospiti
-- Lani: «Cookie, hai l'aria di una che non dorme da una settimana. Posso sapere perché?»
-- Tommy: «Sempre dietro al bancone. Ti piace guardare, vero?»
-- Ray: «Come vanno gli articoli da regalo, Ray? Quanti ce ne sono nel mio scantinato?»
-- Brad: «Signor Lund, il tuo vecchio amico di Las Vegas ha già comprato la mia penna?»
-- Vicki: «Quanto vale un locale come questo, secondo te? Non rispondere: lo so già.»
-- Marcus: «Tu sei qui ogni sera. Cosa bevi, davvero?»
-- Claudia: «Consigliera, hai mai pensato a quanto costa una consulenza urbanistica?»
-- Noe: «Giornalista, tieni la macchina carica. Ti darò qualcosa da fotografare.»
-- Jimbo: «Jimbo, mi sembra che tu abbia sempre una scusa per scendere in cantina.»
-- Auntie Lei: «Sorella, il caffè lo hai fatto tu? Allora lo bevo volentieri.»
+## Cose che Keoki non ha detto a nessuno
+- Il .38 nel cassetto (una Smith & Wesson Model 36) l'ha mostrato a Maleko una sera di notte, quando Maleko passava a ritirare le informazioni. Lo sapevano solo i visitatori notturni di Keoki: Noe, Kalea e Maleko.
+- Alla cassetta che ha lasciato a Noe, una settimana fa, ha parlato di «un terzo, che mi ha chiesto di non dire il nome». Quel terzo è Maleko, e Keoki ha rispettato la sua richiesta di non fare il nome.
 
-## Gli incontri privati (Atto 1)
-- **22:55** Auntie Lei ti porta un caffè e ti dice che non devi vendere la terra di vostra madre.
-- **23:00** Brad Lund ti mette alle strette. Digli che «stasera non firmi».
-- **23:10** Claudia Delaney ti raggiunge nell'ufficio. Parlate da soli per qualche minuto: è il tuo ultimo incontro riservato.
-
-Tieni pronto sulla scrivania il foglio con l'appunto «C. – 23:10 – qui, da sola» (indizio 01).
-
-## Il brindisi (verso fine Atto 1)
-> «Ho tenuto aperto questo posto per trentatré anni. Ne ho viste di cotte e di crude, e ho imparato che i soldi cambiano le persone più in fretta dell'alcol. A mezzanotte vi dirò cosa farò. Intanto bevete: il bar è mio, ma la serata è vostra. Mahalo.»
-
-## Il tuo ultimo gesto
-Quando Lani comincia il conto alla rovescia e Tommy spara i coriandoli, **esci dalla stanza** dicendo: «Torno in ufficio a prendere il registro. Dopo, vi dico tutto.» Poi comincia l'Atto 2 come descritto nella guida dell'ospite.
+## Come usare Keoki in scena
+- Se un giocatore chiede com'era Keoki: burbero, ostinato, generoso. Parlava poco. Chiamava Lani «Kuki» e Auntie Lei «sorella».
+- Se chiede cosa pensava Keoki di qualcuno, rispondi solo con quanto emerge dai fatti sopra. Non inventare confidenze.

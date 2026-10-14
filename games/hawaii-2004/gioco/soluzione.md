@@ -1,48 +1,65 @@
-# Soluzione Completa (SOLO OSPITE)
+# Soluzione completa (SOLO DIRETTORE)
 
-## L'assassina
-**Claudia Delaney**, consigliera comunale di Honolulu.
+## L'assassino
+
+**Maleko Hanohano**, 49 anni, sergente della Sezione Reati Finanziari della Polizia di Honolulu, sotto copertura come assicuratore. Fratello di Kalea.
 
 ## Movente
-Per due anni Pacific Crest ha pagato Claudia 18.000 dollari al mese, tramite la Kahuna Holdings e il conto del Kapu Lounge, per ottenere il suo voto sul cambio di destinazione d'uso del terreno. Hal ha tenuto un registro verde con date, importi e le iniziali «C.D.». Quella sera aveva deciso di non vendere e di consegnare il registro alla polizia. Aveva dato a Claudia tempo fino a mezzanotte per dimettersi.
 
-## Metodo e opportunità
-- Alle 22:58 Claudia esce in veranda a telefonare con lo staff del sindaco. La chiamata finisce alle 23:09.
-- Alle 23:10 entra nell'ufficio di Hal dal corridoio di servizio dietro il bar (Hal l'aspettava: indizio 01).
-- Alle 23:15, mentre Lani fa il conto alla rovescia e Tommy spara i coriandoli, prende il revolver che Hal teneva sulla scrivania e gli spara. Il colpo si confonde con lo scoppio.
-- Strappa le pagine del registro. Una resta nel cestino (indizio 08).
-- Alle 23:18 esce dalla porta di servizio e nasconde il revolver nella cassa degli amplificatori della band (indizio 03). Nella fretta perde dei petali di orchidea viola (indizio 04).
-- Alle 23:20 rientra in veranda. Suo fratello Marcus la vede arrivare dal corridoio.
-- Alle 23:40 Lani trova il corpo.
+Keoki era il suo informatore sul giro di tangenti di Pacific Crest. A giugno gli ha consegnato sei pagine del registro verde. Maleko le ha messe da parte e nel rapporto del 22 giugno ha scritto «nessun riscontro sul soggetto K.H.», perché K.H. è sua sorella Kalea. Sabato Keoki gli ha detto che avrebbe consegnato tutto al tenente Alapai, della Omicidi, lunedì mattina. Se il registro arriva alla Omicidi, Kalea va in carcere e Maleko perde il distintivo per ostacolo alla giustizia. Il registro doveva sparire prima di lunedì.
+
+## Metodo
+
+1. **21:45**, al brindisi di Keoki, esce dalla sala verso il corridoio di servizio, entra nell'ufficio vuoto e prende il revolver dal cassetto (Keoki glielo aveva mostrato). Mette in pausa il registratore dalle 21:45 alle 21:52. Calpesta i petali del vaso. Auntie Lei lo vede di spalle nello specchio dell'anticamera.
+2. **22:55**, Keoki apre il cassetto per fare spazio al caffè di Auntie Lei e lo trova vuoto. Lo dice a lei: «Mi hanno portato via il vecchio Smith.» Non lo dice a nessun altro, né manda a cercare l'arma. Aspetta chi verrà.
+3. **23:14**, Maleko lascia la veranda dalla porta laterale e mette in pausa il registratore. Passa davanti al bagno signore (dove Kalea è chiusa a telefonare), svita la lampadina del corridoio con un fazzoletto, entra nell'ufficio alle 23:14:40.
+4. **23:15**, al «via» di Lani e allo scoppio dei cannoni di Nalu, spara a Keoki al petto da meno di un metro. Keoki è seduto. Gli prende il registro verde dalla giacca.
+5. **23:15:25–23:19**, resta dentro il corridoio. Brucia il registro nel braciere della cucina. Avvolge il revolver in uno strofinaccio KAPU della cucina e lo nasconde nella cassa degli amplificatori vicino alla porta di servizio. Si lava le mani al lavello. Non usa la porta di servizio perché Ike e Kapono scaricano nel vicolo.
+6. **23:19**, riprende la registrazione. Rientra in veranda dalla porta laterale. Kalea è uscita dal bagno poco dopo e lo ha seguito.
+
+## Perché Kalea sembra colpevole (e non lo è)
+
+Kalea è corrotta: ha incassato 396.000 dollari in ventidue mesi. Alle 23:10 è nell'ufficio per l'appuntamento che Keoki le ha fissato. Lui le mostra la pagina con le sue iniziali e le dà tempo fino a mezzanotte per dimettersi. Lei gliela strappa di mano: metà finisce nel cestino (indizio 08), metà nella sua borsetta. Esce alle 23:13, scrive a Hanale Soo «Chiamami. Subito.» e si chiude nel bagno signore. Alle 23:14:05 Soo la chiama e resta in linea fino alle 23:17:20. Sente un botto più secco in mezzo ai botti dei cannoni. Dal bagno Kalea sente passi pesanti e regolari, poi il clic della porta dell'ufficio. Pensa di aver riconosciuto il passo di suo fratello, e non lo dice.
+
+Mente su tutto: la veranda, il telefono fino alle 23:30, di non essere mai entrata nel corridoio. Sa che se ammette di essere stata nell'ufficio la inchioderanno, ma la verità la salva.
 
 ## Perché gli altri sono innocenti
-| Sospetto | Movente | Perché non è lui/lei |
-|----------|---------|----------------------|
-| Lani | Debito con Brad, eredità | Alle 23:15 è sul palco con il microfono, davanti a tutti. «C.» = Cookie è solo una coincidenza. |
-| Tommy | Debiti, testamento | Scontrini del bar: serve ai tavoli dalle 23:14 alle 23:17 (indizio 05). Spara i coriandoli. |
-| Ray | Perde lo scantinato | In scantinato con Jimbo dalle 23:05 (indizio 07). |
-| Brad | L'affare da 6,5 milioni | Esce dall'ufficio alle 23:08. In veranda alle 23:12 e 23:16 (indizio 06). |
-| Vicki | Commissione di 260.000 dollari | In veranda alle 23:12 e 23:16 (indizio 06). |
-| Marcus | Proteggere la sorella | Alle 23:12 nota che Claudia non c'è e lascia la veranda alle 23:14 per cercarla, ma non entra nell'ufficio. Non ha l'arma né i petali. |
-| Noe | Lo scoop | Scatta le foto in veranda alle 23:12 e 23:16. |
-| Jimbo | Ricatto, contrabbando | In scantinato con Ray (indizio 07). Il biglietto prova il ricatto, non l'omicidio. |
-| Auntie Lei | La terra di famiglia | In veranda alle 23:12 e 23:16 (indizio 06). I suoi petali sono dello stesso tipo, ma Claudia non era in veranda. |
 
-## Cronologia
-- **21:00** Apertura, collane di benvenuto.
-- **22:30** Brindisi di Hal.
-- **22:55** Auntie Lei porta il caffè a Hal nell'ufficio.
-- **22:58** Claudia esce in veranda al telefono. La chiamata finisce alle 23:09.
-- **23:00** Brad nell'ufficio con Hal. Esce alle 23:08. Il furgone di Ray arriva allo scantinato.
-- **23:05** Ray e Jimbo cominciano a scaricare. Finiscono alle 23:35.
-- **23:10** Claudia entra nell'ufficio.
-- **23:12** Noe fotografa la veranda: Brad, Vicki, Auntie Lei, Marcus. Claudia non c'è.
-- **23:14** Marcus lascia la veranda per cercare Claudia, che non vede dalle 23:09.
-- **23:15** Lani fa il conto alla rovescia, Tommy spara i coriandoli, Claudia spara a Hal.
-- **23:16** Seconda foto di Noe: Brad, Vicki, Auntie Lei. Marcus non c'è.
-- **23:18** Claudia esce dalla porta di servizio e nasconde il revolver.
-- **23:20** Claudia rientra in veranda.
-- **23:40** Lani trova Hal.
+| Sospetto | Movente | Perché non è stato/a | Prova |
+|----------|---------|---------------------|-------|
+| Lani | Debito con Akoni, eredità | Alle 23:15 è sul palco davanti alla sala | Palco, testimoni |
+| Nalu | Debiti, testamento, furto | Spara i coriandoli al «via» davanti alla sala | Cannoni, scontrini (05) |
+| Ike | Perde lo scantinato | In scantinato con Kapono dalle 23:05 | Bolla (07), conducente (rapporto 4) |
+| Kapono | Ricatto, contrabbando | Esce solo un minuto (23:13), poi è al portello | Conducente (rapporto 4) |
+| Akoni | Pagamenti a Kalea, affare da 6,5 milioni | Sulla scala della spiaggia con il telefono | IMG_0414 (26), rapporto 5 |
+| Pua | Commissione di 260.000 | In veranda, sentita da Lopaka | IMG_0414, rapporto 5 |
+| Noe | Scoop, amore | Scatta IMG_0414 dalla veranda alle 23:15 | IMG_0414 |
+| Auntie Lei | Terra di famiglia | Seduta in veranda, non può muoversi in fretta | Foto, IMG_0414 |
+| Kalea | Il registro la distrugge | Al telefono con Soo dalle 23:14:05 alle 23:17:20, nel bagno | Rapporti 2 e 3 |
 
-## Confessione di Claudia (se smascherata)
-> «Mi aveva dato tempo fino a mezzanotte. Dimettermi, dire a tutti che mi ero venduta. Due anni di lavoro, di campagna, di sorrisi, e un vecchio con un registro verde mi chiedeva di buttare via tutto. Ho preso il revolver senza pensarci. Poi è partito il conto alla rovescia e il resto è venuto da solo. Marcus, mi dispiace. Non volevo che fossi tu a scoprirlo.»
+## La catena che incastra Maleko
+
+1. **Escludere** tutti gli altri con le prove oggettive. Restano Maleko e (finché non si legge il rapporto 3) Kalea.
+2. **Kalea non c'era.** La sua chiamata, con acqua e eco e «passi fuori», la colloca nel bagno. Prova che ha mentito sulla veranda, non che ha sparato.
+3. **Il corridoio era al buio**: la lampadina è allentata dopo le 23:13 (Kapono la vede accesa alle 23:13). Chi è passato dal corridoio dopo le 23:14 ha voluto non essere visto.
+4. **Il percorso dell'assassino è interno**: revolver nella cassa degli ampli, registro bruciato in cucina, strofinaccio mancante. Dalla porta di servizio non è uscito nessuno (conducente). Quindi era già dentro il corridoio.
+5. **Il cassetto era vuoto alle 22:55**: l'arma è stata presa prima, al brindisi, quando Auntie Lei ha visto una schiena nel corridoio.
+6. **Il registratore di Maleko** ha due pause: 21:45–21:52 e 23:14–23:19. Coincidono con il furto e con l'omicidio.
+7. **Maleko mente sulla sala**: dice di essere passato dalla porta a vetri, ma Nalu non ha visto nessuno.
+8. **Il movente** è nella copia di Nalu (13: «6 pagine date a M.H.») e nel rapporto 6: l'ha insabbiato lui.
+
+Nessuna di queste cose da sola basta. Tutte insieme non lasciano altra spiegazione.
+
+## Le tracce che si perdono
+
+- Il filo di cotone bianco sulla lampadina: il fazzoletto di Maleko.
+- La suola liscia di gomma, numero grande, sul petalo del vaso: le sue scarpe comode.
+- L'acqua sul lavello, lo strofinaccio mancante: il suo gesto dopo lo sparo.
+
+## Confessione di Maleko (se smascherato)
+
+> «Keoki mi aveva detto che avrebbe portato tutto a Alapai. Non a me. Io sapevo cosa c'era scritto, ho letto le prime sei pagine a giugno e ho fatto sparire una cosa che avrei dovuto portare in procura. Kalea è mia sorella. L'ho sempre protetta e non ho smesso nemmeno stasera. Ho preso il revolver al brindisi e mi sono detto che non l'avrei usato. Poi sono entrato e Keoki ha capito subito. Mi ha guardato e non ha detto il mio nome. Ho sparato nel rumore dei coriandoli. Kalea, non volevo che fosse così.»
+
+## Confessione di Kalea (se pressata)
+
+> «Sì, ero lì alle 23:10. Mi ha mostrato quella pagina e mi ha dato tempo fino a mezzanotte. Gliel'ho strappata di mano, sono uscita e mi sono chiusa in bagno. Ho sentito passi, e un colpo con i botti. Ho riconosciuto il passo di mio fratello. Ho pensato che avessi sparato io, in un certo senso, a forza di avere paura.»

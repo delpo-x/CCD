@@ -1,10 +1,10 @@
 {
  "output": "last-call-kapu-lounge-completo.pdf",
  "header": "Last Call al Kapu Lounge",
- "kicker": "Murder mystery party · noir",
+ "kicker": "Gioco di ruolo investigativo · noir",
  "title": "Last Call al Kapu Lounge",
- "subtitle": "10 giocatori + 1 ospite · 90 minuti · Waikiki, 14 agosto 2004",
- "warn": "Attenzione, spoiler. Questo è il volume completo dell'ospite: contiene soluzione, colpevole e indizi. Ai giocatori stampa solo inviti, schede personaggio e indizi.",
+ "subtitle": "10 giocatori + 1 direttore · 2 ore e 15 · Waikiki, 14 agosto 2004",
+ "warn": "Attenzione, spoiler. Questo è il volume completo del direttore: contiene soluzione, colpevole e indizi. Ai giocatori consegna solo invito, scheda personaggio e missione. Carte indizio e rapporti escono durante la partita.",
  "theme": {
   "fonts": "https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap",
   "ink": "#1C1B29",
@@ -29,23 +29,26 @@
    ]
   },
   {
-   "title": "Parte 1 - Per l'Ospite (spoiler)",
+   "title": "Parte 1 - Per il Direttore (spoiler)",
    "files": [
-    "gioco/guida_ospite.md",
+    "gioco/guida_direttore.md",
     "gioco/soluzione.md",
+    "gioco/fascicolo_caso.md",
+    "gioco/matrice_sospetti.md",
+    "gioco/interviste.md",
     "gioco/riferimento_indizi.md",
     "gioco/mini_trame.md"
    ]
   },
   {
-   "title": "Parte 2 - Vittima e detective",
+   "title": "Parte 2 - Vittima e tenente",
    "files": [
     "personaggi/scheda_vittima.md",
     "personaggi/scheda_detective.md"
    ]
   },
   {
-   "title": "Parte 3 - Inviti e schede dei sospetti",
+   "title": "Parte 3 - Inviti, schede e missioni dei giocatori",
    "files": [
     "personaggi/Character_1_invito.md",
     "personaggi/Character_1_scheda_personaggio.md",
@@ -80,10 +83,9 @@
    ]
   },
   {
-   "title": "Parte 4 - Indizi",
+   "title": "Parte 4 - Carte indizio",
    "files": [
     "indizi/indizio_01.md",
-    "indizi/indizio_02.md",
     "indizi/indizio_03.md",
     "indizi/indizio_04.md",
     "indizi/indizio_05.md",
@@ -94,11 +96,28 @@
     "indizi/indizio_10.md",
     "indizi/indizio_11.md",
     "indizi/indizio_12.md",
-    "indizi/indizio_13.md"
+    "indizi/indizio_13.md",
+    "indizi/indizio_14.md",
+    "indizi/indizio_15.md",
+    "indizi/indizio_16.md",
+    "indizi/indizio_17.md",
+    "indizi/indizio_26.md"
    ]
   },
   {
-   "title": "Parte 5 - Oggetti personali",
+   "title": "Parte 5 - Rapporti del laboratorio",
+   "files": [
+    "indizi/rapporti/rapporto_01.md",
+    "indizi/rapporti/rapporto_02.md",
+    "indizi/rapporti/rapporto_03.md",
+    "indizi/rapporti/rapporto_04.md",
+    "indizi/rapporti/rapporto_05.md",
+    "indizi/rapporti/rapporto_06.md",
+    "indizi/rapporti/rapporto_07.md"
+   ]
+  },
+  {
+   "title": "Parte 6 - Oggetti personali",
    "files": [
     "oggetti/oggetto_01.md",
     "oggetti/oggetto_02.md",
@@ -108,13 +127,20 @@
     "oggetti/oggetto_06.md",
     "oggetti/oggetto_07.md",
     "oggetti/oggetto_08.md",
+    "oggetti/oggetto_09.md",
     "oggetti/oggetto_10.md"
    ]
   },
   {
-   "title": "Parte 6 - Prompt per le immagini",
+   "title": "Parte 7 - Prompt per le immagini",
    "files": [
     "immagini/PROMPTS.md"
+   ]
+  },
+  {
+   "title": "Appendice - Come è stato verificato il caso",
+   "files": [
+    "gioco/registro_iterazioni.md"
    ]
   }
  ]

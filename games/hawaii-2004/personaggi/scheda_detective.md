@@ -1,49 +1,73 @@
-# Scheda Detective: Tenente Kimo Alapai (Atto 2)
+# Scheda del tenente: Kimo Alapai (SOLO DIRETTORE)
+
+Quando un giocatore ti chiama, sei il tenente. Quando nessuno ti chiama, sei il narratore. Sono due voci diverse: tienile separate con il cappello di paglia.
 
 ## Chi sei
-Tenente Kimo Alapai, 52 anni, della Polizia di Honolulu, Sezione Omicidi. Calmo, secco, con una passione per i gialli degli anni Quaranta. Camicia aloha spenta, cravatta sottile, cappello di paglia.
+Tenente Kimo Alapai, 52 anni, Sezione Omicidi della Polizia di Honolulu. Calmo, secco, con la passione per i gialli degli anni Quaranta. Camicia aloha spenta, cravatta sottile, cappello di paglia, un taccuino e una matita.
 
-## Introduzione (da leggere ai giocatori)
-> «Signore e signori, sono il tenente Alapai, Omicidi di Honolulu. Hal Kealoha è stato trovato morto nel suo ufficio alle 23:40. Gli hanno sparato un quarto d'ora prima, nel momento in cui la sala era più rumorosa. Nessuno lasci il locale. Uno di voi sa già com'è andata. Gli altri lo scopriranno entro un'ora.»
+Parli piano e lasci che gli altri riempiano i silenzi. Non alzi mai la voce. Se qualcuno ti prende in giro, sorridi e annoti. Non sai chi è stato e non lo vuoi sapere prima di averlo dimostrato.
 
-## Tre regole per l'indagine
-1. Chi è entrato nell'ufficio, e quando.
-2. Chi aveva un motivo, e chi aveva anche l'occasione.
-3. Chi ha un alibi che si può verificare, e chi lo ha raccontato soltanto.
+## Cosa sai all'inizio (e puoi dire)
+- Keoki Kealoha è stato trovato morto nel suo ufficio alle 23:40, da sua figlia Lani. Un solo colpo.
+- Il 911 è stato chiamato alle 23:41. Gli agenti sono arrivati alle 23:50. Tu alle 00:10.
+- Il medico dice che è successo tra le 23:10 e le 23:20.
+- L'ufficio è sigillato. Il locale è chiuso. Nessuno esce.
+- Dieci persone erano nel locale. Ora sono tutte qui davanti a te.
 
-## Indizi da rivelare e come interpretarli
-| N. | Indizio | Cosa significa |
-|----|---------|----------------|
-| 01 | Foglio con impronta «C. – 23:10» | Hal aspettava una «C.». Può essere Claudia, o Lani (la chiama Cookie). |
-| 02 | Tabulato del cellulare di Claudia | Ha telefonato fino alle 23:09, non fino alle 23:30 come dice. |
-| 03 | Revolver nella cassa degli amplificatori | L'arma è di Hal, ed è stata nascosta vicino alla porta di servizio. |
-| 04 | Petali di orchidea viola | Sul tappeto dell'ufficio e sul revolver. Claudia e Auntie Lei portano orchidee viola. |
-| 05 | Scontrini del bar | Tommy ha servito ai tavoli dalle 23:14 alle 23:17. Alibi. |
-| 06 | Foto di Noe (23:12 e 23:16) | In veranda ci sono Brad, Vicki, Auntie Lei. Marcus c'è solo nella prima. Claudia non c'è. |
-| 07 | Bolla di consegna dello scantinato | Ray e Jimbo scaricavano sigari di contrabbando dalle 23:05 alle 23:35. Alibi, ma illegale. |
-| 08 | Pagina strappata del registro | Pagamenti mensili da 18.000 dollari a «C.D.». Il movente. |
-| 09 | Offerta di Pacific Crest | Brad e Vicki volevano la firma entro lunedì. Falsa pista. |
-| 10 | Bozza del nuovo testamento | Lani, Tommy e Auntie Lei avevano qualcosa da guadagnare. Falsa pista. |
-| 11 | Biglietto di ricatto di Jimbo | Jimbo ricatta Claudia per 20.000 dollari. Movente per lei, falsa pista per lui. |
-| 12 | Taccuino di Noe | «C.D. = Claudia Delaney?» Lega le iniziali al nome. |
-| 13 | Copia del registro (bonus) | Ricevute firmate «C. Delaney»: prova finale. Solo se Tommy consegna la chiave. |
+Quello che non sai (e non dici nemmeno quando lo scopri, finché non serve): i quattro dettagli di `guida_direttore.md`, l'identità di Maleko, la storia del registro.
 
-## Domande guida da porre
-- A tutti: «Dov'era alle 23:15?»
-- A Lani: «Perché Hal la chiama Cookie? E dov'era al momento dello sparo?»
-- A Tommy: «Quanti scontrini ha battuto tra le 23:10 e le 23:20?»
-- A Ray e Jimbo: «Cosa c'era nel furgone?»
-- A Brad: «Cosa le ha detto Hal alle 23:00?»
-- A Vicki: «Chi guadagna di più se il locale si vende?»
-- A Marcus: «Perché lascia la veranda alle 23:14?»
-- A Claudia: «A chi telefonava, esattamente, e fino a che ora?»
-- A Noe: «Cosa significa C.D. sul suo taccuino?»
-- Ad Auntie Lei: «Dove ha trovato il petalo che ha sul vestito?»
+## Le frasi del tenente
+- Per aprire: «Non sono qui per fare il bravo. Sono qui per sapere chi è stato.»
+- Per chiudere una domanda: «Mi basta così, grazie. Per ora.»
+- Per mettere pressione: «Lo scrivo. Mi ripeta l'ora, per favore.»
+- Per un bugiardo evidente: «Interessante. Prima mi aveva detto un'altra cosa.»
+- Per chi divaga: «Torniamo a Keoki.»
+- Per una prova nuova: «Questo cambia la serata di qualcuno.»
+- Per chi si ribella: «Si sieda. Non è un invito.»
 
-## Script della soluzione (rivelazione finale)
-> «L'assassino non ha cercato un posto tranquillo: ha usato la musica. Alle 23:15, mentre i coriandoli coprivano ogni altro rumore, qualcuno ha sparato a Hal con il suo stesso revolver. Il motivo? Un registro che avrebbe messo in fila due anni di pagamenti. L'arma è stata nascosta vicino alla porta di servizio, l'alibi raccontato a mezza sala. L'assassina è… **Claudia Delaney.**»
+## Cosa significa ogni prova per il tenente
+Servono a te per interpretare i giocatori quando portano una carta. Non spiegare mai la carta: rispondi con una domanda.
 
-Poi chiedi a Claudia di confessare (testo in `gioco/soluzione.md`).
+| N. | Cosa vedi | Domanda che puoi fare |
+|----|-----------|-----------------------|
+| 01 | Foglio «K. – 23:10» | «K. chi? Chi la chiamava Kuki?» |
+| 03 | Revolver nella cassa degli ampli | «Chi sposta quella cassa? Chi sapeva che era lì?» |
+| 04 | Petali viola | «Chi porta orchidee viola? E chi ha una suola da uomo?» |
+| 05 | Scontrini | «Il bancone non si muove. E chi non è passato dalla porta a vetri?» |
+| 06 | Foto IMG_0412/0413 | «Chi c'è alle 23:12 e non c'è alle 23:16?» |
+| 07 | Bolla di consegna | «Cosa c'era nelle casse? E il conducente cosa ha visto?» |
+| 08 | Mezza pagina nel cestino | «Chi sapeva delle iniziali? Dov'è l'altra metà?» |
+| 09 | Offerta di Pacific Crest | «Una firma da portare lunedì. Chi ha fretta?» |
+| 10 | Bozza del testamento | «Chi eredita, e chi lo sapeva?» |
+| 11 | Biglietto di ricatto | «Cosa sapeva Kapono, e a chi lo ha scritto?» |
+| 12 | Taccuino di Noe | «K.H. = Kalea Hanohano? Che prove ha?» |
+| 13 | Copia del registro | «Chi è M.H.? Chi ha preso le sei pagine di giugno?» |
+| 14 | Cassetto vuoto | «Da quanto era vuoto? Chi sapeva cosa conteneva?» |
+| 15 | Lampadina allentata | «Chi è stato nel corridoio dopo le 23:13?» |
+| 16 | Braciere con tela verde | «Chi ha bruciato qualcosa in cucina?» |
+| 17 | Strofinacci mancanti | «Chi può entrare in cucina? E chi si lava le mani?» |
+| 26 | IMG_0414 | «Questa foto sposta qualcuno. Dove?» |
 
-## Suggerimento per il costume
-Camicia aloha spenta, cravatta sottile, cappello di paglia, un taccuino e una matita.
+## Domande guida per ogni giocatore (da usare nelle convocazioni)
+- **Lani**: «Cosa le ha detto suo padre alle 22:30? Perché le chiavi?»
+- **Nalu**: «Che cosa ha visto dal bancone alle 23:12?» (Nessuno è passato dalla porta a vetri.)
+- **Ike**: «Cosa c'era nel furgone? E cosa le ha detto Keoki in cucina?»
+- **Akoni**: «Dov'era alle 23:14? Chi può dirlo?»
+- **Pua**: «Quanto le ha dato Akoni in anticipo?»
+- **Maleko**: «Da che porta è tornato in veranda alle 23:20? Perché ha lasciato la veranda alle 23:14?»
+- **Kalea**: «Con chi parlava al telefono alle 23:15?»
+- **Noe**: «Cosa c'è nelle altre foto della scheda?»
+- **Kapono**: «Il corridoio era illuminato? Quando ha riavvitato la lampadina?»
+- **Auntie Lei**: «Che cosa ha visto nello specchio, al brindisi?»
+
+## Regole d'ingaggio del tenente
+- Siete tutti nella stessa stanza. L'ufficio è il tuo tavolo. Gli altri luoghi sono solo narrati: chi «va» o «cerca» lo dichiara, e tu consegni la carta dopo un minuto di tempo reale.
+- Non puoi perquisire senza un motivo. Il motivo è un giocatore che nomina un sospetto e una prova.
+- Puoi sequestrare un oggetto solo se un giocatore documenta l'accusa (tira un d6 sulla regola dell'azione rischiosa se il proprietario si oppone).
+- Non dici mai «ha ragione» né «ha torto» a un'accusa. Dici: «Lo scrivo».
+- Se il giocatore ha ragione e lo dice con prove, il tenente alza la testa e dice: «Va bene. Proviamo a vedere se regge.»
+
+## La rivelazione (da leggere alla fine)
+> «L'assassino non ha cercato un posto tranquillo: ha usato il rumore. Alle 23:15, mentre i coriandoli coprivano tutto il resto, qualcuno ha sparato a Keoki con il suo stesso revolver. Quel qualcuno era già nel corridoio, al buio, perché la lampadina era stata svitata. L'arma è finita in una cassa, il registro in un braciere, e le mani nel lavello. Tutti avevano un motivo. Uno aveva anche il tempo, la mano e il silenzio. L'assassino è… **Maleko Hanohano.**»
+
+Poi chiedi a Maleko di confessare (testo in `gioco/soluzione.md`). Se non vuole, leggi tu la confessione.

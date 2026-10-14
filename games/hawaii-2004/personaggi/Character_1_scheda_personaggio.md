@@ -1,45 +1,59 @@
 # Scheda Personaggio: Lani Kealoha
 
-**Epoca**: Anni 2000 (2004) · **Luogo**: Kapu Lounge, Waikiki, Honolulu · **Occasione**: l'ultima sera del Kapu Lounge, sabato 14 agosto 2004
+**Quando**: domenica 15 agosto 2004, ore 00:10 · **Dove**: Kapu Lounge, Waikiki, Honolulu · **Situazione**: Keoki Kealoha è stato ucciso nel suo ufficio, poco prima di mezzanotte. Il tenente Alapai ha chiuso il locale: nessuno esce finché non scopre chi è stato.
 
-## Ruolo: Manager del locale e figlia di Hal
+## Ruolo: Direttrice del locale e figlia di Keoki
 
 ## Descrizione pubblica
-31 anni, dirige il Kapu dal 2001. Ha un walkie-talkie alla cintura, un blocco comande in tasca e due ore di sonno a notte. Solo suo padre e sua zia la chiamano Cookie.
+31 anni, dirige il Kapu dal 2001. Ha un walkie-talkie alla cintura, un blocco comande in tasca e due ore di sonno a notte. Solo suo padre e sua zia la chiamano Kuki.
 
 ## Tratti della personalità
 - testarda
 - leale
 - esausta
 
-## Segreti personali (tienili segreti!)
-- Hai firmato una garanzia personale da 60.000 dollari con Brad Lund per rifare l'impianto elettrico. Se il locale non si vende, il debito è tuo.
-- Sei innamorata di Tommy, cresciuto in casa vostra come un fratello. Non gliel'hai mai detto.
-- Hai promesso a Marcus, un cliente fisso, di lasciargli usare il locale per un'indagine di cui non conosci i dettagli.
+## I tuoi segreti (tienili segreti!)
+- Hai firmato una garanzia personale da 60.000 dollari con Akoni Mahoe per rifare l'impianto elettrico. Se il locale non si vende, il debito è tuo.
+- Sei innamorata di Nalu, cresciuto in casa vostra come un fratello. Non gliel'hai mai detto.
+- Hai promesso a Maleko, un cliente fisso, di lasciargli usare il locale per un'indagine di cui non conosci i dettagli. Sospetti che sia della polizia.
+- Sapevi da un mese che Keoki pensava di vendere. Hai trovato un opuscolo di Pacific Crest sulla sua scrivania e non gliel'hai detto.
+- Hai in tasca una busta di tua madre, mai aperta (oggetto 01).
+
+## La tua serata, com'è andata davvero
+- **21:45** Brindisi di Keoki: «Alla famiglia». Hai alzato il calice in ritardo, perché pensavi alla busta.
+- **21:55** Keoki vi ha detto, a te e a Nalu: «Nessuno perderà niente, stanotte».
+- **22:30** Keoki ti ha chiesto chi ha le chiavi dell'ufficio e dei libri. Hai capito che sospettava di te.
+- **23:14:50** Sei salita sul palco col microfono. Ai fari non vedi oltre i primi tavoli.
+- **23:15** Hai fatto il conto alla rovescia. Al «via» Nalu ha sparato i coriandoli.
+- **23:40** Keoki non scendeva. Sei andata a chiamarlo e l'hai trovato morto. Hai gridato e chiamato il 911.
+
+## Cosa dirai al tenente
+- Chi sei: figlia di Keoki e direttrice del locale.
+- Dov'eri alle 23:15: sul palco col microfono, al conto alla rovescia. Nalu ha sparato i coriandoli.
+- L'ultima volta con Keoki vivo: alle 22:30 ti ha chiesto delle chiavi. Prima, al brindisi, ha detto: «Nessuno perderà niente».
+- Ufficio o corridoio: il corridoio sì, tutta la sera per lavoro; l'ufficio no. Hai trovato tu il corpo alle 23:40.
+- Chi voleva Keoki morto: Akoni e Pua volevano il locale. Keoki aveva nemici. (Non dici del tuo debito.)
+
+## Cosa sai e puoi dire se te lo chiedono
+- Le chiavi dell'ufficio e dei libri le avete tu, Nalu (per la cassa) e Kapono (per i fusibili).
+- Dal palco, con i fari negli occhi, non hai visto il fondo della sala. Non puoi giurare chi c'era.
+- Hai aspettato venticinque minuti prima di cercarlo, perché Keoki ti aveva detto: «Non voglio nessuno fino a mezzanotte».
 
 ## Obiettivi personali
-- Convincere tuo padre a firmare con Pacific Crest.
-- Non farti scoprire da Tommy.
+- Scoprire chi ha ucciso tuo padre.
+- Non farti scoprire da Nalu (e da nessuno) per quello che senti.
+- Capire se tuo fratello adottivo ha qualcosa a che fare con la sera.
 
-## Motivo per il crimine
-Se tuo padre non vende, resti con 60.000 dollari di debito e un locale che cade a pezzi.
+## Relazioni
+- **Nalu Akana** (fratello adottivo, tensione 2/3): ti vuole bene da fratello. Tu no.
+- **Akoni Mahoe** (creditore, tensione 2/3): ti ha prestato i soldi con un sorriso e ora li rivuole, con lo stesso sorriso.
+- **Maleko Hanohano** (cliente fisso, tensione 1/3): ti deve un favore grosso. Non ti dice mai cosa fa davvero.
 
-## Suggerimento per il costume
+## Costume
 Camicia aloha scura, pantaloni neri, walkie-talkie alla cintura, un ibisco rosso dietro l'orecchio.
 
-## I tuoi obiettivi dell'Atto 1
-▢ Alle 23:15 prendere il microfono e fare il conto alla rovescia dell'ultimo brano: dieci, nove, otto... Al «via» Tommy spara i coriandoli.
-▢ Parlare con Hal prima di mezzanotte e chiedergli di firmare.
-▢ Passare dal bar a salutare Tommy senza arrossire.
-
-## La tua relazione con la vittima
-Hal è tuo padre. Ti ha insegnato il mestiere e ti chiama Cookie anche davanti ai clienti. Con lui discuti di tutto, tranne che di quanto sei stanca.
-
-## Relazioni con altri personaggi
-- **Tommy Akana** (Fratello adottivo, tensione 2/3): ti vuole bene da fratello. Tu no.
-- **Brad Lund** (Creditore, tensione 2/3): ti ha prestato i soldi con un sorriso e ora li rivuole, con lo stesso sorriso.
-- **Marcus Delaney** (Cliente fisso, tensione 1/3): ti deve un favore grosso e non ti dice mai cosa fa davvero.
+## Come giocarla
+Voce bassa e brusca. Quando ti fanno una domanda scomoda, guardi prima la cassa, poi la persona. Piangi tardi e mai davanti a tutti.
 
 ---
-Ricorda: il debito con Brad e quello che senti per Tommy restano affari tuoi.
 La tua missione segreta è su un foglio a parte.

@@ -3,18 +3,18 @@
 **Per**: Noe Sato · **Punti in palio**: 15
 
 ## La tua storia
-Hai una carriera e un cuore in conflitto. Hai un taccuino e un registratore a cassetta. Hal ti ha promesso qualcosa «quando sarà il momento». Il momento sembra arrivato.
+Non sai se pubblicare il pezzo che incastra Kalea. Keoki ti ha promesso qualcosa «quando sarà il momento», e il momento è arrivato nel modo peggiore. Nella tua macchina fotografica c'è una foto che può scagionare qualcuno e un gruppo di foto che nessuno deve vedere.
 
 ## Il tuo oggetto
-Registratore a cassetta (oggetto 08)
+Registratore a cassetta (oggetto 08) e macchina fotografica (oggetto 09)
 
 ## Compiti
-▢ **Fai dire a Brad la parola «Kahuna» davanti a testimoni.** (5 punti)
-▢ **Parla con Claudia da sola per due minuti. Falle una domanda sui pagamenti, senza nominarli.** (5 punti)
-▢ **Quando il tenente ti chiede del tuo taccuino, mostragli l'appunto sottolineato (indizio 12). Se lo nascondi fino all'ultimo, perdi questi punti.** (5 punti)
+▢ **Fai dire a Akoni la parola «Kahuna» davanti a testimoni.** (5 punti)
+▢ **Parla con Kalea da sola per due minuti. Falle una domanda sui pagamenti, senza nominarli.** (5 punti)
+▢ **Decidi se consegnare la macchina fotografica (oggetto 09) al tenente. Qualunque scelta tu faccia, spiegala a voce davanti a tutti prima delle accuse.** (5 punti)
 
 ## Una svolta (non leggerla prima del momento giusto)
-Il registratore ha una cassetta: dentro c'è una breve frase di Hal. L'ospite te la legge se la chiedi dopo la scena dell'ufficio.
+Il registratore ha una cassetta con la voce di Keoki. Il direttore la legge se la fai ascoltare a qualcuno davanti agli altri.
 
 ---
-Se riesci, avrai fatto qualcosa che nessuno, tra gli altri, si aspettava da te. Se non riesci, non succede niente: tieni il segreto e gioca.
+Se non ci riesci, non succede niente: tieni il segreto e gioca.

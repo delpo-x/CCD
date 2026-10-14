@@ -1,8 +1,8 @@
-# Scheda Personaggio: Marcus Delaney
+# Scheda Personaggio: Maleko Hanohano
 
-**Epoca**: Anni 2000 (2004) · **Luogo**: Kapu Lounge, Waikiki, Honolulu · **Occasione**: l'ultima sera del Kapu Lounge, sabato 14 agosto 2004
+**Quando**: domenica 15 agosto 2004, ore 00:10 · **Dove**: Kapu Lounge, Waikiki, Honolulu · **Situazione**: Keoki Kealoha è stato ucciso nel suo ufficio, poco prima di mezzanotte. Il tenente Alapai ha chiuso il locale: nessuno esce finché non scopre chi è stato.
 
-## Ruolo: Cliente fisso (in realtà sergente di polizia sotto copertura)
+## Ruolo: Cliente fisso (in realtà sergente di polizia sotto copertura) · SEI L'ASSASSINO
 
 ## Descrizione pubblica
 49 anni, assicuratore. È un cliente fisso da sei mesi: due birre, il banco in fondo, poche parole. Nessuno sa che lavora per la polizia.
@@ -12,34 +12,52 @@
 - tormentato
 - preciso
 
-## Segreti personali (tienili segreti!)
-- Sei sergente della polizia di Honolulu, Sezione Reati Finanziari. Da mesi indaghi in segreto su Claudia, tua sorella, per tangenti. Hal era la tua fonte.
-- Hal ti ha promesso il suo registro dei pagamenti entro domenica. Non sai ancora cosa c'è dentro.
-- Alle 23:12 ti sei accorto che Claudia non era più in veranda. Alle 23:14 sei andato a cercarla e non l'hai trovata. Alle 23:20 l'hai vista rientrare dalla porta di servizio, con la borsetta stretta al petto e un petalo viola sul bavero. Non sai cosa abbia fatto.
+## I tuoi segreti (tienili segreti!)
+- Sei sergente della Sezione Reati Finanziari. Da mesi indaghi sulle tangenti di Pacific Crest. Keoki era la tua fonte.
+- A giugno Keoki ti ha dato sei pagine del suo registro verde. La «K.H.» che vi compare è tua sorella Kalea. Hai scritto nel rapporto del 22 giugno «nessun riscontro» e hai tenuto le pagine.
+- Stasera, alle 20:45, Keoki ti ha detto che lunedì avrebbe portato tutto al tenente Alapai, della Omicidi, e non a te.
+- **Hai ucciso Keoki Kealoha.** Per salvare Kalea e il tuo distintivo.
+
+## Cosa hai fatto davvero (non lo dire a nessuno)
+- **20:30** Hai acceso il registratore (oggetto 06).
+- **21:45** Al brindisi hai messo in pausa il registratore, sei uscito verso il corridoio e hai preso dal cassetto di Keoki il revolver che ti aveva mostrato. Hai calpestato i petali del vaso. Sei rientrato alle 21:52 e hai ripreso la registrazione.
+- **22:40–22:55** In veranda il registratore ha preso Akoni («Il voto è già comprato») e Kalea («Dillo a Keoki: finirà tutto domani»).
+- **23:09** Hai visto Kalea lasciare la veranda dalla porta laterale.
+- **23:12** Noe ti ha fotografato in veranda con Akoni, Pua e Auntie Lei.
+- **23:14** Hai messo in pausa il registratore e sei uscito dalla porta laterale. Passando davanti al bagno signore hai svitato la lampadina del corridoio con il fazzoletto. Alle 23:14:40 sei entrato nell'ufficio. Hai alzato due dita: il gesto che fai da agente.
+- **23:15** Al boato dei cannoni hai sparato a Keoki, seduto alla scrivania. Gli hai preso il registro dalla giacca.
+- **23:15–23:19** Hai bruciato il registro nel braciere della cucina. Hai avvolto il revolver in uno strofinaccio KAPU e lo hai nascosto nella cassa degli ampli. Ti sei lavato le mani. Non sei uscito dalla porta di servizio perché Ike e Kapono scaricavano nel vicolo.
+- **23:19** Hai ripreso la registrazione e sei rientrato dalla porta laterale. Alle 23:20 hai visto Kalea rientrare con un petalo del suo lei sul bavero.
+
+## Cosa dirai al tenente
+- Chi sei: assicuratore (Hawaiian Pacific Mutual, auto e vita). Cliente fisso da sei mesi.
+- Dov'eri alle 23:15: «Alle 23:12 ero in veranda, nella foto di Noe. Alle 23:14 mi sono accorto che mia sorella non c'era e sono andato a cercarla in sala. Al "via" ero in fondo alla sala. Alle 23:20 sono tornato in veranda e l'ho vista rientrare dal corridoio di servizio, con un petalo sul bavero.»
+- L'ultima volta con Keoki vivo: al brindisi.
+- Ufficio o corridoio: «Corridoio no. Sono entrato in sala dalla porta a vetri e basta.»
+- Chi voleva Keoki morto: «Mia sorella aveva un conto in sospeso con lui. Non lo dico per accusarla.»
+
+## Cosa non devi dire mai (a meno che il tenente l'abbia detto prima)
+Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il registro verde gli è stato tolto dalla giacca. La lampadina era stata svitata. Se lo dici prima, ti tradisci.
+
+## Cosa sai e puoi dire se te lo chiedono
+- Kalea è tornata in veranda alle 23:20 dal corridoio con un petalo viola sul bavero. È vero.
+- Kalea aveva appuntamento con Keoki. Lo sai perché l'hai vista uscire dalla veranda alle 23:09.
 
 ## Obiettivi personali
-- Tenere la copertura fino a domani.
-- Capire se tua sorella è davvero colpevole, prima di decidere cosa fare.
+- Farla franca.
+- Salvare Kalea senza confessare. Ti sei accorto che per proteggerla l'hai messa nei guai.
+- Decidere cosa fare se il tenente la incrimina: lasciar cadere lei, o tradirti.
 
-## Motivo per il crimine
-Se Hal consegna il registro, tua sorella va in carcere e la tua famiglia si spezza. Se non lo consegna, la tua indagine è finita.
+## Relazioni
+- **Kalea Hanohano** (sorella, tensione 3/3): ti ammira e ti teme. L'hai sempre difesa.
+- **Lani Kealoha** (complice involontaria, tensione 1/3): ti lascia usare il locale senza fare domande, e le devi un favore.
+- **Noe Sato** (giornalista, tensione 2/3): scrive di urbanistica. Può rovinare la tua copertura, o aiutarla.
 
-## Suggerimento per il costume
-Camicia aloha spenta, pantaloni cachi, scarpe comode, un taccuino nella tasca posteriore.
+## Costume
+Camicia aloha spenta, pantaloni cachi, scarpe comode con suola di gomma, un fazzoletto di cotone bianco in tasca, un taccuino nella tasca posteriore.
 
-## I tuoi obiettivi dell'Atto 1
-▢ Restare in veranda e ascoltare chi parla di soldi.
-▢ Farti vedere in veranda verso le 23:12 (Noe farà delle foto). Poi accorgerti che Claudia non c'è e lasciare il posto verso le 23:14 per cercarla.
-▢ Provare a sapere da Hal se il registro è pronto.
-
-## La tua relazione con la vittima
-Hal è il tuo informatore, e ti fidi di lui più di molti colleghi. Sai che ha paura.
-
-## Relazioni con altri personaggi
-- **Claudia Delaney** (Sorella, tensione 3/3): ti ammira e ti teme. L'hai sempre difesa. Stavolta non sai se puoi.
-- **Lani Kealoha** (Complice involontaria, tensione 1/3): ti lascia usare il locale senza fare domande, e le devi un grosso favore.
-- **Noe Sato** (Giornalista, tensione 2/3): scrive di urbanistica: può rovinare la tua indagine, o aiutarla.
+## Come giocarlo
+Paziente, preciso, quasi senza emozioni. Cerchi di essere utile al tenente. Quando qualcuno nomina tua sorella, ti irrigidisci.
 
 ---
-Ricorda: la tua copertura salta se dici chi sei, e tua sorella è l'oggetto della tua indagine.
 La tua missione segreta è su un foglio a parte.

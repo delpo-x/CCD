@@ -2,6 +2,6 @@
 
 **Tipo**: Oggetto
 
-*Due petali viola, uno trovato sul tappeto dell'ufficio, l'altro vicino alla porta di servizio.*
+*Quattro petali viola: due sul tappeto dell'ufficio, due sul pavimento accanto al vaso all'imbocco del corridoio.*
 
-Le orchidee viola vengono da un'unica fornitura: i lei che Claudia e Auntie Lei indossano. Quelli bianchi sono per gli altri ospiti.
+L'orchidea viola è nei lei di sole due persone: Kalea e Auntie Lei. Gli altri ospiti li hanno bianchi, di plumeria. Uno dei petali del vaso porta l'impronta di una suola liscia di gomma, numero grande.

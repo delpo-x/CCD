@@ -2,6 +2,6 @@
 
 **Tipo**: Nota
 
-*Foglietto spiegazzato, scrittura a stampatello.*
+*Foglietto spiegazzato, scrittura a stampatello. Era nella tasca di Kapono.*
 
-«Consigliera, il prezzo è 20.000. Domenica, in contanti. Altrimenti Hal lo sa da me. – J.»
+«Consigliera, il prezzo è 20.000. Domenica, in contanti. Altrimenti Keoki lo sa da me. – K.»

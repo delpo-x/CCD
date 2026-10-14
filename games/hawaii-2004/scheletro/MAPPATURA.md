@@ -7,31 +7,31 @@ Il generatore non produce un crimine: restituisce un **grafo di relazioni** (par
 | Nome generato | Personaggio |
 |---------------|-------------|
 | Je | Lani Kealoha |
-| Itonrson | Tommy Akana |
-| Ergen | Ray Lund |
-| Whergeehn | Brad Lund |
-| Zyacester | Victoria «Vicki» Lund |
-| Hihn | Marcus Delaney |
-| Theams | Claudia Delaney |
+| Itonrson | Nalu Akana |
+| Ergen | Ikaika «Ike» Mahoe |
+| Whergeehn | Akoni Mahoe |
+| Zyacester | Pualani «Pua» Mahoe |
+| Hihn | Maleko Hanohano |
+| Theams | Kalea Hanohano |
 | Derrough | Noe Sato |
-| Fough | Jimmy «Jimbo» Pelletier |
+| Fough | Kapono Medeiros |
 | Sunes | Leilani «Auntie Lei» Kealoha |
 
 ## Legami del grafo tenuti nel gioco
-- Itonrson e Je sono fratelli; Je ama Itonrson. → Tommy e Lani fratelli adottivi; lei lo ama.
-- Itonrson ama Ergen. → Tommy e Ray hanno una relazione segreta.
-- Itonrson ha un debito grosso con Whergeehn e con Zyacester. → Tommy deve soldi a Brad e a Vicki.
-- Hihn e Theams sono fratelli in conflitto. → Marcus e Claudia.
-- Hihn ha un favore e un debito grossi con Je. → Marcus deve un favore grosso a Lani.
-- Fough ama Derrough. → Jimbo ama Noe.
-- Theams ha un debito grosso con Fough. → Claudia viene ricattata da Jimbo.
-- Derrough ama Theams. → Noe ama Claudia.
-- Fough ed Ergen sono fratelli. → Jimbo e Ray sono fratellastri.
-- Zyacester e Whergeehn sono fratelli. → Vicki e Brad.
-- Whergeehn ed Ergen sono fratelli in conflitto esplosivo. → Brad e Ray.
-- Je ha un debito con Whergeehn. → Lani ha una garanzia con Brad.
-- Ergen ha un debito grosso con Sunes. → Ray deve soldi ad Auntie Lei.
+- Itonrson e Je sono fratelli; Je ama Itonrson. → Nalu e Lani fratelli adottivi; lei lo ama.
+- Itonrson ama Ergen. → Nalu e Ike hanno una relazione segreta.
+- Itonrson ha un debito grosso con Whergeehn e con Zyacester. → Nalu deve soldi a Akoni e a Pua.
+- Hihn e Theams sono fratelli in conflitto. → Maleko e Kalea.
+- Hihn ha un favore e un debito grossi con Je. → Maleko deve un favore grosso a Lani.
+- Fough ama Derrough. → Kapono ama Noe.
+- Theams ha un debito grosso con Fough. → Kalea viene ricattata da Kapono.
+- Derrough ama Theams. → Noe ama Kalea.
+- Fough ed Ergen sono fratelli. → Kapono e Ike sono fratellastri.
+- Zyacester e Whergeehn sono fratelli. → Pua e Akoni.
+- Whergeehn ed Ergen sono fratelli in conflitto esplosivo. → Akoni e Ike.
+- Je ha un debito con Whergeehn. → Lani ha una garanzia con Akoni.
+- Ergen ha un debito grosso con Sunes. → Ike deve soldi ad Auntie Lei.
 - Sunes ha un favore grosso con Derrough. → Auntie Lei racconta storie e presta soldi a Noe.
-- Zyacester ha un vecchio debito con Sunes. → Vicki e un vecchio favore di Auntie Lei.
+- Zyacester ha un vecchio debito con Sunes. → Pua e un vecchio favore di Auntie Lei.
 
 Il crimine, la vittima, gli alibi, gli indizi e la soluzione sono stati scritti a mano.

@@ -2,6 +2,6 @@
 
 **Tipo**: Oggetto
 
-*Un foglio del blocco appunti dell'ufficio, con la scrittura di Hal ancora in rilievo sul foglio sotto.*
+*Un foglio del blocco appunti sulla scrivania. Il foglio sopra è stato strappato, ma la penna di Keoki ha lasciato il segno su quello sotto.*
 
-«C. – 23:10 – qui, da sola.»
+«K. – 23:10 – qui, da sola.»

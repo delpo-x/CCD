@@ -1,4 +1,4 @@
-"""Build the Hal novella PDF (A5, book layout) from racconto-hal.md."""
+"""Build the Keoki novella PDF (A5, book layout) from racconto-keoki.md."""
 import html, re, sys
 from pathlib import Path
 from weasyprint import HTML

@@ -1,45 +1,60 @@
-# Scheda Personaggio: Tommy Akana
+# Scheda Personaggio: Nalu Akana
 
-**Epoca**: Anni 2000 (2004) · **Luogo**: Kapu Lounge, Waikiki, Honolulu · **Occasione**: l'ultima sera del Kapu Lounge, sabato 14 agosto 2004
+**Quando**: domenica 15 agosto 2004, ore 00:10 · **Dove**: Kapu Lounge, Waikiki, Honolulu · **Situazione**: Keoki Kealoha è stato ucciso nel suo ufficio, poco prima di mezzanotte. Il tenente Alapai ha chiuso il locale: nessuno esce finché non scopre chi è stato.
 
-## Ruolo: Barman capo
+## Ruolo: Barman capo e figlio adottivo di Keoki
 
 ## Descrizione pubblica
-29 anni, mani veloci e battuta pronta. Hal lo ha preso in casa a dodici anni. Tiene gli scontrini nel taschino e non ne butta mai uno.
+29 anni, mani veloci e battuta pronta. Keoki lo ha preso in casa a dodici anni. Tiene gli scontrini nel taschino e non ne butta mai uno.
 
 ## Tratti della personalità
 - spiritoso
 - nervoso
 - fedele
 
-## Segreti personali (tienili segreti!)
-- Devi 40.000 dollari a Brad Lund e 30.000 a Vicki, per scommesse clandestine sul football finite male.
-- Hai una relazione segreta con Ray Lund. Nessuno lo sa, nemmeno Lani.
-- Hal ti ha lasciato capire che nel nuovo testamento c'è anche un pezzo per te.
+## I tuoi segreti (tienili segreti!)
+- Devi 40.000 dollari a Akoni Mahoe e 30.000 a Pua, per scommesse clandestine sul football finite male.
+- Hai una relazione segreta con Ike Mahoe. Nessuno lo sa, nemmeno Lani.
+- Hai preso 4.000 dollari dalla cassa da marzo. Keoki l'ha scoperto stasera e tu gliel'hai confessato.
+- Keoki ti ha dato una piccola chiave d'ottone con la frase «Se mi succede qualcosa» (oggetto 02).
+- Keoki ti ha lasciato capire che nel nuovo testamento c'è un pezzo per te.
+
+## La tua serata, com'è andata davvero
+- **21:45** Brindisi. Versavi dal bancone.
+- **22:05** Keoki ti ha chiesto la chiave della cassetta. Gli hai detto dei 4.000 dollari.
+- **23:10–23:20** Sei dietro il bancone, da dove vedi la porta a vetri della veranda. Tra le 23:12 e le 23:19 non è passato nessuno da quella porta, a parte Noe che si affacciava per le foto.
+- **23:14–23:17** Hai battuto quattro scontrini.
+- **23:15** Al «via» di Lani hai sparato i coriandoli col pulsante del bancone.
+- **23:40** Hai sentito Lani gridare.
+
+## Cosa dirai al tenente
+- Chi sei: barman e figlio adottivo di Keoki.
+- Dov'eri alle 23:15: al bancone. Hai sparato i coriandoli al «via». Gli scontrini sono in cassa.
+- L'ultima volta con Keoki vivo: alle 22:05, per una questione di cassa. Ha detto che l'avresti capita. (Non dici dei 4.000 dollari.)
+- Ufficio o corridoio: solo il corridoio, per portare le casse. L'ufficio no.
+- Chi voleva Keoki morto: non lo sai. Akoni ti guarda come un conto da riscuotere.
+
+## Cosa sai e puoi dire se te lo chiedono
+- Nessuno è passato dalla porta a vetri tra le 23:12 e le 23:19, tranne Noe.
+- Gli strofinacci KAPU stanno nel mobile del bar. Li usa tutto il personale.
+- La cassa degli amplificatori in fondo al corridoio è della band. La sposta Kapono.
+- La chiave d'ottone la tieni in tasca. Non sai cosa apra, ma lo immagini.
 
 ## Obiettivi personali
-- Trovare il modo di pagare i debiti prima che Brad perda la pazienza.
-- Non farti scoprire con Ray.
+- Pagare i debiti prima che Akoni perda la pazienza.
+- Non farti scoprire con Ike.
+- Capire chi ha ucciso Keoki, perché temi che sospettino di te.
 
-## Motivo per il crimine
-Se il locale viene venduto, resti senza lavoro e con 70.000 dollari di debiti. Se Hal muore prima, il testamento ti garantisce almeno 50.000 dollari.
+## Relazioni
+- **Lani Kealoha** (sorella adottiva, tensione 2/3): lavorate fianco a fianco da una vita. Ultimamente ti guarda in modo strano.
+- **Ike Mahoe** (compagno segreto, tensione 1/3): è l'unica persona con cui riesci a rilassarti.
+- **Akoni Mahoe** (creditore, tensione 3/3): è il fratello di Ike. Gli devi 40.000 dollari.
 
-## Suggerimento per il costume
+## Costume
 Camicia aloha rossa a maniche corte, grembiule nero, shaker in mano, sorriso da barista.
 
-## I tuoi obiettivi dell'Atto 1
-▢ Tenere i conti del bar in ordine: ogni scontrino con l'orario, e non buttarne nessuno.
-▢ Alle 23:15, al «via» di Lani, sparare il cannoncino dei coriandoli.
-▢ Trovare un minuto da solo con Ray nel retro, senza farti vedere.
-
-## La tua relazione con la vittima
-Hal ti ha tirato fuori dalla strada e ti ha insegnato a servire un Mai Tai a regola d'arte. Per te è un padre, anche se non glielo dici.
-
-## Relazioni con altri personaggi
-- **Lani Kealoha** (Sorella adottiva, tensione 2/3): lavorate fianco a fianco da una vita. Ultimamente ti guarda in modo strano.
-- **Ray Lund** (Compagno segreto, tensione 1/3): è l'unica persona con cui riesci a rilassarti.
-- **Brad Lund** (Creditore, tensione 3/3): è il fratello di Ray, e ti guarda come si guarda un conto da riscuotere.
+## Come giocarlo
+Fai battute quando hai paura. Più sei in difficoltà, più parli di ghiaccio e limoni.
 
 ---
-Ricorda: nessuno deve sapere di Ray, e a Brad devi dei soldi.
 La tua missione segreta è su un foglio a parte.

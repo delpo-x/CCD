@@ -2,6 +2,6 @@
 
 **Tipo**: Documento
 
-*Lettera su carta intestata.*
+*Lettera su carta intestata, nella cartellina dell'ufficio.*
 
-Offerta d'acquisto del Kapu Lounge e dell'isolato adiacente: **6.500.000 dollari**. Valida fino a lunedì 16 agosto, ore 17:00. Firmato: Brad Lund, vicepresidente sviluppo.
+Offerta d'acquisto del Kapu Lounge e dell'isolato adiacente: **6.500.000 dollari**. Valida fino a lunedì 16 agosto, ore 17:00. Firmato: Akoni Mahoe, vicepresidente sviluppo.

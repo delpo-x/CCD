@@ -1,7 +1,7 @@
-# Indizio 8: Pagina strappata del registro verde
+# Indizio 8: Mezza pagina del registro verde
 
 **Tipo**: Documento
 
-*Mezza pagina, bordo irregolare.*
+*Mezza pagina, bordo irregolare, strappata a forza. Era nel cestino dell'ufficio.*
 
-Colonne: data, importo, causale. Settembre 2002 – 18.000 dollari – «Kahuna Holdings → consulenza urbanistica a C.D.» Ripetuto per ventidue mesi. Totale parziale: 396.000 dollari.
+Colonne: data, importo, causale. Settembre 2002 – 18.000 dollari – «Kahuna Holdings → consulenza urbanistica a K.H.» Ripetuto per ventidue mesi. Totale parziale: 396.000 dollari.

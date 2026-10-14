@@ -1,6 +1,6 @@
 # Scheda Personaggio: Noe Sato
 
-**Epoca**: Anni 2000 (2004) · **Luogo**: Kapu Lounge, Waikiki, Honolulu · **Occasione**: l'ultima sera del Kapu Lounge, sabato 14 agosto 2004
+**Quando**: domenica 15 agosto 2004, ore 00:10 · **Dove**: Kapu Lounge, Waikiki, Honolulu · **Situazione**: Keoki Kealoha è stato ucciso nel suo ufficio, poco prima di mezzanotte. Il tenente Alapai ha chiuso il locale: nessuno esce finché non scopre chi è stato.
 
 ## Ruolo: Giornalista d'inchiesta
 
@@ -12,34 +12,49 @@
 - ironica
 - combattuta
 
-## Segreti personali (tienili segreti!)
-- Stai scrivendo un pezzo sul cambio di destinazione d'uso. In un documento hai trovato le iniziali «C.D.» e sospetti che siano di Claudia Delaney.
-- Sei innamorata di Claudia. Non sai se pubblicare.
-- Stasera hai scattato due foto in veranda: la prima alle 23:12 e la seconda alle 23:16.
+## I tuoi segreti (tienili segreti!)
+- Stai scrivendo un pezzo sul cambio di destinazione d'uso. In un documento hai trovato le iniziali «K.H.» e sospetti che siano di Kalea Hanohano.
+- Sei innamorata di Kalea. Non sai se pubblicare.
+- Nella macchina fotografica (oggetto 09) hai foto private di Kalea scattate di nascosto. Non vuoi che le veda nessuno.
+- Keoki era la tua fonte. Veniva da te, o tu da lui, di notte. Una settimana fa gli hai registrato una frase con il tuo registratore (oggetto 08).
+
+## La tua serata, com'è andata davvero
+- **21:45** Eri al brindisi, con la macchina fotografica al collo.
+- **23:00** Ti sei messa in veranda con la macchina. Akoni, Pua e Auntie Lei erano lì.
+- **23:12** IMG_0412: Akoni, Pua, Auntie Lei e Maleko in veranda, la sedia di vimini vuota con un bicchiere di bianco.
+- **23:14** Maleko si è alzato dicendo «Vado a cercare mia sorella» e se n'è andato. Akoni è sceso sulla scala della spiaggia con il telefono.
+- **23:15** IMG_0414: hai fotografato la sala attraverso la porta a vetri nel momento in cui scoppiavano i coriandoli. Akoni è sul bordo sinistro, sulla scala laterale.
+- **23:16** IMG_0413: Akoni, Pua e Auntie Lei. Maleko non c'era.
+- **23:40** Hai sentito Lani gridare.
+
+## Cosa dirai al tenente
+- Chi sei: giornalista, scrivi di urbanistica.
+- Dov'eri alle 23:15: in veranda con la macchina fotografica. Due foto, alle 23:12 e alle 23:16. (Non nomini IMG_0414: sta tra le foto di Kalea.)
+- L'ultima volta con Keoki vivo: al brindisi. L'ultima volta che gli hai parlato è stata una settimana fa, quando gli hai registrato una frase.
+- Ufficio o corridoio: mai.
+- Chi voleva Keoki morto: chi voleva che i conti restassero segreti.
+- Chi è K.H.: «Non lo so.» (È falso.)
+
+## Cosa sai e puoi dire se te lo chiedono
+- Alle 23:14 Maleko si è alzato e se n'è andato dalla veranda, dicendo «Vado a cercare mia sorella». Akoni è sceso poco dopo.
+- Hai fotografato l'ora esatta del «via»: il fotogramma è IMG_0414, ma devi consegnare la scheda per mostrarlo.
+- Keoki ti ha detto: «Ti darò qualcosa da fotografare, quando sarà il momento.»
 
 ## Obiettivi personali
-- Avere il registro di Hal, off the record.
-- Decidere cosa fare con Claudia.
+- Avere il registro di Keoki, off the record.
+- Decidere cosa fare con Kalea.
+- Non far vedere le foto private.
 
-## Motivo per il crimine
-Se Hal consegna il registro alla polizia, perdi lo scoop più importante della tua carriera.
+## Relazioni
+- **Kalea Hanohano** (segreto amore, tensione 2/3): ti piace, e ti spaventa quello che potresti scoprire su di lei.
+- **Kapono Medeiros** (ex, tensione 2/3): non si rassegna, e ti segue ovunque.
+- **Leilani Kealoha** (fonte, tensione 1/3): ti racconta la storia del quartiere. Una volta ti ha prestato dei soldi.
 
-## Suggerimento per il costume
+## Costume
 Giacca di cotone leggero, pantaloni scuri, macchina fotografica digitale al collo, badge stampa.
 
-## I tuoi obiettivi dell'Atto 1
-▢ Fare qualche foto alla serata: almeno due in veranda tra le 23:10 e le 23:20, con l'ora impostata sulla macchina.
-▢ Parlare con Hal, off the record, per sapere cosa farà con il registro.
-▢ Capire cosa nasconde Claudia, senza farle capire cosa provi.
-
-## La tua relazione con la vittima
-Hal è la tua fonte migliore. Ti ha detto che ti darà qualcosa «quando sarà il momento».
-
-## Relazioni con altri personaggi
-- **Claudia Delaney** (Segreto amore, tensione 2/3): ti piace, e ti spaventa quello che potresti scoprire su di lei.
-- **Jimbo Pelletier** (Ex, tensione 2/3): non si rassegna, e ti segue ovunque.
-- **Leilani Kealoha** (Fonte, tensione 1/3): ti racconta la storia del quartiere. Una volta ti ha prestato dei soldi.
+## Come giocarla
+Ironica e asciutta. Quando ti sfiorano il punto debole, fai una battuta e ti sposti. Con Kalea abbassi la voce.
 
 ---
-Ricorda: le foto che hai scattato valgono più di quello che pensi.
 La tua missione segreta è su un foglio a parte.
