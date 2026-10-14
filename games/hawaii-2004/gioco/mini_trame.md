@@ -18,7 +18,7 @@ Ogni giocatore ha una **missione segreta** di tre compiti. Serve a dare a ciascu
   2. la lampadina del corridoio svitata dopo le 23:13;
   3. nessuno ha attraversato la porta a vetri tra le 23:12 e le 23:19, quindi la versione di Maleko non regge;
   4. il cassetto era vuoto alle 22:55, quindi il revolver era stato preso al brindisi;
-  5. il movente: il rapporto di giugno su «K.H.» e le sei pagine consegnate a «M.H.».
+  5. il movente: il rapporto di giugno su «K.H.» e le sei pagine consegnate a un agente.
 - **Maleko**, assassino: +20 punti se nessuno lo accusa; +10 se lo accusa una sola persona; 0 se lo accusano in due o più. Se confessa di sua volontà prima che tu legga le accuse, +5 e il suo epilogo cambia.
 - **Kalea**, che non è l'assassina: +10 punti se nessuno la accusa dell'omicidio. Se la accusano ma lei ha detto la verità sul colloquio delle 23:10 prima del turno delle accuse, +5.
 - Chi accusa un innocente non perde punti. Perde l'occasione.

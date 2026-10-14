@@ -53,7 +53,7 @@
 - **Kalea Hanohano** (vittima del tuo ricatto, tensione 3/3): ti deve soldi, e tu non sai quanto ti convenga insistere.
 
 ## Costume
-Maglietta nera del Kapu, bermuda cargo, scarpe da ginnastica, un paio di guanti da lavoro in tasca.
+Camicia a fiori slavata aperta sopra la maglietta nera del Kapu, bermuda cargo, scarpe da ginnastica, un paio di guanti da lavoro in tasca.
 
 ## Come giocarlo
 Parli poco e guardi molto. Quando menti, guardi i guanti. Sei più onesto di quanto sembri.

@@ -8,4 +8,4 @@
 
 Ventidue righe, una al mese da settembre 2002. In fondo, il totale: **396.000 dollari**. Ogni riga ha una ricevuta firmata «K. Hanohano».
 
-Sotto, a matita, la scrittura di Keoki: «Giugno 2004: 6 pagine date a M.H., Reati Finanziari. Poi niente. Ho chiesto perché. Mi ha detto che non c'era abbastanza.»
+Sotto, a matita, la scrittura di Keoki: «Giugno 2004: 6 pagine date a un agente. Poi niente. Ho chiesto perché. Mi ha detto che non c'era abbastanza.»

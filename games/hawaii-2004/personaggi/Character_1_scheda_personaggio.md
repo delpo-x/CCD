@@ -24,7 +24,8 @@
 - **21:55** Keoki vi ha detto, a te e a Nalu: «Nessuno perderà niente, stanotte».
 - **22:30** Keoki ti ha chiesto chi ha le chiavi dell'ufficio e dei libri. Hai capito che sospettava di te.
 - **23:14:50** Sei salita sul palco col microfono. Ai fari non vedi oltre i primi tavoli.
-- **23:15** Hai fatto il conto alla rovescia. Al «via» Nalu ha sparato i coriandoli.
+- **23:15** Ultima chiamata, come ogni sabato dal 1971: campanella e conto alla rovescia dal palco. Al «via» Nalu ha sparato i coriandoli, per l'addio.
+- **23:20–23:30** Gli ospiti e il trio sono usciti dalla porta sulla strada. Hai chiuso a chiave dietro l'ultimo.
 - **23:40** Keoki non scendeva. Sei andata a chiamarlo e l'hai trovato morto. Hai gridato e chiamato il 911.
 
 ## Cosa dirai al tenente
@@ -37,6 +38,7 @@
 ## Cosa sai e puoi dire se te lo chiedono
 - Le chiavi dell'ufficio e dei libri le avete tu, Nalu (per la cassa) e Kapono (per i fusibili).
 - Dal palco, con i fari negli occhi, non hai visto il fondo della sala. Non puoi giurare chi c'era.
+- Alle 22:00 hai chiuso a chiave la porta sulla strada: da allora si esce e non si entra. Sull'elenco ci sono diciotto ospiti e il trio. Il trio ha lasciato amplificatori e cassa in fondo al corridoio fino a lunedì.
 - Hai aspettato venticinque minuti prima di cercarlo, perché Keoki ti aveva detto: «Non voglio nessuno fino a mezzanotte».
 
 ## Obiettivi personali

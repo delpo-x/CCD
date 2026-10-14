@@ -23,7 +23,7 @@
 - **21:45** Brindisi. Versavi dal bancone.
 - **22:05** Keoki ti ha chiesto la chiave della cassetta. Gli hai detto dei 4.000 dollari.
 - **23:10–23:20** Sei dietro il bancone, da dove vedi la porta a vetri della veranda. Tra le 23:12 e le 23:19 non è passato nessuno da quella porta, a parte Noe che si affacciava per le foto.
-- **23:14–23:17** Hai battuto quattro scontrini.
+- **23:14–23:17** Hai battuto quattro scontrini, sette drink in tutto, per gli ospiti in coda all'ultima chiamata.
 - **23:15** Al «via» di Lani hai sparato i coriandoli col pulsante del bancone.
 - **23:40** Hai sentito Lani gridare.
 
@@ -36,6 +36,7 @@
 
 ## Cosa sai e puoi dire se te lo chiedono
 - Nessuno è passato dalla porta a vetri tra le 23:12 e le 23:19, tranne Noe.
+- Dal bancone vedi anche la porta del corridoio (PB): tra le 23:10 e le 23:30 nessun ospite vi è entrato. Gli ospiti e il trio sono usciti dalla porta sulla strada.
 - Gli strofinacci KAPU stanno nel mobile del bar. Li usa tutto il personale.
 - La cassa degli amplificatori in fondo al corridoio è della band. La sposta Kapono.
 - La chiave d'ottone la tieni in tasca. Non sai cosa apra, ma lo immagini.

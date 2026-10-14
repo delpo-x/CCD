@@ -12,7 +12,7 @@ Come funziona la serata:
 - Alla fine ciascuno scrive chi, secondo lui, ha ucciso Keoki, e perché.
 - Tutti i personaggi hanno qualcosa da nascondere, tu compreso.
 
-Suggerimento per il costume: maglietta nera del Kapu, bermuda cargo, scarpe da ginnastica, un paio di guanti da lavoro in tasca.
+Suggerimento per il costume: camicia a fiori slavata aperta sopra la maglietta nera del Kapu, bermuda cargo, scarpe da ginnastica, guanti da lavoro in tasca.
 
 Dettagli dell'evento:
 - Luogo: ______________________

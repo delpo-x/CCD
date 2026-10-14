@@ -21,7 +21,7 @@ Genera le immagini con il tuo strumento preferito e salvale in questa cartella *
 > Ritratto a mezzo busto di un giovane hawaiano di 29 anni, capelli corti neri, sorriso sornione, camicia aloha rossa e grembiule nero, mani che tengono uno shaker, sfondo di bottiglie colorate dietro il bancone. [Blocco di stile comune]
 
 ### 03 · `ritratto_03_ray.png`
-> Ritratto a mezzo busto di un uomo di 41 anni, capelli castani pettinati all'indietro, camicia di lino bianca, anello al mignolo, sorriso sfuggente, sfondo di una veranda con luci al neon e palme. [Blocco di stile comune]
+> Ritratto a mezzo busto di un uomo di 41 anni, capelli castani pettinati all'indietro, camicia aloha a fiori slavata, anello al mignolo, sorriso sfuggente, sfondo di una veranda con luci al neon e palme. [Blocco di stile comune]
 
 ### 04 · `ritratto_04_brad.png`
 > Ritratto a mezzo busto di un uomo di 54 anni, capelli grigi curati, abito di lino chiaro con camicia azzurra aperta, grosso orologio al polso, sorriso da croupier, sfondo di un tavolo da cena con bicchieri. [Blocco di stile comune]
@@ -30,7 +30,7 @@ Genera le immagini con il tuo strumento preferito e salvale in questa cartella *
 > Ritratto a mezzo busto di una donna di 50 anni, capelli biondo scuro lisci, tailleur turchese, collana di plumeria bianca, telefono in mano, sorriso da pubblicità, sfondo di vetrate sulla spiaggia di notte. [Blocco di stile comune]
 
 ### 06 · `ritratto_06_marcus.png`
-> Ritratto a mezzo busto di un uomo di 49 anni, capelli scuri con qualche filo grigio, camicia aloha spenta e pantaloni cachi, sguardo attento e stanco, sfondo di un angolo buio del bancone. [Blocco di stile comune]
+> Ritratto a mezzo busto di un uomo di 49 anni, capelli scuri con qualche filo grigio, camicia aloha a fiori slavata e pantaloni cachi, sguardo attento e stanco, sfondo di un angolo buio del bancone. [Blocco di stile comune]
 
 ### 07 · `ritratto_07_claudia.png`
 > Ritratto a mezzo busto di una donna di 45 anni, capelli neri lisci con la riga laterale, tailleur avorio, collana di orchidee viola, espressione controllata, sfondo di una veranda con luci al neon. [Blocco di stile comune]
@@ -39,7 +39,7 @@ Genera le immagini con il tuo strumento preferito e salvale in questa cartella *
 > Ritratto a mezzo busto di una giovane donna di 33 anni, origine giapponese-hawaiana, capelli neri corti, giacca leggera, macchina fotografica digitale al collo, sguardo curioso e sfuggente, sfondo di una sala affollata. [Blocco di stile comune]
 
 ### 09 · `ritratto_09_jimbo.png`
-> Ritratto a mezzo busto di un uomo di 36 anni, naso rotto, capelli biondo sporco, maglietta nera con il logo del locale, braccia robuste, espressione sospettosa, sfondo del retro del locale con casse di legno. [Blocco di stile comune]
+> Ritratto a mezzo busto di un uomo di 36 anni, naso rotto, capelli biondo sporco, camicia a fiori slavata aperta su maglietta nera con il logo del locale, braccia robuste, espressione sospettosa, sfondo del retro del locale con casse di legno. [Blocco di stile comune]
 
 ### 10 · `ritratto_10_auntie_lei.png`
 > Ritratto a mezzo busto di una donna hawaiana di 71 anni, capelli bianchi raccolti, muumuu a fiori, collana di orchidee viola, bastone di koa, occhiali spessi, sguardo penetrante, sfondo di una sedia di vimini in veranda. [Blocco di stile comune]

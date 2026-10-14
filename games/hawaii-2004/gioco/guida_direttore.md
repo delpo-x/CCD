@@ -6,7 +6,7 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 
 - **Giocatori**: 10 più te. **Durata**: circa 2 ore e 15. **Luogo**: una sola stanza.
 - **Epoca**: sabato 14 agosto 2004, Honolulu. **Tono**: noir. **Lingua**: italiano.
-- **Premessa**: Keoki Kealoha, fondatore del Kapu Lounge, è morto nel suo ufficio poco prima di mezzanotte. Dieci persone sono nel locale. Tu arrivi alle 00:10 e nessuno esce finché non sai chi è stato.
+- **Premessa**: Keoki Kealoha, fondatore del Kapu Lounge, è morto nel suo ufficio poco prima di mezzanotte. Dieci persone sono rimaste nel locale. Tu arrivi alle 00:10 e nessuno esce finché non sai chi è stato.
 - **Obiettivo di tutti**: scoprire l'assassino. Il colpevole (che lo sa) vuole farla franca.
 - **Il gioco è di ruolo.** Ognuno interpreta il suo personaggio con coerenza: segreti, bugie, paure, affetti.
 
@@ -16,7 +16,7 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 |--------|------|
 | 0:00 – 0:10 | Introduzione e lettura della scena |
 | 0:10 – 0:35 | **L'intervista**: ogni giocatore risponde alle tue domande davanti a tutti (2 minuti a testa) |
-| 0:35 – 1:50 | **Il gioco libero** (75 minuti), con i rapporti del laboratorio a orario fisso |
+| 0:35 – 1:50 | **Il gioco libero** (75 minuti), con il referto a T+15 e gli altri rapporti a richiesta |
 | 1:50 – 2:05 | Il turno delle accuse |
 | 2:05 – 2:20 | La rivelazione, gli epiloghi, i punti |
 
@@ -24,7 +24,7 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 
 1. Manda a ogni giocatore invito, scheda personaggio e **missione segreta** (`personaggi/`). Dì di non mostrarle a nessuno.
 2. Stampa e ritaglia le **carte indizio** (`indizi/`). Tienile in buste divise per luogo (vedi `riferimento_indizi.md`).
-3. Stampa i **rapporti del laboratorio** (`indizi/rapporti/`) e mettili in ordine di orario.
+3. Stampa i **rapporti del laboratorio** (`indizi/rapporti/`) e tienili in ordine di numero. Solo il referto (01) esce da solo.
 4. Prepara le **buste degli oggetti** (`oggetti/`): ogni oggetto in una busta chiusa con il nome del proprietario, da consegnare a inizio serata.
 5. Prepara un **cartellone delle dichiarazioni**: un foglio grande con una colonna per ciascun personaggio, per segnare ciò che dice ai tuoi interrogatori. Servirà ai giocatori per scovare le bugie.
 6. Procurati: un cappello di paglia per te, un d6 per ogni giocatore, un cronometro, un quaderno, musica hawaiana bassa. Per ogni luogo del locale prepara un cartoncino con il nome (Ufficio, Corridoio, Cucina, Cassa degli ampli, Bancone, Scantinato, Veranda, Bagno) e appendilo alla parete come mappa. Nessuno ci va: serve a dire dove si sta cercando.
@@ -41,11 +41,25 @@ Si gioca in un'unica stanza: è la sala del Kapu dopo la chiusura. Tutti gli alt
 
 Carte indizio, rapporti e oggetti sono invece reali: passano di mano nella stanza, si mostrano, si nascondono, si sequestrano. Se un giocatore chiede com'è fatto il locale, rispondi a voce. La porta laterale della veranda la nomini solo se te la chiedono o se la nomina un personaggio.
 
+## Il locale chiuso: chi c'era e chi no
+
+Il giallo regge solo se il cerchio è chiuso. Tieni a mente queste regole e rispondi sempre allo stesso modo.
+
+- **Ospiti.** Il Kapu fa la sua ultima serata a invito. Oltre ai dieci giocatori ci sono diciotto ospiti (clienti fissi e amici, tutti sull'elenco di Lani) e un trio musicale. Sono figuranti: non hanno schede e non si interrogano.
+- **Porta sulla strada.** Alle 22:00 Lani la chiude a chiave dall'interno: da allora si esce e non si entra. Nessuno è arrivato dopo quell'ora.
+- **Ultima chiamata.** Ogni sabato dal 1971, alle 23:15, il Kapu fa l'ultima chiamata: campanella, conto alla rovescia dal palco, ultimi drink. Stasera, per l'addio, ci sono anche i cannoni dei coriandoli. L'orario è scritto sulla lavagna sopra il bancone e sul menù. Chi frequenta il Kapu lo sa.
+- **I sette drink.** Gli scontrini 23:14–23:17 (indizio 05) sono degli ospiti in coda all'ultima chiamata.
+- **Il corridoio.** Nessun ospite vi è entrato: la porta dietro il bancone (PB) è sotto gli occhi di Nalu, e nessun ospite è andato alla veranda.
+- **L'uscita.** Dalle 23:20 gli ospiti e il trio escono dalla porta sulla strada. Alle 23:30 Lani chiude a chiave dietro l'ultimo. Il trio lascia amplificatori e cassa fino a lunedì.
+- **Chi non c'è più.** I tuoi agenti arrivano alle 23:50: gli ospiti se ne sono già andati. Hai l'elenco di Lani. Se un giocatore chiede di sentirli: «Domani. Nessuno di loro aveva motivo di entrare nel corridoio.»
+
 ## Introduzione (da leggere)
 
 > «Signore e signori, sono il tenente Alapai, Omicidi di Honolulu. Keoki Kealoha è stato trovato morto nel suo ufficio alle 23:40. Gli hanno sparato con un colpo solo, e il medico dice che è successo tra le 23:10 e le 23:20. Il locale è chiuso. Nessuno esce finché non so chi è stato. Alcuni di voi hanno mentito, altri hanno taciuto, uno ha fatto qualcosa di peggio. Cominciamo dalle domande.»
 
 > «La sala è questa. Dietro il bancone c'è la porta del corridoio di servizio, con l'ufficio, il bagno signore, la cucina, lo scantinato e la porta sul vicolo. La veranda dà sulla spiaggia. Il resto del locale lo vedrete solo se me lo direte.»
+
+> «Stasera nel locale c'erano anche diciotto ospiti e un trio. Se ne sono andati tra le 23:20 e le 23:30, e Lani ha chiuso a chiave dietro l'ultimo. Restate voi dieci.»
 
 Consegna le buste degli oggetti. Ognuno è libero di aprirle, mostrarle, tacerle o passarle.
 
@@ -66,8 +80,8 @@ Tutto è consentito: parlare, cercare, interrogarsi, ricattarsi, allearsi, menti
 ### Cosa fai tu
 
 - **Ricerche.** Un giocatore dice a voce cosa cerca e dove. Se il luogo è giusto e dice cosa fa, passa un minuto di tempo reale e gli consegni la carta (`riferimento_indizi.md`). Nel frattempo il giocatore resta con te, al tavolo. L'**ufficio è sigillato**: si entra solo con te, al massimo due persone alla volta.
-- **Rapporti del laboratorio.** Alle ore indicate un agente (tu) porta un foglio. Leggi o consegna (`indizi/rapporti/`). Ordine: T+15, T+30, T+45, T+60.
-- **Chiamate.** Un giocatore può chiederti di telefonare a qualcuno (il medico, la compagnia telefonica, il conducente, il capo campagna). Rispondi con il contenuto del rapporto giusto, se è già pronto. Se non lo è, di' quando arriva.
+- **Rapporti del laboratorio.** Il referto (01) lo porti tu a T+15. Gli altri non escono da soli: un giocatore deve chiederli al tenente, nominando un sospetto e dicendo cosa vuole verificare («il tabulato di Kalea, perché mente sulla veranda»). Se la richiesta è generica, rispondi: «Verificare cosa, e su chi?». Il rapporto 03 si dà solo dopo il 02; il 06 e il 07 hanno le loro condizioni.
+- **Chiamate.** Un giocatore può chiederti di telefonare a qualcuno (il medico, la compagnia telefonica, il conducente, il capo campagna). Rispondi con il contenuto del rapporto giusto se la richiesta è motivata. Altrimenti: «Verificare cosa, e su chi?».
 - **Convocazioni.** Puoi chiamare chiunque al tuo tavolo (a due) per una domanda in privato. Usalo per mettere pressione al colpevole e per dare una mano a chi è fermo.
 - **Azioni rischiose.** Chi tenta qualcosa di furtivo (nascondere un oggetto, sfilare una busta, origliare, bluffare con te) tira un d6: 1–2 fallisce e viene notato; 3–4 riesce, ma lascia una traccia; 5–6 riesce. Decidi tu le conseguenze.
 - **Niente violenza.** Se qualcuno la propone, il tenente ordina di sedersi.
@@ -104,7 +118,7 @@ Se dopo 25 minuti di gioco libero nessuno ha una pista solida, scendi di un grad
 
 1. **Osservazione.** Sul cartellone, sottolinea due risposte che non quadrano. «Chi ha detto cosa, e chi può provarlo?»
 2. **Domanda diretta.** Convoca un giocatore e fagli ripetere dove era alle 23:15.
-3. **Rapporto anticipato.** Porta il rapporto successivo cinque minuti prima.
+3. **Rapporto offerto.** Proponi tu un rapporto che nessuno ha pensato di chiedere («Posso farmi mandare il tabulato di qualcuno. Di chi?»).
 4. **Consegna indiretta.** Fai trovare a un giocatore innocente una carta che non cercava (un petalo, la lampadina).
 5. **Soffiata.** Un agente ti riferisce: «Una delle persone nel corridoio dice di aver visto la luce spegnersi». Questo punta a Kapono.
 

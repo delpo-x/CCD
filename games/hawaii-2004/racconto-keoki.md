@@ -234,7 +234,7 @@ Keoki aprì la giacca. Strappò dal libro la pagina con le ventidue righe, lungo
 
 Poi tornò in sala. La band stava accordando, un accordo lungo, storto. Salì sullo sgabello vicino alla cassa e batté due volte sul legno.
 
-«Alle undici e dieci» disse, e la sala si voltò. «Mi chiudo in ufficio a scrivere quello che devo dire a mezzanotte. Non voglio nessuno. Chi ha qualcosa da dirmi, me lo dica adesso.»
+«Alle undici e dieci» disse, e la sala si voltò. «Mi chiudo in ufficio a scrivere quello che devo dire a mezzanotte. L'ultima chiamata è alle undici e un quarto, come ogni sabato dal '71: campanella, conto alla rovescia e, stasera, i cannoni. Non aspettatemi. Non voglio nessuno. Chi ha qualcosa da dirmi, me lo dica adesso.»
 
 Nessuno parlò. In fondo, un bicchiere fu posato con troppa cura sul vetro di un tavolo. Keoki non vide di chi era la mano.
 
@@ -274,7 +274,7 @@ Keoki rimase con la mano vuota e una metà di pagina nel cestino. Guardò l'orol
 
 Il cassetto era a un palmo, vuoto da prima delle undici. Sulla porta, la chiave. La guardò. Allungò un dito e non la toccò. Se la girava, nessuno sarebbe venuto, e lui sarebbe rimasto con un foglio e una bugia. Se la lasciava, sarebbe venuto qualcuno che aveva già sentito l'ora e il luogo, e che aveva portato via una pistola. Si disse che lo preferiva. Lo disse alla stanza, sottovoce, e la stanza non rispose.
 
-Dalla parete arrivava il conto alla rovescia dei coriandoli. Qualcuno, di là, urlava i numeri a vuoto, per provare. Sul muro l'orologio mangiava i secondi uno a uno.
+Dalla parete arrivava il conto alla rovescia dei coriandoli, l'ultima chiamata delle undici e un quarto, come ogni sabato dal '71. Solo che stasera ci sarebbero stati anche i cannoni. Qualcuno, di là, urlava i numeri a vuoto, per provare. Sul muro l'orologio mangiava i secondi uno a uno.
 
 Sotto la porta passava una striscia sottile di luce gialla, quella della lampadina del corridoio. A un certo punto si spense.
 

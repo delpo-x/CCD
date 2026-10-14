@@ -20,6 +20,7 @@
 
 ## Cosa hai fatto davvero (non lo dire a nessuno)
 - **20:30** Hai acceso il registratore (oggetto 06).
+- **Ultima chiamata.** Ogni sabato alle 23:15 il Kapu fa il conto alla rovescia dal palco con la campanella, e stasera ci saranno anche i coriandoli. È scritto sulla lavagna sopra il bancone. Hai scelto quell'ora per questo: il boato copre lo sparo.
 - **21:45** Al brindisi hai messo in pausa il registratore, sei uscito verso il corridoio e hai preso dal cassetto di Keoki il revolver che ti aveva mostrato. Hai calpestato i petali del vaso. Sei rientrato alle 21:52 e hai ripreso la registrazione.
 - **22:40–22:55** In veranda il registratore ha preso Akoni («Il voto è già comprato») e Kalea («Dillo a Keoki: finirà tutto domani»).
 - **23:09** Hai visto Kalea lasciare la veranda dalla porta laterale.
@@ -54,7 +55,7 @@ Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il 
 - **Noe Sato** (giornalista, tensione 2/3): scrive di urbanistica. Può rovinare la tua copertura, o aiutarla.
 
 ## Costume
-Camicia aloha spenta, pantaloni cachi, scarpe comode con suola di gomma, un fazzoletto di cotone bianco in tasca, un taccuino nella tasca posteriore.
+Camicia aloha a fiori slavata, pantaloni cachi, scarpe comode con suola di gomma, un fazzoletto di cotone bianco in tasca, un taccuino nella tasca posteriore.
 
 ## Come giocarlo
 Paziente, preciso, quasi senza emozioni. Cerchi di essere utile al tenente. Quando qualcuno nomina tua sorella, ti irrigidisci.

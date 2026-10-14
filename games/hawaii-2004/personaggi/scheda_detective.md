@@ -12,7 +12,7 @@ Parli piano e lasci che gli altri riempiano i silenzi. Non alzi mai la voce. Se 
 - Il 911 è stato chiamato alle 23:41. Gli agenti sono arrivati alle 23:50. Tu alle 00:10.
 - Il medico dice che è successo tra le 23:10 e le 23:20.
 - L'ufficio è sigillato. Il locale è chiuso. Nessuno esce.
-- Dieci persone erano nel locale. Ora sono tutte qui davanti a te.
+- Alle 23:15 nel locale c'erano anche diciotto ospiti e un trio musicale. Se ne sono andati dalla porta sulla strada entro le 23:30. Lani ha chiuso a chiave e ha l'elenco con i nomi. Restano i dieci davanti a te.
 
 Quello che non sai (e non dici nemmeno quando lo scopri, finché non serve): i quattro dettagli di `guida_direttore.md`, l'identità di Maleko, la storia del registro.
 
@@ -41,7 +41,7 @@ Servono a te per interpretare i giocatori quando portano una carta. Non spiegare
 | 10 | Bozza del testamento | «Chi eredita, e chi lo sapeva?» |
 | 11 | Biglietto di ricatto | «Cosa sapeva Kapono, e a chi lo ha scritto?» |
 | 12 | Taccuino di Noe | «K.H. = Kalea Hanohano? Che prove ha?» |
-| 13 | Copia del registro | «Chi è M.H.? Chi ha preso le sei pagine di giugno?» |
+| 13 | Copia del registro | «Quale agente? Chi sapeva delle sei pagine di giugno?» |
 | 14 | Cassetto vuoto | «Da quanto era vuoto? Chi sapeva cosa conteneva?» |
 | 15 | Lampadina allentata | «Chi è stato nel corridoio dopo le 23:13?» |
 | 16 | Braciere con tela verde | «Chi ha bruciato qualcosa in cucina?» |
@@ -49,6 +49,8 @@ Servono a te per interpretare i giocatori quando portano una carta. Non spiegare
 | 26 | IMG_0414 | «Questa foto sposta qualcuno. Dove?» |
 
 ## Domande guida per ogni giocatore (da usare nelle convocazioni)
+Sono aiuti, non un copione. Usale solo dal gradino 2 della scala dei suggerimenti, o se il tavolo è fermo.
+
 - **Lani**: «Cosa le ha detto suo padre alle 22:30? Perché le chiavi?»
 - **Nalu**: «Che cosa ha visto dal bancone alle 23:12?» (Nessuno è passato dalla porta a vetri.)
 - **Ike**: «Cosa c'era nel furgone? E cosa le ha detto Keoki in cucina?»

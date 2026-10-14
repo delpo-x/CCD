@@ -23,6 +23,8 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 
 ## Nalu Akana
 
+*Nota: ciò che Nalu ha visto alla porta a vetri (nessuno è passato tra le 23:12 e le 23:19) non è in intervista. Esce solo se un giocatore gli chiede chi passava.*
+
 | Dom. | Versione ufficiale | Verità | Valore |
 |------|--------------------|--------|--------|
 | 1 | Barman e figlio adottivo | – | Bassa |
@@ -30,7 +32,7 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 | 3 | «Alle 22:05 per una questione di cassa. Ha detto che l'avrei capita» | Parziale: sono i 4.000 dollari | Media |
 | 4 | «Il corridoio solo per le casse. L'ufficio no» | Vero | Bassa |
 | 5 | «Non so. Akoni mi guarda come un conto da riscuotere» | Parziale | Depistante |
-| 6 | *Chi è passato dalla porta a vetri tra le 23:12 e le 23:19?* «Nessuno, a parte Noe che si affacciava per le foto» | Vero | **Alta**: smentisce Maleko (che dice di essere passato dalla sala) |
+| 6 | *Chi ha ordinato i drink tra le 23:14 e le 23:17?* «Gli ospiti in coda all'ultima chiamata. Volti, non nomi: l'elenco ce l'ha Lani» | Vero | Media: chiude il cerchio degli ospiti, non scagiona né incrimina nessuno |
 
 ## Ike Mahoe
 

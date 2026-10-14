@@ -1,6 +1,6 @@
-# Rapporto 2 (T+30): Tabulato del cellulare di Kalea Hanohano
+# Rapporto 2 (a richiesta): Tabulato del cellulare di Kalea Hanohano
 
-*Orario: dopo 30 minuti di gioco libero, o prima se qualcuno lo chiede al tenente.*
+*Orario: non esce da solo. Si consegna quando un giocatore chiede al tenente il tabulato di Kalea e dice su cosa vuole una verifica.*
 
 22:58–23:09: chiamata in uscita a «Ufficio del sindaco».
 23:13:20: messaggio in uscita a «H. Soo»: «Chiamami. Subito.»

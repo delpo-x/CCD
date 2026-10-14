@@ -1,6 +1,6 @@
 # Riferimento indizi (SOLO DIRETTORE)
 
-Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un giocatore cerca nel luogo giusto e dice cosa fa. Si gioca in una stanza sola: il luogo è solo narrato, il giocatore lo dichiara a voce. I rapporti (T+15, T+30, T+45) escono a orario o a richiesta. Quasi nessuna carta incrimina o scagiona da sola: sono pezzi del puzzle.
+Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un giocatore cerca nel luogo giusto e dice cosa fa. Si gioca in una stanza sola: il luogo è solo narrato, il giocatore lo dichiara a voce. Il referto del medico legale esce a T+15. Gli altri rapporti escono solo a richiesta motivata: il giocatore nomina un sospetto e dice cosa vuole verificare. Se la richiesta è generica, il tenente risponde: «Verificare cosa, e su chi?». Quasi nessuna carta incrimina o scagiona da sola: sono pezzi del puzzle.
 
 ## Carte da ricerca
 
@@ -17,7 +17,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | 10 | Bozza del nuovo testamento | Cartellina, ufficio | Lani, Nalu, Auntie Lei | – | **Sì** |
 | 11 | Biglietto di ricatto | Tasca di Kapono | Kapono, e rafforza il movente di Kalea | – | Parziale |
 | 12 | Taccuino di Noe | Noe (lo mostra se interrogata) | Kalea (movente), Noe | – | **Sì** |
-| 13 | Copia del registro con nota di Keoki su «M.H.» | Cassetta K-3 (chiave di Nalu) | Kalea (ricevute), **Maleko (movente)** | – | No |
+| 13 | Copia del registro con nota di Keoki sulle sei pagine date a un agente | Cassetta K-3 (chiave di Nalu) | Kalea (ricevute); **Maleko** solo insieme al rapporto 06 | – | No |
 | 14 | Il cassetto vuoto | Ufficio, scrivania | Chiunque conoscesse il cassetto | – | No |
 | 15 | La lampadina riavvitata | Corridoio | **Maleko** | – | No (ma richiede Kapono) |
 | 16 | Il braciere con tela verde | Cucina | Chi ha usato il CS dopo lo sparo | – | No |
@@ -29,10 +29,10 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | Rapporto | Contenuto | Quando |
 |----------|-----------|--------|
 | 01 | Referto del medico legale | T+15 |
-| 02 | Tabulato di Kalea | T+30 |
-| 03 | Dichiarazione di Hanale Soo | T+30, a richiesta |
-| 04 | Dichiarazione del conducente | T+45 |
-| 05 | Tabulato di Akoni e dichiarazione di Lopaka | T+45 |
+| 02 | Tabulato di Kalea | A richiesta motivata |
+| 03 | Dichiarazione di Hanale Soo | A richiesta, dopo il rapporto 02 |
+| 04 | Dichiarazione del conducente | A richiesta motivata |
+| 05 | Tabulato di Akoni e dichiarazione di Lopaka | A richiesta motivata |
 | 06 | Scheda del sergente Hanohano | Solo se si controlla il nome |
 | 07 | Balistica e strofinaccio | 10 min dopo il ritrovamento del revolver |
 
@@ -53,7 +53,8 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | Auntie Lei | Schiena vista al brindisi; petali calpestati; «cassetto vuoto: mi hanno portato via il vecchio Smith» (22:55) | Se le si chiede del brindisi e della stanza |
 | Nalu | Nessuno è passato dalla porta a vetri tra le 23:12 e le 23:19 | Se gli si chiede chi passava |
 | Kapono | Kalea entra nel bagno alle 23:13; la lampadina era allentata alle 23:37 | Se gli si chiede del corridoio |
-| Lani | Dal palco, al «dieci», la sala è piena a metà; in fondo non vede nessuno ma era accecata dai fari | Se le si chiede del fondo sala |
+| Lani | Dal palco, al «dieci», la sala è piena di ospiti; in fondo non vede nessuno ma era accecata dai fari | Se le si chiede del fondo sala |
+| Lani | La porta sulla strada è chiusa a chiave dalle 22:00 (si esce, non si entra); alle 23:30 ha chiuso dietro l'ultimo ospite; ha l'elenco di diciotto ospiti e del trio | Se le si chiede chi c'era in sala |
 | Kalea | Passi pesanti nel corridoio alle 23:14, clic della porta dell'ufficio, un altro passo alle 23:19 | Solo se cede |
 | Akoni | Era sulla scala della spiaggia, al telefono, dalle 23:14 alle 23:16 | Se lo si incalza |
 

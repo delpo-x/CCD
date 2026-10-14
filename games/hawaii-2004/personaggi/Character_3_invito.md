@@ -12,7 +12,7 @@ Come funziona la serata:
 - Alla fine ciascuno scrive chi, secondo lui, ha ucciso Keoki, e perché.
 - Tutti i personaggi hanno qualcosa da nascondere, tu compreso.
 
-Suggerimento per il costume: camicia di lino bianca, pantaloni color sabbia, occhiali da sole in tasca, anello al mignolo.
+Suggerimento per il costume: camicia aloha a fiori slavata, pantaloni color sabbia, occhiali da sole in tasca, anello al mignolo.
 
 Dettagli dell'evento:
 - Luogo: ______________________

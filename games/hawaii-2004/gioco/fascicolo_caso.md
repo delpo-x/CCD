@@ -28,6 +28,8 @@ Ricostruito così:
 | **Scantinato** | Scala dal CS, portello sul vicolo per lo scarico. Magazzino di Ike. |
 | **Vicolo** | Dietro la PS. Qui parcheggia il furgone di Ike; il portello dello scantinato dà sul vicolo. |
 
+**Ospiti e porta sulla strada.** Serata a invito: oltre ai dieci ci sono diciotto ospiti e un trio. Alle 22:00 Lani chiude a chiave la porta sulla strada (si esce, non si entra). Dalle 23:20 ospiti e trio escono; alle 23:30 Lani richiude. Il trio lascia la backline fino a lunedì. Nessun ospite entra nel corridoio (la PB è sotto gli occhi di Nalu) né alla veranda.
+
 Tempi a piedi: veranda → ufficio 40 secondi (PL); sala → ufficio 30 secondi (PB); cucina → ufficio 15 secondi; ufficio → veranda 40 secondi.
 
 ## 3. La verità

@@ -10,10 +10,10 @@ Keoki era il suo informatore sul giro di tangenti di Pacific Crest. A giugno gli
 
 ## Metodo
 
-1. **21:45**, al brindisi di Keoki, esce dalla sala verso il corridoio di servizio, entra nell'ufficio vuoto e prende il revolver dal cassetto (Keoki glielo aveva mostrato). Mette in pausa il registratore dalle 21:45 alle 21:52. Calpesta i petali del vaso. Auntie Lei lo vede di spalle nello specchio dell'anticamera.
+1. **21:45**, al brindisi di Keoki, esce dalla sala verso il corridoio di servizio, entra nell'ufficio vuoto e prende il revolver dal cassetto (Keoki glielo aveva mostrato). Mette in pausa il registratore dalle 21:45 alle 21:52. Calpesta i petali del vaso. Auntie Lei lo vede di spalle nello specchio dell'anticamera: la camicia a fiori slavata la portano però anche Ike e Kapono, che al brindisi non hanno un alibi.
 2. **22:55**, Keoki apre il cassetto per fare spazio al caffè di Auntie Lei e lo trova vuoto. Lo dice a lei: «Mi hanno portato via il vecchio Smith.» Non lo dice a nessun altro, né manda a cercare l'arma. Aspetta chi verrà.
 3. **23:14**, Maleko lascia la veranda dalla porta laterale e mette in pausa il registratore. Passa davanti al bagno signore (dove Kalea è chiusa a telefonare), svita la lampadina del corridoio con un fazzoletto, entra nell'ufficio alle 23:14:40.
-4. **23:15**, al «via» di Lani e allo scoppio dei cannoni di Nalu, spara a Keoki al petto da meno di un metro. Keoki è seduto. Gli prende il registro verde dalla giacca.
+4. **23:15**, al «via» di Lani e allo scoppio dei cannoni di Nalu, spara a Keoki al petto da meno di un metro. Keoki è seduto. Gli prende il registro verde dalla giacca. L'ora l'ha scelta perché la conoscono tutti: l'ultima chiamata è alle 23:15 ogni sabato, e stasera sono previsti anche i cannoni.
 5. **23:15:25–23:19**, resta dentro il corridoio. Brucia il registro nel braciere della cucina. Avvolge il revolver in uno strofinaccio KAPU della cucina e lo nasconde nella cassa degli amplificatori vicino alla porta di servizio. Si lava le mani al lavello. Non usa la porta di servizio perché Ike e Kapono scaricano nel vicolo.
 6. **23:19**, riprende la registrazione. Rientra in veranda dalla porta laterale. Kalea è uscita dal bagno poco dopo e lo ha seguito.
 
@@ -46,7 +46,7 @@ Mente su tutto: la veranda, il telefono fino alle 23:30, di non essere mai entra
 5. **Il cassetto era vuoto alle 22:55**: l'arma è stata presa prima, al brindisi, quando Auntie Lei ha visto una schiena nel corridoio.
 6. **Il registratore di Maleko** ha due pause: 21:45–21:52 e 23:14–23:19. Coincidono con il furto e con l'omicidio.
 7. **Maleko mente sulla sala**: dice di essere passato dalla porta a vetri, ma Nalu non ha visto nessuno.
-8. **Il movente** è nella copia di Nalu (13: «6 pagine date a M.H.») e nel rapporto 6: l'ha insabbiato lui.
+8. **Il movente** è nella copia di Nalu (13: «6 pagine date a un agente») e nel rapporto 6, che dice chi era quell'agente: l'ha insabbiato lui.
 
 Nessuna di queste cose da sola basta. Tutte insieme non lasciano altra spiegazione.
 

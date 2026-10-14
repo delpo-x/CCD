@@ -5,7 +5,7 @@
 ## Ruolo: Importatore
 
 ## Descrizione pubblica
-41 anni, camicia di lino e un affare sempre in corso. Fratello minore di Akoni. Si presenta come importatore di articoli da regalo, e nessuno gli ha mai chiesto quali.
+41 anni, camicia aloha a fiori slavata e un affare sempre in corso. Fratello minore di Akoni. Si presenta come importatore di articoli da regalo, e nessuno gli ha mai chiesto quali.
 
 ## Tratti della personalità
 - affascinante
@@ -51,7 +51,7 @@
 - **Nalu Akana** (compagno segreto, tensione 1/3): con lui non devi recitare.
 
 ## Costume
-Camicia di lino bianca, pantaloni color sabbia, occhiali da sole in tasca, anello al mignolo.
+Camicia aloha a fiori slavata, pantaloni color sabbia, occhiali da sole in tasca, anello al mignolo.
 
 ## Come giocarlo
 Sorridi quando menti. Parli con le mani e le tieni in tasca quando dici la verità.
