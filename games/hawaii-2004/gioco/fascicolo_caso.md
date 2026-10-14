@@ -78,7 +78,7 @@ Non usa la PS: nel vicolo, dal portello dello scantinato, Ike e Kapono scaricano
 | 23:14 | **Maleko** | Lascia la veranda. |
 | 23:14:40 | **Maleko** | Entra nell'ufficio. |
 | 23:15 | Lani, Nalu | Conto alla rovescia. Nalu spara i coriandoli. Maleko spara a Keoki. |
-| 23:16 | Noe | IMG_0413: Akoni, Pua, Auntie Lei. Maleko non c'è. |
+| 23:16 | Noe | IMG_0414: Akoni, Pua, Auntie Lei. Maleko non c'è. |
 | 23:17–23:19 | **Maleko** | Brucia il registro, nasconde il revolver, si lava le mani. |
 | 23:19 | Kalea | Esce dal bagno. |
 | 23:20 | Maleko, Kalea | Rientrano in veranda, a un minuto di distanza. |

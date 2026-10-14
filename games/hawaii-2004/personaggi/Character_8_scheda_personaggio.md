@@ -23,13 +23,13 @@
 - **23:00** Ti sei messa in veranda con la macchina. Akoni, Pua e Auntie Lei erano lì.
 - **23:12** IMG_0412: Akoni, Pua, Auntie Lei e Maleko in veranda, la sedia di vimini vuota con un bicchiere di bianco.
 - **23:14** Maleko si è alzato dicendo «Vado a cercare mia sorella» e se n'è andato. Akoni è sceso sulla scala della spiaggia con il telefono.
-- **23:15** IMG_0414: hai fotografato la sala attraverso la porta a vetri nel momento in cui scoppiavano i coriandoli. Akoni è sul bordo sinistro, sulla scala laterale.
-- **23:16** IMG_0413: Akoni, Pua e Auntie Lei. Maleko non c'era.
+- **23:15** IMG_0413: hai fotografato la sala attraverso la porta a vetri nel momento in cui scoppiavano i coriandoli. Akoni è sul bordo sinistro, sulla scala laterale.
+- **23:16** IMG_0414: Akoni, Pua e Auntie Lei. Maleko non c'era.
 - **23:40** Hai sentito Lani gridare.
 
 ## Cosa dirai al tenente
 - Chi sei: giornalista, scrivi di urbanistica.
-- Dov'eri alle 23:15: in veranda con la macchina fotografica. Due foto, alle 23:12 e alle 23:16. (Non nomini IMG_0414: sta tra le foto di Kalea.)
+- Dov'eri alle 23:15: in veranda con la macchina fotografica. Due foto, alle 23:12 e alle 23:16. (Non nomini IMG_0413: sta tra le foto di Kalea.)
 - L'ultima volta con Keoki vivo: al brindisi. L'ultima volta che gli hai parlato è stata una settimana fa, quando gli hai registrato una frase.
 - Ufficio o corridoio: mai.
 - Chi voleva Keoki morto: chi voleva che i conti restassero segreti.
@@ -37,7 +37,7 @@
 
 ## Cosa sai e puoi dire se te lo chiedono
 - Alle 23:14 Maleko si è alzato e se n'è andato dalla veranda, dicendo «Vado a cercare mia sorella». Akoni è sceso poco dopo.
-- Hai fotografato l'ora esatta del «via»: il fotogramma è IMG_0414, ma devi consegnare la scheda per mostrarlo.
+- Hai fotografato l'ora esatta del «via»: il fotogramma è IMG_0413, ma devi consegnare la scheda per mostrarlo.
 - Keoki ti ha detto: «Ti darò qualcosa da fotografare, quando sarà il momento.»
 
 ## Obiettivi personali

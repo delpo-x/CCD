@@ -85,19 +85,19 @@ EVIDENCE = [
     ("E06-0412b", "Pua",      "VER",   "23:12:00", "23:12:00"),
     ("E06-0412c", "Auntie Lei", "VER",   "23:12:00", "23:12:00"),
     ("E06-0412d", "Maleko",     "VER",   "23:12:00", "23:12:00"),
-    ("E06-0413a", "Akoni",       "VER",   "23:16:00", "23:16:00"),
-    ("E06-0413b", "Pua",      "VER",   "23:16:00", "23:16:00"),
-    ("E06-0413c", "Auntie Lei", "VER",   "23:16:00", "23:16:00"),
+    ("E06-0414a", "Akoni",       "VER",   "23:16:00", "23:16:00"),
+    ("E06-0414b", "Pua",      "VER",   "23:16:00", "23:16:00"),
+    ("E06-0414c", "Auntie Lei", "VER",   "23:16:00", "23:16:00"),
     ("E06-noe12", "Noe",        "VER",   "23:12:00", "23:12:00"),   # la fotografa, in veranda quando scatta
     ("E06-noe16", "Noe",        "VER",   "23:16:00", "23:16:00"),
-    ("E26-brad",  "Akoni",       "VER",   "23:15:10", "23:15:10"),   # IMG_0414
+    ("E26-brad",  "Akoni",       "VER",   "23:15:10", "23:15:10"),   # IMG_0413
     ("E26-vicki", "Pua",      "VER",   "23:15:10", "23:15:10"),
     ("E26-lei",   "Auntie Lei", "VER",   "23:15:10", "23:15:10"),
     ("E26-noe",   "Noe",        "VER",   "23:15:10", "23:15:10"),
     ("Maleko-ret", "Maleko",    "VER",   "23:20:00", "23:20:00"),   # rientro visto dai presenti
 ]
 EV_GROUPS = {  # per spegnere/accendere in blocco
-    "IMG_0414": ["E26-brad", "E26-vicki", "E26-lei", "E26-noe"],
+    "IMG_0413": ["E26-brad", "E26-vicki", "E26-lei", "E26-noe"],
     "chiamata_Soo": ["E02"],
     "conducente": ["E07-a", "E07-b"],
 }
@@ -152,7 +152,7 @@ if __name__ == "__main__":
     assert full == ["Maleko"], full
     for gname, ids in EV_GROUPS.items():
         s = table(all_ids - set(ids), "Senza %s" % gname)
-    # Solo prove «facili» (palco, cannoni, scontrini, foto 0412/0413)
+    # Solo prove «facili» (palco, cannoni, scontrini, foto 0412/0414)
     easy = {i for i in all_ids if i.startswith(("E-", "E05", "E06", "Maleko"))}
-    table(easy, "Solo prove facili (senza Soo, conducente, IMG_0414)")
+    table(easy, "Solo prove facili (senza Soo, conducente, IMG_0413)")
     print("\nKiller unico con tutte le prove: Maleko. OK")

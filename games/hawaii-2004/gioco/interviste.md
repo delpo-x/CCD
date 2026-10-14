@@ -94,7 +94,7 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 | Dom. | Versione ufficiale | Verità | Valore |
 |------|--------------------|--------|--------|
 | 1 | Giornalista, scrive di urbanistica | – | Bassa |
-| 2 | «In veranda con la macchina. Due foto: alle 23:12 e alle 23:16» | Parziale: ne ha tre (IMG_0414) | Alta se si apre la macchina |
+| 2 | «In veranda con la macchina. Due foto: alle 23:12 e alle 23:16» | Parziale: ne ha tre (IMG_0413) | Alta se si apre la macchina |
 | 3 | «L'ho visto al brindisi. L'ultima volta che gli ho parlato è stata una settimana fa: gli ho registrato una frase» | Vero | Media |
 | 4 | «Mai» | Vero | Bassa |
 | 5 | «Chi vuole che i conti restino segreti» | Parziale | Media |

@@ -31,10 +31,10 @@ Mente su tutto: la veranda, il telefono fino alle 23:30, di non essere mai entra
 | Nalu | Debiti, testamento, furto | Spara i coriandoli al «via» davanti alla sala | Cannoni, scontrini (05) |
 | Ike | Perde lo scantinato | In scantinato con Kapono dalle 23:05 | Bolla (07), conducente (rapporto 4) |
 | Kapono | Ricatto, contrabbando | Esce solo un minuto (23:13), poi è al portello | Conducente (rapporto 4) |
-| Akoni | Pagamenti a Kalea, affare da 6,5 milioni | Sulla scala della spiaggia con il telefono | IMG_0414 (26), rapporto 5 |
-| Pua | Commissione di 260.000 | In veranda, sentita da Lopaka | IMG_0414, rapporto 5 |
-| Noe | Scoop, amore | Scatta IMG_0414 dalla veranda alle 23:15 | IMG_0414 |
-| Auntie Lei | Terra di famiglia | Seduta in veranda, non può muoversi in fretta | Foto, IMG_0414 |
+| Akoni | Pagamenti a Kalea, affare da 6,5 milioni | Sulla scala della spiaggia con il telefono | IMG_0413 (26), rapporto 5 |
+| Pua | Commissione di 260.000 | In veranda, sentita da Lopaka | IMG_0413, rapporto 5 |
+| Noe | Scoop, amore | Scatta IMG_0413 dalla veranda alle 23:15 | IMG_0413 |
+| Auntie Lei | Terra di famiglia | Seduta in veranda, non può muoversi in fretta | Foto, IMG_0413 |
 | Kalea | Il registro la distrugge | Al telefono con Soo dalle 23:14:05 alle 23:17:20, nel bagno | Rapporti 2 e 3 |
 
 ## La catena che incastra Maleko

@@ -10,7 +10,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | 03 | Revolver nella cassa degli ampli | Corridoio, in fondo | Chi conosce il locale (staff, Ike, Kapono, Nalu) | – | Parziale |
 | 04 | Petali di orchidea viola | Ufficio e vaso del corridoio | Kalea, Auntie Lei | – | **Sì** (il lei perde petali, la suola è di un uomo) |
 | 05 | Scontrini del bar | Bancone | – | Nalu | No |
-| 06 | Foto IMG_0412 e IMG_0413 | Noe (la mostra se interrogata) | – | Akoni, Pua, Auntie Lei (parzialmente); Maleko c'è solo alle 23:12 | No |
+| 06 | Foto IMG_0412 e IMG_0414 | Noe (la mostra se interrogata) | – | Akoni, Pua, Auntie Lei (parzialmente); Maleko c'è solo alle 23:12 | No |
 | 07 | Bolla di consegna dello scantinato | Scantinato | Ike e Kapono (contrabbando) | Ike, Kapono (rafforzato dal rapporto 4) | **Sì** |
 | 08 | Mezza pagina del registro | Cestino dell'ufficio | Kalea | – | No (ma non dice chi ha sparato) |
 | 09 | Offerta di Pacific Crest | Cartellina, ufficio | Akoni, Pua | – | **Sì** |
@@ -22,7 +22,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | 15 | La lampadina riavvitata | Corridoio | **Maleko** | – | No (ma richiede Kapono) |
 | 16 | Il braciere con tela verde | Cucina | Chi ha usato il CS dopo lo sparo | – | No |
 | 17 | Strofinacci mancanti | Cucina | Chi è passato dalla cucina | – | No |
-| 26 | IMG_0414 | Noe (scheda della macchina) | – | Akoni, Pua, Auntie Lei, Noe | No |
+| 26 | IMG_0413 | Noe (scheda della macchina) | – | Akoni, Pua, Auntie Lei, Noe | No |
 
 ## Rapporti
 
@@ -44,7 +44,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | 06 Registratore di Maleko | Due pause (21:45–21:52 e 23:14–23:19) | Se il tenente lo sequestra o Maleko lo consegna |
 | 07 Busta di Kalea | 5.000 dollari e metà pagina nella borsetta | Perquisizione |
 | 08 Registratore di Noe | Keoki: «E un terzo, che mi ha chiesto di non dire il nome» | Se Noe lo riproduce |
-| 09 Macchina di Noe | IMG_0412–0414 | Se Noe la consegna |
+| 09 Macchina di Noe | IMG_0412–0413 | Se Noe la consegna |
 
 ## Testimonianze che valgono come prove
 
@@ -81,4 +81,4 @@ La matrice dei sospetti, le interviste e la soluzione citano le prove con un cod
 | E23 | Dichiarazione del conducente | `indizi/rapporti/rapporto_04.md` |
 | E24 | Scheda del sergente Hanohano | `indizi/rapporti/rapporto_06.md` |
 | E25 | Tabulato di Akoni e dichiarazione di Lopaka | `indizi/rapporti/rapporto_05.md` |
-| E26 | Foto IMG_0414 | `indizi/indizio_26.md` |
+| E26 | Foto IMG_0413 | `indizi/indizio_26.md` |

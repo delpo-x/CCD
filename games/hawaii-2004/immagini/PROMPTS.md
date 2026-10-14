@@ -105,7 +105,7 @@ Genera le immagini con il tuo strumento preferito e salvale in questa cartella *
 ### 17 · `indizio_17_strofinacci.png`
 > Una pila di strofinacci bianchi con la sigla «KAPU» ricamata in blu, sul bancone di un bar, ne manca uno dalla pila. [Blocco di stile comune]
 
-### 26 · `indizio_26_img_0414.png`
+### 26 · `indizio_26_img_0413.png`
 > Il display di una macchina fotografica digitale compatta del 2004 che mostra una foto notturna: una veranda, una porta a vetri con coriandoli che esplodono dietro il vetro, un uomo di profilo con il telefono all'orecchio su una scala laterale, una donna anziana seduta. [Blocco di stile comune]
 
 ---

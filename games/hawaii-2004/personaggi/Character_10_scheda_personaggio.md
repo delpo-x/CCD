@@ -25,7 +25,7 @@
 - **23:12** IMG_0412: eri sulla tua sedia.
 - **23:14** Maleko si è alzato dicendo «Vado a cercare mia sorella» e se n'è andato. Akoni è sceso sulla scala. Pua è rimasta vicino alla porta.
 - **23:15** Hai sentito i coriandoli, e forse un colpo più secco. Non hai capito.
-- **23:16** IMG_0413: eri sulla sedia.
+- **23:16** IMG_0414: eri sulla sedia.
 - **23:40** Hai sentito Lani gridare.
 
 ## Cosa dirai al tenente

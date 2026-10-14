@@ -11,7 +11,7 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 | 1 | M | Sorella nel registro. Se esce, lei va in carcere e lui perde il distintivo | E12, E20, E24, Lani | «Voleva proteggerla, non ucciderlo» |
 | 2 | M | Rapporto di giugno «nessun riscontro» su K.H. mentre Keoki gli aveva già dato le pagine di giugno | E24 | «Keoki ha esagerato» |
 | 3 | A | Conosceva il revolver nel cassetto (era l'informatore a trovarlo di notte) | E20 | «Lo sapevano anche Noe e Kalea» |
-| 4 | O | Lascia la veranda alle 23:14, non c'è in IMG_0413, rientra alle 23:20: la finestra copre lo sparo | E06, tutti | «Cercava Kalea, l'ha dichiarato lui» |
+| 4 | O | Lascia la veranda alle 23:14, non c'è in IMG_0414, rientra alle 23:20: la finestra copre lo sparo | E06, tutti | «Cercava Kalea, l'ha dichiarato lui» |
 | 5 | B | Dice che il corridoio era illuminato; la lampadina era allentata dopo le 23:14 | E15, Kapono | «Si sbaglia sull'orario» |
 | 6 | T | Il registratore ha due pause: 21:45–21:52 (il furto del revolver) e 23:14–23:19 (lo sparo). Conferma, non pista: manca il boato delle 23:15 e si sequestra solo dopo un'accusa documentata | E18 | «Era in bagno, stanco di registrare» |
 | 7 | C | Non scagiona Kalea: «Non so dov'era». Lascia che sia Pua a nominare il petalo | Interrogatorio, Pua | «È suo fratello e non vuole accusarla» |
@@ -43,7 +43,7 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 | 5 | C | Dice a Pua «serve un piano B» alle 23:10 | Pua, Lei | Piano B = rilancio |
 | 6 | M | Ha prestato soldi a Lani e a Nalu per tenerli legati | Lani, Nalu | – |
 
-**Scagionamento: B.** Foto IMG_0412 e IMG_0413 (con il telefono all'orecchio nella seconda) più il tabulato: chiamata a Las Vegas 23:13:10–23:16:30. Il suo capo Lopaka sente Pua gridare sullo sfondo e conferma che erano insieme.
+**Scagionamento: B.** Foto IMG_0412 e IMG_0414 (con il telefono all'orecchio nella seconda) più il tabulato: chiamata a Las Vegas 23:13:10–23:16:30. Il suo capo Lopaka sente Pua gridare sullo sfondo e conferma che erano insieme.
 
 ## Pua Mahoe
 
@@ -103,12 +103,12 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 |---|------|----------|-------|-------------------|
 | 1 | M | Se Keoki consegna il registro alla polizia perde lo scoop | Sua scheda | – |
 | 2 | M | Ama Kalea: potrebbe volerla salvare | Kapono, Kalea | – |
-| 3 | O | È la fotografa: non appare mai nelle sue foto. Nessuna prova diretta tra IMG_0412 e IMG_0413 finché non si guarda IMG_0414 | E06 | La vedono Akoni, Pua, Lei |
+| 3 | O | È la fotografa: non appare mai nelle sue foto. Nessuna prova diretta tra IMG_0412 e IMG_0414 finché non si guarda IMG_0413 | E06 | La vedono Akoni, Pua, Lei |
 | 4 | B | Dice di non sapere chi sia K.H.; il taccuino dice «Kalea Hanohano??» | E12 | Non voleva accusare nessuno |
 | 5 | A | Keoki l'ha ricevuta di notte (off the record) e le ha mostrato il cassetto | E20 | – |
 | 6 | C | Ha seguito Kalea con lo sguardo tutta la sera | Kapono | – |
 
-**Scagionamento: B.** IMG_0414 (E26) è scattata da lei alle 23:15 dalla veranda: si vede la punta della sua scarpa. In più Lei, Akoni e Pua la vedono sempre in veranda, e nella telefonata di Akoni alle 23:16 si sente la sua voce chiedere un'altra posa (E25).
+**Scagionamento: B.** IMG_0413 (E26) è scattata da lei alle 23:15 dalla veranda: si vede la punta della sua scarpa. In più Lei, Akoni e Pua la vedono sempre in veranda, e nella telefonata di Akoni alle 23:16 si sente la sua voce chiedere un'altra posa (E25).
 
 ## Kapono Medeiros
 

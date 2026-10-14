@@ -34,7 +34,7 @@ Servono a te per interpretare i giocatori quando portano una carta. Non spiegare
 | 03 | Revolver nella cassa degli ampli | «Chi sposta quella cassa? Chi sapeva che era lì?» |
 | 04 | Petali viola | «Chi porta orchidee viola? E chi ha una suola da uomo?» |
 | 05 | Scontrini | «Il bancone non si muove. E chi non è passato dalla porta a vetri?» |
-| 06 | Foto IMG_0412/0413 | «Chi c'è alle 23:12 e non c'è alle 23:16?» |
+| 06 | Foto IMG_0412/0414 | «Chi c'è alle 23:12 e non c'è alle 23:16? E dov'è la 0413?» |
 | 07 | Bolla di consegna | «Cosa c'era nelle casse? E il conducente cosa ha visto?» |
 | 08 | Mezza pagina nel cestino | «Chi sapeva delle iniziali? Dov'è l'altra metà?» |
 | 09 | Offerta di Pacific Crest | «Una firma da portare lunedì. Chi ha fretta?» |
@@ -46,7 +46,7 @@ Servono a te per interpretare i giocatori quando portano una carta. Non spiegare
 | 15 | Lampadina allentata | «Chi è stato nel corridoio dopo le 23:13?» |
 | 16 | Braciere con tela verde | «Chi ha bruciato qualcosa in cucina?» |
 | 17 | Strofinacci mancanti | «Chi può entrare in cucina? E chi si lava le mani?» |
-| 26 | IMG_0414 | «Questa foto sposta qualcuno. Dove?» |
+| 26 | IMG_0413 | «Questa foto sposta qualcuno. Dove?» |
 
 ## Domande guida per ogni giocatore (da usare nelle convocazioni)
 Sono aiuti, non un copione. Usale solo dal gradino 2 della scala dei suggerimenti, o se il tavolo è fermo.
