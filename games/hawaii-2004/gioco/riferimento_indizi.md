@@ -55,7 +55,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | Kapono | Kalea entra nel bagno alle 23:13; la lampadina era allentata alle 23:37 | Se gli si chiede del corridoio |
 | Lani | Dal palco, al «dieci», la sala è piena di ospiti; in fondo non vede nessuno ma era accecata dai fari | Se le si chiede del fondo sala |
 | Lani | La porta sulla strada è chiusa a chiave dalle 22:00 (si esce, non si entra); alle 23:30 ha chiuso dietro l'ultimo ospite; ha l'elenco di diciotto ospiti e del trio | Se le si chiede chi c'era in sala |
-| Kalea | Passi pesanti nel corridoio alle 23:14, clic della porta dell'ufficio, un altro passo alle 23:19 | Solo se cede |
+| Kalea | La luce sotto la porta del bagno si spegne prima dei passi pesanti alle 23:14 (la lampadina è stata svitata prima, non dopo); clic della porta dell'ufficio, un altro passo alle 23:19 | Solo se cede |
 | Akoni | Era sulla scala della spiaggia, al telefono, dalle 23:14 alle 23:16 | Se lo si incalza |
 
 ## Mappa delle prove

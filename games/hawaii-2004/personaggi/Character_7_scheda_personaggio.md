@@ -26,7 +26,7 @@
 - **23:09** Sei andata all'ufficio dalla porta laterale. Keoki ti aspettava per le 23:10.
 - **23:10–23:13** Colloquio con Keoki. Ti ha mostrato la pagina con «K.H.» e ti ha dato tempo fino a mezzanotte per dimetterti. Gliel'hai strappata di mano.
 - **23:13** Sei uscita, ti sei chiusa nel bagno signore e hai scritto a Hanale Soo, il tuo capo campagna: «Chiamami. Subito.»
-- **23:14:05–23:17:20** Soo ti ha chiamato. Hai parlato sottovoce di sondaggi. Dal corridoio sono arrivati passi pesanti e regolari, un clic di porta e poi i botti dei coriandoli.
+- **23:14:05–23:17:20** Soo ti ha chiamato. Hai parlato sottovoce di sondaggi. La striscia di luce sotto la porta del bagno si è spenta; subito dopo dal corridoio sono arrivati passi pesanti e regolari, un clic di porta e poi i botti dei coriandoli.
 - **23:19** Hai sentito altri passi, di ritorno verso la veranda. Sei uscita dal bagno e sei rientrata in veranda alle 23:20.
 
 ## Cosa dirai al tenente
@@ -38,6 +38,7 @@
 
 ## Cosa sai e puoi dire se te lo chiedono
 - Hai riconosciuto, o credi di aver riconosciuto, il passo di Maleko nel corridoio alle 23:14. Lo dirai solo se cedi.
+- La striscia di luce sotto la porta del bagno si è spenta prima dei passi, non dopo: qualcuno ha tolto la luce del corridoio e poi è passato. Lo dirai solo se cedi.
 - In mezzo ai botti dei coriandoli hai sentito un colpo più secco. Hai capito solo dopo cos'era.
 - Dopo il colloquio, Keoki era vivo e seduto alla scrivania quando sei uscita.
 - Il tuo lei è viola e perde petali ovunque.

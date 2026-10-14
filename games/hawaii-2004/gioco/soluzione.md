@@ -41,7 +41,7 @@ Mente su tutto: la veranda, il telefono fino alle 23:30, di non essere mai entra
 
 1. **Escludere** tutti gli altri con le prove oggettive. Restano Maleko e (finché non si legge il rapporto 3) Kalea.
 2. **Kalea non c'era.** La sua chiamata, con acqua e eco e «passi fuori», la colloca nel bagno. Prova che ha mentito sulla veranda, non che ha sparato.
-3. **Il corridoio era al buio**: la lampadina è allentata dopo le 23:13 (Kapono la vede accesa alle 23:13). Chi è passato dal corridoio dopo le 23:14 ha voluto non essere visto.
+3. **Il corridoio era al buio**: la lampadina è allentata dopo le 23:13 (Kapono la vede accesa alle 23:13) e prima dei passi: Kalea, se cede, ricorda che la luce sotto la porta del bagno si è spenta prima di sentirli. Chi è passato dal corridoio dopo le 23:14 ha voluto non essere visto.
 4. **Il percorso dell'assassino è interno**: revolver nella cassa degli ampli, registro bruciato in cucina, strofinaccio mancante. Dalla porta di servizio non è uscito nessuno (conducente). Quindi era già dentro il corridoio.
 5. **Il cassetto era vuoto alle 22:55**: l'arma è stata presa prima, al brindisi, quando Auntie Lei ha visto una schiena nel corridoio.
 6. **Il registratore di Maleko** ha due pause: 21:45–21:52 e 23:14–23:19. Coincidono con il furto e con l'omicidio.
