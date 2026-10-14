@@ -1,6 +1,6 @@
 # Criticità aperte (SOLO DIRETTORE)
 
-Nota di revisione del 14 ottobre 2026, scritta rileggendo il caso come farebbe un critico di gialli. I tre punti critici (1, 2, 3) sono stati corretti il 14 ottobre 2026 (vedi «Applicato»); tutto il resto è ancora aperto. Il caso regge allo script di verifica (`verifica/verifica_caso.py`), ma lo script prova che il colpevole è unico, non che sia difficile da trovare.
+Nota di revisione del 14 ottobre 2026, scritta rileggendo il caso come farebbe un critico di gialli. I tre punti critici (1, 2, 3) sono stati corretti il 14 ottobre 2026 (vedi «Applicato»); anche i punti 4–12 e i minori sono stati corretti. Il caso regge allo script di verifica (`verifica/verifica_caso.py`), ma lo script prova che il colpevole è unico, non che sia difficile da trovare.
 
 ## Giudizio
 L'impianto è solido e l'esca Kalea (corrotta ma innocente) è ben costruita. Tre debolezze strutturali: il caso si risolve quasi da solo, il cerchio dei sospettati non è chiuso, il 23:15 non ha una causa nel mondo di gioco. Il «90/100» del registro è una stima, non un collaudo con giocatori veri.
@@ -10,6 +10,8 @@ L'impianto è solido e l'esca Kalea (corrotta ma innocente) è ben costruita. Tr
 - **Punto 2.** Fissata la conta: diciotto ospiti e un trio, porta sulla strada chiusa alle 22:00, uscita tra le 23:20 e le 23:30, nessun ospite nel corridoio (la PB è sotto gli occhi di Nalu). I sette drink degli scontrini sono degli ospiti. Scritto in guida, fascicolo, scheda del tenente, Lani, Nalu, riferimento indizi, indizio 05, README.
 - **Punto 3.** Il 23:15 è l'ultima chiamata, rito del Kapu dal 1971 (campanella e conto alla rovescia), scritto sulla lavagna sopra il bancone. Stasera si aggiungono i cannoni. Aggiunto in guida, soluzione, scheda di Maleko e racconto.
 - Effetto collaterale: il T+60 inesistente della guida è sparito.
+- **Punti 4–12 e minori (14 ottobre 2026).** 4: Keoki dice «Meglio. Adesso so chi verrà» ad Auntie Lei. 5: Maleko non accusa Kalea, il petalo lo nota Pua. 6: la luce sotto la porta del bagno si spegne prima dei passi (Kalea, se cede). 7: il nastro ha l'ancora «manca il boato» e il grido di Ike prima della pausa. 8: foto 0412 (23:12), 0413 (23:15, nascosta), 0414 (23:16). 9: l'ufficio resta aperto durante le serate. 10: nuova `piantina.md` per i giocatori, imbocco del corridoio = PB. 11: nota sui residui di sparo nel referto e risposta pronta in guida. 12: ricerche con post-it, cartellone con soli orari e luoghi.
+- **Minori.** Las Vegas: Lopaka aspettava sveglio alle due di notte. Registro: l'ultima riga è giugno, da luglio i versamenti sono sospesi. Akoni Q6: valore ridotto a Media. Noe: Akoni arriva alle 23:08. «Veranda» come angolo privato rinominato «séparé»; «ufficio del direttore» diventa «il tuo tavolo». Durata 2 ore e 20 ovunque. Orologio avanti di un minuto: «K. – 23:10» sono le 23:09 reali. Maleko ha 25 secondi e guarda solo il registro. Il trope del testimone cooperativo resta, attenuato dal punto 5.
 
 ## Critiche
 

@@ -20,7 +20,7 @@
 
 ## La tua serata, com'è andata davvero
 - **21:45** Eri al brindisi, con la macchina fotografica al collo.
-- **23:00** Ti sei messa in veranda con la macchina. Akoni, Pua e Auntie Lei erano lì.
+- **23:00** Ti sei messa in veranda con la macchina. Pua e Auntie Lei erano lì. Akoni è arrivato verso le 23:08, uscendo dall'ufficio.
 - **23:12** IMG_0412: Akoni, Pua, Auntie Lei e Maleko in veranda, la sedia di vimini vuota con un bicchiere di bianco.
 - **23:14** Maleko si è alzato dicendo «Vado a cercare mia sorella» e se n'è andato. Akoni è sceso sulla scala della spiaggia con il telefono.
 - **23:15** IMG_0413: hai fotografato la sala attraverso la porta a vetri nel momento in cui scoppiavano i coriandoli. Akoni è sul bordo sinistro, sulla scala laterale.

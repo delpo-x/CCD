@@ -34,7 +34,7 @@ Keoki Kealoha, 64 anni, ex cuoco della Marina, fondatore del Kapu Lounge nel 197
 - Sulla scrivania: il foglio «K. – 23:10 – qui, da sola» (indizio 01), il cassetto in alto vuoto (indizio 14), la cartellina con l'offerta (09) e la bozza del testamento (10).
 - Nel cestino: mezza pagina strappata del registro (indizio 08).
 - Sul tappeto e sul vaso del corridoio: petali di orchidea viola (indizio 04).
-- L'orologio a pile dell'archivio va avanti di un minuto. Lo sa Auntie Lei.
+- L'orologio a pile dell'archivio va avanti di un minuto. Lo sa Auntie Lei. Keoki fissa gli appuntamenti su quell'orologio: «K. – 23:10» sul foglio vuol dire le 23:09 reali, ed è l'ora a cui Kalea entra.
 - Il revolver non c'è. Si trova nella cassa degli amplificatori, in fondo al corridoio (indizio 03).
 
 ## Cose che Keoki non ha detto a nessuno

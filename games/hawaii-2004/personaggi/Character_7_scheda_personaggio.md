@@ -13,7 +13,7 @@
 - spaventata
 
 ## I tuoi segreti (tienili segreti!)
-- Da due anni ricevi 18.000 dollari al mese da Pacific Crest, tramite la Kahuna Holdings, per guidare in aula il cambio di destinazione d'uso. I soldi passano dal conto del Kapu.
+- Da settembre 2002 a giugno 2004 hai ricevuto 18.000 dollari al mese da Pacific Crest (da luglio sono sospesi fino al voto), tramite la Kahuna Holdings, per guidare in aula il cambio di destinazione d'uso. I soldi passano dal conto del Kapu.
 - Kapono Medeiros ti ha visto ritirare una busta di contanti e vuole 20.000 dollari entro domenica per stare zitto.
 - Sei innamorata di Noe Sato, la giornalista. Non sai come dirlo, né se puoi.
 - Alle 23:10 sei stata nell'ufficio di Keoki. Gli hai strappato di mano la pagina del registro con le tue iniziali: una metà è finita nel cestino, l'altra metà è nella tua borsetta.

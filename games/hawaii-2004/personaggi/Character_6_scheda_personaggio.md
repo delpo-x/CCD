@@ -26,7 +26,7 @@
 - **23:09** Hai visto Kalea lasciare la veranda dalla porta laterale.
 - **23:12** Noe ti ha fotografato in veranda con Akoni, Pua e Auntie Lei.
 - **23:14** Hai messo in pausa il registratore e sei uscito dalla porta laterale. Passando davanti al bagno signore hai svitato la lampadina del corridoio con il fazzoletto. Alle 23:14:40 sei entrato nell'ufficio. Hai alzato due dita: il gesto che fai da agente.
-- **23:15** Al boato dei cannoni hai sparato a Keoki, seduto alla scrivania. Gli hai preso il registro dalla giacca.
+- **23:15** Al boato dei cannoni hai sparato a Keoki, seduto alla scrivania. Gli hai preso il registro dalla giacca. Hai venticinque secondi: guardi solo il registro, non scrivania né cestino.
 - **23:15–23:19** Hai bruciato il registro nel braciere della cucina. Hai avvolto il revolver in uno strofinaccio KAPU e lo hai nascosto nella cassa degli ampli. Ti sei lavato le mani. Non sei uscito dalla porta di servizio perché Ike e Kapono scaricavano nel vicolo.
 - **23:19** Hai ripreso la registrazione e sei rientrato dalla porta laterale. Alle 23:20 hai visto Kalea rientrare con un petalo del suo lei sul bavero.
 

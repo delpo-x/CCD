@@ -54,7 +54,7 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 | 3 | «Alle 23:08 uscendo dall'ufficio. Gli ho chiesto di firmare. Ha detto che ci pensava» | Vero | Media |
 | 4 | «Ufficio dalle 23:00 alle 23:08. Poi basta» | Vero | Media |
 | 5 | «Nessuno ha ucciso per un affare immobiliare» | Mente | Depistante |
-| 6 | *Che cosa le ha detto Keoki?* «Solo del prezzo» | Falso: ha parlato del registro | Alta: smascherato da E18 |
+| 6 | *Che cosa le ha detto Keoki?* «Solo del prezzo» | Falso: ha parlato del registro | Media: il nastro (E18) mostra che l'affare non era solo il prezzo, ma non riporta il colloquio con Keoki |
 
 ## Pua Mahoe
 

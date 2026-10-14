@@ -4,7 +4,7 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 
 ## In breve
 
-- **Giocatori**: 10 più te. **Durata**: circa 2 ore e 15. **Luogo**: una sola stanza.
+- **Giocatori**: 10 più te. **Durata**: circa 2 ore e 20. **Luogo**: una sola stanza.
 - **Epoca**: sabato 14 agosto 2004, Honolulu. **Tono**: noir. **Lingua**: italiano.
 - **Premessa**: Keoki Kealoha, fondatore del Kapu Lounge, è morto nel suo ufficio poco prima di mezzanotte. Dieci persone sono rimaste nel locale. Tu arrivi alle 00:10 e nessuno esce finché non sai chi è stato.
 - **Obiettivo di tutti**: scoprire l'assassino. Il colpevole (che lo sa) vuole farla franca.
@@ -35,8 +35,8 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 
 Si gioca in un'unica stanza: è la sala del Kapu dopo la chiusura. Tutti gli altri luoghi (ufficio, corridoio, cucina, veranda, scantinato, vicolo) esistono solo nel racconto. Servono tre punti fissi.
 
-- **Il tavolo del tenente.** È l'«ufficio del direttore». Ci tieni rapporti, buste e cartellone. È sigillato (nastro giallo, se vuoi): si va solo se chiamati o per una ricerca, al massimo due giocatori alla volta.
-- **L'angolo «veranda».** Un angolo lontano dal tavolo, per i colloqui riservati. Due giocatori ci vanno, parlano a bassa voce per due minuti, poi tornano. Gli altri non ascoltano, salvo un'azione rischiosa (origliare, d6). Se la stanza è piccola, fai parlare una coppia per volta.
+- **Il tavolo del tenente.** È il tuo tavolo, non l'ufficio di Keoki (quello esiste solo nel racconto). Ci tieni rapporti, buste e cartellone. È sigillato (nastro giallo, se vuoi): si va solo se chiamati o per una ricerca, al massimo due giocatori alla volta.
+- **Il séparé.** Un angolo lontano dal tavolo, per i colloqui riservati. Due giocatori ci vanno, parlano a bassa voce per due minuti, poi tornano. Gli altri non ascoltano, salvo un'azione rischiosa (origliare, d6). Se la stanza è piccola, fai parlare una coppia per volta.
 - **La mappa a parete.** I cartoncini dei luoghi. Quando un giocatore dice «cerco nell'ufficio» o «vado in cucina», tocca il cartoncino, scrive su un post-it luogo, mossa e ora, e lo attacca sotto il cartoncino. Tu decidi cosa trova, o se perde un minuto per niente.
 
 Carte indizio, rapporti e oggetti sono invece reali: passano di mano nella stanza, si mostrano, si nascondono, si sequestrano. Dai a ogni giocatore la piantina (`gioco/piantina.md`): ci sono tutte le porte, compresa quella laterale della veranda. Se un giocatore chiede com'è fatto il locale, rimandalo al foglio. Il mistero è chi, non dove.
@@ -71,7 +71,7 @@ Regole:
 - 2 minuti a persona. Se uno divaga, tagli.
 - Non correggere nessuno. Se mente, annota e basta: sono i giocatori a smascherarlo.
 - Il pubblico può **chiedere chiarimenti** dopo che hai finito con quella persona (una domanda a testa, massimo).
-- Alla fine del giro dichiara: «Ora vi lascio liberi. Io sarò nell'ufficio del direttore, a leggere i rapporti». Intendi il tuo tavolo.
+- Alla fine del giro dichiara: «Ora vi lascio liberi. Io sarò al mio tavolo, a leggere i rapporti».
 
 ## Il gioco libero (75 minuti)
 

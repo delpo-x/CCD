@@ -41,7 +41,7 @@
 - Il cassetto era vuoto. Keoki l'ha detto a te alle 22:55. (Lo dici solo se ti chiedono se mancava qualcosa.)
 - Alle 23:14 Maleko si è alzato dalla veranda dicendo «Vado a cercare mia sorella». Non hai visto da che parte.
 - Il tuo lei è viola, come quello di Kalea. I petali sono gli stessi.
-- L'orologio dell'ufficio va avanti di un minuto. Lo sapevi da sempre.
+- L'orologio dell'ufficio va avanti di un minuto. Lo sapevi da sempre. Se ti mostrano il foglio «K. – 23:10», spieghi che Keoki usava quell'orologio: erano le 23:09.
 
 ## Obiettivi personali
 - Convincere tutti che la terra non si vende.

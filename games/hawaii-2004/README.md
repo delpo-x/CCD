@@ -1,6 +1,6 @@
 # Last Call al Kapu Lounge
 
-Gioco di ruolo investigativo noir, in italiano, per **10 giocatori + 1 direttore**. Durata: circa 2 ore e 15. Waikiki, Honolulu, sabato 14 agosto 2004.
+Gioco di ruolo investigativo noir, in italiano, per **10 giocatori + 1 direttore**. Durata: circa 2 ore e 20. Waikiki, Honolulu, sabato 14 agosto 2004.
 
 Keoki Kealoha, fondatore del Kapu Lounge, viene trovato morto nel suo ufficio. Nel locale sono rimaste dieci persone con un debito, un segreto o un motivo per volerlo zitto. Il tenente Alapai della Omicidi ha chiuso le porte: nessuno esce finché non sa chi è stato.
 

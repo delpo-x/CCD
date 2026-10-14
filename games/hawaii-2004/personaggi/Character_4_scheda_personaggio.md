@@ -22,7 +22,7 @@
 - **22:40** In veranda hai detto a Kalea: «Il voto è già comprato.» Non sapevi che Maleko aveva un registratore acceso.
 - **23:00–23:08** Nell'ufficio con Keoki. Gli hai ripetuto di firmare. Lui ti ha detto: «Non firmo. Il registro lo porto lunedì al tenente Alapai. C'è già chi ha parte del libro e non ha fatto niente.» Sei uscito furioso.
 - **23:10** In veranda con Pua. Hai parlato di un piano B.
-- **23:13:10** Hai chiamato Lopaka Whitfield, a Las Vegas, per spiegargli che Keoki non avrebbe firmato.
+- **23:13:10** Hai chiamato Lopaka Whitfield, a Las Vegas (dove erano le due passate: ti aspettava sveglio, l'offerta scade lunedì), per spiegargli che Keoki non avrebbe firmato.
 - **23:14** Per prendere meglio il segnale sei sceso sulla scala che porta alla spiaggia, fuori dalla veranda. Ci sei rimasto fino alle 23:16 senza che nessuno ti vedesse.
 - **23:15** Hai visto i coriandoli esplodere attraverso la porta a vetri.
 - **23:40** Hai sentito Lani gridare.
