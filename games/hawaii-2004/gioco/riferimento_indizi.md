@@ -28,7 +28,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 
 | Rapporto | Contenuto | Quando |
 |----------|-----------|--------|
-| 01 | Referto del medico legale | T+15 |
+| 01 | Referto del medico legale, con la nota sui residui di sparo | T+15 |
 | 02 | Tabulato di Kalea | A richiesta motivata |
 | 03 | Dichiarazione di Hanale Soo | A richiesta, dopo il rapporto 02 |
 | 04 | Dichiarazione del conducente | A richiesta motivata |

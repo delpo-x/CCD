@@ -92,6 +92,13 @@ Tutto è consentito: parlare, cercare, interrogarsi, ricattarsi, allearsi, menti
 - **Non rivelare il colpevole.** Né a voce né a sguardi.
 - **Non aiutare troppo presto.** Usa la scala dei suggerimenti.
 
+## Domande che arrivano sempre
+
+- **«Facciamo il test dei residui di sparo?»** Rispondi con la nota del rapporto 01: i cannoni dei coriandoli hanno contaminato la sala e chi li ha azionati, quindi il test non distingue nessuno. Se il tavolo insiste, fallo: Nalu risulta positivo (ha premuto il pulsante dei cannoni), come chiunque fosse in sala sotto la nube. Non prova nulla, ma è una falsa pista a disposizione.
+- **«Impronte sul revolver?»** Nessuna: l'arma è stata pulita (rapporto 07).
+- **«Chi ha le chiavi dell'ufficio?»** Lani, Nalu e Kapono. L'ufficio però resta aperto durante le serate.
+- **«A che ora ha ordinato quel drink?»** Gli scontrini valgono per gli ospiti, non per i dieci.
+
 ## Quattro dettagli che il tenente non dice
 
 Servono a smascherare un bugiardo che li nomina senza che glieli abbia detti. Non farli trapelare nelle domande.
