@@ -26,6 +26,7 @@
 - **23:14** Akoni è sceso sulla scala della spiaggia a prendere il segnale. Maleko si è alzato dalla sedia dicendo «Vado a cercare mia sorella» e si è allontanato dalla veranda. Non hai guardato da che parte.
 - **23:15** Dalla porta a vetri hai visto i coriandoli.
 - **23:16** Akoni è tornato. Noe ha scattato un'altra foto.
+- **23:20** Kalea è rientrata in veranda dalla porta laterale, con un petalo viola sul bavero.
 - **23:40** Hai sentito Lani gridare.
 
 ## Cosa dirai al tenente
@@ -38,6 +39,7 @@
 
 ## Cosa sai e puoi dire se te lo chiedono
 - Alle 23:14 Maleko si è alzato dicendo «Vado a cercare mia sorella» e si è allontanato. Non sai da che parte.
+- Alle 23:20 Kalea è rientrata in veranda dalla porta laterale, con un petalo viola sul bavero. Lo dici se ti chiedono di Kalea o di chi è rientrato.
 - Akoni parlava al telefono con Las Vegas. Se ti chiedono dove fosse Akoni al «via», dirai «con me». Non è del tutto vero: lo sai.
 - Il fascicolo di variante dice che Kalea ha guidato il voto in aula.
 

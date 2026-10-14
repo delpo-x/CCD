@@ -32,16 +32,16 @@
 
 ## Cosa dirai al tenente
 - Chi sei: assicuratore (Hawaiian Pacific Mutual, auto e vita). Cliente fisso da sei mesi.
-- Dov'eri alle 23:15: «Alle 23:12 ero in veranda, nella foto di Noe. Alle 23:14 mi sono accorto che mia sorella non c'era e sono andato a cercarla in sala. Al "via" ero in fondo alla sala. Alle 23:20 sono tornato in veranda e l'ho vista rientrare dal corridoio di servizio, con un petalo sul bavero.»
+- Dov'eri alle 23:15: «Alle 23:12 ero in veranda, nella foto di Noe. Alle 23:14 mi sono accorto che mia sorella non c'era e sono andato a cercarla in sala. Al "via" ero in fondo alla sala. Alle 23:20 ero di nuovo in veranda.»
 - L'ultima volta con Keoki vivo: al brindisi.
 - Ufficio o corridoio: «Corridoio no. Sono entrato in sala dalla porta a vetri e basta.»
-- Chi voleva Keoki morto: «Mia sorella aveva un conto in sospeso con lui. Non lo dico per accusarla.»
+- Chi voleva Keoki morto: «Non saprei. Keoki aveva molti affari, e non tutti puliti.» Su Kalea dici poco: «Non so dov'era.» Non la accusi e non la scagioni.
 
 ## Cosa non devi dire mai (a meno che il tenente l'abbia detto prima)
 Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il registro verde gli è stato tolto dalla giacca. La lampadina era stata svitata. Se lo dici prima, ti tradisci.
 
 ## Cosa sai e puoi dire se te lo chiedono
-- Kalea è tornata in veranda alle 23:20 dal corridoio con un petalo viola sul bavero. È vero.
+- Kalea è tornata in veranda alle 23:20 dal corridoio con un petalo viola sul bavero. È vero, ma lo dici solo se il tenente lo nomina prima: l'ha visto anche Pua.
 - Kalea aveva appuntamento con Keoki. Lo sai perché l'hai vista uscire dalla veranda alle 23:09.
 
 ## Obiettivi personali

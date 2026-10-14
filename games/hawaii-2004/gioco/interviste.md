@@ -72,10 +72,10 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 | Dom. | Versione ufficiale | Verità | Valore |
 |------|--------------------|--------|--------|
 | 1 | «Assicuratore. Cliente fisso da sei mesi, ho conosciuto Keoki al banco» | Mente: sergente sotto copertura | Alta se smascherato |
-| 2 | «Alle 23:12 ero in veranda, nella foto di Noe. Alle 23:14 mi sono accorto che mia sorella non c'era e sono andato a cercarla in sala. Al "via" ero in fondo alla sala. Alle 23:20 sono tornato in veranda e l'ho vista rientrare dal corridoio di servizio, con un petalo sul bavero» | Falso dal 23:14 | **Alta**: prova la bugia con Nalu e con la lampadina |
+| 2 | «Alle 23:12 ero in veranda, nella foto di Noe. Alle 23:14 mi sono accorto che mia sorella non c'era e sono andato a cercarla in sala. Al "via" ero in fondo alla sala. Alle 23:20 ero di nuovo in veranda» | Falso dal 23:14 | **Alta**: prova la bugia con Nalu e con la lampadina |
 | 3 | «Al brindisi. Un bicchiere in mano e due parole su una barca» | Mente: l'ha visto alle 23:15 | Media |
 | 4 | «Corridoio no. Sono entrato in sala dalla porta a vetri e basta» | Mente | Alta |
-| 5 | «Mia sorella aveva un conto in sospeso con lui. Non lo dico per accusarla» | Depistante | Alta (la spinge verso Kalea) |
+| 5 | «Non saprei. Keoki aveva molti affari, e non tutti puliti» | Depistante | Media: tiene il tavolo lontano da lui, senza accusare la sorella |
 | 6 | *Che assicurazioni vende?* «Auto e vita. Hawaiian Pacific Mutual» | Falso | Media |
 
 ## Kalea Hanohano (l'esca)
