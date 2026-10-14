@@ -1,0 +1,2139 @@
+* Specific to the game master
+** All characters
+*** Itonrson
+     - Famousness: hidding
+     - Specy: human
+     - Gender: male
+     - Age: young
+     - Job: seller
+     - Role in a secret society: treasurer
+     - Member of a secret society: the Very Secret Society
+     - Wealth: poor
+*** Hihn
+     - Famousness: hidding
+     - Specy: human
+     - Gender: male
+     - Job: spy
+     - Member of a secret society: the Very Secret Society
+     - Wealth: wealthy
+*** Fough
+     - Famousness: hidding
+     - Specy: human
+     - Gender: male
+     - Age: young
+     - Job: thief
+*** Theams
+     - Famousness: famous
+     - Specy: human
+     - Gender: female
+     - Age: young
+     - Job: monarch
+     - Role in a secret society: manager
+     - Member of a secret society: the Realisation
+*** Zyacester
+     - Famousness: famous
+     - Specy: human
+     - Gender: female
+     - Age: young
+     - Job: seller
+     - Member of a secret society: the Very Secret Society
+     - Wealth: wealthy
+*** Je
+     - Famousness: hidding
+     - Specy: human
+     - Gender: female
+     - Age: young
+     - Job: seller
+     - Role in a secret society: leader
+     - Member of a secret society: the Very Secret Society
+     - Wealth: poor
+*** Sunes
+     - Famousness: famous
+     - Specy: human
+     - Gender: female
+     - Age: old
+     - Job: seller
+     - Role in a secret society: treasurer
+     - Member of a secret society: the Very Secret Society
+     - Wealth: wealthy
+*** Whergeehn
+     - Specy: human
+     - Gender: male
+     - Job: seller
+     - Role in a secret society: leader
+     - Member of a secret society: the Realisation
+     - Wealth: wealthy
+*** Ergen
+     - Famousness: hidding
+     - Specy: human
+     - Gender: male
+     - Age: young
+     - Job: thief
+     - Wealth: wealthy
+*** Derrough
+     - Famousness: hidding
+     - Specy: human
+     - Gender: female
+     - Age: young
+     - Job: spy
+     - Member of a secret society: the Very Secret Society
+** All contacts
+*** Itonrson
+**** To Derrough
+**** To Ergen
+     - Knows: yes
+     - Favor: large
+**** To Whergeehn
+**** To Sunes
+     - Knows: yes
+     - Debt: large
+**** To Je
+     - Family link: sibling
+**** To Zyacester
+     - Family link: grandparent of
+     - Knows: yes
+**** To Theams
+     - Knows: yes
+     - Debt: large
+**** To Fough
+     - Knows: yes
+     - Debt: small
+**** To Hihn
+*** Hihn
+**** To Derrough
+     - Knows: yes
+**** To Ergen
+**** To Whergeehn
+     - Family link: sibling
+     - Knows: intimately
+**** To Sunes
+**** To Je
+     - Knows: yes
+     - Favor: large
+     - Debt: large
+**** To Zyacester
+     - Family link: child of
+     - Knows: yes
+**** To Theams
+     - Knows: yes
+**** To Fough
+     - Family link: sibling
+**** To Itonrson
+*** Fough
+**** To Derrough
+**** To Ergen
+     - Knows: yes
+**** To Whergeehn
+     - Family link: grandchild of
+     - Knows: yes
+     - Debt: large
+**** To Sunes
+     - Knows: yes
+**** To Je
+     - Knows: intimately
+**** To Zyacester
+     - Family link: sibling
+**** To Theams
+     - Knows: yes
+**** To Hihn
+     - Family link: sibling
+**** To Itonrson
+     - Knows: yes
+*** Theams
+**** To Derrough
+     - Family link: sibling
+**** To Ergen
+     - Knows: yes
+**** To Whergeehn
+     - Knows: yes
+**** To Sunes
+     - Knows: yes
+**** To Je
+**** To Zyacester
+     - Family link: spouse of
+     - Knows: yes
+**** To Fough
+     - Knows: yes
+**** To Hihn
+     - Knows: yes
+**** To Itonrson
+     - Knows: yes
+*** Zyacester
+**** To Derrough
+     - Knows: yes
+     - Debt: large
+**** To Ergen
+     - Family link: grandchild of
+     - Knows: yes
+**** To Whergeehn
+**** To Sunes
+     - Family link: child of
+     - Knows: yes
+**** To Je
+**** To Theams
+     - Knows: yes
+     - Favor: small
+     - Debt: old
+**** To Fough
+     - Family link: sibling
+**** To Hihn
+     - Knows: yes
+**** To Itonrson
+*** Je
+**** To Derrough
+     - Knows: yes
+     - Debt: large
+**** To Ergen
+**** To Whergeehn
+**** To Sunes
+**** To Zyacester
+**** To Theams
+     - Knows: yes
+**** To Fough
+     - Debt: large
+**** To Hihn
+     - Knows: yes
+**** To Itonrson
+     - Family link: sibling
+*** Sunes
+**** To Derrough
+     - Family link: child of
+     - Knows: yes
+     - Debt: old
+**** To Ergen
+     - Family link: sibling
+**** To Whergeehn
+**** To Je
+**** To Zyacester
+     - Family link: spouse of
+     - Knows: yes
+**** To Theams
+     - Knows: yes
+**** To Fough
+     - Knows: yes
+     - Favor: large
+**** To Hihn
+**** To Itonrson
+     - Knows: yes
+     - Favor: large
+     - Debt: large
+*** Whergeehn
+**** To Derrough
+     - Knows: yes
+**** To Ergen
+**** To Sunes
+     - Knows: yes
+**** To Je
+**** To Zyacester
+     - Family link: child of
+**** To Theams
+     - Knows: yes
+     - Debt: large
+**** To Fough
+     - Family link: child of
+     - Knows: yes
+     - Debt: old
+**** To Hihn
+     - Family link: sibling
+     - Knows: intimately
+**** To Itonrson
+*** Ergen
+**** To Derrough
+**** To Whergeehn
+**** To Sunes
+     - Family link: sibling
+**** To Je
+     - Knows: intimately
+**** To Zyacester
+     - Knows: yes
+**** To Theams
+     - Knows: yes
+**** To Fough
+     - Family link: grandparent of
+     - Knows: yes
+     - Debt: large
+**** To Hihn
+**** To Itonrson
+     - Knows: yes
+*** Derrough
+**** To Ergen
+**** To Whergeehn
+     - Knows: yes
+**** To Sunes
+     - Knows: yes
+**** To Je
+     - Knows: yes
+**** To Zyacester
+     - Knows: yes
+**** To Theams
+     - Family link: sibling
+**** To Fough
+     - Family link: parent of
+     - Debt: large
+**** To Hihn
+     - Knows: yes
+**** To Itonrson
+     - Family link: child of
+** All events
+*** Sunes is born.
+    [1809-05-12 _ 16:04]
+    - [X] Sunes
+*** Derrough is born.
+    [1924-05-11 _ 16:20]
+    - [X] Derrough
+*** Je is born.
+    [1926-05-12 _ 15:53]
+    - [X] Je
+*** Je asked money to Derrough to set up a shop.
+    She gave some to her.
+    [1934-05-12 _ 16:42-16:51]
+    - [X] Derrough
+    - [X] Je
+*** Derrough asked money to Sunes to set up a shop.
+    She gave some to her.
+    [1934-05-12 _ 17:14-21:22]
+    - [X] Derrough
+    - [X] Sunes
+*** Sunes always appreciated human contact.
+    Thus, she naturally decided to be seller.
+    [1934-05-12 _ 21:40]--[1934-05-17 _ 21:40]
+    - [X] Sunes
+*** She now opened a shop.
+    Let us hope that the market will follow!
+    [1934-05-17 _ 21:55]--[1934-07-01 _ 21:55]
+    - [X] Sunes
+*** Zyacester is born.
+    [1937-07-01 _ 22:09]
+    - [X] Zyacester
+*** Ergen is born.
+    [1938-07-01 _ 13:34]
+    - [X] Ergen
+*** Fough is born.
+    [1941-06-25 _ 17:44]
+    - [X] Fough
+*** Theams is born.
+    [1942-07-01 _ 12:27]
+    - [X] Theams
+*** Given the importance of his debts, Fough decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    He needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise him.
+    [1944-06-24 _ 18:28]--[1944-06-30 _ 18:28]
+    - [X] Fough
+*** Theams organised a large party, inviting a large number of acquaintances.
+    There were quite a lot of people coming: she no longer remembers who came.
+    She remembers quite well to have invited Sunes and Fough.
+    [1944-06-30 _ 13:02-13:52]
+    - [X] Theams
+*** Ergen was invited by Theams to a party.
+    It was a nice party.
+    [1944-06-30 _ 14:17-18:05]
+    - [X] Ergen
+*** Fough asked money to Whergeehn to set up a shop.
+    He gave some to him.
+    [1944-06-30 _ 15:21-18:45]
+    - [X] Whergeehn
+    - [X] Fough
+*** The current situation for Ergen is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Sunes, his sibling, was just born.
+    But he has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1944-06-30 _ 18:22-22:16]
+    - [X] Ergen
+*** The current situation for Fough is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Zyacester, his sibling, was just born.
+    But he has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1944-06-30 _ 19:05-22:23]
+    - [X] Fough
+*** Sunes’s shop was quite successful and made her wealthy.
+    [1946-07-01 _ 23:07]--[1956-06-30 _ 23:07]
+    - [X] Sunes
+*** Itonrson is born.
+    [1947-05-08 _ 12:41]
+    - [X] Itonrson
+*** Itonrson asked money to Theams to set up a shop.
+    She gave some to him.
+    [1951-05-08 _ 13:21-17:14]
+    - [X] Theams
+    - [X] Itonrson
+*** Theams asked money to Zyacester to set up a shop.
+    She gave some to her.
+    [1951-05-08 _ 17:40-21:55]
+    - [X] Zyacester
+    - [X] Theams
+*** Zyacester always appreciated human contact.
+    Thus, she naturally decided to be seller.
+    [1951-05-08 _ 22:23]--[1951-05-14 _ 22:23]
+    - [X] Zyacester
+*** She now opened a shop.
+    Let us hope that the market will follow!
+    [1951-05-14 _ 22:53]--[1951-07-01 _ 22:53]
+    - [X] Zyacester
+*** Hihn considers that the central trait of a spy is discretion.
+    He thus trained a lot to make sure never to attract attention.
+    [1953-04-09 _ 21:12]--[1953-07-01 _ 21:12]
+    - [X] Hihn
+*** Hihn organised a large party, inviting a large number of acquaintances.
+    There were quite a lot of people coming: he no longer remembers who came.
+    He remembers quite well to have invited Theams and Derrough.
+    [1953-07-01 _ 17:11-21:43]
+    - [X] Hihn
+*** The current situation for Hihn is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Fough, his brother, was just born.
+    But he has to go now.
+    He will grow up without knowing his sibling.
+    He will understand later.
+    Hopefully.
+    [1953-07-01 _ 22:07-23:02]
+    - [X] Hihn
+*** Zyacester’s shop was quite successful and made her wealthy.
+    [1954-07-01 _ 23:17]--[1955-07-01 _ 23:17]
+    - [X] Zyacester
+*** Zyacester has had a weird childhood.
+    She has been told over and over that she had a brother.
+    But no trace of such sibling.
+    Is he dead before her birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1955-07-01 _ 23:32]--[1958-07-01 _ 23:32]
+    - [X] Zyacester
+*** Fough has had a weird childhood.
+    He has been told over and over that he had a brother.
+    But no trace of such sibling.
+    Is he dead before his birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1956-06-30 _ 23:28]--[1965-07-01 _ 23:28]
+    - [X] Fough
+*** Sunes has had a weird childhood.
+    She has been told over and over that she had a sibling.
+    But no trace of such sibling.
+    Is he dead before her birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1956-06-30 _ 23:30]--[1965-07-01 _ 23:30]
+    - [X] Sunes
+*** Whergeehn always appreciated human contact.
+    Thus, he naturally decided to be seller.
+    [1964-03-23 _ 22:27]--[1964-04-01 _ 22:27]
+    - [X] Whergeehn
+*** He now opened a shop.
+    Let us hope that the market will follow!
+    [1964-04-01 _ 22:39]--[1964-06-30 _ 22:39]
+    - [X] Whergeehn
+*** Whergeehn’s shop was quite successful and made him wealthy.
+    [1970-07-01 _ 23:23]--[1973-07-01 _ 23:23]
+    - [X] Whergeehn
+*** Derrough considers that the central trait of a spy is discretion.
+    She thus trained a lot to make sure never to attract attention.
+    [1971-06-02 _ 18:55]--[1971-07-01 _ 18:55]
+    - [X] Derrough
+*** Itonrson always appreciated human contact.
+    Thus, he naturally decided to be seller.
+    [1971-06-21 _ 18:44]--[1971-06-23 _ 18:44]
+    - [X] Itonrson
+*** Given the importance of his debts, Itonrson decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    He needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise him.
+    [1971-06-23 _ 19:07]--[1971-07-01 _ 19:07]
+    - [X] Itonrson
+*** The current situation for Derrough is becoming worse and worse.
+    She must disappear, as soon as possible!
+    It won’t be easy: : Theams, her sister, was just born.
+    But she has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1971-07-01 _ 19:32-22:54]
+    - [X] Derrough
+*** The current situation for Itonrson is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Je, his sibling, was just born.
+    But he has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1971-07-01 _ 19:39-22:43]
+    - [X] Itonrson
+*** Whergeehn worked quite a long time to reach this level of wealth and reputation.
+    [1973-07-01 _ 23:41]--[2004-06-30 _ 23:41]
+    - [X] Whergeehn
+*** Je always appreciated human contact.
+    Thus, she naturally decided to be seller.
+    [1975-06-13 _ 21:23]--[1975-06-22 _ 21:23]
+    - [X] Je
+*** Given the importance of her debts, Je decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    She needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise her.
+    [1975-06-22 _ 21:44]--[1975-07-01 _ 21:44]
+    - [X] Je
+*** The current situation for Je is becoming worse and worse.
+    She must disappear, as soon as possible!
+    It won’t be easy: : Itonrson, her brother, was just born.
+    But she has to go now.
+    He will grow up without knowing his sibling.
+    He will understand later.
+    Hopefully.
+    [1975-07-01 _ 22:25-22:52]
+    - [X] Je
+*** Sunes worked quite a long time to reach this level of wealth and reputation.
+    [1975-07-01 _ 23:30]--[2004-06-30 _ 23:30]
+    - [X] Sunes
+*** Je has had a weird childhood.
+    She has been told over and over that she had a brother.
+    But no trace of such sibling.
+    Is he dead before her birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1978-07-01 _ 23:23]--[1980-06-30 _ 23:23]
+    - [X] Je
+*** Theams has had a weird childhood.
+    She has been told over and over that she had a sister.
+    But no trace of such sibling.
+    Is she dead before her birth?
+    Had she been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1978-07-01 _ 23:28]--[1981-07-01 _ 23:28]
+    - [X] Theams
+*** Itonrson has had a weird childhood.
+    He has been told over and over that he had a sibling.
+    But no trace of such sibling.
+    Is she dead before his birth?
+    Had she been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1980-06-30 _ 23:20]--[1982-07-01 _ 23:20]
+    - [X] Itonrson
+*** Zyacester worked quite a long time to reach this level of wealth and reputation.
+    [1983-07-01 _ 23:44]--[2004-06-30 _ 23:44]
+    - [X] Zyacester
+*** Je and Itonrson are siblings.
+    [1991-07-01 _ 23:19]--[1995-07-01 _ 23:19]
+    - [X] Je
+    - [X] Itonrson
+*** Theams and Derrough are siblings.
+    [1994-07-01 _ 23:25]--[2000-06-30 _ 23:25]
+    - [X] Derrough
+    - [X] Theams
+*** She now opened a shop.
+    Let us hope that the market will follow!
+    [1995-03-04 _ 22:08]--[1995-04-13 _ 22:08]
+    - [X] Je
+*** Hihn frequently shops at Je’s shop.
+    [1995-04-13 _ 22:19]--[1995-06-20 _ 22:19]
+    - [X] Hihn
+*** Je has a good memory about clients.
+    Hihn is for example a frequent one.
+    [1995-06-20 _ 22:48]--[1995-06-25 _ 22:48]
+    - [X] Je
+*** Some time ago, Itonrson’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now his turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now he task.
+    [1995-06-21 _ 23:05]--[1995-07-01 _ 23:05]
+    - [X] Itonrson
+*** Zyacester was invited by Hihn to a party.
+    It was a nice party.
+    [1995-06-25 _ 13:54-17:35]
+    - [X] Zyacester
+*** Hihn invited Theams to party.
+    It was nice of him.
+    [1995-06-25 _ 17:45-19:29]
+    - [X] Theams
+*** Je and Derrough met during a party organised by Hihn.
+    They greatly appreciated chatting one with the other and exchanged their contacts.
+    [1995-06-25 _ 19:46-22:52]
+    - [X] Derrough
+    - [X] Je
+*** Some time ago, Je’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [1995-06-29 _ 23:35]--[1995-07-01 _ 23:35]
+    - [X] Je
+*** They always never trusted one another, always having conflicts of diverse sorts.
+    It’s unfortunately how it is.
+    [1997-07-01 _ 23:23]--[2001-07-01 _ 23:23]
+    - [X] Whergeehn
+    - [X] Hihn
+*** Sunes and Ergen are siblings.
+    [1998-07-01 _ 23:09]--[2003-07-01 _ 23:09]
+    - [X] Ergen
+    - [X] Sunes
+*** Some time ago, Derrough’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [2000-06-24 _ 23:28]--[2000-06-30 _ 23:28]
+    - [X] Derrough
+*** Some time ago, Zyacester’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [2001-06-22 _ 23:30]--[2001-07-01 _ 23:30]
+    - [X] Zyacester
+*** Hihn and Whergeehn are siblings.
+    [2001-07-01 _ 23:43]--[2004-06-30 _ 23:43]
+    - [X] Whergeehn
+    - [X] Hihn
+*** Some time ago, Sunes’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [2003-06-25 _ 23:18]--[2003-07-01 _ 23:18]
+    - [X] Sunes
+*** In order to confuse the issue, Je decided to move.
+    She thus sold her shop to buy another one in another town.
+    [2003-07-05 _ 21:47]--[2003-10-08 _ 21:47]
+    - [X] Je
+*** He now opened a shop.
+    Let us hope that the market will follow!
+    [2003-07-24 _ 22:34]--[2003-10-29 _ 22:34]
+    - [X] Itonrson
+*** Fough frequently shops at Sunes’s shop.
+    [2003-09-13 _ 22:42]--[2003-11-26 _ 22:42]
+    - [X] Fough
+*** Je’s shop went brankrupt, disappearing with all trace of wealth.
+    [2003-10-08 _ 22:09]--[2003-11-21 _ 22:09]
+    - [X] Je
+*** Ergen frequently shops at Zyacester’s shop.
+    [2003-10-18 _ 22:26]--[2003-11-26 _ 22:26]
+    - [X] Ergen
+*** Theams invited Sunes to party.
+    It was nice of her.
+    [2003-10-23 _ 20:06-20:09]
+    - [X] Sunes
+*** Itonrson and Fough met during a party organised by Theams.
+    They greatly appreciated chatting one with the other and exchanged their contacts.
+    [2003-10-23 _ 20:20-20:39]
+    - [X] Fough
+    - [X] Itonrson
+*** In order to fund his secret society, Itonrson frequently needs the services of Ergen as a thief.
+    The latter has however no idea what these funds are for.
+    Heists are generally payed by favors, the secret society having quite a lot of contacts amongst various spheres of influence.
+    For now, the balance is in his side: he stole worthy objects but did not yet indicated what kind of favor he would need, keeping the right to ask in any moment.
+    [2003-10-27 _ 21:29]--[2003-11-04 _ 21:29]
+    - [X] Itonrson
+*** In order to confuse the issue, Itonrson decided to move.
+    He thus sold his shop to buy another one in another town.
+    [2003-10-29 _ 22:47]--[2004-01-30 _ 22:47]
+    - [X] Itonrson
+*** In order to fund her secret society, Sunes frequently needs the services of Fough as a thief.
+    The latter has however no idea what these funds are for.
+    Heists are generally payed by favors, the secret society having quite a lot of contacts amongst various spheres of influence.
+    For now, the balance is in his side: he stole worthy objects but did not yet indicated what kind of favor he would need, keeping the right to ask in any moment.
+    [2003-11-04 _ 21:44]--[2003-11-12 _ 21:44]
+    - [X] Sunes
+*** Itonrson is a regular client of Ergen.
+    It seems that he needs quite a lot of money, for an unknown reason.
+    In exchange of each heist, he proposes various services.
+    He is in contact with quite an impressive network!
+    And he is swift when help is requested: one should never hesitate to ask.
+    [2003-11-04 _ 21:53]--[2003-11-14 _ 21:53]
+    - [X] Ergen
+*** Sunes is a regular client of Fough.
+    It seems that she needs quite a lot of money, for an unknown reason.
+    In exchange of each heist, she proposes various services.
+    She is in contact with quite an impressive network!
+    And she is swift when help is requested: one should never hesitate to ask.
+    [2003-11-12 _ 22:02]--[2003-11-21 _ 22:02]
+    - [X] Fough
+*** Death of Ergen’s parents.
+    They leave him with an important wealth.
+    [2003-11-14 _ 22:08]--[2003-11-17 _ 22:08]
+    - [X] Ergen
+*** Theams frequently shops at Itonrson’s shop.
+    [2003-11-14 _ 22:29]--[2004-01-28 _ 22:29]
+    - [X] Theams
+*** When Ergen learnt that Je owes a fortune to Fough, he was outraged.
+    He then decided once and for all that from now on, he would steal from the rich, and in particular from Fough.
+    It has been his job since then.
+    [2003-11-17 _ 22:37]--[2003-11-26 _ 22:37]
+    - [X] Ergen
+*** When Fough learnt that Je was in a deeply unstable financiary situation, he was outraged.
+    He then decided once and for all that from now on, he would steal from the rich to give to the poor, and in particular to Je.
+    [2003-11-21 _ 22:30]--[2003-11-26 _ 22:30]
+    - [X] Fough
+*** Ergen and Fough participated together in a masterpiece heist.
+    This heist went perfectly: everything went as planned.
+    [2003-11-26 _ 22:56]--[2004-02-17 _ 22:56]
+    - [X] Ergen
+    - [X] Fough
+*** Itonrson has a good memory about clients.
+    Theams is for example a frequent one.
+    [2004-01-28 _ 22:42]--[2004-01-30 _ 22:42]
+    - [X] Itonrson
+*** Itonrson’s shop went brankrupt, disappearing with all trace of wealth.
+    [2004-01-30 _ 23:00]--[2004-02-17 _ 23:00]
+    - [X] Itonrson
+*** Ergen noticed an unusual behaviour from Je.
+    She is frequently going away, sometimes with strange excuses.
+    She is hidding something.
+    [2004-03-27 _ 23:37]--[2004-06-30 _ 23:37]
+    - [X] Ergen
+*** Derrough frequently shops at Whergeehn’s shop.
+    [2004-04-26 _ 23:32]--[2004-06-25 _ 23:32]
+    - [X] Derrough
+*** One day, Hihn suddenly remembered something.
+    It was important.
+    He was meeting other people.
+    Everyone’s face was hidden.
+    He is a member of a secret society.
+    The most secret of them all: the Very Secret Society.
+    Unfortunately, he has trouble remembering.
+    It’s strange.
+    [2004-05-27 _ 23:03]--[2004-06-03 _ 23:03]
+    - [X] Hihn
+*** In the middle of a causual conversation, Derrough told Hihn that she owes money to Fough.
+    He seemed surprised, saying that he would never have expected this.
+    [2004-06-03 _ 19:06-22:58]
+    - [X] Derrough
+    - [X] Hihn
+*** When Whergeehn heard about the Realisation through Theams, he was immediately very interested.
+    Finally a secret society taking conspirationists seriously!
+    Whergeehn insisted a lot to Theams to be part of it.
+    [2004-06-03 _ 22:35]--[2004-06-10 _ 22:35]
+    - [X] Whergeehn
+*** He then decided to spy on Fough: something is not right.
+    [2004-06-03 _ 23:17]--[2004-06-09 _ 23:17]
+    - [X] Hihn
+*** Death of Sunes’s parents.
+    They leave her with an important wealth.
+    [2004-06-03 _ 23:18]--[2004-06-06 _ 23:18]
+    - [X] Sunes
+*** Itonrson has had a recurrent dream during the previous weeks.
+    In this dream, he turns into a bird and explores the world.
+    This feeling of freedom is so liberating.
+    He can fly over houses, over the city, over the countryside, over beaches, over seas…
+    Unfortunately, the dream always ends the same way: into a sudden and painful fall.
+    He then always wakes up sweaty.
+    [2004-06-06 _ 23:39]--[2004-06-30 _ 23:39]
+    - [X] Itonrson
+*** Spying is an art that requires practice: Hihn decided to train heself on all sort of other people in a first stage.
+    It has been his job since then.
+    The goal of understanding what hides beside Fough is however still a priority.
+    [2004-06-09 _ 23:42]--[2004-06-30 _ 23:42]
+    - [X] Hihn
+*** Theams probably dropped the wrong word from her mouth: Whergeehn understood that she was a member of a secret society.
+    Following a lot of insisting from him, she finally let him know about it.
+    He thus became a member of the Realisation.
+    [2004-06-10 _ 22:46]--[2004-06-12 _ 22:46]
+    - [X] Theams
+*** Meeting once again each other, Je and Derrough fell in love.
+    [2004-06-15 _ 22:45]--[2004-06-19 _ 22:45]
+    - [X] Derrough
+    - [X] Je
+*** Death of Whergeehn’s parents.
+    They leave him with an important wealth.
+    [2004-06-18 _ 23:25]--[2004-06-25 _ 23:25]
+    - [X] Whergeehn
+*** Meeting once again each other, Itonrson and Fough fell in love.
+    [2004-06-19 _ 23:05]--[2004-06-28 _ 23:05]
+    - [X] Fough
+    - [X] Itonrson
+*** Sunes has a good memory about clients.
+    Fough is for example a frequent one.
+    [2004-06-22 _ 23:44]--[2004-06-30 _ 23:44]
+    - [X] Sunes
+*** In a discussion, Zyacester tells Theams that she would like to meet Sunes.
+    [2004-06-23 _ 20:49-22:12]
+    - [X] Zyacester
+    - [X] Theams
+*** Zyacester has a good memory about clients.
+    Ergen is for example a frequent one.
+    [2004-06-25 _ 23:15]--[2004-06-28 _ 23:15]
+    - [X] Zyacester
+*** Given the importance of her debts, Derrough decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    She needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise her.
+    [2004-06-25 _ 23:42]--[2004-06-30 _ 23:42]
+    - [X] Derrough
+*** Whergeehn has a good memory about clients.
+    Derrough is for example a frequent one.
+    [2004-06-25 _ 23:43]--[2004-06-30 _ 23:43]
+    - [X] Whergeehn
+*** The king is now dead.
+    Theams is taking the place on the trone.
+    Long live to the king!
+    [2004-06-26 _ 22:43]--[2004-06-30 _ 22:43]
+    - [X] Theams
+*** Death of Zyacester’s parents.
+    They leave her with an important wealth.
+    [2004-06-28 _ 23:40]--[2004-06-30 _ 23:40]
+    - [X] Zyacester
+*** Ergen experiencing temporarily cash shortage, he asked money to Fough.
+    Given Ergen’s wealth, he would have no trouble giving the money back to Fough in the future.
+    He thus gave some to him.
+    [2004-06-30 _ 7:25-10:37]
+    - [X] Ergen
+    - [X] Fough
+*** Ergen never gave the money back: a recall is now needed.
+    [2004-06-30 _ 10:55-15:12]
+    - [X] Fough
+*** Sunes experiencing temporarily cash shortage, she asked money to Itonrson.
+    Given Sunes’s wealth, she would have no trouble giving the money back to Itonrson in the future.
+    He thus gave some to her.
+    [2004-06-30 _ 12:17-14:31]
+    - [X] Sunes
+    - [X] Itonrson
+*** Sunes never gave the money back: a recall is now needed.
+    [2004-06-30 _ 14:44-15:25]
+    - [X] Itonrson
+*** Itonrson asked money to Fough.
+    Given the circumstances, he gave some to him.
+    [2004-06-30 _ 15:36-20:20]
+    - [X] Fough
+    - [X] Itonrson
+*** Hihn experiencing temporarily cash shortage, he asked money to Je.
+    Given Hihn’s wealth, he would have no trouble giving the money back to Je in the future.
+    She thus gave some to him.
+    [2004-06-30 _ 15:45-16:32]
+    - [X] Je
+    - [X] Hihn
+*** Je has been designated during a secret meeting as the new leader of the Very Secret Society.
+    It’s a tricky position.
+    She must organise all secret meetings, estimate how many people are aware of these meetings, and make sure that this number is decreasing.
+    Indeed, the goal of the Very Secret Society is to keep being secret.
+    [2004-06-30 _ 16:54-19:16]
+    - [X] Je
+*** Zyacester experiencing temporarily cash shortage, she asked money to Derrough.
+    Given Zyacester’s wealth, she would have no trouble giving the money back to Derrough in the future.
+    She thus gave some to her.
+    [2004-06-30 _ 17:11-19:28]
+    - [X] Derrough
+    - [X] Zyacester
+*** Whergeehn experiencing temporarily cash shortage, he asked money to Theams.
+    Given Whergeehn’s wealth, he would have no trouble giving the money back to Theams in the future.
+    She thus gave some to him.
+    [2004-06-30 _ 18:57-19:21]
+    - [X] Whergeehn
+    - [X] Theams
+*** Whergeehn has been designated as the new leader of the Realisation.
+    This position is of crucial importance: he is in charge of coordinating the numerous actions of the secret society.
+    [2004-06-30 _ 19:36-22:09]
+    - [X] Whergeehn
+*** Hihn never gave the money back: a recall is now needed.
+    [2004-06-30 _ 19:38-23:32]
+    - [X] Je
+*** Zyacester never gave the money back: a recall is now needed.
+    [2004-06-30 _ 19:56-23:38]
+    - [X] Derrough
+*** Itonrson woke up sweaty this night because of a nightmare.
+    His house…
+    His house was in fire!
+    He couldn’t do anything.
+    One could only let the fire catch its prey.
+    It was horrible.
+    [2004-06-30 _ 20:50-22:05]
+    - [X] Itonrson
+*** Theams tells Sunes that she should discuss with Zyacester.
+    It’s indeed a very nice person, and she would benefit from such a discussion.
+    [2004-06-30 _ 21:43-22:09]
+    - [X] Sunes
+    - [X] Theams
+*** This night, Zyacester dreamt to be in another body.
+    In Sunes’s body.
+    Everything felt more complex: standing up, walking, even talking…
+    She woke up sweaty.
+    That’s simply not possible: Sunes’s life must be hell.
+    One has to help her.
+    [2004-06-30 _ 22:02-23:45]
+    - [X] Zyacester
+*** Whergeehn initiated Theams to the Realisation, the secret society that tries to make conspiracy theories come true.
+    Indeed, her advantageous position enables her to reach contacts that very few people can claim to have.
+    Furthermore, he thinks that she is the perfect match for one of these theories: the existence of a secret society that rule the world.
+    Naturally, one could argue that the Realisation already controls through its actions part of the world.
+    But this is clearly not enough to make these imaginative conspirationists right.
+    It has to be much better: create a secret society from scratch, and give it as many power as possible.
+    A simple solution would of course consists in simply making sure that its members are already people with a large impact.
+    A perfect role for Theams!
+    Of course, the Realisation is a large secret society and is full of resources: she should not hesitate to ask.
+    [2004-06-30 _ 22:23-23:09]
+    - [X] Whergeehn
+    - [X] Theams
+*** Itonrson strangely dreamt during the night.
+    He was in a relatively familiar place.
+    It looked like Zyacester’s house, but the neighbourhood was wrong.
+    The door was opened, but no light was coming our of any window.
+    The roof was glowing green.
+    Something was wrong.
+    The dream then fade away.
+    [2004-06-30 _ 22:27-23:36]
+    - [X] Itonrson
+*** Theams is the king.
+    [2004-06-30 _ 22:55]
+    - [X] Fough
+*** Theams is the king.
+    [2004-06-30 _ 23:00]
+    - [X] Whergeehn
+*** Theams is the king.
+    [2004-06-30 _ 23:02]
+    - [X] Hihn
+*** Theams is the queen.
+    [2004-06-30 _ 23:08]
+    - [X] Ergen
+*** Theams is the queen.
+    [2004-06-30 _ 23:13]
+    - [X] Sunes
+*** Whergeehn and Hihn are born.
+    They are twins.
+    [2004-06-30 _ 23:14]
+    - [X] Whergeehn
+    - [X] Hihn
+*** Fough notices Hihn in the street.
+    Something isn’t right about Hihn, event if Fough doesn’t know what exactly.
+    [2004-06-30 _ 23:20]
+    - [X] Fough
+*** Hihn now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but he is a member for a reason: he can figure this out.
+    [2004-06-30 _ 23:25]
+    - [X] Hihn
+*** Theams heard Zyacester speaking alone.
+    It was about a “very secret” society.
+    Curious.
+    [2004-06-30 _ 23:31]
+    - [X] Theams
+*** Ergen knows how to choose the right targets, and Whergeehn is clearly a good one.
+    [2004-06-30 _ 23:32]
+    - [X] Ergen
+*** Whergeehn never gave the money back: a recall is now needed.
+    [2004-06-30 _ 23:33-23:43]
+    - [X] Theams
+*** Theams is the king.
+    [2004-06-30 _ 23:35]
+    - [X] Zyacester
+*** Itonrson now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but he is a member for a reason: he can figure this out.
+    [2004-06-30 _ 23:38]
+    - [X] Itonrson
+*** Derrough now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:38]
+    - [X] Derrough
+*** Je now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:41]
+    - [X] Je
+*** Hihn heard Zyacester speaking alone.
+    It was about a “very secret” society.
+    Curious.
+    [2004-06-30 _ 23:42]
+    - [X] Hihn
+*** Sunes now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:43]
+    - [X] Sunes
+*** Fough knows how to choose the right targets, and Ergen is clearly a good one.
+    [2004-06-30 _ 23:46]
+    - [X] Fough
+*** The Realisation greatly appreciate conspirationists’s imagination.
+    The Realisation thus seeks to make these invented conspirations real.
+    It’s an extremely difficult task: some of these theory are really impossible!
+    But the imagination of Realisation’s members is large enough to come up with actual solutions.
+    [2004-06-30 _ 23:47]
+    - [X] Whergeehn
+*** Zyacester now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:49]
+    - [X] Zyacester
+*** The Very Secret Society is so secret that even Itonrson—who is one of its members—has no idea what this secret society does.
+    People tell that secret meetings happen between its members, but nobody knows what it being discussed.
+    Rumors tell that even attendees to such secret meetings have trouble remembering what was being told.
+    It very secret.
+    [2004-06-30 _ 23:50]
+    - [X] Itonrson
+
+* Itonrson
+** Character attributes
+    - Famousness: hidding
+    - Specy: human
+    - Gender: male
+    - Age: young
+    - Job: seller
+    - Role in a secret society: treasurer
+    - Member of a secret society: the Very Secret Society
+    - Wealth: poor
+** Character contacts
+*** To Derrough
+*** To Ergen
+     - Knows: yes
+     - Favor: large
+*** To Whergeehn
+*** To Sunes
+     - Knows: yes
+     - Debt: large
+*** To Je
+     - Family link: sibling
+*** To Zyacester
+     - Family link: grandparent of
+     - Knows: yes
+*** To Theams
+     - Knows: yes
+     - Debt: large
+*** To Fough
+     - Knows: yes
+     - Debt: small
+*** To Hihn
+** Events
+*** Itonrson is born.
+    [1947-05-08 _ 12:41]
+    - [X] Itonrson
+*** Itonrson asked money to Theams to set up a shop.
+    She gave some to him.
+    [1951-05-08 _ 13:21-17:14]
+    - [X] Theams
+    - [X] Itonrson
+*** Itonrson always appreciated human contact.
+    Thus, he naturally decided to be seller.
+    [1971-06-21 _ 18:44]--[1971-06-23 _ 18:44]
+    - [X] Itonrson
+*** Given the importance of his debts, Itonrson decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    He needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise him.
+    [1971-06-23 _ 19:07]--[1971-07-01 _ 19:07]
+    - [X] Itonrson
+*** The current situation for Itonrson is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Je, his sibling, was just born.
+    But he has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1971-07-01 _ 19:39-22:43]
+    - [X] Itonrson
+*** Itonrson has had a weird childhood.
+    He has been told over and over that he had a sibling.
+    But no trace of such sibling.
+    Is she dead before his birth?
+    Had she been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1980-06-30 _ 23:20]--[1982-07-01 _ 23:20]
+    - [X] Itonrson
+*** Je and Itonrson are siblings.
+    [1991-07-01 _ 23:19]--[1995-07-01 _ 23:19]
+    - [X] Je
+    - [X] Itonrson
+*** Some time ago, Itonrson’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now his turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now he task.
+    [1995-06-21 _ 23:05]--[1995-07-01 _ 23:05]
+    - [X] Itonrson
+*** He now opened a shop.
+    Let us hope that the market will follow!
+    [2003-07-24 _ 22:34]--[2003-10-29 _ 22:34]
+    - [X] Itonrson
+*** Itonrson and Fough met during a party organised by Theams.
+    They greatly appreciated chatting one with the other and exchanged their contacts.
+    [2003-10-23 _ 20:20-20:39]
+    - [X] Fough
+    - [X] Itonrson
+*** In order to fund his secret society, Itonrson frequently needs the services of Ergen as a thief.
+    The latter has however no idea what these funds are for.
+    Heists are generally payed by favors, the secret society having quite a lot of contacts amongst various spheres of influence.
+    For now, the balance is in his side: he stole worthy objects but did not yet indicated what kind of favor he would need, keeping the right to ask in any moment.
+    [2003-10-27 _ 21:29]--[2003-11-04 _ 21:29]
+    - [X] Itonrson
+*** In order to confuse the issue, Itonrson decided to move.
+    He thus sold his shop to buy another one in another town.
+    [2003-10-29 _ 22:47]--[2004-01-30 _ 22:47]
+    - [X] Itonrson
+*** Itonrson has a good memory about clients.
+    Theams is for example a frequent one.
+    [2004-01-28 _ 22:42]--[2004-01-30 _ 22:42]
+    - [X] Itonrson
+*** Itonrson’s shop went brankrupt, disappearing with all trace of wealth.
+    [2004-01-30 _ 23:00]--[2004-02-17 _ 23:00]
+    - [X] Itonrson
+*** Itonrson has had a recurrent dream during the previous weeks.
+    In this dream, he turns into a bird and explores the world.
+    This feeling of freedom is so liberating.
+    He can fly over houses, over the city, over the countryside, over beaches, over seas…
+    Unfortunately, the dream always ends the same way: into a sudden and painful fall.
+    He then always wakes up sweaty.
+    [2004-06-06 _ 23:39]--[2004-06-30 _ 23:39]
+    - [X] Itonrson
+*** Meeting once again each other, Itonrson and Fough fell in love.
+    [2004-06-19 _ 23:05]--[2004-06-28 _ 23:05]
+    - [X] Fough
+    - [X] Itonrson
+*** Sunes experiencing temporarily cash shortage, she asked money to Itonrson.
+    Given Sunes’s wealth, she would have no trouble giving the money back to Itonrson in the future.
+    He thus gave some to her.
+    [2004-06-30 _ 12:17-14:31]
+    - [X] Sunes
+    - [X] Itonrson
+*** Sunes never gave the money back: a recall is now needed.
+    [2004-06-30 _ 14:44-15:25]
+    - [X] Itonrson
+*** Itonrson asked money to Fough.
+    Given the circumstances, he gave some to him.
+    [2004-06-30 _ 15:36-20:20]
+    - [X] Fough
+    - [X] Itonrson
+*** Itonrson woke up sweaty this night because of a nightmare.
+    His house…
+    His house was in fire!
+    He couldn’t do anything.
+    One could only let the fire catch its prey.
+    It was horrible.
+    [2004-06-30 _ 20:50-22:05]
+    - [X] Itonrson
+*** Itonrson strangely dreamt during the night.
+    He was in a relatively familiar place.
+    It looked like Zyacester’s house, but the neighbourhood was wrong.
+    The door was opened, but no light was coming our of any window.
+    The roof was glowing green.
+    Something was wrong.
+    The dream then fade away.
+    [2004-06-30 _ 22:27-23:36]
+    - [X] Itonrson
+*** Itonrson now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but he is a member for a reason: he can figure this out.
+    [2004-06-30 _ 23:38]
+    - [X] Itonrson
+*** The Very Secret Society is so secret that even Itonrson—who is one of its members—has no idea what this secret society does.
+    People tell that secret meetings happen between its members, but nobody knows what it being discussed.
+    Rumors tell that even attendees to such secret meetings have trouble remembering what was being told.
+    It very secret.
+    [2004-06-30 _ 23:50]
+    - [X] Itonrson
+
+* Hihn
+** Character attributes
+    - Famousness: hidding
+    - Specy: human
+    - Gender: male
+    - Job: spy
+    - Member of a secret society: the Very Secret Society
+    - Wealth: wealthy
+** Character contacts
+*** To Derrough
+     - Knows: yes
+*** To Ergen
+*** To Whergeehn
+     - Family link: sibling
+     - Knows: intimately
+*** To Sunes
+*** To Je
+     - Knows: yes
+     - Favor: large
+     - Debt: large
+*** To Zyacester
+     - Family link: child of
+     - Knows: yes
+*** To Theams
+     - Knows: yes
+*** To Fough
+     - Family link: sibling
+*** To Itonrson
+** Events
+*** Hihn considers that the central trait of a spy is discretion.
+    He thus trained a lot to make sure never to attract attention.
+    [1953-04-09 _ 21:12]--[1953-07-01 _ 21:12]
+    - [X] Hihn
+*** Hihn organised a large party, inviting a large number of acquaintances.
+    There were quite a lot of people coming: he no longer remembers who came.
+    He remembers quite well to have invited Theams and Derrough.
+    [1953-07-01 _ 17:11-21:43]
+    - [X] Hihn
+*** The current situation for Hihn is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Fough, his brother, was just born.
+    But he has to go now.
+    He will grow up without knowing his sibling.
+    He will understand later.
+    Hopefully.
+    [1953-07-01 _ 22:07-23:02]
+    - [X] Hihn
+*** Hihn frequently shops at Je’s shop.
+    [1995-04-13 _ 22:19]--[1995-06-20 _ 22:19]
+    - [X] Hihn
+*** They always never trusted one another, always having conflicts of diverse sorts.
+    It’s unfortunately how it is.
+    [1997-07-01 _ 23:23]--[2001-07-01 _ 23:23]
+    - [X] Whergeehn
+    - [X] Hihn
+*** Hihn and Whergeehn are siblings.
+    [2001-07-01 _ 23:43]--[2004-06-30 _ 23:43]
+    - [X] Whergeehn
+    - [X] Hihn
+*** One day, Hihn suddenly remembered something.
+    It was important.
+    He was meeting other people.
+    Everyone’s face was hidden.
+    He is a member of a secret society.
+    The most secret of them all: the Very Secret Society.
+    Unfortunately, he has trouble remembering.
+    It’s strange.
+    [2004-05-27 _ 23:03]--[2004-06-03 _ 23:03]
+    - [X] Hihn
+*** In the middle of a causual conversation, Derrough told Hihn that she owes money to Fough.
+    He seemed surprised, saying that he would never have expected this.
+    [2004-06-03 _ 19:06-22:58]
+    - [X] Derrough
+    - [X] Hihn
+*** He then decided to spy on Fough: something is not right.
+    [2004-06-03 _ 23:17]--[2004-06-09 _ 23:17]
+    - [X] Hihn
+*** Spying is an art that requires practice: Hihn decided to train heself on all sort of other people in a first stage.
+    It has been his job since then.
+    The goal of understanding what hides beside Fough is however still a priority.
+    [2004-06-09 _ 23:42]--[2004-06-30 _ 23:42]
+    - [X] Hihn
+*** Hihn experiencing temporarily cash shortage, he asked money to Je.
+    Given Hihn’s wealth, he would have no trouble giving the money back to Je in the future.
+    She thus gave some to him.
+    [2004-06-30 _ 15:45-16:32]
+    - [X] Je
+    - [X] Hihn
+*** Theams is the king.
+    [2004-06-30 _ 23:02]
+    - [X] Hihn
+*** Whergeehn and Hihn are born.
+    They are twins.
+    [2004-06-30 _ 23:14]
+    - [X] Whergeehn
+    - [X] Hihn
+*** Hihn now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but he is a member for a reason: he can figure this out.
+    [2004-06-30 _ 23:25]
+    - [X] Hihn
+*** Hihn heard Zyacester speaking alone.
+    It was about a “very secret” society.
+    Curious.
+    [2004-06-30 _ 23:42]
+    - [X] Hihn
+
+* Fough
+** Character attributes
+    - Famousness: hidding
+    - Specy: human
+    - Gender: male
+    - Age: young
+    - Job: thief
+** Character contacts
+*** To Derrough
+*** To Ergen
+     - Knows: yes
+*** To Whergeehn
+     - Family link: grandchild of
+     - Knows: yes
+     - Debt: large
+*** To Sunes
+     - Knows: yes
+*** To Je
+     - Knows: intimately
+*** To Zyacester
+     - Family link: sibling
+*** To Theams
+     - Knows: yes
+*** To Hihn
+     - Family link: sibling
+*** To Itonrson
+     - Knows: yes
+** Events
+*** Fough is born.
+    [1941-06-25 _ 17:44]
+    - [X] Fough
+*** Given the importance of his debts, Fough decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    He needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise him.
+    [1944-06-24 _ 18:28]--[1944-06-30 _ 18:28]
+    - [X] Fough
+*** Fough asked money to Whergeehn to set up a shop.
+    He gave some to him.
+    [1944-06-30 _ 15:21-18:45]
+    - [X] Whergeehn
+    - [X] Fough
+*** The current situation for Fough is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Zyacester, his sibling, was just born.
+    But he has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1944-06-30 _ 19:05-22:23]
+    - [X] Fough
+*** Fough has had a weird childhood.
+    He has been told over and over that he had a brother.
+    But no trace of such sibling.
+    Is he dead before his birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1956-06-30 _ 23:28]--[1965-07-01 _ 23:28]
+    - [X] Fough
+*** Fough frequently shops at Sunes’s shop.
+    [2003-09-13 _ 22:42]--[2003-11-26 _ 22:42]
+    - [X] Fough
+*** Itonrson and Fough met during a party organised by Theams.
+    They greatly appreciated chatting one with the other and exchanged their contacts.
+    [2003-10-23 _ 20:20-20:39]
+    - [X] Fough
+    - [X] Itonrson
+*** Sunes is a regular client of Fough.
+    It seems that she needs quite a lot of money, for an unknown reason.
+    In exchange of each heist, she proposes various services.
+    She is in contact with quite an impressive network!
+    And she is swift when help is requested: one should never hesitate to ask.
+    [2003-11-12 _ 22:02]--[2003-11-21 _ 22:02]
+    - [X] Fough
+*** When Fough learnt that Je was in a deeply unstable financiary situation, he was outraged.
+    He then decided once and for all that from now on, he would steal from the rich to give to the poor, and in particular to Je.
+    [2003-11-21 _ 22:30]--[2003-11-26 _ 22:30]
+    - [X] Fough
+*** Ergen and Fough participated together in a masterpiece heist.
+    This heist went perfectly: everything went as planned.
+    [2003-11-26 _ 22:56]--[2004-02-17 _ 22:56]
+    - [X] Ergen
+    - [X] Fough
+*** Meeting once again each other, Itonrson and Fough fell in love.
+    [2004-06-19 _ 23:05]--[2004-06-28 _ 23:05]
+    - [X] Fough
+    - [X] Itonrson
+*** Ergen experiencing temporarily cash shortage, he asked money to Fough.
+    Given Ergen’s wealth, he would have no trouble giving the money back to Fough in the future.
+    He thus gave some to him.
+    [2004-06-30 _ 7:25-10:37]
+    - [X] Ergen
+    - [X] Fough
+*** Ergen never gave the money back: a recall is now needed.
+    [2004-06-30 _ 10:55-15:12]
+    - [X] Fough
+*** Itonrson asked money to Fough.
+    Given the circumstances, he gave some to him.
+    [2004-06-30 _ 15:36-20:20]
+    - [X] Fough
+    - [X] Itonrson
+*** Theams is the king.
+    [2004-06-30 _ 22:55]
+    - [X] Fough
+*** Fough notices Hihn in the street.
+    Something isn’t right about Hihn, event if Fough doesn’t know what exactly.
+    [2004-06-30 _ 23:20]
+    - [X] Fough
+*** Fough knows how to choose the right targets, and Ergen is clearly a good one.
+    [2004-06-30 _ 23:46]
+    - [X] Fough
+
+* Theams
+** Character attributes
+    - Famousness: famous
+    - Specy: human
+    - Gender: female
+    - Age: young
+    - Job: monarch
+    - Role in a secret society: manager
+    - Member of a secret society: the Realisation
+** Character contacts
+*** To Derrough
+     - Family link: sibling
+*** To Ergen
+     - Knows: yes
+*** To Whergeehn
+     - Knows: yes
+*** To Sunes
+     - Knows: yes
+*** To Je
+*** To Zyacester
+     - Family link: spouse of
+     - Knows: yes
+*** To Fough
+     - Knows: yes
+*** To Hihn
+     - Knows: yes
+*** To Itonrson
+     - Knows: yes
+** Events
+*** Theams is born.
+    [1942-07-01 _ 12:27]
+    - [X] Theams
+*** Theams organised a large party, inviting a large number of acquaintances.
+    There were quite a lot of people coming: she no longer remembers who came.
+    She remembers quite well to have invited Sunes and Fough.
+    [1944-06-30 _ 13:02-13:52]
+    - [X] Theams
+*** Itonrson asked money to Theams to set up a shop.
+    She gave some to him.
+    [1951-05-08 _ 13:21-17:14]
+    - [X] Theams
+    - [X] Itonrson
+*** Theams asked money to Zyacester to set up a shop.
+    She gave some to her.
+    [1951-05-08 _ 17:40-21:55]
+    - [X] Zyacester
+    - [X] Theams
+*** Theams has had a weird childhood.
+    She has been told over and over that she had a sister.
+    But no trace of such sibling.
+    Is she dead before her birth?
+    Had she been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1978-07-01 _ 23:28]--[1981-07-01 _ 23:28]
+    - [X] Theams
+*** Theams and Derrough are siblings.
+    [1994-07-01 _ 23:25]--[2000-06-30 _ 23:25]
+    - [X] Derrough
+    - [X] Theams
+*** Hihn invited Theams to party.
+    It was nice of him.
+    [1995-06-25 _ 17:45-19:29]
+    - [X] Theams
+*** Theams frequently shops at Itonrson’s shop.
+    [2003-11-14 _ 22:29]--[2004-01-28 _ 22:29]
+    - [X] Theams
+*** Theams probably dropped the wrong word from her mouth: Whergeehn understood that she was a member of a secret society.
+    Following a lot of insisting from him, she finally let him know about it.
+    He thus became a member of the Realisation.
+    [2004-06-10 _ 22:46]--[2004-06-12 _ 22:46]
+    - [X] Theams
+*** In a discussion, Zyacester tells Theams that she would like to meet Sunes.
+    [2004-06-23 _ 20:49-22:12]
+    - [X] Zyacester
+    - [X] Theams
+*** The king is now dead.
+    Theams is taking the place on the trone.
+    Long live to the king!
+    [2004-06-26 _ 22:43]--[2004-06-30 _ 22:43]
+    - [X] Theams
+*** Whergeehn experiencing temporarily cash shortage, he asked money to Theams.
+    Given Whergeehn’s wealth, he would have no trouble giving the money back to Theams in the future.
+    She thus gave some to him.
+    [2004-06-30 _ 18:57-19:21]
+    - [X] Whergeehn
+    - [X] Theams
+*** Theams tells Sunes that she should discuss with Zyacester.
+    It’s indeed a very nice person, and she would benefit from such a discussion.
+    [2004-06-30 _ 21:43-22:09]
+    - [X] Sunes
+    - [X] Theams
+*** Whergeehn initiated Theams to the Realisation, the secret society that tries to make conspiracy theories come true.
+    Indeed, her advantageous position enables her to reach contacts that very few people can claim to have.
+    Furthermore, he thinks that she is the perfect match for one of these theories: the existence of a secret society that rule the world.
+    Naturally, one could argue that the Realisation already controls through its actions part of the world.
+    But this is clearly not enough to make these imaginative conspirationists right.
+    It has to be much better: create a secret society from scratch, and give it as many power as possible.
+    A simple solution would of course consists in simply making sure that its members are already people with a large impact.
+    A perfect role for Theams!
+    Of course, the Realisation is a large secret society and is full of resources: she should not hesitate to ask.
+    [2004-06-30 _ 22:23-23:09]
+    - [X] Whergeehn
+    - [X] Theams
+*** Theams heard Zyacester speaking alone.
+    It was about a “very secret” society.
+    Curious.
+    [2004-06-30 _ 23:31]
+    - [X] Theams
+*** Whergeehn never gave the money back: a recall is now needed.
+    [2004-06-30 _ 23:33-23:43]
+    - [X] Theams
+
+* Zyacester
+** Character attributes
+    - Famousness: famous
+    - Specy: human
+    - Gender: female
+    - Age: young
+    - Job: seller
+    - Member of a secret society: the Very Secret Society
+    - Wealth: wealthy
+** Character contacts
+*** To Derrough
+     - Knows: yes
+     - Debt: large
+*** To Ergen
+     - Family link: grandchild of
+     - Knows: yes
+*** To Whergeehn
+*** To Sunes
+     - Family link: child of
+     - Knows: yes
+*** To Je
+*** To Theams
+     - Knows: yes
+     - Favor: small
+     - Debt: old
+*** To Fough
+     - Family link: sibling
+*** To Hihn
+     - Knows: yes
+*** To Itonrson
+** Events
+*** Zyacester is born.
+    [1937-07-01 _ 22:09]
+    - [X] Zyacester
+*** Theams asked money to Zyacester to set up a shop.
+    She gave some to her.
+    [1951-05-08 _ 17:40-21:55]
+    - [X] Zyacester
+    - [X] Theams
+*** Zyacester always appreciated human contact.
+    Thus, she naturally decided to be seller.
+    [1951-05-08 _ 22:23]--[1951-05-14 _ 22:23]
+    - [X] Zyacester
+*** She now opened a shop.
+    Let us hope that the market will follow!
+    [1951-05-14 _ 22:53]--[1951-07-01 _ 22:53]
+    - [X] Zyacester
+*** Zyacester’s shop was quite successful and made her wealthy.
+    [1954-07-01 _ 23:17]--[1955-07-01 _ 23:17]
+    - [X] Zyacester
+*** Zyacester has had a weird childhood.
+    She has been told over and over that she had a brother.
+    But no trace of such sibling.
+    Is he dead before her birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1955-07-01 _ 23:32]--[1958-07-01 _ 23:32]
+    - [X] Zyacester
+*** Zyacester worked quite a long time to reach this level of wealth and reputation.
+    [1983-07-01 _ 23:44]--[2004-06-30 _ 23:44]
+    - [X] Zyacester
+*** Zyacester was invited by Hihn to a party.
+    It was a nice party.
+    [1995-06-25 _ 13:54-17:35]
+    - [X] Zyacester
+*** Some time ago, Zyacester’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [2001-06-22 _ 23:30]--[2001-07-01 _ 23:30]
+    - [X] Zyacester
+*** In a discussion, Zyacester tells Theams that she would like to meet Sunes.
+    [2004-06-23 _ 20:49-22:12]
+    - [X] Zyacester
+    - [X] Theams
+*** Zyacester has a good memory about clients.
+    Ergen is for example a frequent one.
+    [2004-06-25 _ 23:15]--[2004-06-28 _ 23:15]
+    - [X] Zyacester
+*** Death of Zyacester’s parents.
+    They leave her with an important wealth.
+    [2004-06-28 _ 23:40]--[2004-06-30 _ 23:40]
+    - [X] Zyacester
+*** Zyacester experiencing temporarily cash shortage, she asked money to Derrough.
+    Given Zyacester’s wealth, she would have no trouble giving the money back to Derrough in the future.
+    She thus gave some to her.
+    [2004-06-30 _ 17:11-19:28]
+    - [X] Derrough
+    - [X] Zyacester
+*** This night, Zyacester dreamt to be in another body.
+    In Sunes’s body.
+    Everything felt more complex: standing up, walking, even talking…
+    She woke up sweaty.
+    That’s simply not possible: Sunes’s life must be hell.
+    One has to help her.
+    [2004-06-30 _ 22:02-23:45]
+    - [X] Zyacester
+*** Theams is the king.
+    [2004-06-30 _ 23:35]
+    - [X] Zyacester
+*** Zyacester now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:49]
+    - [X] Zyacester
+
+* Je
+** Character attributes
+    - Famousness: hidding
+    - Specy: human
+    - Gender: female
+    - Age: young
+    - Job: seller
+    - Role in a secret society: leader
+    - Member of a secret society: the Very Secret Society
+    - Wealth: poor
+** Character contacts
+*** To Derrough
+     - Knows: yes
+     - Debt: large
+*** To Ergen
+*** To Whergeehn
+*** To Sunes
+*** To Zyacester
+*** To Theams
+     - Knows: yes
+*** To Fough
+     - Debt: large
+*** To Hihn
+     - Knows: yes
+*** To Itonrson
+     - Family link: sibling
+** Events
+*** Je is born.
+    [1926-05-12 _ 15:53]
+    - [X] Je
+*** Je asked money to Derrough to set up a shop.
+    She gave some to her.
+    [1934-05-12 _ 16:42-16:51]
+    - [X] Derrough
+    - [X] Je
+*** Je always appreciated human contact.
+    Thus, she naturally decided to be seller.
+    [1975-06-13 _ 21:23]--[1975-06-22 _ 21:23]
+    - [X] Je
+*** Given the importance of her debts, Je decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    She needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise her.
+    [1975-06-22 _ 21:44]--[1975-07-01 _ 21:44]
+    - [X] Je
+*** The current situation for Je is becoming worse and worse.
+    She must disappear, as soon as possible!
+    It won’t be easy: : Itonrson, her brother, was just born.
+    But she has to go now.
+    He will grow up without knowing his sibling.
+    He will understand later.
+    Hopefully.
+    [1975-07-01 _ 22:25-22:52]
+    - [X] Je
+*** Je has had a weird childhood.
+    She has been told over and over that she had a brother.
+    But no trace of such sibling.
+    Is he dead before her birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1978-07-01 _ 23:23]--[1980-06-30 _ 23:23]
+    - [X] Je
+*** Je and Itonrson are siblings.
+    [1991-07-01 _ 23:19]--[1995-07-01 _ 23:19]
+    - [X] Je
+    - [X] Itonrson
+*** She now opened a shop.
+    Let us hope that the market will follow!
+    [1995-03-04 _ 22:08]--[1995-04-13 _ 22:08]
+    - [X] Je
+*** Je has a good memory about clients.
+    Hihn is for example a frequent one.
+    [1995-06-20 _ 22:48]--[1995-06-25 _ 22:48]
+    - [X] Je
+*** Je and Derrough met during a party organised by Hihn.
+    They greatly appreciated chatting one with the other and exchanged their contacts.
+    [1995-06-25 _ 19:46-22:52]
+    - [X] Derrough
+    - [X] Je
+*** Some time ago, Je’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [1995-06-29 _ 23:35]--[1995-07-01 _ 23:35]
+    - [X] Je
+*** In order to confuse the issue, Je decided to move.
+    She thus sold her shop to buy another one in another town.
+    [2003-07-05 _ 21:47]--[2003-10-08 _ 21:47]
+    - [X] Je
+*** Je’s shop went brankrupt, disappearing with all trace of wealth.
+    [2003-10-08 _ 22:09]--[2003-11-21 _ 22:09]
+    - [X] Je
+*** Meeting once again each other, Je and Derrough fell in love.
+    [2004-06-15 _ 22:45]--[2004-06-19 _ 22:45]
+    - [X] Derrough
+    - [X] Je
+*** Hihn experiencing temporarily cash shortage, he asked money to Je.
+    Given Hihn’s wealth, he would have no trouble giving the money back to Je in the future.
+    She thus gave some to him.
+    [2004-06-30 _ 15:45-16:32]
+    - [X] Je
+    - [X] Hihn
+*** Je has been designated during a secret meeting as the new leader of the Very Secret Society.
+    It’s a tricky position.
+    She must organise all secret meetings, estimate how many people are aware of these meetings, and make sure that this number is decreasing.
+    Indeed, the goal of the Very Secret Society is to keep being secret.
+    [2004-06-30 _ 16:54-19:16]
+    - [X] Je
+*** Hihn never gave the money back: a recall is now needed.
+    [2004-06-30 _ 19:38-23:32]
+    - [X] Je
+*** Je now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:41]
+    - [X] Je
+
+* Sunes
+** Character attributes
+    - Famousness: famous
+    - Specy: human
+    - Gender: female
+    - Age: old
+    - Job: seller
+    - Role in a secret society: treasurer
+    - Member of a secret society: the Very Secret Society
+    - Wealth: wealthy
+** Character contacts
+*** To Derrough
+     - Family link: child of
+     - Knows: yes
+     - Debt: old
+*** To Ergen
+     - Family link: sibling
+*** To Whergeehn
+*** To Je
+*** To Zyacester
+     - Family link: spouse of
+     - Knows: yes
+*** To Theams
+     - Knows: yes
+*** To Fough
+     - Knows: yes
+     - Favor: large
+*** To Hihn
+*** To Itonrson
+     - Knows: yes
+     - Favor: large
+     - Debt: large
+** Events
+*** Sunes is born.
+    [1809-05-12 _ 16:04]
+    - [X] Sunes
+*** Derrough asked money to Sunes to set up a shop.
+    She gave some to her.
+    [1934-05-12 _ 17:14-21:22]
+    - [X] Derrough
+    - [X] Sunes
+*** Sunes always appreciated human contact.
+    Thus, she naturally decided to be seller.
+    [1934-05-12 _ 21:40]--[1934-05-17 _ 21:40]
+    - [X] Sunes
+*** She now opened a shop.
+    Let us hope that the market will follow!
+    [1934-05-17 _ 21:55]--[1934-07-01 _ 21:55]
+    - [X] Sunes
+*** Sunes’s shop was quite successful and made her wealthy.
+    [1946-07-01 _ 23:07]--[1956-06-30 _ 23:07]
+    - [X] Sunes
+*** Sunes has had a weird childhood.
+    She has been told over and over that she had a sibling.
+    But no trace of such sibling.
+    Is he dead before her birth?
+    Had he been kidnapped and went missing?
+    People ignore such questions.
+    They change the subject.
+    Blast!
+    [1956-06-30 _ 23:30]--[1965-07-01 _ 23:30]
+    - [X] Sunes
+*** Sunes worked quite a long time to reach this level of wealth and reputation.
+    [1975-07-01 _ 23:30]--[2004-06-30 _ 23:30]
+    - [X] Sunes
+*** Sunes and Ergen are siblings.
+    [1998-07-01 _ 23:09]--[2003-07-01 _ 23:09]
+    - [X] Ergen
+    - [X] Sunes
+*** Some time ago, Sunes’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [2003-06-25 _ 23:18]--[2003-07-01 _ 23:18]
+    - [X] Sunes
+*** Theams invited Sunes to party.
+    It was nice of her.
+    [2003-10-23 _ 20:06-20:09]
+    - [X] Sunes
+*** In order to fund her secret society, Sunes frequently needs the services of Fough as a thief.
+    The latter has however no idea what these funds are for.
+    Heists are generally payed by favors, the secret society having quite a lot of contacts amongst various spheres of influence.
+    For now, the balance is in his side: he stole worthy objects but did not yet indicated what kind of favor he would need, keeping the right to ask in any moment.
+    [2003-11-04 _ 21:44]--[2003-11-12 _ 21:44]
+    - [X] Sunes
+*** Death of Sunes’s parents.
+    They leave her with an important wealth.
+    [2004-06-03 _ 23:18]--[2004-06-06 _ 23:18]
+    - [X] Sunes
+*** Sunes has a good memory about clients.
+    Fough is for example a frequent one.
+    [2004-06-22 _ 23:44]--[2004-06-30 _ 23:44]
+    - [X] Sunes
+*** Sunes experiencing temporarily cash shortage, she asked money to Itonrson.
+    Given Sunes’s wealth, she would have no trouble giving the money back to Itonrson in the future.
+    He thus gave some to her.
+    [2004-06-30 _ 12:17-14:31]
+    - [X] Sunes
+    - [X] Itonrson
+*** Theams tells Sunes that she should discuss with Zyacester.
+    It’s indeed a very nice person, and she would benefit from such a discussion.
+    [2004-06-30 _ 21:43-22:09]
+    - [X] Sunes
+    - [X] Theams
+*** Theams is the queen.
+    [2004-06-30 _ 23:13]
+    - [X] Sunes
+*** Sunes now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:43]
+    - [X] Sunes
+
+* Whergeehn
+** Character attributes
+    - Specy: human
+    - Gender: male
+    - Job: seller
+    - Role in a secret society: leader
+    - Member of a secret society: the Realisation
+    - Wealth: wealthy
+** Character contacts
+*** To Derrough
+     - Knows: yes
+*** To Ergen
+*** To Sunes
+     - Knows: yes
+*** To Je
+*** To Zyacester
+     - Family link: child of
+*** To Theams
+     - Knows: yes
+     - Debt: large
+*** To Fough
+     - Family link: child of
+     - Knows: yes
+     - Debt: old
+*** To Hihn
+     - Family link: sibling
+     - Knows: intimately
+*** To Itonrson
+** Events
+*** Fough asked money to Whergeehn to set up a shop.
+    He gave some to him.
+    [1944-06-30 _ 15:21-18:45]
+    - [X] Whergeehn
+    - [X] Fough
+*** Whergeehn always appreciated human contact.
+    Thus, he naturally decided to be seller.
+    [1964-03-23 _ 22:27]--[1964-04-01 _ 22:27]
+    - [X] Whergeehn
+*** He now opened a shop.
+    Let us hope that the market will follow!
+    [1964-04-01 _ 22:39]--[1964-06-30 _ 22:39]
+    - [X] Whergeehn
+*** Whergeehn’s shop was quite successful and made him wealthy.
+    [1970-07-01 _ 23:23]--[1973-07-01 _ 23:23]
+    - [X] Whergeehn
+*** Whergeehn worked quite a long time to reach this level of wealth and reputation.
+    [1973-07-01 _ 23:41]--[2004-06-30 _ 23:41]
+    - [X] Whergeehn
+*** They always never trusted one another, always having conflicts of diverse sorts.
+    It’s unfortunately how it is.
+    [1997-07-01 _ 23:23]--[2001-07-01 _ 23:23]
+    - [X] Whergeehn
+    - [X] Hihn
+*** Hihn and Whergeehn are siblings.
+    [2001-07-01 _ 23:43]--[2004-06-30 _ 23:43]
+    - [X] Whergeehn
+    - [X] Hihn
+*** When Whergeehn heard about the Realisation through Theams, he was immediately very interested.
+    Finally a secret society taking conspirationists seriously!
+    Whergeehn insisted a lot to Theams to be part of it.
+    [2004-06-03 _ 22:35]--[2004-06-10 _ 22:35]
+    - [X] Whergeehn
+*** Death of Whergeehn’s parents.
+    They leave him with an important wealth.
+    [2004-06-18 _ 23:25]--[2004-06-25 _ 23:25]
+    - [X] Whergeehn
+*** Whergeehn has a good memory about clients.
+    Derrough is for example a frequent one.
+    [2004-06-25 _ 23:43]--[2004-06-30 _ 23:43]
+    - [X] Whergeehn
+*** Whergeehn experiencing temporarily cash shortage, he asked money to Theams.
+    Given Whergeehn’s wealth, he would have no trouble giving the money back to Theams in the future.
+    She thus gave some to him.
+    [2004-06-30 _ 18:57-19:21]
+    - [X] Whergeehn
+    - [X] Theams
+*** Whergeehn has been designated as the new leader of the Realisation.
+    This position is of crucial importance: he is in charge of coordinating the numerous actions of the secret society.
+    [2004-06-30 _ 19:36-22:09]
+    - [X] Whergeehn
+*** Whergeehn initiated Theams to the Realisation, the secret society that tries to make conspiracy theories come true.
+    Indeed, her advantageous position enables her to reach contacts that very few people can claim to have.
+    Furthermore, he thinks that she is the perfect match for one of these theories: the existence of a secret society that rule the world.
+    Naturally, one could argue that the Realisation already controls through its actions part of the world.
+    But this is clearly not enough to make these imaginative conspirationists right.
+    It has to be much better: create a secret society from scratch, and give it as many power as possible.
+    A simple solution would of course consists in simply making sure that its members are already people with a large impact.
+    A perfect role for Theams!
+    Of course, the Realisation is a large secret society and is full of resources: she should not hesitate to ask.
+    [2004-06-30 _ 22:23-23:09]
+    - [X] Whergeehn
+    - [X] Theams
+*** Theams is the king.
+    [2004-06-30 _ 23:00]
+    - [X] Whergeehn
+*** Whergeehn and Hihn are born.
+    They are twins.
+    [2004-06-30 _ 23:14]
+    - [X] Whergeehn
+    - [X] Hihn
+*** The Realisation greatly appreciate conspirationists’s imagination.
+    The Realisation thus seeks to make these invented conspirations real.
+    It’s an extremely difficult task: some of these theory are really impossible!
+    But the imagination of Realisation’s members is large enough to come up with actual solutions.
+    [2004-06-30 _ 23:47]
+    - [X] Whergeehn
+
+* Ergen
+** Character attributes
+    - Famousness: hidding
+    - Specy: human
+    - Gender: male
+    - Age: young
+    - Job: thief
+    - Wealth: wealthy
+** Character contacts
+*** To Derrough
+*** To Whergeehn
+*** To Sunes
+     - Family link: sibling
+*** To Je
+     - Knows: intimately
+*** To Zyacester
+     - Knows: yes
+*** To Theams
+     - Knows: yes
+*** To Fough
+     - Family link: grandparent of
+     - Knows: yes
+     - Debt: large
+*** To Hihn
+*** To Itonrson
+     - Knows: yes
+** Events
+*** Ergen is born.
+    [1938-07-01 _ 13:34]
+    - [X] Ergen
+*** Ergen was invited by Theams to a party.
+    It was a nice party.
+    [1944-06-30 _ 14:17-18:05]
+    - [X] Ergen
+*** The current situation for Ergen is becoming worse and worse.
+    He must disappear, as soon as possible!
+    It won’t be easy: : Sunes, his sibling, was just born.
+    But he has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1944-06-30 _ 18:22-22:16]
+    - [X] Ergen
+*** Sunes and Ergen are siblings.
+    [1998-07-01 _ 23:09]--[2003-07-01 _ 23:09]
+    - [X] Ergen
+    - [X] Sunes
+*** Ergen frequently shops at Zyacester’s shop.
+    [2003-10-18 _ 22:26]--[2003-11-26 _ 22:26]
+    - [X] Ergen
+*** Itonrson is a regular client of Ergen.
+    It seems that he needs quite a lot of money, for an unknown reason.
+    In exchange of each heist, he proposes various services.
+    He is in contact with quite an impressive network!
+    And he is swift when help is requested: one should never hesitate to ask.
+    [2003-11-04 _ 21:53]--[2003-11-14 _ 21:53]
+    - [X] Ergen
+*** Death of Ergen’s parents.
+    They leave him with an important wealth.
+    [2003-11-14 _ 22:08]--[2003-11-17 _ 22:08]
+    - [X] Ergen
+*** When Ergen learnt that Je owes a fortune to Fough, he was outraged.
+    He then decided once and for all that from now on, he would steal from the rich, and in particular from Fough.
+    It has been his job since then.
+    [2003-11-17 _ 22:37]--[2003-11-26 _ 22:37]
+    - [X] Ergen
+*** Ergen and Fough participated together in a masterpiece heist.
+    This heist went perfectly: everything went as planned.
+    [2003-11-26 _ 22:56]--[2004-02-17 _ 22:56]
+    - [X] Ergen
+    - [X] Fough
+*** Ergen noticed an unusual behaviour from Je.
+    She is frequently going away, sometimes with strange excuses.
+    She is hidding something.
+    [2004-03-27 _ 23:37]--[2004-06-30 _ 23:37]
+    - [X] Ergen
+*** Ergen experiencing temporarily cash shortage, he asked money to Fough.
+    Given Ergen’s wealth, he would have no trouble giving the money back to Fough in the future.
+    He thus gave some to him.
+    [2004-06-30 _ 7:25-10:37]
+    - [X] Ergen
+    - [X] Fough
+*** Theams is the queen.
+    [2004-06-30 _ 23:08]
+    - [X] Ergen
+*** Ergen knows how to choose the right targets, and Whergeehn is clearly a good one.
+    [2004-06-30 _ 23:32]
+    - [X] Ergen
+
+* Derrough
+** Character attributes
+    - Famousness: hidding
+    - Specy: human
+    - Gender: female
+    - Age: young
+    - Job: spy
+    - Member of a secret society: the Very Secret Society
+** Character contacts
+*** To Ergen
+*** To Whergeehn
+     - Knows: yes
+*** To Sunes
+     - Knows: yes
+*** To Je
+     - Knows: yes
+*** To Zyacester
+     - Knows: yes
+*** To Theams
+     - Family link: sibling
+*** To Fough
+     - Family link: parent of
+     - Debt: large
+*** To Hihn
+     - Knows: yes
+*** To Itonrson
+     - Family link: child of
+** Events
+*** Derrough is born.
+    [1924-05-11 _ 16:20]
+    - [X] Derrough
+*** Je asked money to Derrough to set up a shop.
+    She gave some to her.
+    [1934-05-12 _ 16:42-16:51]
+    - [X] Derrough
+    - [X] Je
+*** Derrough asked money to Sunes to set up a shop.
+    She gave some to her.
+    [1934-05-12 _ 17:14-21:22]
+    - [X] Derrough
+    - [X] Sunes
+*** Derrough considers that the central trait of a spy is discretion.
+    She thus trained a lot to make sure never to attract attention.
+    [1971-06-02 _ 18:55]--[1971-07-01 _ 18:55]
+    - [X] Derrough
+*** The current situation for Derrough is becoming worse and worse.
+    She must disappear, as soon as possible!
+    It won’t be easy: : Theams, her sister, was just born.
+    But she has to go now.
+    She will grow up without knowing her sibling.
+    She will understand later.
+    Hopefully.
+    [1971-07-01 _ 19:32-22:54]
+    - [X] Derrough
+*** Theams and Derrough are siblings.
+    [1994-07-01 _ 23:25]--[2000-06-30 _ 23:25]
+    - [X] Derrough
+    - [X] Theams
+*** Je and Derrough met during a party organised by Hihn.
+    They greatly appreciated chatting one with the other and exchanged their contacts.
+    [1995-06-25 _ 19:46-22:52]
+    - [X] Derrough
+    - [X] Je
+*** Some time ago, Derrough’s parents suddenly became very serious.
+    They had something to pass upon.
+    Since generations, each members of the family has been part of a secret society.
+    It’s now her turn to be part of the tradition.
+    It’s a difficult task: it is about the Very Secret Society.
+    This society is so secret that it is difficult to meet other members to organize oneself.
+    It’s now she task.
+    [2000-06-24 _ 23:28]--[2000-06-30 _ 23:28]
+    - [X] Derrough
+*** Derrough frequently shops at Whergeehn’s shop.
+    [2004-04-26 _ 23:32]--[2004-06-25 _ 23:32]
+    - [X] Derrough
+*** In the middle of a causual conversation, Derrough told Hihn that she owes money to Fough.
+    He seemed surprised, saying that he would never have expected this.
+    [2004-06-03 _ 19:06-22:58]
+    - [X] Derrough
+    - [X] Hihn
+*** Meeting once again each other, Je and Derrough fell in love.
+    [2004-06-15 _ 22:45]--[2004-06-19 _ 22:45]
+    - [X] Derrough
+    - [X] Je
+*** Given the importance of her debts, Derrough decided to definitively disappear from the sight of others.
+    This won’t be easy.
+    She needs method: choosing another name, creating a fake ID, and finding a place aways from another that might recognise her.
+    [2004-06-25 _ 23:42]--[2004-06-30 _ 23:42]
+    - [X] Derrough
+*** Zyacester experiencing temporarily cash shortage, she asked money to Derrough.
+    Given Zyacester’s wealth, she would have no trouble giving the money back to Derrough in the future.
+    She thus gave some to her.
+    [2004-06-30 _ 17:11-19:28]
+    - [X] Derrough
+    - [X] Zyacester
+*** Zyacester never gave the money back: a recall is now needed.
+    [2004-06-30 _ 19:56-23:38]
+    - [X] Derrough
+*** Derrough now understands what is the goal of the Very Secret Society.
+    Its goal is to keep being secret.
+    To make sure that even its members forget about it.
+    It’s a difficult task, but she is a member for a reason: she can figure this out.
+    [2004-06-30 _ 23:38]
+    - [X] Derrough

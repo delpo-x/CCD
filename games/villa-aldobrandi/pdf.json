@@ -1,0 +1,85 @@
+{
+ "output": "villa-aldobrandi-completo.pdf",
+ "header": "Il Brindisi di Villa Aldobrandi",
+ "kicker": "Murder mystery party",
+ "title": "Il Brindisi di Villa Aldobrandi",
+ "subtitle": "6 giocatori + 1 ospite · 90 minuti · Lago d'Orta",
+ "warn": "Attenzione, spoiler. Questo è il volume completo dell'ospite: contiene soluzione, colpevole e indizi. Ai giocatori stampa solo inviti, schede personaggio e indizi.",
+ "theme": {
+  "fonts": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Libre+Baskerville:wght@400;700&display=swap",
+  "ink": "#450A0A",
+  "head": "#7C2D12",
+  "accent": "#A16207",
+  "paper": "#FBF6EE",
+  "line": "#E3D3B8",
+  "soft": "#F1E4CC",
+  "muted": "#5B4A44",
+  "cover": "#450A0A",
+  "cover_ink": "#FBF6EE",
+  "cover_accent": "#E3C58A",
+  "body_font": "Libre Baskerville",
+  "head_font": "Cormorant Garamond",
+  "head_weight": "700"
+ },
+ "sections": [
+  {
+   "title": "",
+   "files": [
+    "README.md"
+   ]
+  },
+  {
+   "title": "Parte 1 - Per l'Ospite (spoiler)",
+   "files": [
+    "gioco/guida_ospite.md",
+    "gioco/soluzione.md",
+    "gioco/riferimento_indizi.md"
+   ]
+  },
+  {
+   "title": "Parte 2 - Vittima e detective",
+   "files": [
+    "personaggi/scheda_vittima.md",
+    "personaggi/scheda_detective.md"
+   ]
+  },
+  {
+   "title": "Parte 3 - Inviti e schede dei sospetti",
+   "files": [
+    "personaggi/Character_1_invito.md",
+    "personaggi/Character_1_scheda_personaggio.md",
+    "personaggi/Character_2_invito.md",
+    "personaggi/Character_2_scheda_personaggio.md",
+    "personaggi/Character_3_invito.md",
+    "personaggi/Character_3_scheda_personaggio.md",
+    "personaggi/Character_4_invito.md",
+    "personaggi/Character_4_scheda_personaggio.md",
+    "personaggi/Character_5_invito.md",
+    "personaggi/Character_5_scheda_personaggio.md",
+    "personaggi/Character_6_invito.md",
+    "personaggi/Character_6_scheda_personaggio.md"
+   ]
+  },
+  {
+   "title": "Parte 4 - Indizi",
+   "files": [
+    "indizi/indizio_01.md",
+    "indizi/indizio_02.md",
+    "indizi/indizio_03.md",
+    "indizi/indizio_04.md",
+    "indizi/indizio_05.md",
+    "indizi/indizio_06.md",
+    "indizi/indizio_07.md",
+    "indizi/indizio_08.md",
+    "indizi/indizio_09.md",
+    "indizi/indizio_10.md"
+   ]
+  },
+  {
+   "title": "Parte 5 - Prompt per le immagini",
+   "files": [
+    "immagini/PROMPTS.md"
+   ]
+  }
+ ]
+}
