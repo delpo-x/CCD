@@ -13,7 +13,7 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 | 3 | A | Conosceva il revolver nel cassetto (era l'informatore a trovarlo di notte) | E20 | «Lo sapevano anche Noe e Kalea» |
 | 4 | O | Lascia la veranda alle 23:14, non c'è in IMG_0413, rientra alle 23:20: la finestra copre lo sparo | E06, tutti | «Cercava Kalea, l'ha dichiarato lui» |
 | 5 | B | Dice che il corridoio era illuminato; la lampadina era allentata dopo le 23:14 | E15, Kapono | «Si sbaglia sull'orario» |
-| 6 | T | Il registratore ha due pause: 21:45–21:52 (il furto del revolver) e 23:14–23:19 (lo sparo) | E18 | «Era in bagno, stanco di registrare» |
+| 6 | T | Il registratore ha due pause: 21:45–21:52 (il furto del revolver) e 23:14–23:19 (lo sparo). Conferma, non pista: manca il boato delle 23:15 e si sequestra solo dopo un'accusa documentata | E18 | «Era in bagno, stanco di registrare» |
 | 7 | C | Non scagiona Kalea: «Non so dov'era». Lascia che sia Pua a nominare il petalo | Interrogatorio, Pua | «È suo fratello e non vuole accusarla» |
 
 **Scagionamento**: nessuno.

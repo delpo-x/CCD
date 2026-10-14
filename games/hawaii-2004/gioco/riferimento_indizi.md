@@ -63,7 +63,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 - **Per scagionare Akoni, Pua, Lei e Noe:** 26 (e 05, 06, 04) più rapporto 5.
 - **Per scagionare Kalea:** rapporti 2 e 3.
 - **Per scagionare Ike e Kapono:** 07 e rapporto 4.
-- **Per incastrare Maleko:** 14, 15, 16, 17, 03, nastro, 13, rapporto 6, testimonianze di Auntie Lei, Nalu e Kapono.
+- **Per incastrare Maleko:** 14, 15, 16, 17, 03, 13, la conferma del nastro (solo se sequestrato), rapporto 6, testimonianze di Auntie Lei, Nalu e Kapono.
 
 ## Codici E
 
