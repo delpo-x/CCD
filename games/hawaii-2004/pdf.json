@@ -33,6 +33,7 @@
    "files": [
     "gioco/guida_direttore.md",
     "gioco/cena.md",
+    "gioco/partita_di_prova.md",
     "gioco/soluzione.md",
     "gioco/fascicolo_caso.md",
     "gioco/matrice_sospetti.md",
