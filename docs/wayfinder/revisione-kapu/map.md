@@ -33,6 +33,7 @@ Un piano di revisione editoriale approvato, abbastanza preciso da affidare l'imp
 - [Quali relazioni potenziare e con quali segreti](tickets/04-relazioni-da-potenziare.md): cinque legami a due metà, ciascuna in mano a un giocatore: Kalea-Kapono-Noe (ricatto personale), Pua ex moglie di Akoni, triangolo Lani-Nalu-Ike, Lani e Auntie Lei su Maleko; Maleko-Noe invariato.
 - [Profondità psicologica dei personaggi](tickets/05-profondita-personaggi.md): quattro correzioni di fondo (Akoni, Pua, Kapono, Auntie Lei), tre righe «Voglio / Temo / Cedo se» su ogni scheda, Maleko cede se Kalea è accusata da due persone, Nalu non è più adottato, difficoltà dei ruoli solo nella guida.
 - [Scene e interazioni da giocare nella serata](tickets/06-scene-e-interazioni.md): cinque tempi nei 75 minuti, campanella dell'ultima chiamata al minuto 55 (busta chiusa = punto perso), séparé a due con clessidra, sei carte scena, prime mosse dalle missioni, bonus tavolo +5 con almeno sette accuse corrette su Maleko, brindisi di Lani come invito.
+- [Depistaggi e colpi di scena senza toccare la catena di prove](tickets/07-depistaggi-e-colpi-di-scena.md): nessuna pista nuova; gli alibi di Akoni, Ike, Kapono e Noe costano un'ammissione; Kalea dice una verità a metà verso il minuto 45 senza fare il nome; Maleko ha due battute pronte (la frase di Akoni sul nastro, il debito di Pua) e il nastro è a doppio taglio; scartati complici e false confessioni.
 
 ## Not yet specified
 
