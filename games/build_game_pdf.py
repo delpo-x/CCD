@@ -120,7 +120,7 @@ for sec in cfg["sections"]:
                 else "scheda missione" if f.endswith("_missione.md")
                 else "guida" if f.endswith(("regole_giocatore.md", "piantina.md")) or "/striscia_" in f
                 else "scheda" if "scheda_personaggio" in f
-                else "indizio" if f.startswith(("indizi/", "oggetti/", "scene/")) else "")
+                else "indizio" if f.startswith(("indizi/", "oggetti/", "scene/", "enigmi/")) else "")
         body = md.convert(chr(10).join(lines))
         body = re.sub(r"<table>(.*?)</table>", lambda m: ("<table class=\"long\">" if m.group(1).count("<tr>") > 8 else "<table>") + m.group(1) + "</table>", body, flags=re.S)
         body = body.replace("<p>▢", "<p class=\"task\">▢")

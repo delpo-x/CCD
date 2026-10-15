@@ -59,6 +59,18 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | Kalea | La luce sotto la porta del bagno si spegne prima dei passi pesanti alle 23:14 (la lampadina è stata svitata prima, non dopo); clic della porta dell'ufficio, un altro passo alle 23:19 | Solo se cede |
 | Akoni | Era sulla scala della spiaggia, al telefono, dalle 23:14 alle 23:16 | Se lo si incalza |
 
+## Enigmi
+
+Soluzioni, aiuti e vie di uscita in `enigmi_direttore.md`. Nessun enigma aggiunge prove: ognuno apre una carta già nel gioco.
+
+| Enigma | Sblocca | Soluzione |
+|--------|---------|-----------|
+| 1 Striscia cifrante | Dove sta la copia del registro | COPIA IN K3 CHIAVE A NALU |
+| 2 Cassetta K-3 | Indizio 13 | 396 |
+| 3 Tre foto senza ora | La finestra di Maleko (23:12–23:16) | 2-3-1 |
+| 4 Lavagna delle 23:15 | L'unico senza prova: Maleko | Maleko |
+| 5 Il nastro | Il boato mancante (conferma E18) | Il boato |
+
 ## Mappa delle prove
 
 - **Per scagionare Akoni, Pua, Lei e Noe:** 26 (e 05, 06, 04) più rapporto 5.

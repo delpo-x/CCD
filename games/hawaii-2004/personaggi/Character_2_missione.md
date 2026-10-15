@@ -14,7 +14,7 @@ Chiave d'ottone (oggetto 02)
 ▢ **Consegna la chiave al tenente prima del turno delle accuse. Se la tieni nascosta oltre, perdi questi punti.** (5 punti)
 
 ## Una svolta (non leggerla prima del momento giusto)
-La chiave apre la cassetta di sicurezza sotto il bancone del bar (K-3). Se la consegni, il direttore ti dà l'indizio 13.
+La chiave apre la cassetta di sicurezza sotto il bancone del bar (K-3). Se la consegni, il tenente la porta alla cassetta davanti a tutti. Ha anche un lucchetto a tre cifre: la combinazione la trovate insieme, al tavolo. Dentro c'è l'indizio 13.
 
 ---
 Se non ci riesci, non succede niente: tieni il segreto e gioca.

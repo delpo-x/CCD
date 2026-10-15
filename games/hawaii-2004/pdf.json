@@ -32,6 +32,7 @@
    "title": "Parte 1 - Per il Direttore (spoiler)",
    "files": [
     "gioco/guida_direttore.md",
+    "gioco/enigmi_direttore.md",
     "gioco/cena.md",
     "gioco/partita_di_prova.md",
     "gioco/soluzione.md",
@@ -106,6 +107,15 @@
     "indizi/indizio_16.md",
     "indizi/indizio_17.md",
     "indizi/indizio_26.md"
+   ]
+  },
+  {
+   "title": "Parte 4b - Enigmi",
+   "files": [
+    "enigmi/enigma_1_striscia.md",
+    "enigmi/enigma_2_cassetta.md",
+    "enigmi/enigma_3_foto.md",
+    "enigmi/enigma_4_lavagna.md"
    ]
   },
   {

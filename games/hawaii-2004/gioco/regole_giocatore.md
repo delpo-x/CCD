@@ -44,11 +44,15 @@ Alla fine scrivi su un foglio: **il nome del colpevole, il movente, come ha fatt
 - Ogni compito della tua missione che riesci a completare vale **5 punti** (15 in tutto).
 - Un'**accusa giusta** vale **+10**.
 - Ogni **prova ben citata** nell'accusa vale **+2**, fino a **+10**.
+- Ogni **enigma risolto** al tavolo vale **+2** a chi ci ha lavorato, fino a **+6**.
 - Se **mostri o chiedi**, prima della campanella, una prova che scagiona un altro giocatore, prendi **+3** una volta sola. Premia chi mette in comune.
 - **Bonus del tavolo:** se almeno sette giocatori accusano la persona giusta, tutti prendono **+5**.
 - Chi accusa un innocente non perde punti: perde solo l'occasione.
 
 Vince chi ha più punti. In parità vince chi ha più accuse giuste, poi chi ha citato più prove. C'è anche un premio per chi ha recitato meglio, votato da tutti.
+
+## Gli enigmi
+Qualche prova non si legge a colpo d'occhio: una riga in codice, un lucchetto, tre foto senza ora. Quando ne trovi una, portala al tavolo del tenente e provate a risolverla in due o tre, senza smettere di giocare. Se restate bloccati, il tenente dà un aiuto alla volta. Nessun enigma è indispensabile per arrivare alla verità: aiutano ad arrivarci prima. Ognuno vale **+2** a chi ci ha lavorato (fino a tre persone), e per giocatore si contano al massimo **+6**.
 
 ## Se c'è la cena
 Al minuto 40 il buffet è sul bancone. Si mangia e si parla, restando in ruolo: carte e oggetti restano in tasca, e il séparé resta in uso. Se hai ricevuto una carta piatto, la usi qui. Non porta punti e non è un indizio.
