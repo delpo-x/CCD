@@ -40,9 +40,9 @@ def full(prompt, section, fname):
         txt = "No readable text, letters or numbers anywhere in the image: any paper, label or screen shows only blurred, illegible marks."
     extra = ""
     if "ritratti" in sec:
-        extra = (" Same neutral, guarded, slightly defensive expression as every other character: "
-                 "no guilty look, no sinister smile, no hidden hands, no dramatic shadows across the face. "
-                 "If a reference image is attached, keep exactly the same person, with the same face and hair.")
+        extra = (" Neutral, guarded, slightly defensive expression: no guilty look, no sinister smile, no hidden hands, no dramatic shadows across the face. "
+                 "This must be a unique, individual face, clearly different from every other portrait in the series: follow the face, skin, hair and body details above exactly. "
+                 "Only if a reference image of this same character is attached, keep exactly that person.")
     return ("%s Image format: %s. Setting: Honolulu, August 2004: no smartphones, no flat screens, no modern cars, no earbuds. %s%s Avoid: %s."
             % (prompt.rstrip().rstrip(".") + ".", fmt, txt, extra, neg))
 
