@@ -31,7 +31,8 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 6. Procurati: un cappello di paglia per te, un d6 per ogni giocatore, un cronometro, una campanella (oggetto di scena), una clessidra da 3 minuti, un quaderno, un blocco di post-it e una penna, musica hawaiana bassa. Per ogni luogo del locale prepara un cartoncino con il nome (Ufficio, Corridoio, Cucina, Cassa degli ampli, Bancone, Scantinato, Veranda, Bagno) e appendilo alla parete come mappa. Nessuno ci va: serve a dire dove si sta cercando.
 7. Prepara la stanza (vedi «Una sola stanza»): il tuo tavolo con i rapporti e le buste delle carte, un angolo per i colloqui riservati, spazio per muoversi.
 8. Se fai la cena (facoltativa): prepara il buffet come in `cena.md` e consegna le cinque carte piatto (`oggetti/piatto_*.md`) insieme alle buste. Dì a Kapono, e solo a lui, di portare i vassoi dal frigo al minuto 40.
-9. Leggi tutto prima della serata: `soluzione.md`, `fascicolo_caso.md`, `matrice_sospetti.md`, `interviste.md`, e i due fogli di scena `personaggi/scheda_vittima.md` e `personaggi/scheda_detective.md`.
+9. Consegna le sei **carte scena** (`scene/`) a Kapono, Noe, Pua, Lani, Auntie Lei e Maleko, insieme alle buste. Ognuna ha solo la frase d'apertura: il resto lo giocano i giocatori, e tu non intervieni.
+10. Leggi tutto prima della serata: `soluzione.md`, `fascicolo_caso.md`, `matrice_sospetti.md`, `interviste.md`, e i due fogli di scena `personaggi/scheda_vittima.md` e `personaggi/scheda_detective.md`.
 
 ## Assegnare i ruoli
 

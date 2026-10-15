@@ -18,6 +18,7 @@ Il caso è costruito perché **ogni personaggio abbia almeno cinque elementi di 
 - `gioco/` – guida del direttore, soluzione, fascicolo del caso, matrice dei sospetti, registro delle iterazioni di verifica, banca di domande dell'intervista, riferimento indizi, mini-trame, punteggio e cena facoltativa (`cena.md`) (**SPOILER, solo direttore**)
 - `personaggi/` – inviti, schede e **missioni segrete** dei 10 giocatori; dossier della vittima e scheda del tenente (solo direttore)
 - `oggetti/` – dieci oggetti personali, da consegnare in buste chiuse
+- `scene/` – sei carte scena, con la sola frase d'apertura
 - `indizi/` – 17 carte indizio per i giocatori e, in `indizi/rapporti/`, 7 rapporti di laboratorio e polizia
 - `verifica/verifica_caso.py` – controllo meccanico di spostamenti, tempi e alibi: verifica che resti un solo sospetto con tutte le prove
 - `immagini/PROMPTS.md` – prompt per generare ritratti e oggetti di scena
