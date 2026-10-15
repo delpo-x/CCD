@@ -2,7 +2,7 @@
 
 Questo file contiene i prompt per generare tutte le immagini del gioco. I prompt sono in **inglese**, perché i generatori (Midjourney, Flux, SDXL, DALL·E, Imagen, Firefly) seguono meglio l'inglese. Le note intorno sono in italiano.
 
-Salva ogni immagine in questa cartella **con il nome indicato** accanto al titolo di ogni prompt. Quando sono pronte, mandamele e le inserisco in schede e PDF.
+Salva ogni immagine riuscita nella cartella `finali/` **con il nome indicato** accanto al titolo di ogni prompt. Le prove scartate vanno in `bozze/`. Questo file esiste anche in versione `PROMPTS.html`, con un pulsante «Copia» per ogni prompt: è quella da aprire sul cellulare. Quando sono pronte, mandamele e le inserisco in schede e PDF.
 
 ## Prima di cominciare
 
@@ -12,7 +12,7 @@ Salva ogni immagine in questa cartella **con il nome indicato** accanto al titol
 3. **Una sola epoca.** Honolulu, agosto 2004: niente smartphone, niente schermi piatti, niente auto moderne, niente auricolari. Telefoni a conchiglia, compatte digitali da 4 megapixel, registratori a microcassetta.
 
 ### Cosa è deciso e cosa no
-Costumi e accessori vengono dalle schede, e i giocatori li usano per riconoscersi: non cambiarli. **Etnia, tratti del volto e colore dei capelli non sono scritti nelle schede**: li ho scelti io per dare ai generatori qualcosa di preciso. Se vuoi altro, cambia quelle parole e lascia il resto.
+Costumi e accessori vengono dalle schede, e i giocatori li usano per riconoscersi: non cambiarli. **Etnia, tratti del volto e colore dei capelli non sono scritti nelle schede.** Seguono la composizione reale delle Hawaii: nel 2004 la maggior parte degli abitanti è di origine mista (hawaiana, giapponese, filippina, cinese, portoghese, samoana, bianca) e il locale è pieno di «local». Ogni personaggio ha quindi un'origine mista precisa. Se vuoi altro, cambia quelle parole e lascia il resto.
 
 ### Blocchi comuni (da incollare dove indicato)
 
@@ -35,7 +35,7 @@ Costumi e accessori vengono dalle schede, e i giocatori li usano per riconoscers
 - **Copertina:** verticale 2:3, almeno 1600×2400 px.
 
 ### Come tenere i volti coerenti
-Genera **prima** i ritratti dei giocatori, poi usa ognuno come immagine di riferimento (`--cref` in Midjourney, «character reference» altrove, «image prompt» al 60–70% negli altri strumenti) per le immagini in cui compare lo stesso personaggio. Tre famiglie devono somigliarsi:
+Genera **prima** i ritratti dei giocatori, poi usa ognuno come immagine di riferimento (`--cref` in Midjourney, «character reference» altrove, «image prompt» al 60–70% negli altri strumenti) per le immagini in cui compare lo stesso personaggio. Tre famiglie devono somigliarsi (i tratti sono per l'origine scelta sopra):
 - **Mahoe** (Akoni, Pua, Ike): fratelli. Stessa mascella larga, occhi infossati, naso largo.
 - **Hanohano** (Maleko, Kalea): fratello e sorella. Stessi zigomi alti, occhi scuri e allungati, sopracciglia dritte.
 - **Kealoha** (Keoki, Auntie Lei, Lani): Lani ha gli occhi del padre.
@@ -47,40 +47,40 @@ Nalu, Noe e Kapono non sono imparentati con nessuno.
 ## Ritratti dei personaggi
 
 ### 01 · `ritratto_01_lani.png` – Lani Kealoha, 31 anni
-> [PORTRAIT] Native Hawaiian woman, 31, black hair in a low loose bun with a single red hibiscus tucked behind her ear, dark navy aloha shirt with a faint black print, a walkie-talkie clipped to her belt, no makeup, dark circles under the eyes from lack of sleep, stubborn jaw, tired but resolute. Background: the polished koa bar of a nightclub, a pink neon sign blurred behind her. [STYLE]
+> [PORTRAIT] Hawaiian-Japanese mixed-heritage woman, 31, black hair in a low loose bun with a single red hibiscus tucked behind her ear, dark navy aloha shirt with a faint black print, a walkie-talkie clipped to her belt, no makeup, dark circles under the eyes from lack of sleep, stubborn jaw, tired but resolute. Background: the polished koa bar of a nightclub, a pink neon sign blurred behind her. [STYLE]
 
 ### 02 · `ritratto_02_nalu.png` – Nalu, 29 anni
-> [PORTRAIT] Native Hawaiian man, 29, lean build, short black hair, a short-sleeve red aloha shirt, a black bartender apron, a steel cocktail shaker in his right hand, a bartender's half-smile held back, nervous hands. Background: rows of colored liquor bottles lit from below behind the bar. [STYLE]
+> [PORTRAIT] Hawaiian-Samoan mixed-heritage man, 29, lean athletic build, short black hair, a short-sleeve red aloha shirt, a black bartender apron, a steel cocktail shaker in his right hand, a bartender's half-smile held back, nervous hands. Background: rows of colored liquor bottles lit from below behind the bar. [STYLE]
 
 ### 03 · `ritratto_03_ike.png` – Ike Mahoe, 41 anni
-> [PORTRAIT] Pacific Islander mixed-heritage man, 41, wide jaw and deep-set eyes (brother of Akoni and Pua Mahoe), brown hair combed back, a faded flower-print aloha shirt, sand-colored trousers, sunglasses hooked in the shirt pocket, a silver ring on his left pinky, evasive half-smile. Background: a veranda at night with palm silhouettes and a teal neon glow. [STYLE]
+> [PORTRAIT] Hawaiian-Chinese mixed-heritage man, 41, wide jaw and deep-set eyes (brother of Akoni and Pua Mahoe), dark brown hair combed back, a faded flower-print aloha shirt, sand-colored trousers, sunglasses hooked in the shirt pocket, a silver ring on his left pinky, evasive half-smile. Background: a veranda at night with palm silhouettes and a teal neon glow. [STYLE]
 
 ### 04 · `ritratto_04_akoni.png` – Akoni Mahoe, 54 anni
-> [PORTRAIT] Pacific Islander mixed-heritage man, 54, wide jaw and deep-set eyes (brother of Ike and Pua Mahoe), neat grey hair, a light linen suit with a pale blue open-collar shirt and no tie, a large chunky wristwatch, a courteous croupier smile that does not reach the eyes. Background: a dinner table with wine glasses blurred behind him. [STYLE]
+> [PORTRAIT] Hawaiian-Chinese mixed-heritage man, 54, wide jaw and deep-set eyes (brother of Ike and Pua Mahoe), neat grey hair, a light linen suit with a pale blue open-collar shirt and no tie, a large chunky wristwatch, a courteous croupier smile that does not reach the eyes. Background: a dinner table with wine glasses blurred behind him. [STYLE]
 
 ### 05 · `ritratto_05_pua.png` – Pua Mahoe, 50 anni
-> [PORTRAIT] Pacific Islander mixed-heritage woman, 50, wide jaw and deep-set eyes (sister of Akoni and Ike Mahoe), dark-blonde straight hair to the shoulders, a tailored turquoise skirt suit, a white plumeria lei, a cell phone in each hand, a designer handbag on the arm, a fast professional smile. Background: tall glass windows onto a night beach, neon reflecting in the glass. [STYLE]
+> [PORTRAIT] Hawaiian-Chinese mixed-heritage woman, 50, wide jaw and deep-set eyes (sister of Akoni and Ike Mahoe), straight black hair dyed dark auburn to the shoulders, a tailored turquoise skirt suit, a white plumeria lei, a cell phone in each hand, a designer handbag on the arm, a fast professional smile. Background: tall glass windows onto a night beach, neon reflecting in the glass. [STYLE]
 
 ### 06 · `ritratto_06_maleko.png` – Maleko Hanohano, 49 anni
-> [PORTRAIT] Local man, 49, dark hair with grey at the temples, high cheekbones and long dark eyes (brother of Kalea Hanohano), a faded flower-print aloha shirt, khaki trousers, a white cotton handkerchief in the breast pocket, a small notebook visible in the back pocket, the mild tired look of an insurance agent, calm and patient. Background: the dark far end of a bar counter with an untouched bottle of beer. Keep the expression neutral and mild: nothing that suggests guilt. [STYLE]
+> [PORTRAIT] Hawaiian-Filipino mixed-heritage man, 49, dark hair with grey at the temples, high cheekbones and long dark eyes (brother of Kalea Hanohano), a faded flower-print aloha shirt, khaki trousers, a white cotton handkerchief in the breast pocket, a small notebook visible in the back pocket, the mild tired look of an insurance agent, calm and patient. Background: the dark far end of a bar counter with an untouched bottle of beer. Keep the expression neutral and mild: nothing that suggests guilt. [STYLE]
 
 ### 07 · `ritratto_07_kalea.png` – Kalea Hanohano, 45 anni
-> [PORTRAIT] Local woman, 45, high cheekbones and long dark eyes (sister of Maleko Hanohano), straight black hair with a side parting, an ivory tailored suit, a purple orchid lei with a few petals loose on the lapel, a leather handbag on the shoulder, a new flip phone in her hand, composed institutional smile with tense eyes. Background: a veranda with pink neon and wicker chairs. [STYLE]
+> [PORTRAIT] Hawaiian-Filipino mixed-heritage woman, 45, high cheekbones and long dark eyes (sister of Maleko Hanohano), straight black hair with a side parting, an ivory tailored suit, a purple orchid lei with a few petals loose on the lapel, a leather handbag on the shoulder, a new flip phone in her hand, composed institutional smile with tense eyes. Background: a veranda with pink neon and wicker chairs. [STYLE]
 
 ### 08 · `ritratto_08_noe.png` – Noe, 33 anni
 > [PORTRAIT] Japanese-Hawaiian woman, 33, short black hair, a light cotton jacket over a dark top, a silver compact digital camera on a strap around her neck and a press badge clipped to the jacket, dry ironic eyes, a mouth ready for a joke. Background: a crowded nightclub room, strongly out of focus, with warm neon dots. [STYLE]
 
 ### 09 · `ritratto_09_kapono.png` – Kapono, 36 anni
-> [PORTRAIT] Local man, 36, broken nose, dirty-blond hair, sun-lined skin, a flower-print shirt worn open over a black staff t-shirt, work gloves poking from a pocket, the shoulders of a former surfer, a silent suspicious gaze. Background: the back of the club, stacked wooden crates and a bare lightbulb. [STYLE]
+> [PORTRAIT] Portuguese-Hawaiian mixed-heritage man, 36, broken nose, light brown sun-bleached hair, sun-lined tanned skin, a flower-print shirt worn open over a black staff t-shirt, work gloves poking from a pocket, the shoulders of a former surfer, a silent suspicious gaze. Background: the back of the club, stacked wooden crates and a bare lightbulb. [STYLE]
 
 ### 10 · `ritratto_10_auntie_lei.png` – Auntie Lei, 71 anni
-> [PORTRAIT] Native Hawaiian woman, 71, white hair gathered in a bun, a floral muumuu, a purple orchid lei, thick-rimmed glasses, both hands resting on a koa wood cane, a piercing gaze that sees everything, a slow dignified stillness. Background: a wicker chair on a veranda, a stained antique mirror at her shoulder, pink neon on the wall. [STYLE]
+> [PORTRAIT] Native Hawaiian woman, 71, broad face, white hair gathered in a bun, a floral muumuu, a purple orchid lei, thick-rimmed glasses, both hands resting on a koa wood cane, a piercing gaze that sees everything, a slow dignified stillness. Background: a wicker chair on a veranda, a stained antique mirror at her shoulder, pink neon on the wall. [STYLE]
 
 ### 11 · `ritratto_11_keoki.png` – Keoki Kealoha, 64 anni (la vittima)
-> [PORTRAIT] Native Hawaiian man, 64, short white hair, a grey moustache, a dark navy aloha shirt with a wilted lei around the neck, forearms of a retired Navy cook, a gruff but kind face, tired eyes. Background: his small office with framed black-and-white photographs, a green banker's lamp, a dark wood desk. Slightly warm and sepia-tinted, as in an old photograph on a shelf. [STYLE]
+> [PORTRAIT] Native Hawaiian man, 64, broad face, short white hair, a grey moustache, a dark navy aloha shirt with a wilted lei around the neck, forearms of a retired Navy cook, a gruff but kind face, tired eyes. Background: his small office with framed black-and-white photographs, a green banker's lamp, a dark wood desk. Slightly warm and sepia-tinted, as in an old photograph on a shelf. [STYLE]
 
 ### 12 · `ritratto_12_alapai.png` – Tenente Kimo Alapai, 52 anni (il direttore)
-> [PORTRAIT] Native Hawaiian man, 52, a faded aloha shirt, a thin tie, a straw hat, a small notebook and a pencil in his hand, a calm ironic expression with a hint of a smile, patient eyes. Background: the nightclub with the lights turned off, only a thin pink neon line from the door. [STYLE]
+> [PORTRAIT] Hawaiian-Chinese mixed-heritage man, 52, a faded aloha shirt, a thin tie, a straw hat, a small notebook and a pencil in his hand, a calm ironic expression with a hint of a smile, patient eyes. Background: the nightclub with the lights turned off, only a thin pink neon line from the door. [STYLE]
 
 ---
 
@@ -251,3 +251,26 @@ Formato 16:9. Nessuna persona.
 | Copertina | 52 | Media |
 
 Se hai poco tempo: genera solo le **tre foto**, i **dieci ritratti dei giocatori** e la **copertina**. Il resto aggiunge atmosfera ma non cambia la partita.
+
+---
+
+## Come lavorare con i piani gratuiti di ChatGPT e Gemini
+
+### Le cartelle
+```
+immagini/
+  PROMPTS.md       questo file
+  PROMPTS.html     la stessa cosa, per il cellulare
+  finali/          le immagini scelte, con il nome esatto del prompt
+  bozze/           tutto il resto, senza fretta di rinominare
+```
+Quando una bozza è quella buona, la copi in `finali/` col nome giusto. Il nome è l'unica cosa che mi serve per inserirla in schede e PDF.
+
+### Il metodo
+1. **Un giorno, un gruppo.** I piani gratuiti concedono poche immagini al giorno, e i limiti cambiano senza preavviso: controllali nell'app. Procedi per priorità, non per numero. Giorno 1: ritratti 01–06. Giorno 2: ritratti 07–12. Giorno 3: le tre foto di Noe e la copertina. Poi indizi e oggetti, quando vuoi.
+2. **Un personaggio, una conversazione.** Genera il ritratto, tienilo aperto e per ogni immagine successiva dello stesso personaggio scrivi «stessa persona di questa immagine» e incolla il prompt nuovo. È il modo più economico per tenere il volto coerente senza strumenti a pagamento.
+3. **Le famiglie in sequenza.** Fai prima Akoni, poi Pua e Ike nella stessa conversazione di Akoni, chiedendo «fratello/sorella di questa persona». Lo stesso per Maleko e Kalea.
+4. **Le tre foto di Noe sono le più difficili**, perché i generatori sbagliano il numero di persone. Tira 3–4 tentativi per ognuna e scegli quella con le persone giuste, anche se è meno bella. Conta la composizione.
+5. **Se compare del testo**, rigenera una volta con «no text, no letters». Se resta, lo copro io in impaginazione.
+6. **Per gli oggetti puoi usare la fotocamera**: una busta, una chiave, una scatola di sigari veri, fotografati di sera con una lampada, costano meno di un'immagine generata e non sbagliano le dita. Per le carte indizio col testo è anche la soluzione più pulita.
+7. **Chi fa cosa.** Non ho prove che uno dei due strumenti sia migliore sui volti. Fai un test con il ritratto 06 (Maleko) su entrambi e tieni quello che ti convince di più: poi usa sempre quello per tutti i personaggi.
