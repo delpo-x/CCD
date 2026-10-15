@@ -18,6 +18,7 @@ Dettagli dell'evento:
 - Luogo: ______________________
 - Data e ora: ______________________
 - Durata: circa due ore e trenta. Arriva dieci minuti prima.
+- Allergie o intolleranze: se ne hai, dillo al direttore prima della serata.
 
 La tua scheda personaggio è riservata: non mostrarla a nessuno. Non serve impararla a memoria.
 Ci vediamo al Kapu Lounge!
