@@ -45,6 +45,8 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 
 **Scagionamento: B.** Foto IMG_0412 e IMG_0414 (con il telefono all'orecchio nella seconda) più il tabulato: chiamata a Las Vegas 23:13:10–23:16:30. Il suo capo Lopaka sente Pua gridare sullo sfondo e conferma che erano insieme.
 
+**Costo.** Per usare il tabulato Akoni ammette che la telefonata era a Las Vegas, per dire a Lopaka che l'affare è morto.
+
 ## Pua Mahoe
 
 | # | Tipo | Elemento | Fonte | Lettura innocente |
@@ -97,6 +99,8 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 
 **Scagionamento: B.** Bolla (E07) + dichiarazione del conducente della Aloha Cartage, che era presente fino alle 23:35 e ha visto i due uomini scaricare, con una sola eccezione: «il magro è salito per circa un minuto verso le 23:13» (Kapono).
 
+**Costo.** Il conducente ha visto scaricare casse con l'etichetta Habana: chi chiede il rapporto 4 espone il contrabbando.
+
 ## Noe Sato
 
 | # | Tipo | Elemento | Fonte | Lettura innocente |
@@ -110,6 +114,8 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 
 **Scagionamento: B.** IMG_0413 (E26) è scattata da lei alle 23:15 dalla veranda: si vede la punta della sua scarpa. In più Lei, Akoni e Pua la vedono sempre in veranda, e nella telefonata di Akoni alle 23:16 si sente la sua voce chiedere un'altra posa (E25).
 
+**Costo.** Per mostrare IMG_0413 Noe apre la macchina fotografica (oggetto 09), dove stanno le immagini private di Kalea. All'ultima chiamata non la può tenere.
+
 ## Kapono Medeiros
 
 | # | Tipo | Elemento | Fonte | Lettura innocente |
@@ -122,6 +128,8 @@ Livello di scagionamento: **A** = provato da un dato oggettivo; **B** = provato 
 | 6 | C | Gelosia per Noe e Kalea | Noe | – |
 
 **Scagionamento: B.** Conducente: lo ha visto scaricare alle 23:14:30 e alle 23:15.
+
+**Costo.** Lo stesso conducente espone gli scatoloni di Habana.
 
 ## Auntie Lei Kealoha
 

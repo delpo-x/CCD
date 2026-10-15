@@ -27,7 +27,7 @@ Cinque domande uguali per tutti, più una personale. Il giocatore risponde con l
 
 | Dom. | Versione ufficiale | Verità | Valore |
 |------|--------------------|--------|--------|
-| 1 | Barman e figlio adottivo | – | Bassa |
+| 1 | Barman, cresciuto in casa Kealoha | – | Bassa |
 | 2 | «Al bancone. Ho sparato i coriandoli al "via". Gli scontrini sono in cassa» | Vero | Alta: alibi |
 | 3 | «Alle 22:05 per una questione di cassa. Ha detto che l'avrei capita» | Parziale: sono i 4.000 dollari | Media |
 | 4 | «Il corridoio solo per le casse. L'ufficio no» | Vero | Bassa |

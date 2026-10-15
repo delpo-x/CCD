@@ -56,6 +56,10 @@ Nessuna di queste cose da sola basta. Tutte insieme non lasciano altra spiegazio
 - La suola liscia di gomma, numero grande, sul petalo del vaso: le sue scarpe comode.
 - L'acqua sul lavello, lo strofinaccio mancante: il suo gesto dopo lo sparo.
 
+## Il punto di rottura di Maleko
+
+Se durante la discussione di 10 minuti due giocatori dicono ad alta voce «è stata Kalea», Maleko (che ha la regola sulla scheda) può confessare di sua volontà prima che tu legga le accuse: +5 e il suo epilogo cambia (`mini_trame.md`). Non ricordarglielo.
+
 ## Confessione di Maleko (se smascherato)
 
 > «Keoki mi aveva detto che avrebbe portato tutto a Alapai. Non a me. Io sapevo cosa c'era scritto, ho letto le prime sei pagine a giugno e ho fatto sparire una cosa che avrei dovuto portare in procura. Kalea è mia sorella. L'ho sempre protetta e non ho smesso nemmeno stasera. Ho preso il revolver al brindisi e mi sono detto che non l'avrei usato. Poi sono entrato e Keoki ha capito subito. Mi ha guardato e non ha detto il mio nome. Ho sparato nel rumore dei coriandoli. Kalea, non volevo che fosse così.»
@@ -63,3 +67,7 @@ Nessuna di queste cose da sola basta. Tutte insieme non lasciano altra spiegazio
 ## Confessione di Kalea (se pressata)
 
 > «Sì, ero lì alle 23:10. Mi ha mostrato quella pagina e mi ha dato tempo fino a mezzanotte. Gliel'ho strappata di mano, sono uscita e mi sono chiusa in bagno. Ho sentito passi, e un colpo con i botti. Ho riconosciuto il passo di mio fratello. Ho pensato che avessi sparato io, in un certo senso, a forza di avere paura.»
+
+## La verità a metà di Kalea (circa minuto 45)
+
+Se Noe la guarda negli occhi e le chiede la verità, Kalea dice: «Non ho visto, ho sentito dei passi, e ho mentito per coprire chi li faceva.» Se sono soli, aggiunge che la luce sotto la porta del bagno si è spenta prima dei passi. Non fa mai il nome di suo fratello. Le sue bugie si rileggono come difesa di un altro e il sospetto scivola verso chi ha lasciato la veranda alle 23:14.
