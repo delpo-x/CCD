@@ -51,7 +51,6 @@ Una specifica approvata, abbastanza precisa da affidare l'implementazione, di un
 | Struttura dell'esportazione JSON di murder-generator | research | – |
 | Cosa richiede lo Stato di partita e come saltare gli agenti LLM | research | – |
 | Come eseguire murder-generator da Windows | grilling | Struttura dell'esportazione JSON di murder-generator |
-| Prototipo di Stato di partita per Villa Aldobrandi | prototype | Cosa richiede lo Stato di partita e come saltare gli agenti LLM |
 | Mappa dai concetti di murder-generator ai campi di Stato di partita | grilling | Struttura dell'esportazione JSON di murder-generator; Cosa richiede lo Stato di partita e come saltare gli agenti LLM |
 | Provider LLM intercambiabile e modalità Claude in chat | grilling | Cosa richiede lo Stato di partita e come saltare gli agenti LLM |
 | Flusso delle immagini | grilling | Cosa richiede lo Stato di partita e come saltare gli agenti LLM |
