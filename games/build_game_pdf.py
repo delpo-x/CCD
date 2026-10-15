@@ -63,6 +63,8 @@ hr { border: 0; border-top: .8pt solid var(--line); margin: 14pt 0; }
 .doc.invito, .doc.indizio { padding: 18pt 20pt; }
 .doc.invito { text-align: center; padding-top: 24pt; padding-bottom: 14pt; font-size: 11pt; line-height: 1.45; }
 .doc.guida { font-size: 9.8pt; line-height: 1.45; }
+.striscia { margin: 4pt 0 10pt; }
+.striscia svg { width: 100%%; height: auto; }
 .doc.guida h1 { font-size: 20pt; margin-bottom: 8pt; }
 .doc.guida h2 { font-size: 12.5pt; margin: 9pt 0 3pt; }
 .doc.guida table { font-size: 8.2pt; margin: 4pt 0; }
@@ -107,7 +109,7 @@ for sec in cfg["sections"]:
         md.reset()
         kind = ("invito" if f.endswith("_invito.md")
                 else "scheda missione" if f.endswith("_missione.md")
-                else "guida" if f.endswith(("regole_giocatore.md", "piantina.md"))
+                else "guida" if f.endswith(("regole_giocatore.md", "piantina.md")) or "/striscia_" in f
                 else "scheda" if "scheda_personaggio" in f
                 else "indizio" if f.startswith(("indizi/", "oggetti/", "scene/")) else "")
         body = md.convert(chr(10).join(lines))

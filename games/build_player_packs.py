@@ -8,6 +8,9 @@ Usa games/build_game_pdf.py per l'impaginazione.
 """
 import json, pathlib, re, shutil, subprocess, sys
 
+sys.path.insert(0, str(pathlib.Path(__file__).parent))
+from timeline_strip import striscia
+
 root = pathlib.Path(sys.argv[1])
 base = json.loads((root / "pdf.json").read_text(encoding="utf-8"))
 tmp = root / "_build"
@@ -73,9 +76,10 @@ for n, slug in SLUG.items():
         righe += ["", PUNTI[n].replace("# Il conto del tuo ruolo", "## Il conto del tuo ruolo").strip(), ""]
     (tmp / f"busta_{n}.md").write_text("\n".join(righe), encoding="utf-8")
 
+    (tmp / f"striscia_{n}.md").write_text(striscia(root, n, nome), encoding="utf-8")
     files = [f"personaggi/Character_{n}_invito.md", "gioco/regole_giocatore.md",
              "gioco/piantina.md", f"personaggi/Character_{n}_scheda_personaggio.md",
-             f"personaggi/Character_{n}_missione.md"]
+             f"_build/striscia_{n}.md", f"personaggi/Character_{n}_missione.md"]
     files.append(f"_build/busta_{n}.md")
     if n in PIATTI:
         files.append(f"oggetti/piatto_{PIATTI[n]}.md")
