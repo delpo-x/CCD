@@ -59,9 +59,7 @@
 ## Per cominciare
 - **Prima mossa** (nei primi 10 minuti): raggiungi Nalu al bancone e chiedigli cosa gli ha detto Keoki alle 22:05.
 - **Per aprire**: «Nalu, tra poco ti chiedo una cosa. Niente battute, stavolta.»
-
-## Un momento tuo
-Più o meno a metà del gioco libero, quando senti il momento giusto, alza il bicchiere e di' una frase per tuo padre. Non è un obbligo: se non lo fai, la serata funziona lo stesso. Dopo, per un paio di minuti, nessuno dovrebbe indagare.
+- **Brindisi** (facoltativo): a metà del gioco libero, quando senti che è il momento, alza il bicchiere e dedica una frase a tuo padre. Per un paio di minuti, dopo, nessuno dovrebbe indagare.
 
 ## Se c'è la cena
 Il direttore ti consegna una carta piatto (`piatto_lani`). Leggila a voce o tienila per te. Non porta punti.

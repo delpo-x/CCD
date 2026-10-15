@@ -6,6 +6,6 @@
 
 **Frase d'apertura**: «Ike, resta. Voglio sentirlo anche da te.»
 
-Chiedi, ascolta, non alzare la voce. Il resto lo decidete voi tre.
+Chiedi, ascolta, non alzare la voce. Cosa si sono detti, lo scoprite parlando.
 
 *Carta di scena. Si gioca quando vuoi, ma non prima del minuto 10. Nessuno è obbligato, e il direttore non interviene.*

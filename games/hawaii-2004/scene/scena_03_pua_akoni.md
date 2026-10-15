@@ -6,6 +6,6 @@
 
 **Frase d'apertura**: «Devo farti firmare una cosa.»
 
-Se Akoni legge, o chiede, il resto lo decidete voi. Siete fratelli: nessuno dei due sa mentire all'altro per molto.
+Se Akoni legge, o chiede, improvvisate. Siete fratelli: nessuno dei due sa mentire all'altro per molto.
 
 *Carta di scena. Si gioca quando vuoi, ma non prima del minuto 10. Nessuno è obbligato, e il direttore non interviene.*

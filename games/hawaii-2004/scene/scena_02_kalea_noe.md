@@ -6,6 +6,6 @@
 
 **Frase d'apertura**: «Guardami e dimmelo.»
 
-Ascolta Kalea fino in fondo, anche se quello che dice non ti piace. Il resto lo decidete voi.
+Se Kalea parla, lasciala finire anche quando non ti piace. Da lì andate dove vi porta.
 
 *Carta di scena. Si gioca quando vuoi, ma non prima del minuto 10. Nessuno è obbligato, e il direttore non interviene.*

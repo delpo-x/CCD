@@ -1,6 +1,6 @@
 # La cena del Kapu (scheda di cucina, solo direttore)
 
-La cena è facoltativa. Senza, la serata funziona lo stesso: nei minuti 40–55 si continua con gli scambi. Con la cena, quei quindici minuti diventano il momento più umano della partita, subito prima della campanella.
+La cena è facoltativa. Senza, la serata funziona lo stesso: nei minuti 40–55 si continua con gli scambi. Con la cena, quei quindici minuti diventano una pausa per parlare, subito prima della campanella.
 
 ## Come funziona
 

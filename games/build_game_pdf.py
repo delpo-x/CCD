@@ -20,6 +20,9 @@ css = """
 @page { size: A4; margin: 2.2cm 2.6cm; background: var(--paper);
   @top-center { content: "%(header)s"; font: italic 9pt '%(body_font)s', serif; color: var(--accent); }
   @bottom-center { content: "— " counter(page) " —"; font: 9pt '%(body_font)s', serif; color: var(--muted); } }
+@page scheda { size: A4; margin: 1.6cm 2cm; background: var(--paper);
+  @top-center { content: "%(header)s"; font: italic 9pt '%(body_font)s', serif; color: var(--accent); }
+  @bottom-center { content: "— " counter(page) " —"; font: 9pt '%(body_font)s', serif; color: var(--muted); } }
 @page cover { margin: 0; background: var(--cover); @top-center { content: none; } @bottom-center { content: none; } }
 body { font-family: '%(body_font)s', Georgia, serif; font-size: 11pt; line-height: 1.6; color: var(--ink); }
 h1, h2, h3 { font-family: '%(head_font)s', Georgia, serif; font-weight: %(head_weight)s; color: var(--head); line-height: 1.15; break-after: avoid; }
@@ -41,7 +44,7 @@ code, pre { font-family: Consolas, monospace; font-size: 9pt; background: var(--
 pre { padding: 8pt; white-space: pre-wrap; }
 hr { border: 0; border-top: .8pt solid var(--line); margin: 14pt 0; }
 .doc { break-before: page; }
-.doc.scheda { font-size: 9.5pt; line-height: 1.5; padding: 10pt 14pt; break-inside: avoid; }
+.doc.scheda { page: scheda; font-size: 9.5pt; line-height: 1.45; padding: 8pt 12pt; break-inside: avoid; }
 .nb { white-space: nowrap; }
 .doc.scheda p.task { margin: 0 0 8pt; padding-left: 15pt; text-indent: -15pt; }
 .pt { color: var(--accent); font-weight: 700; white-space: nowrap; }
@@ -52,6 +55,9 @@ hr { border: 0; border-top: .8pt solid var(--line); margin: 14pt 0; }
 .doc.scheda h2 { font-size: 12pt; margin: 7pt 0 2pt; }
 .doc.scheda p, .doc.scheda li { margin-bottom: 2pt; }
 .doc.scheda ul { margin-bottom: 3pt; list-style: square; }
+.doc.scheda hr { margin: 4pt 0; }
+.doc.scheda p:last-child { margin-bottom: 0; }
+.doc.scheda h2 { margin-top: 5pt; }
 .doc.scheda, .doc.invito, .doc.indizio { border: 1.2pt solid var(--accent); outline: .5pt solid var(--accent); outline-offset: 3pt; }
 .doc.invito, .doc.indizio { padding: 18pt 20pt; }
 .doc.invito { text-align: center; padding-top: 60pt; font-size: 12pt; }
@@ -95,7 +101,7 @@ for sec in cfg["sections"]:
         kind = ("invito" if f.endswith("_invito.md")
                 else "scheda missione" if f.endswith("_missione.md")
                 else "scheda" if "scheda_personaggio" in f
-                else "indizio" if f.startswith(("indizi/", "oggetti/")) else "")
+                else "indizio" if f.startswith(("indizi/", "oggetti/", "scene/")) else "")
         body = md.convert(chr(10).join(lines))
         body = re.sub(r"<table>(.*?)</table>", lambda m: ("<table class=\"long\">" if m.group(1).count("<tr>") > 8 else "<table>") + m.group(1) + "</table>", body, flags=re.S)
         body = body.replace("<p>▢", "<p class=\"task\">▢")

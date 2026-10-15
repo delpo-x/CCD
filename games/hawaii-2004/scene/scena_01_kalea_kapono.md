@@ -6,6 +6,6 @@
 
 **Frase d'apertura**: «Il prezzo è cambiato.»
 
-Se Kalea ti ascolta, il resto lo decidete voi: quanto vale ancora il tuo silenzio, e cosa farai di Noe.
+Se Kalea ti ascolta, decidete insieme quanto vale ancora il tuo silenzio e cosa ne sarà di Noe.
 
 *Carta di scena. Si gioca quando vuoi, ma non prima del minuto 10. Nessuno è obbligato, e il direttore non interviene.*

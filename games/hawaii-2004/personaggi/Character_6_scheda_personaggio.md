@@ -61,7 +61,7 @@ Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il 
 ## Cosa vuoi, cosa temi, quando cedi
 - **Vuoi**: salvare Kalea e il tuo distintivo, e che nessuno veda quanto le due cose siano legate.
 - **Temi**: che il tenente incrimini Kalea, o che lei parli.
-- **Cedi se**: durante la discussione aperta di 10 minuti due giocatori dicono ad alta voce «è stata Kalea». Confessi con la seconda battuta, prima delle accuse scritte: tua sorella non deve pagare per te.
+- **Cedi se**: nella discussione aperta due giocatori dicono ad alta voce «è stata Kalea». Confessi con la seconda battuta, prima delle accuse scritte: tua sorella non paga per te.
 
 ## Per cominciare
 - **Prima mossa** (nei primi 10 minuti): resta due minuti da solo con Kalea e dille: «Non parlare col tenente senza di me».

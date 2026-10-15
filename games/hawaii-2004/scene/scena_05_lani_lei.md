@@ -6,6 +6,6 @@
 
 **Frase d'apertura**: «Keoki parlava di un amico che chiede troppo. A te ha chiesto qualcosa, Kuki?»
 
-Raccontate a turno quello che sapete, senza fretta. Il resto lo decidete voi.
+Raccontate a turno quello che sapete, senza fretta. Cosa ne esce dipende da voi.
 
 *Carta di scena. Si gioca quando vuoi, ma non prima del minuto 10. Nessuno è obbligato, e il direttore non interviene.*
