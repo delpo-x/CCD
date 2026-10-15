@@ -33,7 +33,7 @@ Ogni carta ha una versione pulita in `indizi/`. Le carte si consegnano quando un
 | 03 | Dichiarazione di Hanale Soo | A richiesta, dopo il rapporto 02 |
 | 04 | Dichiarazione del conducente | A richiesta motivata |
 | 05 | Tabulato di Akoni e dichiarazione di Lopaka | A richiesta motivata |
-| 06 | Scheda del sergente Hanohano | Solo se si controlla il nome |
+| 06 | Scheda del sergente Hanohano | Se si controlla il nome Hanohano, o se si chiede di un agente o di una pagina del registro data a un poliziotto |
 | 07 | Balistica e strofinaccio | 10 min dopo il ritrovamento del revolver |
 
 ## Oggetti con contenuto

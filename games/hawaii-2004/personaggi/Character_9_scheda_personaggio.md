@@ -40,7 +40,7 @@
 
 ## Cosa sai e puoi dire se te lo chiedono
 - Se ti chiedono del conducente, il tuo alibi regge, ma dice anche cosa avete scaricato: casse con l'etichetta Habana.
-- Alle 23:13 la lampadina era accesa. Alle 23:37 era allentata. Se ti chiedono della lampadina, lo racconti.
+- Alle 23:13 la lampadina era accesa. Alle 23:37 era allentata. Quando il tavolo parla del corridoio, del buio o della lampadina, lo racconti tu per primo, senza aspettare che te lo chiedano. Dire che alle 23:13 eri nel corridoio smentisce il tuo alibi: è il prezzo.
 - Hai visto Kalea entrare nel bagno signore alle 23:13.
 - Nalu tiene gli strofinacci KAPU nel mobile del bar. Una cassa degli ampli è sempre vicino alla porta di servizio: la sposti tu.
 

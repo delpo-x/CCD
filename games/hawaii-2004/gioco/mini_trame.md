@@ -13,14 +13,15 @@ Ogni giocatore ha una **missione segreta** di tre compiti. Serve a dare a ciascu
 ## Punteggio
 - Ogni compito completato: **5 punti** (15 per missione).
 - **Accusa corretta** (scrive Maleko Hanohano): +10 punti.
+- **Prova che scagiona**: +3 punti, una volta sola, a chi mostra o chiede prima della campanella una prova che scagiona un altro giocatore (IMG_0413, rapporto 04 o rapporto 05). Premia chi mette in comune.
 - **Ragionamento**: +2 punti per ciascuna di queste prove, citata correttamente nell'accusa (massimo +10):
   1. le due pause del nastro di Maleko (21:45–21:52 e 23:14–23:19);
   2. la lampadina del corridoio svitata dopo le 23:13;
   3. nessuno ha attraversato la porta a vetri tra le 23:12 e le 23:19, quindi la versione di Maleko non regge;
   4. il cassetto era vuoto alle 22:55, quindi il revolver era stato preso al brindisi;
   5. il movente: il rapporto di giugno su «K.H.» e le sei pagine consegnate a un agente.
-- **Maleko**, assassino: +20 punti se nessuno lo accusa; +10 se lo accusa una sola persona; 0 se lo accusano in due o più. Se confessa di sua volontà prima che tu legga le accuse, +5 e il suo epilogo cambia.
-- **Kalea**, che non è l'assassina: +10 punti se nessuno la accusa dell'omicidio. Se la accusano ma lei ha detto la verità sul colloquio delle 23:10 prima del turno delle accuse, +5.
+- **Maleko**, assassino: +20 punti se nessuno lo accusa; +10 se lo accusano una o due persone; 0 se lo accusano in tre o più. Se confessa di sua volontà prima che tu legga le accuse, +5 e il suo epilogo cambia.
+- **Kalea**, che non è l'assassina: +5 punti se nessuno la accusa dell'omicidio. Altri +5 se prima del turno delle accuse ha detto la sua verità a metà sul colloquio delle 23:10 (a Noe, o davanti al tavolo). Il massimo è 10, e chiede un'azione sua.
 - Chi accusa un innocente non perde punti. Perde l'occasione.
 - **Bonus tavolo**: se almeno sette accuse su Maleko sono giuste (Maleko non accusa sé stesso: le accuse possibili sono nove), tutti prendono +5 e leggi l'epilogo collettivo. Non cambia la regola di parità e non tocca i punti di Maleko.
 - Vince chi ha più punti. In parità vince chi ha più accuse corrette, poi chi ha più prove citate. Premio speciale a chi ha recitato meglio (voto di tutti).
