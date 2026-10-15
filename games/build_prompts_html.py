@@ -22,6 +22,31 @@ def expand(p):
     return p
 
 
+def full(prompt, section, fname):
+    """Rende il prompt autosufficiente: formato, epoca, niente testo, negativo."""
+    neg = blocks.get("NEG", "")
+    sec = section.lower()
+    if fname.startswith("copertina"):
+        fmt = "vertical 2:3 poster, at least 1600x2400 px"
+        neg = ", ".join(x for x in neg.split(", ") if x not in ("text", "letters", "captions", "logo"))
+        txt = "The only readable text allowed is the one named above."
+    else:
+        if "ritratti" in sec:
+            fmt = "vertical 3:4, at least 1024x1365 px"
+        elif "luoghi" in sec:
+            fmt = "horizontal 16:9, at least 1920x1080 px"
+        else:
+            fmt = "horizontal 4:3, at least 1600x1200 px"
+        txt = "No readable text, letters or numbers anywhere in the image: any paper, label or screen shows only blurred, illegible marks."
+    extra = ""
+    if "ritratti" in sec:
+        extra = (" Same neutral, guarded, slightly defensive expression as every other character: "
+                 "no guilty look, no sinister smile, no hidden hands, no dramatic shadows across the face. "
+                 "If a reference image is attached, keep exactly the same person, with the same face and hair.")
+    return ("%s Image format: %s. Setting: Honolulu, August 2004: no smartphones, no flat screens, no modern cars, no earbuds. %s%s Avoid: %s."
+            % (prompt.rstrip().rstrip(".") + ".", fmt, txt, extra, neg))
+
+
 def inline(s):
     s = html.escape(s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
@@ -89,7 +114,7 @@ for sec in parts[1:]:
             continue
         num, fname, label = m.groups()
         q = [x for x in cl[1:] if x.startswith("> ")]
-        prompt = expand(q[0][2:]) if q else ""
+        prompt = full(expand(q[0][2:]), title, fname) if q else ""
         n_cards += 1
         out.append(
             "<article class='card' data-id='%s'>"

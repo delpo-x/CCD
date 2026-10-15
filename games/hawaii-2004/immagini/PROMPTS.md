@@ -1,6 +1,6 @@
 # Prompt per le immagini – Last Call al Kapu Lounge
 
-Questo file contiene i prompt per generare tutte le immagini del gioco. I prompt sono in **inglese**, perché i generatori (Midjourney, Flux, SDXL, DALL·E, Imagen, Firefly) seguono meglio l'inglese. Le note intorno sono in italiano.
+Questo file contiene i prompt per generare tutte le immagini del gioco. I prompt sono in **inglese**, perché i generatori (Midjourney, Flux, SDXL, DALL·E, Imagen, Firefly) seguono meglio l'inglese. Le note intorno sono in italiano. Nel PDF e nell'HTML ogni prompt è già completo: contiene stile, formato, epoca, divieto di testo e negativo, e non serve aggiungere niente. Questo file `.md` è la sorgente, con i blocchi comuni scritti una volta sola.
 
 Salva ogni immagine riuscita nella cartella `finali/` **con il nome indicato** accanto al titolo di ogni prompt. Le prove scartate vanno in `bozze/`. Questo file esiste anche in versione `PROMPTS.html`, con un pulsante «Copia» per ogni prompt: è quella da aprire sul cellulare. Quando sono pronte, mandamele e le inserisco in schede e PDF.
 
