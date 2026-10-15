@@ -1,13 +1,37 @@
 # Gli enigmi (SOLO DIRETTORE)
 
-Cinque rompicapo da tavolo, ispirati ai giochi investigativi con prove da maneggiare. Nessuno aggiunge informazione al caso: ognuno è una strada più divertente verso una prova che esiste già. Per questo la soluzione, il colpevole e la catena verificata non cambiano.
+Cinque rompicapo da tavolo e tre depistaggi, ispirati ai giochi investigativi con prove da maneggiare. Nessuno aggiunge informazione al caso: ognuno è una strada più divertente verso una prova che esiste già. Per questo la soluzione, il colpevole e la catena verificata non cambiano.
 
 ## Le quattro regole
 
 1. **Nessun enigma è indispensabile.** Ognuno ha una via di uscita: se il tavolo non lo risolve entro l'orario indicato, lo apri tu e la prova entra in gioco lo stesso.
 2. **Si gioca al tavolo del tenente.** Due o tre giocatori lavorano all'enigma, gli altri continuano a parlare e a cercare. Nessuno resta fermo più di cinque minuti.
 3. **Aiuti a scalini.** Se chiedono aiuto, dai un solo scalino per volta, nell'ordine scritto sotto, con una pausa di almeno un minuto tra uno e l'altro.
-4. **Punti.** Ogni enigma risolto vale **+2** a ciascuno dei giocatori che ci hanno lavorato, fino a tre. Segna i nomi su un post-it. Per giocatore si contano al massimo **+6**. Se lo apri tu per la via di uscita, nessun punto.
+4. **Punti.** Ogni enigma risolto vale **+2** a ciascuno dei giocatori che ci hanno lavorato, fino a tre. Nei depistaggi (6–8) il punto va a chi smonta la pista, cioè al secondo passo. Segna i nomi su un post-it. Per giocatore si contano al massimo **+6**. Se lo apri tu per la via di uscita, nessun punto.
+
+## I tre depistaggi (enigmi 6, 7, 8)
+
+Sono rompicapo che portano fuori strada **in modo leggero e onesto**. Ognuno nasce da una delle false piste già nel caso (soldi, petali, contrabbando) e ha due passi: prima la pista sembra funzionare, poi il tavolo trova la controprova. Per i giocatori sono enigmi come gli altri: non dire mai che sono depistaggi.
+
+Regole particolari:
+- **La carta dice solo cose vere.** Il depistaggio è la conclusione che sembra ovvia, non un dato falso.
+- **Ogni controprova esiste già nel gioco.** Non si inventa niente.
+- **Non bloccano nulla e non hanno via di uscita**: se il tavolo li ignora, non succede niente.
+- **Punti solo per il secondo passo.** I +2 vanno a chi smonta la pista, non a chi ci è caduto. Il tetto di +6 per giocatore resta.
+- Si consegnano solo dopo che il tavolo ha trovato la carta da cui nascono: bozza del testamento (6), petali (7), bolla (8).
+
+| N. | Enigma | Pista (passo 1) | Controprova (passo 2) | Dove sta la prova |
+|----|--------|-----------------|-----------------------|-------------------|
+| 6 | Chi eredita? | Lani guadagna di più: il locale. Seguire i soldi porta a lei, a Nalu o ad Auntie Lei. | Tutti e tre gli eredi hanno una prova per le 23:15: Lani sul palco, Nalu con i cannoni e gli scontrini, Auntie Lei in veranda (foto 0413). | Lavagna delle 23:15 (enigma 4) |
+| 7 | Il lei viola | I petali portano a Kalea o ad Auntie Lei, le due con il lei viola. | La suola sul petalo del vaso è liscia, di gomma, numero grande: da uomo. Il petalo non incastra le due donne. | Indizio 4 |
+| 8 | Le casse di Aloha Cartage | Le casse contengono sigari di contrabbando: un movente per Ike e Kapono. | Il conducente li ha visti scaricare per tutto il tempo, con una sola eccezione di un minuto verso le 23:13. | Rapporto 04 (a richiesta motivata) |
+
+**Aiuti a scalini** (i primi sono nel terminale):
+- 6: «Il locale vale più di un assegno e di una quota.» Poi: «Guardate la lavagna delle 23:15.»
+- 7: «Il resto degli ospiti ha lei bianchi.» Poi: «Pensate al numero: grande.»
+- 8: «Habana è una città, ma anche una cosa che si fuma.» Poi: «Qualcuno firma la bolla senza essere né Ike né Kapono.»
+
+Nota sul 7: la suola da uomo non scagiona nessuno e non indica nessuno. Dice solo che il petalo è un'orma di passaggio, non una firma. Non andare oltre: Maleko non c'entra con questa carta.
 
 ## Il terminale del tenente
 
@@ -24,6 +48,7 @@ Per rigenerarlo dopo una modifica: `python games/build_enigmi_terminale.py games
 | 3 | Tre foto senza ora | Foto di Noe (indizi 06 e 26) e rapporto 05 | Quando ci sono insieme sul tavolo | Non serve uscita: è un bonus, le foto valgono comunque |
 | 4 | La lavagna delle 23:15 | Tutte le prove di alibi | Appesa dall'inizio | Non serve uscita: si riempie nel gioco libero |
 | 5 | Il nastro: cosa manca? | Registratore di Maleko (oggetto 06) | Quando il tenente lo sequestra o Maleko lo consegna | Se nessuno lo nota, alla fine dici tu: «Manca il boato» |
+| 6–8 | I tre depistaggi | Indizi 10, 4 e 7 | Quando il tavolo trova la carta d'origine | Nessuna: sono facoltativi |
 
 ## Enigma 1: la striscia cifrante
 

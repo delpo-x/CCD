@@ -70,6 +70,9 @@ Soluzioni, aiuti e vie di uscita in `enigmi_direttore.md`. Nessun enigma aggiung
 | 3 Tre foto senza ora | La finestra di Maleko (23:12–23:16) | 2-3-1 |
 | 4 Lavagna delle 23:15 | L'unico senza prova: Maleko | Maleko |
 | 5 Il nastro | Il boato mancante (conferma E18) | Il boato |
+| 6 Chi eredita? (depistaggio) | Niente: smonta la pista dei soldi | Lani, poi «tutti e tre hanno una prova» |
+| 7 Il lei viola (depistaggio) | Niente: smonta i petali | Kalea e Auntie Lei, poi «suola da uomo» |
+| 8 Le casse (depistaggio) | Niente: smonta la bolla | Sigari, poi «il conducente» |
 
 ## Mappa delle prove
 

@@ -52,7 +52,7 @@ Alla fine scrivi su un foglio: **il nome del colpevole, il movente, come ha fatt
 Vince chi ha più punti. In parità vince chi ha più accuse giuste, poi chi ha citato più prove. C'è anche un premio per chi ha recitato meglio, votato da tutti.
 
 ## Gli enigmi
-Qualche prova non si legge a colpo d'occhio: una riga in codice, un lucchetto, tre foto senza ora. Quando ne trovi una, portala al tavolo del tenente e provate a risolverla in due o tre, senza smettere di giocare. Se restate bloccati, il tenente dà un aiuto alla volta. Nessun enigma è indispensabile per arrivare alla verità: aiutano ad arrivarci prima. Ognuno vale **+2** a chi ci ha lavorato (fino a tre persone), e per giocatore si contano al massimo **+6**.
+Qualche prova non si legge a colpo d'occhio: una riga in codice, un lucchetto, tre foto senza ora. Quando ne trovi una, portala al tavolo del tenente e provate a risolverla in due o tre, senza smettere di giocare. Se restate bloccati, il tenente dà un aiuto alla volta. Nessun enigma è indispensabile per arrivare alla verità: aiutano ad arrivarci prima. Attenzione: risolverne uno non vuol dire aver trovato il colpevole. Alcuni portano fuori strada, e solo una prova che regge indica la persona giusta. Ognuno vale **+2** a chi ci ha lavorato (fino a tre persone), e per giocatore si contano al massimo **+6**.
 
 ## Se c'è la cena
 Al minuto 40 il buffet è sul bancone. Si mangia e si parla, restando in ruolo: carte e oggetti restano in tasca, e il séparé resta in uso. Se hai ricevuto una carta piatto, la usi qui. Non porta punti e non è un indizio.

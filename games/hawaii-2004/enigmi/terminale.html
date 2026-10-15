@@ -39,34 +39,38 @@ ol{padding-left:20px;margin:8px 0 0}
 <ol class="aiuti" id="aiuti"></ol>
 </section>
 <script>
-const SALE="kapu2004",DATI=[{"id": 1, "titolo": "La riga cifrata del taccuino", "domanda": "Cosa dice la riga in margine? Scrivi il messaggio.", "ok": "Giusto. Il messaggio dice dove sta la copia del registro e chi ha la chiave. Dite al tenente cosa fate.", "aiuti": ["Le lettere sono state spostate, non inventate.", "Guardate la cifra: c'è un 3 in mezzo alle lettere, e una chiave ha una targhetta con un 3.", "Chiedi al tenente la striscia cifrante: serve a scorrere l'alfabeto."], "mode": "parole", "gruppi": [["1e3fdd0aeec23e8e"], ["005b2ad2ad1e93ce"]]}, {"id": 2, "titolo": "La cassetta K-3", "domanda": "Scrivi le tre cifre del lucchetto.", "ok": "Click. Le rotelle girano e il coperchio si alza. Chiamate il tenente.", "aiuti": ["Cercate una somma, non una data.", "Ventidue pagamenti, tutti uguali.", "Diciottomila, ventidue volte. Le rotelle sono tre: migliaia."], "mode": "parole", "gruppi": [["b90c532ec129260a"]]}, {"id": 3, "titolo": "Tre foto senza ora", "domanda": "In che ordine sono state scattate? Scrivi i tre numeri (per esempio 3-1-2).", "ok": "L'ordine torna. Ora rispondete alle due domande della carta.", "aiuti": ["Il tabulato di Akoni dice quando comincia la chiamata.", "I coriandoli esplodono a un orario preciso, lo sanno tutti.", "Una sola foto ha Akoni che non telefona ancora."], "mode": "cifre", "gruppi": [["4b888f7eca8ffa32"]]}, {"id": 4, "titolo": "La lavagna delle 23:15", "domanda": "Quale persona resta senza una prova per le 23:15? Scrivi il nome.", "ok": "Il nome è sulla lavagna. Il tenente prende nota.", "aiuti": ["Un alibi vale solo se lo prova qualcosa che non dipende da chi lo dice.", "Una persona non ha una riga piena: chi manca?", "Due righe vuote: una si riempie con i rapporti del laboratorio."], "mode": "parole", "gruppi": [["f608fac371a68acf"]]}, {"id": 5, "titolo": "Il nastro: cosa manca?", "domanda": "Cosa non si sente sul nastro?", "ok": "Giusto: manca proprio quello. Il buco tra i due clic lo copre.", "aiuti": ["Il nastro è continuo, ma tra i due clic manca qualcosa di molto rumoroso.", "Quello che ricordate tutti, dalla veranda, alle 23:15."], "mode": "parole", "gruppi": [["7f63e86f28ea84cb", "c5fc59d6c11929aa", "ec666e1044d781f4", "a677deff09494753", "9d0eeb0fd9086cab"]]}];
+const SALE="kapu2004",DATI=[{"id": 1, "titolo": "La riga cifrata del taccuino", "passi": [{"domanda": "Cosa dice la riga in margine? Scrivi il messaggio.", "ok": "Giusto. Il messaggio dice dove sta la copia del registro e chi ha la chiave. Dite al tenente cosa fate.", "aiuti": ["Le lettere sono state spostate, non inventate.", "Guardate la cifra: c'è un 3 in mezzo alle lettere, e una chiave ha una targhetta con un 3.", "Chiedi al tenente la striscia cifrante: serve a scorrere l'alfabeto."], "mode": "parole", "gruppi": [["1e3fdd0aeec23e8e"], ["005b2ad2ad1e93ce"]]}]}, {"id": 2, "titolo": "La cassetta K-3", "passi": [{"domanda": "Scrivi le tre cifre del lucchetto.", "ok": "Click. Le rotelle girano e il coperchio si alza. Chiamate il tenente.", "aiuti": ["Cercate una somma, non una data.", "Ventidue pagamenti, tutti uguali.", "Diciottomila, ventidue volte. Le rotelle sono tre: migliaia."], "mode": "parole", "gruppi": [["b90c532ec129260a"]]}]}, {"id": 3, "titolo": "Tre foto senza ora", "passi": [{"domanda": "In che ordine sono state scattate? Scrivi i tre numeri (per esempio 3-1-2).", "ok": "L'ordine torna. Ora rispondete alle due domande della carta.", "aiuti": ["Il tabulato di Akoni dice quando comincia la chiamata.", "I coriandoli esplodono a un orario preciso, lo sanno tutti.", "Una sola foto ha Akoni che non telefona ancora."], "mode": "cifre", "gruppi": [["4b888f7eca8ffa32"]]}]}, {"id": 4, "titolo": "La lavagna delle 23:15", "passi": [{"domanda": "Quale persona resta senza una prova per le 23:15? Scrivi il nome.", "ok": "Il nome è sulla lavagna. Il tenente prende nota.", "aiuti": ["Un alibi vale solo se lo prova qualcosa che non dipende da chi lo dice.", "Una persona non ha una riga piena: chi manca?", "Due righe vuote: una si riempie con i rapporti del laboratorio."], "mode": "parole", "gruppi": [["f608fac371a68acf"]]}]}, {"id": 5, "titolo": "Il nastro: cosa manca?", "passi": [{"domanda": "Cosa non si sente sul nastro?", "ok": "Giusto: manca proprio quello. Il buco tra i due clic lo copre.", "aiuti": ["Il nastro è continuo, ma tra i due clic manca qualcosa di molto rumoroso.", "Quello che ricordate tutti, dalla veranda, alle 23:15."], "mode": "parole", "gruppi": [["7f63e86f28ea84cb", "c5fc59d6c11929aa", "ec666e1044d781f4", "a677deff09494753", "9d0eeb0fd9086cab"]]}]}, {"id": 6, "titolo": "Chi eredita?", "passi": [{"domanda": "Chi guadagna di più dalla sua morte? Scrivi un nome.", "ok": "Sulla carta, sì. Ma un movente non è una prova. Secondo passo: quanti dei tre eredi hanno una prova per le 23:15?", "aiuti": ["Il locale vale più di un assegno e di una quota."], "mode": "parole", "gruppi": [["f7345ada9094f066"]]}, {"domanda": "Quanti dei tre eredi hanno una prova per le 23:15?", "ok": "Tutti e tre. Seguire i soldi qui non porta a nessuno: cercate un'altra strada.", "aiuti": ["Guardate la lavagna delle 23:15.", "Uno è sul palco, uno spara i coriandoli, una è seduta in veranda."], "mode": "parole", "gruppi": [["188adadd404d91d1", "d414da41482530e5", "966cfb7a9088974e"]]}]}, {"id": 7, "titolo": "Il lei viola", "passi": [{"domanda": "Chi ha il lei viola? Scrivi i due nomi.", "ok": "Due persone, giusto. Secondo passo: di chi è la suola sul petalo del vaso?", "aiuti": ["Il resto degli ospiti ha lei bianchi, di plumeria."], "mode": "parole", "gruppi": [["d9904ecac1e0840e"], ["18b5ebf293277416", "bd2cbf46e931a902", "10d85dbcced28ec0"]]}, {"domanda": "La suola liscia di gomma, numero grande: di chi può essere?", "ok": "Una scarpa da uomo. Le due donne col lei viola non c'entrano con quel passo: il petalo non basta a incastrarle.", "aiuti": ["Pensate al numero: grande.", "Né Kalea né Auntie Lei portano quella misura."], "mode": "parole", "gruppi": [["329436149c8ffdf0", "7b28ad0bafd59277", "d7112bec52bbdc40", "63e042e8723f55cc"]]}]}, {"id": 8, "titolo": "Le casse di Aloha Cartage", "passi": [{"domanda": "Che cosa c'è davvero nelle casse? Scrivi una parola.", "ok": "Sigari di contrabbando: un movente per chi non vuole essere denunciato. Ma serve un testimone. Secondo passo: chi può dire dove erano i due firmatari?", "aiuti": ["«Habana» è una città, ma anche una cosa che si fuma."], "mode": "parole", "gruppi": [["cc48524d156404c1", "c64848db176407e7", "b81b1347cba007eb"]]}, {"domanda": "Chi può dire dove erano i due firmatari mentre scaricavano?", "ok": "Il conducente li ha visti scaricare. Chiedete al tenente la sua dichiarazione: spegne la pista.", "aiuti": ["Qualcuno firma la bolla senza essere né Ike né Kapono.", "È l'uomo con il camion."], "mode": "parole", "gruppi": [["f389f8608fe3d96c", "31eee066ee363cea", "896b0941463006bd"]]}]}];
 function norm(s){return s.toUpperCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^A-Z0-9]/g,"")}
 function h32(s,seed){let x=seed>>>0;const b=new TextEncoder().encode(s);for(const c of b){x^=c;x=Math.imul(x,16777619)>>>0}return x}
 function imp(s){s=SALE+norm(s);return h32(s,2166136261).toString(16).padStart(8,"0")+h32(s,2654435761).toString(16).padStart(8,"0")}
-let cur=0;const usati=DATI.map(()=>0);
+let cur=0;const stato=DATI.map(()=>({p:0,a:0}));
 const $=id=>document.getElementById(id);
-function giusto(e,txt){
-  if(e.mode==="cifre"){return imp(txt.replace(/[^0-9]/g,""))===e.gruppi[0][0]}
-  const parole=txt.toUpperCase().normalize("NFD").replace(/[̀-ͯ]/g,"").split(/[^A-Z0-9]+/).filter(Boolean);
+function giusto(pa,txt){
+  if(pa.mode==="cifre"){return imp(txt.replace(/[^0-9]/g,""))===pa.gruppi[0][0]}
+  const parole=txt.toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").split(/[^A-Z0-9]+/).filter(Boolean);
   const hs=new Set(parole.map(imp));
-  return e.gruppi.every(g=>g.some(h=>hs.has(h)));
+  return pa.gruppi.every(g=>g.some(h=>hs.has(h)));
 }
 function mostra(){
-  const e=DATI[cur];
-  $("titolo").textContent="Enigma "+e.id+": "+e.titolo;
-  $("domanda").textContent=e.domanda;
+  const e=DATI[cur],st=stato[cur],k=Math.min(st.p,e.passi.length-1),pa=e.passi[k];
+  $("titolo").textContent="Enigma "+e.id+": "+e.titolo+(e.passi.length>1?" (passo "+(k+1)+" di "+e.passi.length+")":"");
+  $("domanda").textContent=st.p>=e.passi.length?"Enigma risolto.":pa.domanda;
   $("r").value="";$("msg").textContent="";$("msg").className="";
   $("aiuti").innerHTML="";
-  for(let i=0;i<usati[cur];i++){const li=document.createElement("li");li.textContent=e.aiuti[i];$("aiuti").appendChild(li)}
+  for(let i=0;i<st.a;i++){const li=document.createElement("li");li.textContent=pa.aiuti[i];$("aiuti").appendChild(li)}
   document.querySelectorAll("#tabs button").forEach((b,i)=>b.setAttribute("aria-pressed",String(i===cur)));
 }
 DATI.forEach((e,i)=>{const b=document.createElement("button");b.textContent=String(e.id);b.setAttribute("aria-label","Enigma "+e.id+": "+e.titolo);b.onclick=()=>{cur=i;mostra()};$("tabs").appendChild(b)});
-$("verifica").onclick=()=>{const e=DATI[cur],t=$("r").value.trim();
+$("verifica").onclick=()=>{const e=DATI[cur],st=stato[cur],t=$("r").value.trim();
+  if(st.p>=e.passi.length){$("msg").textContent="Già risolto.";$("msg").className="ok";return}
+  const pa=e.passi[st.p];
   if(!t){$("msg").textContent="Scrivi una risposta.";$("msg").className="no";return}
-  if(giusto(e,t)){$("msg").textContent=e.ok;$("msg").className="ok"}else{$("msg").textContent="Non ancora. Riprovate.";$("msg").className="no"}};
+  if(giusto(pa,t)){const ok=pa.ok;st.p++;st.a=0;mostra();$("msg").textContent=ok;$("msg").className="ok"}else{$("msg").textContent="Non ancora. Riprovate.";$("msg").className="no"}};
 $("r").addEventListener("keydown",ev=>{if(ev.key==="Enter")$("verifica").click()});
-$("aiuto").onclick=()=>{const e=DATI[cur];
-  if(usati[cur]>=e.aiuti.length){$("msg").textContent="Gli aiuti sono finiti. Chiedete al tenente.";$("msg").className="no";return}
-  usati[cur]++;mostra();$("msg").textContent="";};
+$("aiuto").onclick=()=>{const e=DATI[cur],st=stato[cur];
+  if(st.p>=e.passi.length){return}
+  const pa=e.passi[st.p];
+  if(st.a>=pa.aiuti.length){$("msg").textContent="Gli aiuti sono finiti. Chiedete al tenente.";$("msg").className="no";return}
+  st.a++;mostra();$("msg").textContent="";};
 mostra();
 </script></main></body></html>
