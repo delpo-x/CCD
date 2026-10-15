@@ -31,6 +31,7 @@ Un piano di revisione editoriale approvato, abbastanza preciso da affidare l'imp
 - [Diagnosi editoriale del caso attuale](tickets/01-diagnosi-editoriale.md): il rompicapo regge, i legami sono coperti a metà; priorità: legami che dipendono l'uno dall'altro, scadenze personali, sospetti credibili oltre Kalea, un costo per chi accusa o mostra un indizio.
 - [Mappa delle relazioni esistenti](tickets/02-mappa-relazioni.md): solo tre legami reggono il caso (Maleko-Kalea, Kalea-Kapono, Kalea-Noe) e passano tutti per Kalea; il resto è a raggiera da Keoki o decoro.
 - [Quali relazioni potenziare e con quali segreti](tickets/04-relazioni-da-potenziare.md): cinque legami a due metà, ciascuna in mano a un giocatore: Kalea-Kapono-Noe (ricatto personale), Pua ex moglie di Akoni, triangolo Lani-Nalu-Ike, Lani e Auntie Lei su Maleko; Maleko-Noe invariato.
+- [Profondità psicologica dei personaggi](tickets/05-profondita-personaggi.md): quattro correzioni di fondo (Akoni, Pua, Kapono, Auntie Lei), tre righe «Voglio / Temo / Cedo se» su ogni scheda, Maleko cede se Kalea è accusata da due persone, Nalu non è più adottato, difficoltà dei ruoli solo nella guida.
 
 ## Not yet specified
 
