@@ -15,7 +15,7 @@
 ## I tuoi segreti (tienili segreti!)
 - Hai firmato una garanzia personale da 60.000 dollari con Akoni Mahoe per rifare l'impianto elettrico. Se il locale non si vende, il debito è tuo.
 - Sei innamorata di Nalu, cresciuto in casa vostra come un fratello. Non gliel'hai mai detto.
-- Hai promesso a Maleko, un cliente fisso, di lasciargli usare il locale per un'indagine di cui non conosci i dettagli. Sospetti che sia della polizia.
+- Hai promesso a Maleko, un cliente fisso, di lasciargli usare il locale per un'indagine di cui non conosci i dettagli. Sospetti che sia della polizia. Tre settimane fa è venuto a chiederti dell'ufficio di tuo padre: chi ci entra e quando resta aperto. Hai risposto senza pensarci.
 - Sapevi da un mese che Keoki pensava di vendere. Hai trovato un opuscolo di Pacific Crest sulla sua scrivania e non gliel'hai detto.
 - Hai in tasca una busta di tua madre, mai aperta (oggetto 01).
 
@@ -44,12 +44,24 @@
 ## Obiettivi personali
 - Scoprire chi ha ucciso tuo padre.
 - Non farti scoprire da Nalu (e da nessuno) per quello che senti.
-- Capire se tuo fratello adottivo ha qualcosa a che fare con la sera.
+- Capire se Nalu, cresciuto in casa vostra, ha qualcosa a che fare con la sera.
 
 ## Relazioni
-- **Nalu Akana** (fratello adottivo, tensione 2/3): ti vuole bene da fratello. Tu no.
+- **Nalu Akana** (cresciuto in casa vostra, tensione 2/3): ti vuole bene da fratello. Tu no.
 - **Akoni Mahoe** (creditore, tensione 2/3): ti ha prestato i soldi con un sorriso e ora li rivuole, con lo stesso sorriso.
 - **Maleko Hanohano** (cliente fisso, tensione 1/3): ti deve un favore grosso. Non ti dice mai cosa fa davvero.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: tenere il Kapu come lo voleva tuo padre.
+- **Temi**: che la lettera di tua madre dica che hai sbagliato tutto.
+- **Cedi se**: Nalu smette di mentirti.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): raggiungi Nalu al bancone e chiedigli cosa gli ha detto Keoki alle 22:05.
+- **Per aprire**: «Nalu, tra poco ti chiedo una cosa. Niente battute, stavolta.»
+
+## Un momento tuo
+Più o meno a metà del gioco libero, quando senti il momento giusto, alza il bicchiere e di' una frase per tuo padre. Non è un obbligo: se non lo fai, la serata funziona lo stesso. Dopo, per un paio di minuti, nessuno dovrebbe indagare.
 
 ## Costume
 Camicia aloha scura, pantaloni neri, walkie-talkie alla cintura, un ibisco rosso dietro l'orecchio.

@@ -3,7 +3,7 @@
 **Kapu Lounge · Waikiki, Honolulu**
 L'ultima sera del locale di Keoki Kealoha, sabato 14 agosto 2004. Poco prima di mezzanotte, qualcuno spara a Keoki nel suo ufficio. Uno degli invitati è l'assassino.
 
-Interpreterai: **Nalu Akana**, barman capo e figlio adottivo di Keoki.
+Interpreterai: **Nalu Akana**, barman capo, cresciuto in casa di Keoki.
 
 Come funziona la serata:
 - Il direttore del gioco non è un invitato: interpreta il tenente Alapai della Omicidi. All'inizio interroga ciascuno di voi, davanti a tutti, per due minuti.
@@ -17,7 +17,7 @@ Suggerimento per il costume: camicia aloha rossa a maniche corte, grembiule nero
 Dettagli dell'evento:
 - Luogo: ______________________
 - Data e ora: ______________________
-- Durata: circa due ore e venti. Arriva dieci minuti prima.
+- Durata: circa due ore e trenta. Arriva dieci minuti prima.
 
 La tua scheda personaggio è riservata: non mostrarla a nessuno. Non serve impararla a memoria.
 Ci vediamo al Kapu Lounge!

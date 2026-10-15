@@ -17,6 +17,7 @@
 - Keoki ti ha detto stanotte, in cucina: «Un mese. Poi basta.»
 - Devi 50.000 dollari ad Auntie Lei, che ti ha finanziato il giro.
 - Hai una relazione segreta con Nalu.
+- Nalu ha preso 4.000 dollari dalla cassa del Kapu e te li ha dati per l'ultimo carico. Nessuno lo sa.
 - Akoni ti ha offerto un posto buono in cambio del tuo silenzio sulla vendita e sulla cantina. Hai rifiutato.
 
 ## La tua serata, com'è andata davvero
@@ -38,7 +39,8 @@
 ## Cosa sai e puoi dire se te lo chiedono
 - Il braciere della cucina era acceso per gli spuntini della serata.
 - Kapono è salito a cambiare un fusibile verso le 23:12 e tornato dopo un paio di minuti. (Lo dici solo se ti si chiede di Kapono.)
-- Il conducente è rimasto nel vicolo per tutto il tempo.
+- Il conducente è rimasto nel vicolo per tutto il tempo. Ha visto le casse con l'etichetta Habana: se il tavolo chiede di lui, il tuo alibi e il tuo segreto escono insieme.
+- Pua è tua sorella e ha già preso anticipi alle spalle di Akoni: non è la prima volta. (Lo dici solo se si parla dell'anticipo.)
 
 ## Obiettivi personali
 - Proteggere lo scantinato.
@@ -49,6 +51,15 @@
 - **Akoni Mahoe** (fratello, tensione 3/3): ti ha sempre trattato come il fratello fallito.
 - **Kapono Medeiros** (fratellastro, tensione 1/3): vi coprite a vicenda dai tempi della scuola.
 - **Nalu Akana** (compagno segreto, tensione 1/3): con lui non devi recitare.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: tenere in piedi il giro un altro mese.
+- **Temi**: il giorno in cui Auntie Lei rivorrà i suoi 50.000 dollari.
+- **Cedi se**: Nalu dice davanti a tutti che non si nasconde più.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): porta la scatola di sigari ad Auntie Lei come pegno.
+- **Per aprire**: «Auntie, ho un regalo e una richiesta. Tieni il regalo.»
 
 ## Costume
 Camicia aloha a fiori slavata, pantaloni color sabbia, occhiali da sole in tasca, anello al mignolo.
