@@ -34,6 +34,7 @@ Un piano di revisione editoriale approvato, abbastanza preciso da affidare l'imp
 - [Profondità psicologica dei personaggi](tickets/05-profondita-personaggi.md): quattro correzioni di fondo (Akoni, Pua, Kapono, Auntie Lei), tre righe «Voglio / Temo / Cedo se» su ogni scheda, Maleko cede se Kalea è accusata da due persone, Nalu non è più adottato, difficoltà dei ruoli solo nella guida.
 - [Scene e interazioni da giocare nella serata](tickets/06-scene-e-interazioni.md): cinque tempi nei 75 minuti, campanella dell'ultima chiamata al minuto 55 (busta chiusa = punto perso), séparé a due con clessidra, sei carte scena, prime mosse dalle missioni, bonus tavolo +5 con almeno sette accuse corrette su Maleko, brindisi di Lani come invito.
 - [Depistaggi e colpi di scena senza toccare la catena di prove](tickets/07-depistaggi-e-colpi-di-scena.md): nessuna pista nuova; gli alibi di Akoni, Ike, Kapono e Noe costano un'ammissione; Kalea dice una verità a metà verso il minuto 45 senza fare il nome; Maleko ha due battute pronte (la frase di Akoni sul nastro, il debito di Pua) e il nastro è a doppio taglio; scartati complici e false confessioni.
+- [La cena a tema come intermezzo](tickets/08-cena-a-tema.md): buffet di pupu dai minuti 40 al 55, dentro il respiro tra il brindisi di Lani e la campanella; si resta in ruolo, carte e oggetti in tasca mentre si mangia; cinque carte piatto (Lani, Auntie Lei, Kapono, Nalu, Noe); menù da supermercato preparato in anticipo dal direttore, vassoi portati da Kapono.
 
 ## Not yet specified
 
