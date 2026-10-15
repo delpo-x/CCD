@@ -36,6 +36,7 @@ Un piano di revisione editoriale approvato, abbastanza preciso da affidare l'imp
 - [Depistaggi e colpi di scena senza toccare la catena di prove](tickets/07-depistaggi-e-colpi-di-scena.md): nessuna pista nuova; gli alibi di Akoni, Ike, Kapono e Noe costano un'ammissione; Kalea dice una verità a metà verso il minuto 45 senza fare il nome; Maleko ha due battute pronte (la frase di Akoni sul nastro, il debito di Pua) e il nastro è a doppio taglio; scartati complici e false confessioni.
 - [La cena a tema come intermezzo](tickets/08-cena-a-tema.md): buffet di pupu dai minuti 40 al 55, dentro il respiro tra il brindisi di Lani e la campanella; si resta in ruolo, carte e oggetti in tasca mentre si mangia; cinque carte piatto (Lani, Auntie Lei, Kapono, Nalu, Noe); menù da supermercato preparato in anticipo dal direttore, vassoi portati da Kapono.
 - [Verifica di coerenza delle modifiche](tickets/09-verifica-coerenza.md): tutto regge; cinque correzioni (Pua è sorella, il 22:05 è Nalu-Keoki e i 4.000 dollari finiscono a Ike, la macchina fotografica non si può tenere, serata di 2 h 30, piccole correzioni su Kalea, Maleko, lei bianco e adottivo); elenco dei file da toccare e dei controlli da rifare.
+- [Piano d'azione ordinato](tickets/10-piano-d-azione.md): consegnato come [piano-d-azione.md](piano-d-azione.md), due ondate (la prima rende la serata giocabile a 2 h 30, la seconda aggiunge cena, carte scena e racconto), un passo per sessione, tag di ritorno, lista di collaudo di otto osservazioni.
 
 ## Not yet specified
 
