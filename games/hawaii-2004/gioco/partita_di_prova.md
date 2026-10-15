@@ -6,6 +6,7 @@ Una prima serata vera serve a una cosa: capire dove il gioco regge e dove va rit
 
 - Dieci giocatori, almeno due alla prima esperienza. Se ne hai solo otto o nove, vedi «Con meno di dieci».
 - Dai i ruoli come dice la tabella della guida: i principianti sui ruoli facili (Nalu, Kapono, Ike, Auntie Lei). Kalea e Maleko vanno a chi ha già giocato o ama recitare.
+- **Solo la tabella di difficoltà, nessun bilanciamento.** Non dare il ruolo favorito al giocatore più debole né il più sfavorito al più bravo per pareggiare le chance: la prova serve a misurare quanto Kalea è davvero favorita e quanto Maleko è svantaggiato. Prima della serata scrivi, per ciascun giocatore, ruolo ed esperienza (principiante, medio, esperto).
 - Se puoi, scegli almeno una persona che parla volentieri e una che parla poco: la serata si vede dalla distanza tra le due.
 - Avvisa tutti che è una prova: sul finire chiederai un parere di cinque minuti.
 
@@ -101,6 +102,7 @@ Raccogli le risposte su fogli o a voce, come preferisci, ma scrivile la sera ste
 
 **Entro il giorno dopo**, riporta qui sotto le cifre, che servono per correggere il modello:
 - numero di giocatori, e quanti alla prima esperienza;
+- ruolo ed esperienza di ognuno (la tabella scritta prima della serata);
 - azioni stimate per giocatore (anche a occhio: poche, medie, molte);
 - prove emerse (le cinque della catena e le esclusioni);
 - numero di accuse su Maleko, e di accuse su altri;
