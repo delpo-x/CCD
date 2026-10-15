@@ -17,7 +17,7 @@ Suggerimento per il costume: tailleur turchese, tacchi, borsa di marca, un telef
 Dettagli dell'evento:
 - Luogo: ______________________
 - Data e ora: ______________________
-- Durata: circa due ore e venti. Arriva dieci minuti prima.
+- Durata: circa due ore e trenta. Arriva dieci minuti prima.
 
 La tua scheda personaggio è riservata: non mostrarla a nessuno. Non serve impararla a memoria.
 Ci vediamo al Kapu Lounge!

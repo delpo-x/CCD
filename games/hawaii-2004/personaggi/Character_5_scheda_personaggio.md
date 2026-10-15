@@ -13,7 +13,7 @@
 - instancabile
 
 ## I tuoi segreti (tienili segreti!)
-- La tua commissione sulla vendita è del 4%: 260.000 dollari. Ti servono, perché sei in rosso con la banca.
+- La tua commissione sulla vendita è del 4%: 260.000 dollari. Ti servono: dopo il divorzio sei in rosso con la banca, e quella commissione è la tua pensione.
 - Hai già incassato e speso un anticipo di 40.000 dollari che l'acquirente ti aveva dato sulla fiducia. Akoni non lo sa (oggetto 05).
 - Tieni il fascicolo con la mappa del cambio di destinazione d'uso. Sai che qualcuno al Comune è stato trattato molto bene.
 - Nalu ti deve 30.000 dollari.
@@ -49,9 +49,18 @@
 - Convincere Auntie Lei ad accettare la vendita.
 
 ## Relazioni
-- **Akoni Mahoe** (fratello, tensione 1/3): lavorate insieme e ti fidi di lui quanto basta.
+- **Akoni Mahoe** (fratello, tensione 2/3): lavorate insieme e ti fidi di lui quanto basta. L'anticipo l'hai preso alle sue spalle e Ike sa che non è la prima volta.
 - **Leilani Kealoha** (venditrice, vecchio favore, tensione 1/3): ti vendette il terreno della tua prima casa a metà prezzo. Non l'hai dimenticato.
 - **Nalu Akana** (debitore, tensione 2/3): ha un debito con te e non fa mai domande su quando pagarlo.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: incassare la commissione e restituire l'anticipo prima che Akoni lo scopra.
+- **Temi**: che Akoni scopra l'anticipo, e che la vendita salti con Keoki morto.
+- **Cedi se**: Akoni ti mette davanti all'anticipo e ti chiede in faccia se è vero.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): vai da Auntie Lei e falle dire «vendo», anche solo per scherzo.
+- **Per aprire**: «Auntie, un caffè e due minuti. Poi decidi tu.»
 
 ## Costume
 Tailleur turchese, tacchi, borsa di marca, un telefono per mano e un lei di plumeria bianca.

@@ -14,7 +14,7 @@
 
 ## I tuoi segreti (tienili segreti!)
 - Hai prestato 50.000 dollari a Ike. Sai che non li rivedrai.
-- Keoki ti ha detto che sta rifacendo il testamento: il locale a Lani, 50.000 dollari a Nalu, a te la tua quota.
+- Keoki ti ha detto che sta rifacendo il testamento: il locale a Lani, 50.000 dollari a Nalu, a te la tua quota. Lo sai da mesi e non hai detto niente a Lani.
 - Il terreno su cui sorge il Kapu apparteneva a vostra madre. Venderlo ti spezza il cuore. L'atto del 1958 (oggetto 10) dice che serve il consenso scritto di tutta la famiglia.
 - Alle 22:55, nell'ufficio, Keoki ha aperto il cassetto e l'ha trovato vuoto: «Mi hanno portato via il vecchio Smith.» Poi ha aggiunto: «Meglio. Adesso so chi verrà. Non dirlo a nessuno.» Non gli hai chiesto altro. Te ne pentirai a lungo.
 
@@ -40,6 +40,7 @@
 ## Cosa sai e puoi dire se te lo chiedono
 - Il cassetto era vuoto. Keoki l'ha detto a te alle 22:55. (Lo dici solo se ti chiedono se mancava qualcosa.)
 - Alle 23:14 Maleko si è alzato dalla veranda dicendo «Vado a cercare mia sorella». Non hai visto da che parte.
+- Keoki ti ha parlato più di una volta di «il mio amico che chiede troppo». Non ha mai fatto un nome. (Lani ha l'altra metà di questa storia: Maleko le ha chiesto dell'ufficio. Da sola non vale niente.)
 - Il tuo lei è viola, come quello di Kalea. I petali sono gli stessi.
 - L'orologio dell'ufficio va avanti di un minuto. Lo sapevi da sempre. Se ti mostrano il foglio «K. – 23:10», spieghi che Keoki usava quell'orologio: erano le 23:09.
 
@@ -52,6 +53,15 @@
 - **Ike Mahoe** (debitore, tensione 2/3): ti ha preso in giro per anni. Ma gli vuoi bene.
 - **Noe Sato** (giornalista, tensione 1/3): le racconti la storia del quartiere, e a volte le dai dei soldi.
 - **Pua Mahoe** (mediatrice, tensione 1/3): le facesti un favore tanti anni fa. Adesso te lo ricorda lei.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: che la terra di vostra madre non si venda e che Lani non firmi nulla.
+- **Temi**: che il tuo silenzio sul testamento sia costato qualcosa a Keoki, e che Lani firmi prima di leggere la lettera di Malia.
+- **Cedi se**: Lani ti promette di non firmare niente: allora racconti quello che Malia voleva.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): chiedi a Ike un dollaro del suo debito, davanti a qualcuno.
+- **Per aprire**: «Ike, un dollaro. Uno solo. Poi ti racconto una storia.»
 
 ## Costume
 Muumuu a fiori, lei di orchidee viola, bastone di legno, occhiali spessi.

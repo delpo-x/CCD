@@ -17,6 +17,7 @@
 - Sai che Keoki ha tenuto un registro di quei pagamenti. Non sai dove lo nascondesse.
 - Hai prestato soldi a Lani e a Nalu per tenerli legati a te.
 - La tua offerta rilanciata a 7,2 milioni (oggetto 04) vale solo con la firma personale di Keoki. Da morto, è carta straccia.
+- A Las Vegas ti tengono ormai ai margini. Questo affare è l'ultima occasione per non essere messo da parte.
 
 ## La tua serata, com'è andata davvero
 - **22:40** In veranda hai detto a Kalea: «Il voto è già comprato.» Non sapevi che Maleko aveva un registratore acceso.
@@ -38,7 +39,7 @@
 ## Cosa sai e puoi dire se te lo chiedono
 - Keoki, alle 23:05: «C'è già chi ha parte del libro e non ha fatto niente.» (Lo dici solo se ti spingono.)
 - Dalla scala hai visto la sabbia vuota e i coriandoli attraverso il vetro.
-- Hai parlato con Lopaka fino alle 23:16:30.
+- Hai parlato con Lopaka fino alle 23:16:30. (Se ti mostrano il tabulato, ammetti che la chiamata era per dirgli che l'affare è morto.)
 
 ## Obiettivi personali
 - Far sparire il tuo nome dal registro, se qualcuno lo trova.
@@ -46,9 +47,18 @@
 - Capire chi ha ucciso Keoki prima che la polizia guardi te.
 
 ## Relazioni
-- **Pua Mahoe** (sorella, tensione 1/3): ha chiuso lei la trattativa e te lo ricorda ogni volta.
+- **Pua Mahoe** (sorella, tensione 2/3): ha chiuso lei la trattativa e te lo ricorda ogni volta. Se scopri l'anticipo preso alle tue spalle, non è solo una questione di soldi: è tuo fratello a essere tradito.
 - **Ike Mahoe** (fratello, tensione 3/3): ti vergogni di lui, e lui lo sa.
 - **Kalea Hanohano** (contatto riservato, tensione 2/3): vi parlate solo per interposta persona. Stasera è nello stesso locale.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: che l'affare regga anche senza Keoki, o che qualcuno firmi al suo posto.
+- **Temi**: che Las Vegas ti metta da parte e che il tuo nome esca dal registro.
+- **Cedi se**: ti mostrano il tabulato della telefonata e Lopaka lo conferma: ammetti che l'affare è morto.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): cerca Kalea, da sola, e falle dire a bassa voce che l'accordo regge.
+- **Per aprire**: «Kalea, due parole. Poche, e senza testimoni.»
 
 ## Costume
 Abito di lino chiaro, camicia azzurra, niente cravatta, mocassini lucidi, un grosso orologio.
