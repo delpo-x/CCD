@@ -12,6 +12,8 @@ Il pavimento era ancora bagnato quando Keoki attraversò la sala, e sulle piastr
 
 «Tu ascolti. È peggio.» Kapono sputò la torcia nel palmo. «Il corridoio dietro il palco, ultimamente, sembra Kalakaua all'ora di punta. Ho cambiato la lampadina tre volte. Chi ci passa, la consuma.»
 
+Keoki non rispose. Sotto un telo, in fondo al bancone, c'erano i vassoi che aveva preparato la sera prima: il maiale che aveva tenuto in forno una notte intera, i quadrotti bianchi di haupia tagliati come li tagliava Malia. Nessuno gli aveva chiesto una cena. Era l'unico modo che conosceva per salutare tutti insieme.
+
 Keoki non chiese chi. Guardò Nalu dietro il bancone, che affettava limoni con una calma troppo lenta, e Nalu rispose con una battuta sul prezzo del ghiaccio, prima che la domanda esistesse. Lani, in fondo, contava la cassa a voce bassa, le dita veloci sulle banconote.
 
 «Allora» disse lei, senza alzare gli occhi. «A mezzanotte?»

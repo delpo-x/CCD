@@ -60,4 +60,4 @@ La revisione editoriale (mappa in `docs/wayfinder/revisione-kapu/`, piano d'azio
 - **Script** (a41d212): `verifica_caso.py` copre tabulato di Akoni e Lopaka per Pua, e il caso peggiore senza IMG_0413. Resta un solo colpevole con tutte le prove.
 - **Schede, missioni, inviti** (1989f7d, f5f1397, 15a5089, 09ab19c): per ogni personaggio Voglio / Temo / Cedo se, prima mossa nei primi 10 minuti, "adottivo" tolto, fondo di Akoni, Pua, Kapono e Auntie Lei, metà di Lani e Auntie Lei su Maleko, biglietto di Kapono con «e lascia stare Noe», inviti con durata e riga sulle allergie.
 
-Non ancora fatti (ondata 2, facoltativa): la cena, le sei carte scena, una riga nel racconto. Il 90/100 resta una stima di progetto fino a una partita vera.
+Ondata 2 applicata (60d0d95, 9b278f3 e passo 7): cena facoltativa (`gioco/cena.md`, cinque carte piatto in `oggetti/`), sei carte scena in `scene/`, una riga nel racconto sul buffet preparato da Keoki, PDF ricostruiti. Il 90/100 resta una stima di progetto fino a una partita vera.
