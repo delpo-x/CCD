@@ -17,6 +17,15 @@ sys.stdout.reconfigure(encoding="utf-8")
 N = int(sys.argv[1]) if len(sys.argv) > 1 and sys.argv[1].isdigit() else 200
 SEED = int(sys.argv[2]) if len(sys.argv) > 2 and sys.argv[2].isdigit() else 20261015
 ROTTURA = "--senza-rottura" not in sys.argv
+TAVOLO = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--tavolo=")), "misto")
+# Composizione dei tavoli: pesi dei profili (timido, medio, teatrale, baro). IPOTESI, non misure.
+TAVOLI = {
+    "misto":       (0.30, 0.40, 0.20, 0.10),
+    "principianti": (0.60, 0.30, 0.08, 0.02),
+    "esperti":     (0.05, 0.35, 0.55, 0.05),
+    "silenzioso":  (0.55, 0.40, 0.05, 0.00),
+    "con_bari":    (0.25, 0.35, 0.15, 0.25),
+}
 
 PG = ["Lani", "Nalu", "Ike", "Akoni", "Pua", "Maleko", "Kalea", "Noe", "Kapono", "Auntie Lei"]
 EASY = ["Nalu", "Kapono", "Ike", "Auntie Lei"]
@@ -68,7 +77,7 @@ PARTNER = {"Lani": "Auntie Lei", "Nalu": "Akoni", "Ike": "Auntie Lei", "Akoni": 
 
 def sceglie_profilo(rng):
     nomi = list(PROFILI)
-    return rng.choices(nomi, weights=[PROFILI[n]["peso"] for n in nomi])[0]
+    return rng.choices(nomi, weights=TAVOLI[TAVOLO])[0]
 
 
 def assegna_profili(rng):
@@ -230,7 +239,7 @@ def una_partita(rng):
 def main():
     rng = random.Random(SEED)
     R = [una_partita(rng) for _ in range(N)]
-    print(f"N={N} seed={SEED} rottura_maleko={'sì' if ROTTURA else 'no'}  (valori CALCOLATI sul modello; le ipotesi sono STIMATE)")
+    print(f"tavolo={TAVOLO} N={N} seed={SEED} rottura_maleko={'sì' if ROTTURA else 'no'}  (valori CALCOLATI sul modello; le ipotesi sono STIMATE)")
     win = {p: 0.0 for p in PG}
     for r in R:
         for v in r["vincitori"]:
