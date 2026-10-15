@@ -94,12 +94,16 @@ EVIDENCE = [
     ("E26-vicki", "Pua",      "VER",   "23:15:10", "23:15:10"),
     ("E26-lei",   "Auntie Lei", "VER",   "23:15:10", "23:15:10"),
     ("E26-noe",   "Noe",        "VER",   "23:15:10", "23:15:10"),
+    ("R02-akoni", "Akoni",      "VER",   "23:13:10", "23:16:30"),   # rapporto 2: tabulato, chiamata a Las Vegas; Lopaka conferma che erano insieme
+    ("R05-pua",   "Pua",        "VER",   "23:14:50", "23:15:10"),   # rapporto 5: Lopaka sente Pua gridare durante la chiamata
     ("Maleko-ret", "Maleko",    "VER",   "23:20:00", "23:20:00"),   # rientro visto dai presenti
 ]
 EV_GROUPS = {  # per spegnere/accendere in blocco
     "IMG_0413": ["E26-brad", "E26-vicki", "E26-lei", "E26-noe"],
     "chiamata_Soo": ["E02"],
     "conducente": ["E07-a", "E07-b"],
+    "tabulato_Akoni": ["R02-akoni"],
+    "Lopaka_Pua": ["R05-pua"],
 }
 
 def check_evidence_vs_truth():
@@ -150,8 +154,22 @@ if __name__ == "__main__":
     all_ids = {x[0] for x in EVIDENCE}
     full = table(all_ids, "Tutte le prove oggettive")
     assert full == ["Maleko"], full
+    # Atteso togliendo una prova alla volta. IMG_0413 è la prova che regge più alibi:
+    # per questo la macchina fotografica di Noe non si può tenere all'ultima chiamata.
+    attesi = {
+        "IMG_0413": ["Noe", "Maleko"],
+        "chiamata_Soo": ["Kalea", "Maleko"],
+        "conducente": ["Ike", "Kapono", "Maleko"],
+        "tabulato_Akoni": ["Maleko"],
+        "Lopaka_Pua": ["Maleko"],
+    }
     for gname, ids in EV_GROUPS.items():
         s = table(all_ids - set(ids), "Senza %s" % gname)
+        assert sorted(s) == sorted(attesi[gname]), (gname, s)
+    # Caso peggiore ammesso dalle regole: camera tenuta e rapporti 2 e 5 non chiesti.
+    peggiore = table(all_ids - set(EV_GROUPS["IMG_0413"] + EV_GROUPS["tabulato_Akoni"] + EV_GROUPS["Lopaka_Pua"]),
+                     "Senza IMG_0413, tabulato di Akoni e Lopaka")
+    assert sorted(peggiore) == sorted(["Akoni", "Pua", "Noe", "Maleko"]), peggiore
     # Solo prove «facili» (palco, cannoni, scontrini, foto 0412/0414)
     easy = {i for i in all_ids if i.startswith(("E-", "E05", "E06", "Maleko"))}
     table(easy, "Solo prove facili (senza Soo, conducente, IMG_0413)")
