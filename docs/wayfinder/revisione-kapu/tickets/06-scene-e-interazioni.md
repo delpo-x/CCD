@@ -51,3 +51,8 @@ Un invito sulla scheda di Lani, non una regola: al minuto 40, o quando sente il 
 - «Chi tiene la busta perde il punto» non deve penalizzare i compiti che toccano il delitto in modo incoerente con l'epilogo personale (chiave di Nalu, registratore di Maleko, macchina fotografica di Noe).
 - Il bonus tavolo (+5) non deve alterare la regola di parità né il punteggio di Maleko (+20 / +10 / 0).
 - La campanella al minuto 55 deve restare dentro la durata di 2 h 20.
+
+### Aggiornamenti dal ticket di verifica
+- La serata passa a **2 h 30**: dopo il gioco libero, 10 minuti di discussione aperta, 15 di accuse scritte, 15 di rivelazione.
+- La macchina fotografica di Noe è l'unico oggetto che non si può tenere all'ultima chiamata: Noe la mostra o la passa al tenente.
+- Il punto di rottura di Maleko diventa: *due giocatori dicono ad alta voce «è stata Kalea» durante la discussione*.

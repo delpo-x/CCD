@@ -27,7 +27,7 @@ Ogni carta dà una riga di ricordo e una persona a cui portare il piatto. Solo p
 - **Auntie Lei.** Haupia (budino al cocco), la ricetta di Malia, la madre di Lani. Lo porta a Lani.
 - **Kapono.** Poke, pescato da lui. Lo porta a Noe.
 - **Nalu.** Il drink della casa, ghiaccio e limoni. Lo porta a Ike.
-- **Noe.** Il piatto di Keoki, vuoto, con un lei viola. Lo posa sul bancone in silenzio.
+- **Noe.** Il piatto di Keoki, vuoto, con un lei di plumeria bianca (il viola è del petalo di Kalea, indizio 04). Lo posa sul bancone in silenzio.
 
 Gli altri non hanno carta. Ognuna riprende un legame già potenziato (Lani-Lei, Kapono-Noe, Nalu-Ike) e dà una scena breve senza il direttore.
 

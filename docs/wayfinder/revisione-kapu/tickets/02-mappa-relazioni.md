@@ -26,8 +26,8 @@ Verdetto: **Motore** (cambia indagine e sospetti), **Parziale** (tocca un alibi 
 
 ### Grappolo Mahoe: Akoni, Ike, Pua
 - **Akoni ↔ Ike (3/3, fratelli; Ike è il minore).** Ike ha rifiutato un'offerta di Akoni. **Parziale.** Spiega perché Ike non possa tacere tutta la sera, ma né l'offerta né il contrabbando portano a Maleko.
-- **Akoni ↔ Pua (1/3).** «Piano B» per convincere Lani; Pua ha già speso un anticipo di 40.000 dollari che Akoni non conosce. Segreto: la ricevuta (oggetto 05). **Parziale.** È il segreto più teso dei due, ma riguarda solo il denaro. Le schede danno a Pua il cognome Mahoe senza dire la parentela: da fissare più avanti.
-- **Ike ↔ Pua.** Nessun legame dichiarato nonostante lo stesso cognome. **Decoro** per assenza.
+- **Akoni ↔ Pua (1/3).** «Piano B» per convincere Lani; Pua ha già speso un anticipo di 40.000 dollari che Akoni non conosce. Segreto: la ricevuta (oggetto 05). **Parziale.** È il segreto più teso dei due, ma riguarda solo il denaro. Pua è sorella di Akoni e di Ike (`Character_4`, `interviste.md`).
+- **Ike ↔ Pua (fratelli).** Nessuna tensione scritta. **Decoro** per assenza.
 - **Akoni ↔ Kalea (2/3).** Lui ha pagato 18.000 dollari al mese per il suo voto fino a giugno. Segreto: i pagamenti, il registro. **Parziale.** Toglie Akoni dai sospetti (con Keoki morto la sua offerta vale zero), ma l'unica fonte è Kalea.
 
 ### Grappolo Kapu: Lani, Nalu, Auntie Lei, Keoki

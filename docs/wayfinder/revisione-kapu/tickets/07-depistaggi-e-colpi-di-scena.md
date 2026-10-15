@@ -44,6 +44,6 @@ Il nastro è a doppio taglio. Se il tavolo chiede di ascoltarlo, Maleko deve rif
 Più depistaggi violerebbero «pochi segreti ben intrecciati». Le altre rivelazioni vengono dalle coppie del ticket relazioni (Pua ex moglie, le parole delle 22:05, le due metà su Maleko).
 
 ### Da controllare nel ticket di verifica
-- La matrice dei sospetti usa ancora «veranda» al posto di «séparé» e 6,5 milioni dove l'offerta è 7,2.
+- *(Verificato: la matrice è corretta. La veranda è il luogo raccontato sul lato spiaggia, il séparé è l'angolo nella sala; 6,5 milioni è la prima offerta e 7,2 il rilancio dell'oggetto 04.)*
 - «Cedo se…» di Kalea (Noe) e di Maleko (Kalea accusata da due) non devono contraddire gli alibi né la catena di prove.
 - Gli alibi con prezzo non devono bloccare le rivelazioni obbligatorie per la catena (il tabulato di Akoni, le foto, il conducente restano ottenibili con le stesse ricerche di oggi).

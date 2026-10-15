@@ -25,21 +25,23 @@ Nessun orario, nessuna prova della catena e nessun alibi cambia. Il testo precis
 - **Effetto sull'indagine.** Noe smette di sospettare Kalea per la ragione sbagliata; Kalea resta credibile come esca.
 - **Evoluzione.** Kapono ritira il ricatto o lo incassa davanti a Noe; l'epilogo esistente (Noe tiene aperta la porta) diventa la risposta.
 
-### 2. Pua e Akoni: ex moglie, non una socia
-- **Oggi.** Cognome uguale e nessuna parentela dichiarata; l'anticipo di 40.000 dollari è solo denaro.
-- **Aggiunta.** Pua è l'**ex moglie di Akoni**, ancora socia occasionale. Ike, fratello minore di Akoni, è il suo ex cognato e conosce i suoi vecchi metodi.
-- **Le due metà.** Pua ha la ricevuta dell'anticipo (oggetto 05); Akoni ha i pagamenti e l'offerta che prova di averle girato un affare. Ike sa che Pua faceva la stessa cosa durante il divorzio.
-- **Costo.** Pua perde la faccia davanti all'ex marito; Akoni ammette che si è fidato di lei di nuovo.
+### 2. Pua e Akoni: fratello e sorella
+*Corretto dal ticket di verifica: le schede dicono già che Pua è sorella di Akoni e di Ike (Akoni 54, Pua 50, Ike 41). L'ipotesi «ex moglie» è scartata.*
+- **Oggi.** L'anticipo di 40.000 dollari è solo denaro.
+- **Aggiunta.** L'anticipo è un tradimento verso il fratello. Ike, il più giovane, sa che non è la prima volta che Pua lo fa in famiglia.
+- **Le due metà.** Pua ha la ricevuta dell'anticipo (oggetto 05); Akoni ha i pagamenti e l'offerta che prova di averle girato un affare. Ike sa che non è la prima volta.
+- **Costo.** Pua perde la faccia davanti al fratello; Akoni ammette di essersi fidato di nuovo.
 - **Effetto sull'indagine.** Una pista economica credibile, senza ricadute sulla catena.
-- **Evoluzione.** L'epilogo esistente (Akoni scopre l'anticipo) diventa un regolamento di conti personale.
+- **Evoluzione.** L'epilogo esistente (Akoni scopre l'anticipo) diventa un regolamento di conti tra fratelli.
 
 ### 3. Lani, Nalu, Ike: il triangolo nascosto
+*Corretto dal ticket di verifica: il 22:05 è il colloquio di Nalu con Keoki sulla cassa, e la missione di Lani le chiede proprio quello.*
 - **Oggi.** Lani ama Nalu; Nalu ha una relazione segreta con Ike; le missioni sono in conflitto, ma nessuna prova passa da qui.
-- **Aggiunta.** Le parole di Nalu a Lani alle 22:05 erano un addio che lei ha capito male. Nalu parla del testimone alla porta a vetri solo se non deve dire dov'era durante la serata, quindi racconta male.
-- **Le due metà.** Lani ha le parole delle 22:05; Ike sa dov'era Nalu. Insieme spiegano perché Nalu racconta a pezzi.
+- **Aggiunta.** Se Lani insiste sulle parole delle 22:05, Nalu aggiunge «gli ho detto che me ne vado»: lei lo sente come un addio. Ciò che nasconde non è dove era (resta al bancone, sotto gli occhi di tutti): sono i 4.000 dollari presi dalla cassa, finiti a Ike.
+- **Le due metà.** Lani ha il «me ne vado» di Nalu; Ike sa dove sono finiti i 4.000 dollari. Insieme spiegano perché Nalu racconta a pezzi.
 - **Costo.** Nalu mente a Lani oppure rivela Ike.
 - **Effetto sull'indagine.** La testimonianza di Nalu esce solo quando smette di nascondersi, ed è un pagamento emotivo.
-- **Vincolo.** Ike e Kapono restano al PS con il conducente; l'alibi non si tocca.
+- **Vincolo.** Ike e Kapono restano al PS con il conducente; Nalu non lascia il bancone: la sorveglianza della PB non cambia.
 
 ### 4. Lani e Auntie Lei: un sospetto giusto su Maleko
 - **Oggi.** Lani sospetta che Maleko sia della polizia, ma l'informazione non ha una scena.
