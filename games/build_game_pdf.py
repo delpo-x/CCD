@@ -80,11 +80,20 @@ hr { border: 0; border-top: .8pt solid var(--line); margin: 14pt 0; }
 .cover h1 { color: var(--cover-ink); border: 0; font-size: 40pt; margin: 18pt 0 10pt; }
 .cover .sub { font: italic 13pt '%(body_font)s', serif; color: var(--cover-accent); }
 .cover .rule { width: 60pt; height: 1.5pt; background: var(--cover-accent); margin: 20pt auto; }
+.cover.fig { padding-top: 2.4cm; }
+.cover img.ritratto { width: 6cm; height: 8cm; object-fit: cover; border: 1.5pt solid var(--cover-accent); border-radius: 4pt; margin-bottom: 8pt; }
+.cover.fig .warn { margin-top: 1.4cm; }
+table.galleria { border-collapse: separate; border-spacing: 5pt; margin: 8pt 0; }
+table.galleria td { border: 0; background: none !important; text-align: center; width: 25%%; padding: 0; font-size: 8pt; line-height: 1.3; }
+table.galleria img { width: 100%%; height: auto; border: .6pt solid var(--line); border-radius: 3pt; }
+table.galleria b { display: block; font-size: 8.6pt; color: var(--ink); margin-top: 2pt; }
+table.galleria td.tu img { border: 2pt solid var(--head); }
 .cover .warn { margin: 5cm auto 0; max-width: 11cm; border: .8pt solid var(--cover-accent); padding: 10pt 14pt; font-size: 9pt; color: var(--cover-ink); text-align: left; }
 """ % dict(th, header=cfg["header"])
 
 esc = lambda s: s.replace("'", "&#8217;")
-parts = [f'<div class="cover"><div class="kicker">{esc(cfg["kicker"])}</div><h1>{esc(cfg["title"])}</h1>'
+_img = (f'<img class="ritratto" src="{cfg["cover_image"]}">' if cfg.get("cover_image") else "")
+parts = [f'<div class="cover{" fig" if _img else ""}">{_img}<div class="kicker">{esc(cfg["kicker"])}</div><h1>{esc(cfg["title"])}</h1>'
          f'<div class="rule"></div><div class="sub">{esc(cfg["subtitle"])}</div>'
          f'<div class="warn">{esc(cfg["warn"])}</div></div>']
 

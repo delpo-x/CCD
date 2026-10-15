@@ -50,10 +50,58 @@ Il massimo è 10, e il secondo bonus dipende da una tua azione: nessuno può dar
 }
 
 
+# chi appare nella pagina «Gli invitati»: (numero ritratto, nome, ruolo pubblico, personaggio)
+INVITATI = [
+    (1, "Lani Kealoha", "Direttrice del locale, figlia di Keoki", 1),
+    (2, "Nalu Akana", "Barman capo", 2),
+    (3, "Ike Mahoe", "Importatore", 3),
+    (4, "Akoni Mahoe", "Emissario di Pacific Crest", 4),
+    (5, "Pua Mahoe", "Agente immobiliare", 5),
+    (6, "Maleko Hanohano", "Assicuratore, cliente fisso", 6),
+    (7, "Kalea Hanohano", "Consigliera comunale", 7),
+    (8, "Noe Sato", "Giornalista d'inchiesta", 8),
+    (9, "Kapono Medeiros", "Tuttofare del locale", 9),
+    (10, "Auntie Lei Kealoha", "Sorella di Keoki, socia", 10),
+    (11, "Keoki Kealoha", "La vittima, fondatore del Kapu", None),
+    (12, "Tenente Kimo Alapai", "Omicidi di Honolulu (il direttore)", None),
+]
+
+
+def miniature():
+    """Crea in _build una miniatura jpg per ogni ritratto in immagini/finali."""
+    try:
+        from PIL import Image
+    except ImportError:
+        return {}
+    out = {}
+    for f in sorted((root / "immagini/finali").glob("ritratto_*.png")):
+        num = int(f.name.split("_")[1])
+        im = Image.open(f).convert("RGB")
+        im.thumbnail((420, 560))
+        dest = tmp / f"ritratto_{num:02d}.jpg"
+        im.save(dest, quality=86)
+        out[num] = f"_build/{dest.name}"
+    return out
+
+
+def pagina_invitati(n, mini):
+    celle = []
+    for num, nome, ruolo, pers in INVITATI:
+        if num not in mini:
+            return None
+        tu = ' class="tu"' if pers == n else ""
+        celle.append(f'<td{tu}><img src="{mini[num]}"><b>{nome}</b>{ruolo}</td>')
+    righe = ["<tr>" + "".join(celle[i:i + 4]) + "</tr>" for i in range(0, 12, 4)]
+    return ("# Gli invitati\n\n"
+            "Questi sono i volti della serata, con quello che tutti sanno di ciascuno. Il riquadro rosso sei tu.\n\n"
+            '<table class="galleria">' + "".join(righe) + "</table>\n")
+
+
 def titolo(path):
     return re.search(r"^# (.+)$", (root / path).read_text(encoding="utf-8"), re.M).group(1)
 
 
+mini = miniature()
 for n, slug in SLUG.items():
     scheda = (root / f"personaggi/Character_{n}_scheda_personaggio.md").read_text(encoding="utf-8")
     nome = re.search(r"^# Scheda Personaggio: (.+)$", scheda, re.M).group(1).strip()
@@ -77,7 +125,10 @@ for n, slug in SLUG.items():
     (tmp / f"busta_{n}.md").write_text("\n".join(righe), encoding="utf-8")
 
     (tmp / f"striscia_{n}.md").write_text(striscia(root, n, nome), encoding="utf-8")
-    files = [f"personaggi/Character_{n}_invito.md", "gioco/regole_giocatore.md",
+    invitati = pagina_invitati(n, mini)
+    if invitati:
+        (tmp / f"invitati_{n}.md").write_text(invitati, encoding="utf-8")
+    files = [f"personaggi/Character_{n}_invito.md"] + ([f"_build/invitati_{n}.md"] if invitati else []) + ["gioco/regole_giocatore.md",
              "gioco/piantina.md", f"personaggi/Character_{n}_scheda_personaggio.md",
              f"_build/striscia_{n}.md", f"personaggi/Character_{n}_missione.md"]
     files.append(f"_build/busta_{n}.md")
@@ -93,6 +144,7 @@ for n, slug in SLUG.items():
         "subtitle": f"Il fascicolo di {nome}",
         "warn": f"Documento riservato: non mostrarlo a nessuno e non leggere le pagine segnate «non leggerla prima» finché non è il momento. Non serve impararlo a memoria.",
         "sections": [{"title": "", "files": files}],
+        **({"cover_image": mini[n]} if n in mini else {}),
     })
     cfgpath = tmp / f"cfg_{n}.json"
     cfgpath.write_text(json.dumps(cfg, ensure_ascii=False, indent=1), encoding="utf-8")
