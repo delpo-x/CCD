@@ -4,10 +4,20 @@ Questo file contiene i prompt per generare tutte le immagini del gioco. I prompt
 
 Salva ogni immagine riuscita nella cartella `finali/` **con il nome indicato** accanto al titolo di ogni prompt. Le prove scartate vanno in `bozze/`. Questo file esiste anche in versione `PROMPTS.html`, con un pulsante «Copia» per ogni prompt: è quella da aprire sul cellulare. Quando sono pronte, mandamele e le inserisco in schede e PDF.
 
+## Stato dei lavori
+
+I **dodici ritratti (01–12) sono fatti** e sono in `finali/`. I loro prompt restano sotto, nel caso vogliate rigenerarne uno. Restano da fare: le tre foto di Noe (13–15), gli indizi (16–30), gli oggetti (31–40), i piatti (41–45), i luoghi (46–51) e la copertina (52).
+
+Dai ritratti già generati sono usciti quattro difetti, e i prompt che restano li evitano:
+- **Logo o monogramma** su borse e vestiti (era sulla borsa di Pua).
+- **Scritte nelle insegne al neon**, a volte «OPEN» o caratteri finti.
+- Il colore dei capelli può scostarsi dal prompt: controlla sempre che corrisponda alla scheda.
+- Il testo dei tesserini e dei badge esce sfocato: va bene, lo copro in impaginazione.
+
 ## Prima di cominciare
 
 ### Le tre regole che valgono per tutto
-1. **Niente testo nell'immagine.** I generatori sbagliano le scritte. Dove un foglio, una lettera o un display deve «contenere» del testo, il prompt chiede una pagina con scrittura **illeggibile e sfocata**. Il testo vero (nei file `indizi/` e `oggetti/`) si aggiunge dopo, in impaginazione. Unica eccezione: la copertina.
+1. **Niente testo nell'immagine, neanche sulle insegne.** I generatori sbagliano le scritte e tendono a mettere «OPEN» o lettere finte sul neon: nei prompt le insegne sono tubi luminosi astratti, senza parole né simboli, e niente marchi su borse, bottiglie o vestiti. Dove un foglio, una lettera o un display deve «contenere» del testo, il prompt chiede una pagina con scrittura **illeggibile e sfocata**. Il testo vero (nei file `indizi/` e `oggetti/`) si aggiunge dopo, in impaginazione. Unica eccezione: la copertina.
 2. **Nessun volto deve tradire il colpevole.** Tutti i ritratti hanno la stessa espressione: neutra, riservata, un po' sulla difensiva. Non generare sguardi colpevoli, sorrisi cattivi, ombre sinistre o mani nascoste, su Maleko come su chiunque altro, e niente di troppo rilassato o «innocente».
 3. **Una sola epoca.** Honolulu, agosto 2004: niente smartphone, niente schermi piatti, niente auto moderne, niente auricolari. Telefoni a conchiglia, compatte digitali da 4 megapixel, registratori a microcassetta.
 
@@ -17,10 +27,10 @@ Costumi e accessori vengono dalle schede, e i giocatori li usano per riconoscers
 ### Blocchi comuni (da incollare dove indicato)
 
 **[STYLE]** (in coda a ogni prompt)
-> cinematic still, tropical neo-noir, Honolulu Waikiki 2004, shot on 35mm film (Kodak Vision3 500T look), 50mm lens, shallow depth of field, available light only, deep contrast, hot pink neon (#FF6FAE) and teal neon (#0F6B6B) glow reflecting on dark koa wood, humid haze, fine film grain, muted but saturated colors, no text, no letters, no logos, no watermark, no frame, no border
+> cinematic still, tropical neo-noir, Honolulu Waikiki 2004, shot on 35mm film (Kodak Vision3 500T look), 50mm lens, shallow depth of field, available light only, deep contrast, hot pink neon (#FF6FAE) and teal neon (#0F6B6B) glow from abstract neon tubes with no words or symbols, reflecting on dark koa wood, humid haze, fine film grain, muted but saturated colors, no text, no letters, no logos, no watermark, no frame, no border
 
 **[NEG]** (campo «negative prompt»; se non c'è, accoda «avoid: …»)
-> cartoon, illustration, anime, 3D render, plastic skin, oversmoothed skin, airbrushed, text, letters, captions, watermark, logo, signature, modern smartphone, flat-screen TV, modern car, deformed hands, extra fingers, asymmetrical eyes, duplicate faces, stock photo smile, postcard beach, daylight, cheerful tourist mood
+> cartoon, illustration, anime, 3D render, plastic skin, oversmoothed skin, airbrushed, text, letters, captions, watermark, logo, brand monogram, neon sign with words, OPEN sign, signature, modern smartphone, flat-screen TV, modern car, deformed hands, extra fingers, asymmetrical eyes, duplicate faces, stock photo smile, postcard beach, daylight, cheerful tourist mood
 
 **[PORTRAIT]** (per tutti i ritratti)
 > waist-up portrait, vertical 3:4, neutral guarded expression with the mouth closed, face in sharp focus, soft pink and teal neon light on the face, background out of focus
@@ -252,14 +262,14 @@ Formato 16:9. Nessuna persona.
 | Gruppo | File | Priorità |
 |--------|------|----------|
 | Foto di Noe (di gioco) | 13, 14, 15 | **Alta**: i giocatori le guardano |
-| Ritratti | 01–12 | **Alta** |
+| Ritratti | 01–12 | **Fatti** |
 | Indizi | 16–30 | Media: servono se stampi le carte con immagine |
 | Oggetti personali | 31–40 | Media |
 | Piatti | 41–45 | Solo con la cena |
 | Luoghi | 46–51 | Bassa: per atmosfera |
 | Copertina | 52 | Media |
 
-Se hai poco tempo: genera solo le **tre foto**, i **dieci ritratti dei giocatori** e la **copertina**. Il resto aggiunge atmosfera ma non cambia la partita.
+Se hai poco tempo: genera solo le **tre foto** e la **copertina**: i ritratti ci sono già. Il resto aggiunge atmosfera ma non cambia la partita.
 
 ---
 
@@ -276,10 +286,10 @@ immagini/
 Quando una bozza è quella buona, la copi in `finali/` col nome giusto. Il nome è l'unica cosa che mi serve per inserirla in schede e PDF.
 
 ### Il metodo
-1. **Un giorno, un gruppo.** I piani gratuiti concedono poche immagini al giorno, e i limiti cambiano senza preavviso: controllali nell'app. Procedi per priorità, non per numero. Giorno 1: ritratti 01–06. Giorno 2: ritratti 07–12. Giorno 3: le tre foto di Noe e la copertina. Poi indizi e oggetti, quando vuoi.
+1. **Un giorno, un gruppo.** I piani gratuiti concedono poche immagini al giorno, e i limiti cambiano senza preavviso: controllali nell'app. Procedi per priorità, non per numero. Ritratti già fatti. Giorno 1: le tre foto di Noe e la copertina. Giorno 2: gli indizi 16–30. Giorno 3: gli oggetti 31–40. Poi piatti e luoghi, quando vuoi.
 2. **Un personaggio, una conversazione.** Genera il ritratto, tienilo aperto e per le immagini successive dello stesso personaggio (le foto di Noe, per esempio) scrivi «stessa persona di questa immagine» e incolla il prompt nuovo. È il modo più economico per tenere il volto coerente senza strumenti a pagamento.
 3. **Le famiglie non si fanno in sequenza.** Ogni fratello ha la sua chat nuova: la somiglianza è già nel prompt, in un solo tratto.
 4. **Le tre foto di Noe sono le più difficili**, perché i generatori sbagliano il numero di persone. Tira 3–4 tentativi per ognuna e scegli quella con le persone giuste, anche se è meno bella. Conta la composizione.
 5. **Se compare del testo**, rigenera una volta con «no text, no letters». Se resta, lo copro io in impaginazione.
 6. **Per gli oggetti puoi usare la fotocamera**: una busta, una chiave, una scatola di sigari veri, fotografati di sera con una lampada, costano meno di un'immagine generata e non sbagliano le dita. Per le carte indizio col testo è anche la soluzione più pulita.
-7. **Chi fa cosa.** Non ho prove che uno dei due strumenti sia migliore sui volti. Fai un test con il ritratto 06 (Maleko) su entrambi e tieni quello che ti convince di più: poi usa sempre quello per tutti i personaggi.
+7. **Stesso strumento per le tre foto.** Per le foto di Noe usa lo strumento con cui hai fatto i ritratti, e caricali come immagini di riferimento: 04 Akoni, 05 Pua, 06 Maleko, 10 Auntie Lei, nell'ordine scritto sopra ogni prompt.
