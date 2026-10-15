@@ -17,6 +17,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 N = int(sys.argv[1]) if len(sys.argv) > 1 and sys.argv[1].isdigit() else 200
 SEED = int(sys.argv[2]) if len(sys.argv) > 2 and sys.argv[2].isdigit() else 20261015
 ROTTURA = "--senza-rottura" not in sys.argv
+MIN70 = "--senza-min70" not in sys.argv
 TAVOLO = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--tavolo=")), "misto")
 # Composizione dei tavoli: pesi dei profili (timido, medio, teatrale, baro). IPOTESI, non misure.
 TAVOLI = {
@@ -113,6 +114,11 @@ def una_partita(rng):
     # il nastro: sequestro solo se il tavolo ha già lampadina o movente (prova documentata)
     if trovati["lampadina"] or trovati["movente"]:
         trovati["nastro"] = rng.random() < 0.55
+    if MIN70 and sum(trovati[k] for k in ("vetri", "cassetto", "lampadina", "movente")) < 2:
+        for k in ("vetri", "cassetto", "lampadina", "movente"):
+            if not trovati[k]:
+                trovati[k] = True  # suggerimento del minuto 70: ne emerge uno
+                break
     escl = {k: rng.random() < 1 - math.exp(-v["r"] * tot) for k, v in ESCLUSIONI.items()}
     escl["IMG_0413"] = True  # campanella: la macchina fotografica non si tiene
     # mostrare IMG_0413 costa a Noe le foto di Kalea: una Noe timida la consegna comunque (regola)

@@ -102,6 +102,7 @@ Tutto è consentito: parlare, cercare, interrogarsi, ricattarsi, allearsi, menti
 | 40–55 | Gli scambi continuano. Con la cena (facoltativa, `cena.md`): buffet sul bancone, carte e oggetti restano in tasca, si mangia e si parla. Gli scambi che servono all'ultima chiamata vanno fatti prima o subito dopo. |
 | 55 | **L'ultima chiamata del gioco.** Suona la campanella. |
 | 55–75 | **Pressione.** Tutto quello che è ancora nascosto deve uscire. |
+| 70 | **Controllo del minuto 70.** Se sono emersi meno di due pezzi della catena, un suggerimento (vedi sotto). |
 
 ### L'ultima chiamata del gioco (minuto 55)
 
@@ -153,6 +154,19 @@ Maleko è un sergente della Sezione Reati Finanziari. **Tu non lo sai** all'iniz
 - una prova lo impone (il rapporto di giugno).
 
 Se Maleko si rivela, il tenente non gli dà nessun trattamento di favore: «Sergente, lei è un testimone come gli altri. Anzi, un po' di più».
+
+### Il controllo del minuto 70
+
+Al minuto 70 del gioco libero guarda cosa è uscito. I pezzi della catena sono quattro: la porta a vetri (nessuno l'ha attraversata tra le 23:12 e le 23:19), il cassetto vuoto alle 22:55, la lampadina allentata, il registro con le sei pagine date a un agente (indizio 13 e rapporto 06). Il nastro di Maleko non conta: si ottiene solo con un sequestro.
+
+Se ne sono usciti meno di due, dici una sola frase da tenente, quella del primo pezzo che manca, in quest'ordine. Poi basta: non tocchi altro e non apri scene.
+
+- **Porta a vetri.** «La porta a vetri della veranda: qualcuno l'ha attraversata tra le 23:12 e le 23:19?»
+- **Cassetto.** «Il cassetto della scrivania era vuoto. Da quando, e chi lo sapeva?»
+- **Lampadina.** «Un agente mi dice che nel corridoio c'era una lampadina allentata. Chi ci ha lavorato, stasera?»
+- **Registro.** «Le sei pagine del registro sarebbero finite a un agente. Chi può controllare i nomi?»
+
+Se ne è uscito uno solo, la frase serve comunque. Se ne sono usciti due o più, non dire niente. È una regola della serata, come la campanella: non cambia il punteggio e non conta come suggerimento della scala.
 
 ## La scala dei suggerimenti
 
