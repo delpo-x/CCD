@@ -1,76 +1,149 @@
 <!doctype html>
 <html lang="it"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Terminale del tenente</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<title>Terminale HPD</title>
 <style>
-:root{--bg:#12112B;--card:#1d1c3b;--ink:#F7F3EA;--muted:#B9B4C9;--pink:#FF6FAE;--teal:#4FD1C5;--line:#3a3866;--ok:#7BE0A4;--no:#FF8FA3}
-@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#F7F3EA;--card:#fff;--ink:#1C1B29;--muted:#4A4757;--pink:#B3125B;--teal:#0F6B6B;--line:#D8D0BE;--ok:#0B6B3A;--no:#A8132F}}
+:root{
+  --bg:#0A0918;--panel:#0F0E22;--line:#1F5F5A;--fg:#5EEAD4;--dim:#6FA9A2;--pink:#FF6FAE;--bad:#FF8FA3;--ok:#8CF5C8;
+  --mono:ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Georgia,'Merriweather',serif;padding:16px}
-main{max-width:560px;margin:0 auto}
-h1{font-size:1.5rem;margin:8px 0 4px;color:var(--pink)}
-.sub{color:var(--muted);margin:0 0 16px}
-.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px}
-.tabs button{min-height:44px;min-width:44px;padding:8px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;cursor:pointer}
-.tabs button[aria-pressed="true"]{border-color:var(--pink);box-shadow:0 0 0 2px var(--pink) inset}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
-h2{font-size:1.15rem;margin:0 0 8px}
-label{display:block;margin:12px 0 6px;color:var(--muted)}
-input{width:100%;min-height:48px;padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:transparent;color:var(--ink);font:inherit;font-size:1.1rem}
-input:focus-visible,button:focus-visible{outline:3px solid var(--teal);outline-offset:2px}
-.row{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
-.row button{flex:1;min-height:48px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;cursor:pointer}
-.row .go{background:var(--pink);border-color:var(--pink);color:#fff;font-weight:700}
-#msg{margin-top:14px;min-height:1.5em}
-.ok{color:var(--ok)}.no{color:var(--no)}
-ol{padding-left:20px;margin:8px 0 0}
-.aiuti{margin-top:12px;color:var(--muted)}
-</style></head><body><main>
-<h1>Terminale del tenente</h1>
-<p class="sub">Scegli l'enigma, scrivi la risposta. Un aiuto alla volta, se serve.</p>
-<div class="tabs" id="tabs" role="group" aria-label="Enigmi"></div>
-<section class="card" aria-live="polite">
-<h2 id="titolo"></h2>
-<p id="domanda"></p>
-<label for="r">La tua risposta</label>
-<input id="r" autocomplete="off" autocapitalize="characters" spellcheck="false">
-<div class="row"><button class="go" id="verifica">Verifica</button><button id="aiuto">Chiedi un aiuto</button></div>
-<p id="msg" role="status"></p>
-<ol class="aiuti" id="aiuti"></ol>
-</section>
+html{background:var(--bg)}
+body{margin:0;min-height:100dvh;background:radial-gradient(ellipse at 50% 0,#14123a 0,var(--bg) 60%);color:var(--fg);font:16px/1.55 var(--mono);
+  padding:max(12px,env(safe-area-inset-top)) max(12px,env(safe-area-inset-right)) max(12px,env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left))}
+/* scanline e vignettatura, solo decorative */
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:5;
+  background:repeating-linear-gradient(to bottom,rgba(0,0,0,.0) 0,rgba(0,0,0,.0) 2px,rgba(0,0,0,.18) 3px);opacity:.55}
+body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:6;box-shadow:inset 0 0 120px rgba(0,0,0,.7)}
+.term{position:relative;z-index:2;max-width:640px;margin:0 auto;border:1px solid var(--line);border-radius:10px;background:var(--panel);
+  box-shadow:0 0 0 1px #0007,0 0 28px rgba(94,234,212,.12)}
+.bar{display:flex;justify-content:space-between;gap:8px;padding:8px 12px;border-bottom:1px solid var(--line);color:var(--dim);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+.bar b{color:var(--pink);font-weight:700}
+.glow{text-shadow:0 0 6px rgba(94,234,212,.55)}
+.files{display:flex;flex-wrap:wrap;gap:8px;padding:12px}
+.files button{min-width:48px;min-height:48px;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:transparent;color:var(--fg);font:inherit;cursor:pointer}
+.files button[aria-pressed="true"]{border-color:var(--pink);color:var(--pink);box-shadow:0 0 10px rgba(255,111,174,.35) inset}
+.files button.done::after{content:" ✓";color:var(--ok)}
+.files button:hover{border-color:var(--fg)}
+.cur{padding:0 12px 8px;color:var(--dim);font-size:.85rem}
+.cur b{color:var(--fg);font-weight:700}
+#log{min-height:210px;max-height:46dvh;overflow:auto;padding:4px 12px 12px;border-top:1px dashed var(--line);margin-top:4px}
+.ln{margin:2px 0;white-space:pre-wrap;word-break:break-word}
+.ln.sys{color:var(--dim)}
+.ln.me{color:var(--fg)}
+.ln.ok{color:var(--ok)}
+.ln.no{color:var(--bad)}
+.ln.hint{color:var(--pink)}
+form{display:flex;align-items:center;gap:8px;padding:10px 12px;border-top:1px solid var(--line)}
+form .p{color:var(--pink);font-weight:700}
+input{flex:1;min-width:0;min-height:48px;padding:6px 8px;background:transparent;border:0;border-bottom:1px solid var(--line);color:var(--fg);font:inherit;font-size:1rem;caret-color:var(--pink);
+  text-transform:uppercase}
+input::placeholder{color:#6FA9A2}
+input:focus-visible,button:focus-visible{outline:2px solid var(--pink);outline-offset:2px;border-radius:4px}
+.act{display:flex;gap:8px;padding:0 12px 12px}
+.act button{flex:1;min-height:48px;border:1px solid var(--line);border-radius:6px;background:transparent;color:var(--fg);font:inherit;letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
+.act .go{background:var(--pink);border-color:var(--pink);color:#12112B;font-weight:700}
+.act button:active{transform:translateY(1px)}
+.cursor{display:inline-block;width:.6em;height:1.1em;vertical-align:-.2em;background:var(--fg);animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@keyframes shake{20%{transform:translateX(-4px)}40%{transform:translateX(4px)}60%{transform:translateX(-3px)}80%{transform:translateX(3px)}}
+.shake{animation:shake .28s}
+@media (prefers-reduced-motion:reduce){.cursor{animation:none}.shake{animation:none}body::before{opacity:.25}}
+@media (max-width:420px){.bar{font-size:.7rem}}
+</style></head><body>
+<main class="term" aria-labelledby="t">
+<div class="bar"><span id="t" class="glow">HPD · Sezione Omicidi</span><span><b>●</b> linea sicura</span></div>
+<div class="files" id="files" role="group" aria-label="File del caso"></div>
+<div class="cur" id="cur" aria-live="polite"></div>
+<div id="log" role="log" aria-live="polite" aria-label="Registro del terminale" tabindex="0"></div>
+<form id="f" autocomplete="off">
+  <span class="p" aria-hidden="true">&gt;</span>
+  <input id="r" aria-label="Risposta" placeholder="scrivi la risposta" autocapitalize="characters" spellcheck="false" enterkeyhint="send">
+</form>
+<div class="act"><button class="go" id="verifica" type="button">Esegui</button><button id="aiuto" type="button">Aiuto</button></div>
+</main>
 <script>
 const SALE="kapu2004",DATI=[{"id": 1, "titolo": "La riga cifrata del taccuino", "passi": [{"domanda": "Cosa dice la riga in margine? Scrivi il messaggio.", "ok": "Giusto. Il messaggio dice dove sta la copia del registro e chi ha la chiave. Dite al tenente cosa fate.", "aiuti": ["Le lettere sono state spostate, non inventate.", "Guardate la cifra: c'è un 3 in mezzo alle lettere, e una chiave ha una targhetta con un 3.", "Chiedi al tenente la striscia cifrante: serve a scorrere l'alfabeto."], "mode": "parole", "gruppi": [["1e3fdd0aeec23e8e"], ["005b2ad2ad1e93ce"]]}]}, {"id": 2, "titolo": "La cassetta K-3", "passi": [{"domanda": "Scrivi le tre cifre del lucchetto.", "ok": "Click. Le rotelle girano e il coperchio si alza. Chiamate il tenente.", "aiuti": ["Cercate una somma, non una data.", "Ventidue pagamenti, tutti uguali.", "Diciottomila, ventidue volte. Le rotelle sono tre: migliaia."], "mode": "parole", "gruppi": [["b90c532ec129260a"]]}]}, {"id": 3, "titolo": "Tre foto senza ora", "passi": [{"domanda": "In che ordine sono state scattate? Scrivi i tre numeri (per esempio 3-1-2).", "ok": "L'ordine torna. Ora rispondete alle due domande della carta.", "aiuti": ["Il tabulato di Akoni dice quando comincia la chiamata.", "I coriandoli esplodono a un orario preciso, lo sanno tutti.", "Una sola foto ha Akoni che non telefona ancora."], "mode": "cifre", "gruppi": [["4b888f7eca8ffa32"]]}]}, {"id": 4, "titolo": "La lavagna delle 23:15", "passi": [{"domanda": "Quale persona resta senza una prova per le 23:15? Scrivi il nome.", "ok": "Il nome è sulla lavagna. Il tenente prende nota.", "aiuti": ["Un alibi vale solo se lo prova qualcosa che non dipende da chi lo dice.", "Una persona non ha una riga piena: chi manca?", "Due righe vuote: una si riempie con i rapporti del laboratorio."], "mode": "parole", "gruppi": [["f608fac371a68acf"]]}]}, {"id": 5, "titolo": "Il nastro: cosa manca?", "passi": [{"domanda": "Cosa non si sente sul nastro?", "ok": "Giusto: manca proprio quello. Il buco tra i due clic lo copre.", "aiuti": ["Il nastro è continuo, ma tra i due clic manca qualcosa di molto rumoroso.", "Quello che ricordate tutti, dalla veranda, alle 23:15."], "mode": "parole", "gruppi": [["7f63e86f28ea84cb", "c5fc59d6c11929aa", "ec666e1044d781f4", "a677deff09494753", "9d0eeb0fd9086cab"]]}]}, {"id": 6, "titolo": "Chi eredita?", "passi": [{"domanda": "Chi guadagna di più dalla sua morte? Scrivi un nome.", "ok": "Sulla carta, sì. Ma un movente non è una prova. Secondo passo: quanti dei tre eredi hanno una prova per le 23:15?", "aiuti": ["Il locale vale più di un assegno e di una quota."], "mode": "parole", "gruppi": [["f7345ada9094f066"]]}, {"domanda": "Quanti dei tre eredi hanno una prova per le 23:15?", "ok": "Tutti e tre. Seguire i soldi qui non porta a nessuno: cercate un'altra strada.", "aiuti": ["Guardate la lavagna delle 23:15.", "Uno è sul palco, uno spara i coriandoli, una è seduta in veranda."], "mode": "parole", "gruppi": [["188adadd404d91d1", "d414da41482530e5", "966cfb7a9088974e"]]}]}, {"id": 7, "titolo": "Il lei viola", "passi": [{"domanda": "Chi ha il lei viola? Scrivi i due nomi.", "ok": "Due persone, giusto. Secondo passo: di chi è la suola sul petalo del vaso?", "aiuti": ["Il resto degli ospiti ha lei bianchi, di plumeria."], "mode": "parole", "gruppi": [["d9904ecac1e0840e"], ["18b5ebf293277416", "bd2cbf46e931a902", "10d85dbcced28ec0"]]}, {"domanda": "La suola liscia di gomma, numero grande: di chi può essere?", "ok": "Una scarpa da uomo. Le due donne col lei viola non c'entrano con quel passo: il petalo non basta a incastrarle.", "aiuti": ["Pensate al numero: grande.", "Né Kalea né Auntie Lei portano quella misura."], "mode": "parole", "gruppi": [["329436149c8ffdf0", "7b28ad0bafd59277", "d7112bec52bbdc40", "63e042e8723f55cc"]]}]}, {"id": 8, "titolo": "Le casse di Aloha Cartage", "passi": [{"domanda": "Che cosa c'è davvero nelle casse? Scrivi una parola.", "ok": "Sigari di contrabbando: un movente per chi non vuole essere denunciato. Ma serve un testimone. Secondo passo: chi può dire dove erano i due firmatari?", "aiuti": ["«Habana» è una città, ma anche una cosa che si fuma."], "mode": "parole", "gruppi": [["cc48524d156404c1", "c64848db176407e7", "b81b1347cba007eb"]]}, {"domanda": "Chi può dire dove erano i due firmatari mentre scaricavano?", "ok": "Il conducente li ha visti scaricare. Chiedete al tenente la sua dichiarazione: spegne la pista.", "aiuti": ["Qualcuno firma la bolla senza essere né Ike né Kapono.", "È l'uomo con il camion."], "mode": "parole", "gruppi": [["f389f8608fe3d96c", "31eee066ee363cea", "896b0941463006bd"]]}]}];
 function norm(s){return s.toUpperCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^A-Z0-9]/g,"")}
 function h32(s,seed){let x=seed>>>0;const b=new TextEncoder().encode(s);for(const c of b){x^=c;x=Math.imul(x,16777619)>>>0}return x}
 function imp(s){s=SALE+norm(s);return h32(s,2166136261).toString(16).padStart(8,"0")+h32(s,2654435761).toString(16).padStart(8,"0")}
-let cur=0;const stato=DATI.map(()=>({p:0,a:0}));
 const $=id=>document.getElementById(id);
+const calmo=window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+let cur=-1;const stato=DATI.map(()=>({p:0,a:0}));
+let coda=Promise.resolve();
+
+function riga(testo,cls){
+  coda=coda.then(()=>new Promise(res=>{
+    const d=document.createElement("div");d.className="ln "+(cls||"");$("log").appendChild(d);
+    const fine=()=>{$("log").scrollTop=$("log").scrollHeight;res()};
+    if(calmo||testo.length>220){d.textContent=testo;fine();return}
+    let i=0;const passo=Math.max(1,Math.ceil(testo.length/60));
+    const t=setInterval(()=>{i+=passo;d.textContent=testo.slice(0,i);$("log").scrollTop=$("log").scrollHeight;if(i>=testo.length){clearInterval(t);fine()}},14);
+  }));
+}
+function decodifica(testo,cls){
+  // l'effetto "decifrazione" è solo estetico: con movimento ridotto il testo compare subito
+  if(calmo){riga(testo,cls);return}
+  coda=coda.then(()=>new Promise(res=>{
+    const d=document.createElement("div");d.className="ln "+(cls||"");$("log").appendChild(d);
+    const set="01#%@$&?/\\<>";let n=0;const L=testo.length;
+    const t=setInterval(()=>{n+=Math.ceil(L/22);let s=testo.slice(0,n);
+      for(let k=n;k<Math.min(L,n+12);k++)s+=testo[k]===" "?" ":set[Math.floor(Math.random()*set.length)];
+      d.textContent=s;$("log").scrollTop=$("log").scrollHeight;
+      if(n>=L){clearInterval(t);d.textContent=testo;res()}},30);
+  }));
+}
 function giusto(pa,txt){
   if(pa.mode==="cifre"){return imp(txt.replace(/[^0-9]/g,""))===pa.gruppi[0][0]}
-  const parole=txt.toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").split(/[^A-Z0-9]+/).filter(Boolean);
+  const parole=txt.toUpperCase().normalize("NFD").replace(/[̀-ͯ]/g,"").split(/[^A-Z0-9]+/).filter(Boolean);
   const hs=new Set(parole.map(imp));
   return pa.gruppi.every(g=>g.some(h=>hs.has(h)));
 }
-function mostra(){
-  const e=DATI[cur],st=stato[cur],k=Math.min(st.p,e.passi.length-1),pa=e.passi[k];
-  $("titolo").textContent="Enigma "+e.id+": "+e.titolo+(e.passi.length>1?" (passo "+(k+1)+" di "+e.passi.length+")":"");
-  $("domanda").textContent=st.p>=e.passi.length?"Enigma risolto.":pa.domanda;
-  $("r").value="";$("msg").textContent="";$("msg").className="";
-  $("aiuti").innerHTML="";
-  for(let i=0;i<st.a;i++){const li=document.createElement("li");li.textContent=pa.aiuti[i];$("aiuti").appendChild(li)}
-  document.querySelectorAll("#tabs button").forEach((b,i)=>b.setAttribute("aria-pressed",String(i===cur)));
+function passoCorrente(e,st){return e.passi[Math.min(st.p,e.passi.length-1)]}
+function aggiornaChip(){
+  document.querySelectorAll("#files button").forEach((b,i)=>{
+    b.setAttribute("aria-pressed",String(i===cur));
+    b.classList.toggle("done",stato[i].p>=DATI[i].passi.length);
+  });
 }
-DATI.forEach((e,i)=>{const b=document.createElement("button");b.textContent=String(e.id);b.setAttribute("aria-label","Enigma "+e.id+": "+e.titolo);b.onclick=()=>{cur=i;mostra()};$("tabs").appendChild(b)});
-$("verifica").onclick=()=>{const e=DATI[cur],st=stato[cur],t=$("r").value.trim();
-  if(st.p>=e.passi.length){$("msg").textContent="Già risolto.";$("msg").className="ok";return}
+function apri(i){
+  cur=i;const e=DATI[i],st=stato[i];aggiornaChip();
+  $("cur").innerHTML="FILE <b>"+String(e.id).padStart(2,"0")+"</b> · "+e.titolo.toUpperCase()+(e.passi.length>1?" · PASSO "+(Math.min(st.p,e.passi.length-1)+1)+"/"+e.passi.length:"");
+  riga("> apri file "+String(e.id).padStart(2,"0"),"me");
+  if(st.p>=e.passi.length){riga("File già decifrato.","ok")}
+  else{riga(passoCorrente(e,st).domanda,"sys")}
+  $("r").focus({preventScroll:true});
+}
+function esegui(){
+  if(cur<0){riga("Scegli prima un file.","no");return}
+  const e=DATI[cur],st=stato[cur],t=$("r").value.trim();
+  if(st.p>=e.passi.length){riga("File già decifrato.","ok");return}
+  if(!t){riga("Nessun input.","no");return}
+  riga("> "+t.toUpperCase(),"me");$("r").value="";
   const pa=e.passi[st.p];
-  if(!t){$("msg").textContent="Scrivi una risposta.";$("msg").className="no";return}
-  if(giusto(pa,t)){const ok=pa.ok;st.p++;st.a=0;mostra();$("msg").textContent=ok;$("msg").className="ok"}else{$("msg").textContent="Non ancora. Riprovate.";$("msg").className="no"}};
-$("r").addEventListener("keydown",ev=>{if(ev.key==="Enter")$("verifica").click()});
-$("aiuto").onclick=()=>{const e=DATI[cur],st=stato[cur];
-  if(st.p>=e.passi.length){return}
-  const pa=e.passi[st.p];
-  if(st.a>=pa.aiuti.length){$("msg").textContent="Gli aiuti sono finiti. Chiedete al tenente.";$("msg").className="no";return}
-  st.a++;mostra();$("msg").textContent="";};
-mostra();
-</script></main></body></html>
+  if(giusto(pa,t)){
+    riga("[ACCESSO CONCESSO]","ok");decodifica(pa.ok,"ok");st.p++;st.a=0;
+    coda=coda.then(()=>{aggiornaChip();$("cur").innerHTML="FILE <b>"+String(e.id).padStart(2,"0")+"</b> · "+e.titolo.toUpperCase()+(st.p>=e.passi.length?" · DECIFRATO":" · PASSO "+(st.p+1)+"/"+e.passi.length)});
+    if(st.p<e.passi.length){riga(e.passi[st.p].domanda,"sys")}
+  }else{
+    riga("[ACCESSO NEGATO] Riprovate.","no");
+    if(!calmo){document.querySelector(".term").classList.remove("shake");void document.querySelector(".term").offsetWidth;document.querySelector(".term").classList.add("shake")}
+  }
+}
+function aiuto(){
+  if(cur<0){riga("Scegli prima un file.","no");return}
+  const e=DATI[cur],st=stato[cur];
+  if(st.p>=e.passi.length){riga("File già decifrato: nessun aiuto necessario.","sys");return}
+  const pa=passoCorrente(e,st);
+  if(st.a>=pa.aiuti.length){riga("Aiuti esauriti. Chiedete al tenente.","no");return}
+  st.a++;riga("[AIUTO "+st.a+"/"+pa.aiuti.length+"] "+pa.aiuti[st.a-1],"hint");
+}
+DATI.forEach((e,i)=>{const b=document.createElement("button");b.type="button";b.textContent=String(e.id).padStart(2,"0");
+  b.setAttribute("aria-label","File "+e.id+": "+e.titolo);b.onclick=()=>apri(i);$("files").appendChild(b)});
+$("f").addEventListener("submit",ev=>{ev.preventDefault();esegui()});
+$("verifica").onclick=esegui;$("aiuto").onclick=aiuto;
+riga("KAPU-NET v2.004 · Polizia di Honolulu, Sezione Omicidi","sys");
+riga("Connessione sicura… ok. 8 file in coda.","sys");
+riga("Scegli un file, scrivi la risposta, premi Esegui. Gli aiuti arrivano uno alla volta.","sys");
+</script></body></html>
