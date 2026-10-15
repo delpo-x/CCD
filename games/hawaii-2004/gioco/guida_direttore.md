@@ -30,7 +30,8 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 5. Prepara un **cartellone delle dichiarazioni**: un foglio grande con una colonna per ciascun personaggio, per segnare ciò che dice ai tuoi interrogatori. Servirà ai giocatori per scovare le bugie.
 6. Procurati: un cappello di paglia per te, un d6 per ogni giocatore, un cronometro, una campanella (oggetto di scena), una clessidra da 3 minuti, un quaderno, un blocco di post-it e una penna, musica hawaiana bassa. Per ogni luogo del locale prepara un cartoncino con il nome (Ufficio, Corridoio, Cucina, Cassa degli ampli, Bancone, Scantinato, Veranda, Bagno) e appendilo alla parete come mappa. Nessuno ci va: serve a dire dove si sta cercando.
 7. Prepara la stanza (vedi «Una sola stanza»): il tuo tavolo con i rapporti e le buste delle carte, un angolo per i colloqui riservati, spazio per muoversi.
-8. Leggi tutto prima della serata: `soluzione.md`, `fascicolo_caso.md`, `matrice_sospetti.md`, `interviste.md`, e i due fogli di scena `personaggi/scheda_vittima.md` e `personaggi/scheda_detective.md`.
+8. Se fai la cena (facoltativa): prepara il buffet come in `cena.md` e consegna le cinque carte piatto (`oggetti/piatto_*.md`) insieme alle buste. Dì a Kapono, e solo a lui, di portare i vassoi dal frigo al minuto 40.
+9. Leggi tutto prima della serata: `soluzione.md`, `fascicolo_caso.md`, `matrice_sospetti.md`, `interviste.md`, e i due fogli di scena `personaggi/scheda_vittima.md` e `personaggi/scheda_detective.md`.
 
 ## Assegnare i ruoli
 
@@ -97,7 +98,7 @@ Tutto è consentito: parlare, cercare, interrogarsi, ricattarsi, allearsi, menti
 | 0–10 | **Prime mosse.** Ogni scheda indica un'azione di apertura: i giocatori partono da lì. |
 | 10–40 | **Scambi.** Le coppie si cercano, gli oggetti passano di mano, il séparé è in uso. |
 | 40 | **Il brindisi.** Lani può alzare il bicchiere per suo padre (è un invito sulla sua scheda, non una regola). Se lo fa, per due minuti nessuno indaga. |
-| 40–55 | Gli scambi continuano. |
+| 40–55 | Gli scambi continuano. Con la cena (facoltativa, `cena.md`): buffet sul bancone, carte e oggetti restano in tasca, si mangia e si parla. Gli scambi che servono all'ultima chiamata vanno fatti prima o subito dopo. |
 | 55 | **L'ultima chiamata del gioco.** Suona la campanella. |
 | 55–75 | **Pressione.** Tutto quello che è ancora nascosto deve uscire. |
 

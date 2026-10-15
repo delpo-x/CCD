@@ -62,6 +62,10 @@
 ## Per cominciare
 - **Prima mossa** (nei primi 10 minuti): vai da Kalea e dalle il biglietto sul prezzo, lontano da Maleko.
 - **Per aprire**: «Consigliera, ha perso questo.»
+- **Se c'è la cena**: al minuto 40 porta i vassoi dal frigo al bancone. È un invito, non una regola.
+
+## Se c'è la cena
+Il direttore ti consegna una carta piatto (`piatto_kapono`). Leggila a voce o tienila per te. Non porta punti.
 
 ## Costume
 Camicia a fiori slavata aperta sopra la maglietta nera del Kapu, bermuda cargo, scarpe da ginnastica, un paio di guanti da lavoro in tasca.

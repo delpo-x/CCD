@@ -63,6 +63,9 @@
 ## Un momento tuo
 Più o meno a metà del gioco libero, quando senti il momento giusto, alza il bicchiere e di' una frase per tuo padre. Non è un obbligo: se non lo fai, la serata funziona lo stesso. Dopo, per un paio di minuti, nessuno dovrebbe indagare.
 
+## Se c'è la cena
+Il direttore ti consegna una carta piatto (`piatto_lani`). Leggila a voce o tienila per te. Non porta punti.
+
 ## Costume
 Camicia aloha scura, pantaloni neri, walkie-talkie alla cintura, un ibisco rosso dietro l'orecchio.
 

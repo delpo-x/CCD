@@ -59,6 +59,9 @@
 - **Prima mossa** (nei primi 10 minuti): vai da Akoni e fagli dire la parola «Kahuna» davanti a testimoni.
 - **Per aprire**: «Signor Mahoe, una domanda sulla Kahuna. Per il pezzo.»
 
+## Se c'è la cena
+Il direttore ti consegna una carta piatto (`piatto_noe`). Leggila a voce o tienila per te. Non porta punti.
+
 ## Costume
 Giacca di cotone leggero, pantaloni scuri, macchina fotografica digitale al collo, badge stampa.
 

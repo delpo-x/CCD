@@ -15,7 +15,7 @@ Keoki Kealoha, fondatore del Kapu Lounge, viene trovato morto nel suo ufficio. N
 Il caso è costruito perché **ogni personaggio abbia almeno cinque elementi di sospetto**, e perché la soluzione si possa raggiungere per due vie indipendenti (per esclusione e per catena positiva di prove).
 
 ## Contenuto della cartella
-- `gioco/` – guida del direttore, soluzione, fascicolo del caso, matrice dei sospetti, registro delle iterazioni di verifica, banca di domande dell'intervista, riferimento indizi, mini-trame e punteggio (**SPOILER, solo direttore**)
+- `gioco/` – guida del direttore, soluzione, fascicolo del caso, matrice dei sospetti, registro delle iterazioni di verifica, banca di domande dell'intervista, riferimento indizi, mini-trame, punteggio e cena facoltativa (`cena.md`) (**SPOILER, solo direttore**)
 - `personaggi/` – inviti, schede e **missioni segrete** dei 10 giocatori; dossier della vittima e scheda del tenente (solo direttore)
 - `oggetti/` – dieci oggetti personali, da consegnare in buste chiuse
 - `indizi/` – 17 carte indizio per i giocatori e, in `indizi/rapporti/`, 7 rapporti di laboratorio e polizia

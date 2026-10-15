@@ -63,6 +63,9 @@
 - **Prima mossa** (nei primi 10 minuti): chiedi a Ike un dollaro del suo debito, davanti a qualcuno.
 - **Per aprire**: «Ike, un dollaro. Uno solo. Poi ti racconto una storia.»
 
+## Se c'è la cena
+Il direttore ti consegna una carta piatto (`piatto_lei`). Leggila a voce o tienila per te. Non porta punti.
+
 ## Costume
 Muumuu a fiori, lei di orchidee viola, bastone di legno, occhiali spessi.
 

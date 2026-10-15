@@ -61,6 +61,9 @@
 - **Prima mossa** (nei primi 10 minuti): porta da bere a Ike e digli sottovoce «Non dire niente di noi».
 - **Per aprire**: «Ghiaccio e due limoni. Offre la casa.»
 
+## Se c'è la cena
+Il direttore ti consegna una carta piatto (`piatto_nalu`). Leggila a voce o tienila per te. Non porta punti.
+
 ## Costume
 Camicia aloha rossa a maniche corte, grembiule nero, shaker in mano, sorriso da barista.
 

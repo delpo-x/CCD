@@ -32,6 +32,7 @@
    "title": "Parte 1 - Per il Direttore (spoiler)",
    "files": [
     "gioco/guida_direttore.md",
+    "gioco/cena.md",
     "gioco/soluzione.md",
     "gioco/fascicolo_caso.md",
     "gioco/matrice_sospetti.md",
@@ -129,7 +130,12 @@
     "oggetti/oggetto_07.md",
     "oggetti/oggetto_08.md",
     "oggetti/oggetto_09.md",
-    "oggetti/oggetto_10.md"
+    "oggetti/oggetto_10.md",
+    "oggetti/piatto_lani.md",
+    "oggetti/piatto_lei.md",
+    "oggetti/piatto_kapono.md",
+    "oggetti/piatto_nalu.md",
+    "oggetti/piatto_noe.md"
    ]
   },
   {
