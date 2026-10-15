@@ -30,6 +30,7 @@ Un piano di revisione editoriale approvato, abbastanza preciso da affidare l'imp
 - [Che cosa significa «livello superiore» per questa serata](tickets/03-criteri-livello-superiore.md): pesi legami/emozione 40, rompicapo 40, tensione 20, risate 0; noir serio e cupo; il direttore non innesca scene; almeno due neofiti, quindi ogni scheda ha una prima mossa; punti e missioni restano ma l'obiettivo principale è cooperativo.
 - [Diagnosi editoriale del caso attuale](tickets/01-diagnosi-editoriale.md): il rompicapo regge, i legami sono coperti a metà; priorità: legami che dipendono l'uno dall'altro, scadenze personali, sospetti credibili oltre Kalea, un costo per chi accusa o mostra un indizio.
 - [Mappa delle relazioni esistenti](tickets/02-mappa-relazioni.md): solo tre legami reggono il caso (Maleko-Kalea, Kalea-Kapono, Kalea-Noe) e passano tutti per Kalea; il resto è a raggiera da Keoki o decoro.
+- [Quali relazioni potenziare e con quali segreti](tickets/04-relazioni-da-potenziare.md): cinque legami a due metà, ciascuna in mano a un giocatore: Kalea-Kapono-Noe (ricatto personale), Pua ex moglie di Akoni, triangolo Lani-Nalu-Ike, Lani e Auntie Lei su Maleko; Maleko-Noe invariato.
 
 ## Not yet specified
 
