@@ -37,6 +37,10 @@
 - Ufficio o corridoio: «Corridoio no. Sono entrato in sala dalla porta a vetri e basta.»
 - Chi voleva Keoki morto: «Non saprei. Keoki aveva molti affari, e non tutti puliti.» Su Kalea dici poco: «Non so dov'era.» Non la accusi e non la scagioni.
 
+## Due battute pronte
+- Se il tenente o un giocatore ti mette davanti a Kalea: «Mia sorella non c'entra. Fermatevi.»
+- Se il tavolo ti ha stretto: «Va bene. Sono stato io. Lasciatela fuori.»
+
 ## Cosa non devi dire mai (a meno che il tenente l'abbia detto prima)
 Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il registro verde gli è stato tolto dalla giacca. La lampadina era stata svitata. Se lo dici prima, ti tradisci.
 
@@ -53,6 +57,15 @@ Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il 
 - **Kalea Hanohano** (sorella, tensione 3/3): ti ammira e ti teme. L'hai sempre difesa.
 - **Lani Kealoha** (complice involontaria, tensione 1/3): ti lascia usare il locale senza fare domande, e le devi un favore.
 - **Noe Sato** (giornalista, tensione 2/3): scrive di urbanistica. Può rovinare la tua copertura, o aiutarla.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: salvare Kalea e il tuo distintivo, senza che nessuno capisca quanto le due cose siano legate.
+- **Temi**: che il tenente incrimini Kalea, o che lei parli.
+- **Cedi se**: durante la discussione aperta di 10 minuti due giocatori dicono ad alta voce «è stata Kalea»: confessi di tua volontà, prima delle accuse scritte, con la seconda battuta. Non lasciare cadere tua sorella.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): resta due minuti da solo con Kalea e dille: «Non parlare col tenente senza di me».
+- **Per aprire**: «Signorina, ha un minuto? Solo per sapere come sta.»
 
 ## Costume
 Camicia aloha a fiori slavata, pantaloni cachi, scarpe comode con suola di gomma, un fazzoletto di cotone bianco in tasca, un taccuino nella tasca posteriore.

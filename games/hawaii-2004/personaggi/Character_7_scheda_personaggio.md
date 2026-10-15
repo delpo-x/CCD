@@ -37,8 +37,9 @@
 - Chi voleva Keoki morto: Akoni, per il suo progetto.
 
 ## Cosa sai e puoi dire se te lo chiedono
-- Hai riconosciuto, o credi di aver riconosciuto, il passo di Maleko nel corridoio alle 23:14. Lo dirai solo se cedi.
-- La striscia di luce sotto la porta del bagno si è spenta prima dei passi, non dopo: qualcuno ha tolto la luce del corridoio e poi è passato. Lo dirai solo se cedi.
+- Credi di aver riconosciuto i passi di tuo fratello nel corridoio alle 23:14, ma non fai mai il suo nome.
+- La striscia di luce sotto la porta del bagno si è spenta prima dei passi, non dopo: qualcuno ha tolto la luce del corridoio e poi è passato.
+- Dici queste due cose in un solo momento, circa a metà del gioco libero: quando Noe ti guarda negli occhi e ti chiede la verità. Rispondi: «Non ho visto, ho sentito dei passi, e ho mentito per coprire chi li faceva.» Se siete soli, aggiungi la luce sotto la porta. Mai un nome.
 - In mezzo ai botti dei coriandoli hai sentito un colpo più secco. Hai capito solo dopo cos'era.
 - Dopo il colloquio, Keoki era vivo e seduto alla scrivania quando sei uscita.
 - Il tuo lei è viola e perde petali ovunque.
@@ -52,6 +53,15 @@
 - **Maleko Hanohano** (fratello, tensione 3/3): ti ha sempre protetta. Ultimamente ti guarda come se non ti conoscesse.
 - **Noe Sato** (giornalista, tensione 2/3): scrive di urbanistica e ti parla con troppa gentilezza.
 - **Kapono Medeiros** (ricattatore, tensione 3/3): vuole 20.000 dollari. Non sai quanto sappia davvero.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: salvare la tua rielezione e far sparire la mezza pagina nella borsetta.
+- **Temi**: che sia stato tuo fratello, e che Noe ti guardi e capisca.
+- **Cedi se**: Noe ti guarda negli occhi e ti chiede la verità: dici la tua verità a metà.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): cerca Kapono e portagli la busta, senza farti vedere da Noe.
+- **Per aprire**: «Kapono, due minuti. Non qui.»
 
 ## Costume
 Tailleur avorio, lei di orchidee viola, borsetta in pelle, cellulare nuovo, sorriso istituzionale.

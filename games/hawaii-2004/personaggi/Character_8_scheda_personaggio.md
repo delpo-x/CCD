@@ -37,7 +37,7 @@
 
 ## Cosa sai e puoi dire se te lo chiedono
 - Alle 23:14 Maleko si è alzato e se n'è andato dalla veranda, dicendo «Vado a cercare mia sorella». Akoni è sceso poco dopo.
-- Hai fotografato l'ora esatta del «via»: il fotogramma è IMG_0413, ma devi consegnare la scheda per mostrarlo.
+- Hai fotografato l'ora esatta del «via»: il fotogramma è IMG_0413, ma per mostrarlo devi aprire la macchina fotografica, dove stanno anche le foto private di Kalea. Alla campanella del minuto 55 non puoi tenerla: la mostri o la consegni.
 - Keoki ti ha detto: «Ti darò qualcosa da fotografare, quando sarà il momento.»
 
 ## Obiettivi personali
@@ -49,6 +49,15 @@
 - **Kalea Hanohano** (segreto amore, tensione 2/3): ti piace, e ti spaventa quello che potresti scoprire su di lei.
 - **Kapono Medeiros** (ex, tensione 2/3): non si rassegna, e ti segue ovunque.
 - **Leilani Kealoha** (fonte, tensione 1/3): ti racconta la storia del quartiere. Una volta ti ha prestato dei soldi.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: pubblicare la verità sul cambio di destinazione d'uso senza distruggere Kalea.
+- **Temi**: che le foto private di Kalea escano dalla macchina, e che lei sia colpevole.
+- **Cedi se**: un innocente rischia l'accusa perché tieni chiusa la macchina fotografica.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): vai da Akoni e fagli dire la parola «Kahuna» davanti a testimoni.
+- **Per aprire**: «Signor Mahoe, una domanda sulla Kahuna. Per il pezzo.»
 
 ## Costume
 Giacca di cotone leggero, pantaloni scuri, macchina fotografica digitale al collo, badge stampa.

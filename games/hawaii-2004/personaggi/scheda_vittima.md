@@ -3,7 +3,7 @@
 Keoki non è un personaggio giocante. È morto prima dell'inizio della scena. Questa scheda serve a te: per rispondere alle domande dei giocatori, per descrivere l'ufficio e per non contraddirti.
 
 ## Chi era
-Keoki Kealoha, 64 anni, ex cuoco della Marina, fondatore del Kapu Lounge nel 1971. Vedovo dal 1996 (la moglie si chiamava Malia). Una figlia, Lani, e un figlio adottivo, Nalu. Parlava poco e ascoltava molto. Il locale era l'ultima cosa che gli restava.
+Keoki Kealoha, 64 anni, ex cuoco della Marina, fondatore del Kapu Lounge nel 1971. Vedovo dal 1996 (la moglie si chiamava Malia). Una figlia, Lani, e Nalu, che aveva preso in casa a dodici anni. Parlava poco e ascoltava molto. Il locale era l'ultima cosa che gli restava.
 
 ## Cosa aveva deciso
 - Non vendere a Pacific Crest. Il contratto con Akoni era pronto, ma Keoki non firmava.

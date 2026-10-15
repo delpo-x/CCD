@@ -14,6 +14,7 @@
 
 ## I tuoi segreti (tienili segreti!)
 - Due mesi fa hai visto Kalea ritirare una busta di contanti nell'ufficio di Keoki. Le hai chiesto 20.000 dollari per tacere (indizio 11, già nella tua tasca).
+- Keoki ti ha tirato fuori dalla miseria quando l'infortunio al surf ti ha chiuso la carriera. Con il ricatto l'hai tradito, e ora che è morto ti pesa.
 - Aiuti Ike, il tuo fratellastro, a scaricare casse di sigari nello scantinato. Sai che sono di contrabbando.
 - Sei ancora innamorato di Noe, la tua ex.
 - Alle 23:12 sei salito dallo scantinato a cambiare un fusibile nel corridoio. Hai detto a tutti che non ti sei mosso.
@@ -38,6 +39,7 @@
 - La lampadina del corridoio: «L'ho cambiata tre volte quest'anno.»
 
 ## Cosa sai e puoi dire se te lo chiedono
+- Se ti chiedono del conducente, il tuo alibi regge, ma dice anche cosa avete scaricato: casse con l'etichetta Habana.
 - Alle 23:13 la lampadina era accesa. Alle 23:37 era allentata. Se ti chiedono della lampadina, lo racconti.
 - Hai visto Kalea entrare nel bagno signore alle 23:13.
 - Nalu tiene gli strofinacci KAPU nel mobile del bar. Una cassa degli ampli è sempre vicino alla porta di servizio: la sposti tu.
@@ -51,6 +53,15 @@
 - **Ike Mahoe** (fratellastro, tensione 1/3): siete cresciuti insieme. Quello che fa lui lo fai anche tu.
 - **Noe Sato** (ex, tensione 2/3): non riesci a smettere di guardarla.
 - **Kalea Hanohano** (vittima del tuo ricatto, tensione 3/3): ti deve soldi, e tu non sai quanto ti convenga insistere.
+
+## Cosa vuoi, cosa temi, quando cedi
+- **Vuoi**: incassare i 20.000 dollari e tenere Noe lontana da Kalea.
+- **Temi**: che Noe ti guardi con disprezzo, ora che Keoki non c'è più.
+- **Cedi se**: Noe ti dice in faccia, davanti a qualcuno, cosa pensa di te: ritiri il ricatto.
+
+## Per cominciare
+- **Prima mossa** (nei primi 10 minuti): vai da Kalea e dalle il biglietto sul prezzo, lontano da Maleko.
+- **Per aprire**: «Consigliera, ha perso questo.»
 
 ## Costume
 Camicia a fiori slavata aperta sopra la maglietta nera del Kapu, bermuda cargo, scarpe da ginnastica, un paio di guanti da lavoro in tasca.

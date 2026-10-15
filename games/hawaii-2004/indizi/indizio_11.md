@@ -4,4 +4,4 @@
 
 *Foglietto spiegazzato, scrittura a stampatello. Era nella tasca di Kapono.*
 
-«Consigliera, il prezzo è 20.000. Domenica, in contanti. Altrimenti Keoki lo sa da me. – K.»
+«Consigliera, il prezzo è 20.000. Domenica, in contanti. E lascia stare Noe. Altrimenti Keoki lo sa da me. – K.»
