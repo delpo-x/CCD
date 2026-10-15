@@ -59,9 +59,9 @@ Il revolver era di Keoki. Keoki era seduto e il colpo è al petto da vicino. Il 
 - **Noe Sato** (giornalista, tensione 2/3): scrive di urbanistica. Può rovinare la tua copertura, o aiutarla.
 
 ## Cosa vuoi, cosa temi, quando cedi
-- **Vuoi**: salvare Kalea e il tuo distintivo, senza che nessuno capisca quanto le due cose siano legate.
+- **Vuoi**: salvare Kalea e il tuo distintivo, e che nessuno veda quanto le due cose siano legate.
 - **Temi**: che il tenente incrimini Kalea, o che lei parli.
-- **Cedi se**: durante la discussione aperta di 10 minuti due giocatori dicono ad alta voce «è stata Kalea»: confessi di tua volontà, prima delle accuse scritte, con la seconda battuta. Non lasciare cadere tua sorella.
+- **Cedi se**: durante la discussione aperta di 10 minuti due giocatori dicono ad alta voce «è stata Kalea». Confessi con la seconda battuta, prima delle accuse scritte: tua sorella non deve pagare per te.
 
 ## Per cominciare
 - **Prima mossa** (nei primi 10 minuti): resta due minuti da solo con Kalea e dille: «Non parlare col tenente senza di me».

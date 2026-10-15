@@ -51,3 +51,13 @@ L'impianto è solido e l'esca Kalea (corrotta ma innocente) è ben costruita. Tr
 1. Togliere la risoluzione automatica (punto 1).
 2. Chiudere il mondo: conta dei presenti, porta sulla strada, band, scontrini, rito delle 23:15 (punti 2 e 3).
 3. Rendere provabili le prove chiave: luce sotto la porta, àncora «manca il boato» sul nastro, rinumerazione foto, piantina con tutte le porte (punti 6, 7, 8, 10).
+
+## Revisione del 15 ottobre: applicata (ondata 1)
+
+La revisione editoriale (mappa in `docs/wayfinder/revisione-kapu/`, piano d'azione approvato) è stata applicata in quattro passi, senza cambiare colpevole, cronologia e catena di prove.
+
+- **Regole e canone** (c9cde7d): durata 2 ore e 30, discussione aperta di 10 minuti, campanella dell'ultima chiamata al minuto 55, séparé a due con clessidra, bonus tavolo (+5 a tutti con almeno sette accuse giuste su Maleko), punto di rottura di Maleko, verità a metà di Kalea, difficoltà dei ruoli, costi degli alibi.
+- **Script** (a41d212): `verifica_caso.py` copre tabulato di Akoni e Lopaka per Pua, e il caso peggiore senza IMG_0413. Resta un solo colpevole con tutte le prove.
+- **Schede, missioni, inviti** (1989f7d, f5f1397, 15a5089, 09ab19c): per ogni personaggio Voglio / Temo / Cedo se, prima mossa nei primi 10 minuti, "adottivo" tolto, fondo di Akoni, Pua, Kapono e Auntie Lei, metà di Lani e Auntie Lei su Maleko, biglietto di Kapono con «e lascia stare Noe», inviti con durata e riga sulle allergie.
+
+Non ancora fatti (ondata 2, facoltativa): la cena, le sei carte scena, una riga nel racconto. Il 90/100 resta una stima di progetto fino a una partita vera.

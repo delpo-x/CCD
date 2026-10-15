@@ -69,4 +69,4 @@ Leggi solo quelli che corrispondono a come è andata la serata. Se un compito è
 
 ## Epilogo collettivo (solo se scatta il bonus tavolo)
 
-«In trentatré anni di sabati nessuno, al Kapu, aveva mai detto lo stesso nome nello stesso momento. Stanotte l'hanno fatto in molti, e la campanella ha suonato una volta di più.»
+«In trentatré anni di sabati, al Kapu nessuno aveva mai detto lo stesso nome tutto insieme. Stanotte lo hanno detto in molti, e la campanella ha suonato per Keoki.»
