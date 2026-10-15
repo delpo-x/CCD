@@ -115,14 +115,15 @@ for sec in parts[1:]:
         num, fname, label = m.groups()
         q = [x for x in cl[1:] if x.startswith("> ")]
         prompt = full(expand(q[0][2:]), title, fname) if q else ""
+        nota = "".join("<p class='nota'>%s</p>" % inline(x) for x in cl[1:] if x.startswith("**Prima di generare:**"))
         n_cards += 1
         out.append(
             "<article class='card' data-id='%s'>"
             "<div class='top'><span class='n'>%s</span><div><b>%s</b><small>%s</small></div>"
             "<label class='ok'><input type='checkbox'> fatto</label></div>"
-            "<p class='pr'>%s</p>"
+            "%s<p class='pr'>%s</p>"
             "<button class='cp' type='button'>Copia prompt</button></article>"
-            % (html.escape(fname), num, inline(label or fname), html.escape(fname), html.escape(prompt))
+            % (html.escape(fname), num, inline(label or fname), html.escape(fname), nota, html.escape(prompt))
         )
     out.append("</section>")
     body.append("\n".join(out))
@@ -153,6 +154,7 @@ blockquote{margin:8px 0;padding:10px 12px;border-left:4px solid var(--accent);ba
 .n{background:var(--head);color:#fff;border-radius:8px;min-width:34px;padding:2px 6px;text-align:center;font:700 14px sans-serif}
 .ok{font:14px sans-serif;white-space:nowrap;min-height:44px;display:flex;align-items:center;gap:6px}
 .ok input{width:22px;height:22px}
+.nota{font:14px/1.45 sans-serif;color:var(--accent);margin:8px 0 6px}
 .pr{font:15px/1.5 -apple-system,Segoe UI,sans-serif;background:rgba(127,127,127,.1);border-radius:8px;padding:10px;user-select:all}
 button.cp{width:100%;min-height:48px;border:0;border-radius:10px;background:var(--accent);color:#fff;font:700 16px sans-serif;cursor:pointer}
 button.cp:focus-visible,.ok input:focus-visible{outline:3px solid var(--head);outline-offset:2px}

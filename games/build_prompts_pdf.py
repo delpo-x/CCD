@@ -13,9 +13,9 @@ body{font:9.5pt/1.4 Georgia,serif;background:#fff;color:#1C1B29}
 main{max-width:none;padding:0}
 .bar,button,.ok{display:none!important}body{background:#fff!important}
 h1{font-size:19pt}h2{font-size:13pt;margin-top:10pt;break-after:avoid}
-.card{break-inside:avoid;border:1px solid #bbb;border-radius:6px;padding:5pt;margin:5pt 0}
+.card{break-inside:auto;border:1px solid #bbb;border-radius:6px;padding:5pt;margin:5pt 0}
 .top small{font-size:8pt}
-.pr{font:8.8pt/1.35 Arial,sans-serif;user-select:auto}
+.pr{font:8.4pt/1.32 Arial,sans-serif;user-select:auto}
 table{font-size:8.5pt}
 """)
 HTML(str(root / "PROMPTS.html")).write_pdf(str(root / "PROMPTS.pdf"), stylesheets=[css])
