@@ -9,7 +9,8 @@ import markdown
 from weasyprint import HTML
 
 root = pathlib.Path(sys.argv[1])
-cfg = json.loads((root / "pdf.json").read_text(encoding="utf-8"))
+cfgpath = pathlib.Path(sys.argv[3]) if len(sys.argv) > 3 else root / "pdf.json"
+cfg = json.loads(cfgpath.read_text(encoding="utf-8"))
 out = pathlib.Path(sys.argv[2]) if len(sys.argv) > 2 else root / cfg["output"]
 th = cfg["theme"]
 
@@ -60,7 +61,13 @@ hr { border: 0; border-top: .8pt solid var(--line); margin: 14pt 0; }
 .doc.scheda h2 { margin-top: 5pt; }
 .doc.scheda, .doc.invito, .doc.indizio { border: 1.2pt solid var(--accent); outline: .5pt solid var(--accent); outline-offset: 3pt; }
 .doc.invito, .doc.indizio { padding: 18pt 20pt; }
-.doc.invito { text-align: center; padding-top: 60pt; font-size: 12pt; }
+.doc.invito { text-align: center; padding-top: 24pt; padding-bottom: 14pt; font-size: 11pt; line-height: 1.45; }
+.doc.guida { font-size: 9.8pt; line-height: 1.45; }
+.doc.guida h1 { font-size: 20pt; margin-bottom: 8pt; }
+.doc.guida h2 { font-size: 12.5pt; margin: 9pt 0 3pt; }
+.doc.guida table { font-size: 8.2pt; margin: 4pt 0; }
+.doc.guida th, .doc.guida td { padding: 2pt 5pt; }
+.doc.guida p, .doc.guida li { margin-bottom: 3pt; }
 .doc.invito h1 { border: 0; font-size: 30pt; }
 .doc.invito ul { list-style: none; padding: 0; }
 .doc.indizio { background: rgba(255,255,255,.6); break-before: auto; break-inside: avoid; margin: 0 0 14pt; padding: 14pt 18pt; }
@@ -100,6 +107,7 @@ for sec in cfg["sections"]:
         md.reset()
         kind = ("invito" if f.endswith("_invito.md")
                 else "scheda missione" if f.endswith("_missione.md")
+                else "guida" if f.endswith(("regole_giocatore.md", "piantina.md"))
                 else "scheda" if "scheda_personaggio" in f
                 else "indizio" if f.startswith(("indizi/", "oggetti/", "scene/")) else "")
         body = md.convert(chr(10).join(lines))

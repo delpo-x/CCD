@@ -23,7 +23,7 @@ Tu non sei un personaggio. Sei il narratore e, in scena, il **tenente Kimo Alapa
 
 ## Preparazione (una settimana prima)
 
-1. Manda a ogni giocatore invito, scheda personaggio e **missione segreta** (`personaggi/`). Dì di non mostrarle a nessuno.
+1. Manda a ogni giocatore il suo **fascicolo** in `giocatori/` (un PDF per personaggio: invito, regole, piantina, scheda, missione e carte). In alternativa, invito, scheda e **missione segreta** separati (`personaggi/`). Dì di non mostrarli a nessuno. I PDF si rigenerano con `games/build_player_packs.py`.
 2. Stampa e ritaglia le **carte indizio** (`indizi/`). Tienile in buste divise per luogo (vedi `riferimento_indizi.md`).
 3. Stampa i **rapporti del laboratorio** (`indizi/rapporti/`) e tienili in ordine di numero. Solo il referto (01) esce da solo.
 4. Prepara le **buste degli oggetti** (`oggetti/`): ogni oggetto in una busta chiusa con il nome del proprietario, da consegnare a inizio serata. Stampa anche la **piantina** (`gioco/piantina.md`) in dieci copie, una per giocatore.
