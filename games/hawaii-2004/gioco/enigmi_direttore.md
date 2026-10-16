@@ -82,7 +82,7 @@ Per rigenerarlo dopo una modifica: `python games/build_enigmi_terminale.py games
 
 ## Enigma 3: tre foto senza ora
 
-**Come prepararlo.** Stampa le tre foto senza didascalia e scrivi sul retro: **1 = IMG_0414, 2 = IMG_0412, 3 = IMG_0413**.
+**Come prepararlo.** La carta (`enigmi/enigma_3_foto.md`) ha già le tre foto in ordine mescolato. Se le stampi a parte, senza didascalia, scrivi sul retro: **1 = IMG_0414, 2 = IMG_0412, 3 = IMG_0413**.
 
 **Soluzione.** L'ordine è **2-3-1**.
 - La foto 2 (IMG_0412): Akoni guarda il telefono e non sta ancora telefonando. La chiamata del tabulato inizia alle 23:13:10, quindi è la prima.

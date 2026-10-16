@@ -61,6 +61,11 @@ hr { border: 0; border-top: .8pt solid var(--line); margin: 14pt 0; }
 .doc.scheda h2 { margin-top: 5pt; }
 .doc.scheda, .doc.invito, .doc.indizio { border: 1.2pt solid var(--accent); outline: .5pt solid var(--accent); outline-offset: 3pt; }
 .doc.invito, .doc.indizio { padding: 18pt 20pt; }
+.doc.indizio img { display: block; width: 68%%; height: auto; margin: 6pt auto 10pt; border: .6pt solid var(--line); border-radius: 3pt; }
+table.foto3 { width: 100%%; border: 0; }
+table.foto3 td { width: 50%%; padding: 4pt; border: 0; vertical-align: top; background: transparent; }
+table.foto3 td b { display: block; margin-bottom: 3pt; }
+.doc.indizio table.foto3 img { width: 100%%; margin: 0; }
 .doc.invito { text-align: center; padding-top: 24pt; padding-bottom: 14pt; font-size: 11pt; line-height: 1.45; }
 .doc.guida { font-size: 9.8pt; line-height: 1.45; }
 .striscia { margin: 4pt 0 10pt; }
