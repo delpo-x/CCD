@@ -4,6 +4,8 @@
 
 *Una busta marrone, spessa.*
 
+![Oggetto 7](immagini/stampa/oggetto_07_busta_kalea.jpg)
+
 Contiene banconote da cento e un biglietto: «Per Kapono, acconto.»
 
 Deve passare a Kapono senza essere vista da Noe.

@@ -4,6 +4,8 @@
 
 *Un piccolo registratore a microcassette, con una spia rossa.*
 
+<img src="immagini/stampa/oggetto_06_registratore_maleko.jpg" alt="Oggetto 6" style="width:42%">
+
 È in funzione dalle 20:30 (lo è davvero, ma Maleko lo ha messo in pausa due volte: lo sa solo lui). Il nastro ha un contagiri.
 
 **Contenuto del nastro (per il Direttore, in ordine):**
