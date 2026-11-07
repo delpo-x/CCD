@@ -6,7 +6,7 @@ Salva ogni immagine riuscita nella cartella `finali/` **con il nome indicato** a
 
 ## Stato dei lavori
 
-Sono fatti e sono in `finali/`: i dodici ritratti (01–12), le tre foto di Noe (13–15), gli indizi (16–30), gli oggetti 31, 32, 33, 35, 36, 37 e la copertina (52). I loro prompt restano sotto, nel caso vogliate rigenerarne uno. Restano da fare: gli oggetti 34, 38, 39 e 40, i piatti (41–45) e i luoghi (46–51).
+Sono fatti e sono in `finali/`: i dodici ritratti (01–12), le tre foto di Noe (13–15), gli indizi (16–30), gli oggetti 31, 32, 33, 35, 36, 37, i piatti 41, 43, 44, i luoghi 47, 48, 49 e la copertina (52). I loro prompt restano sotto, nel caso vogliate rigenerarne uno. Restano da fare: gli oggetti 34, 38, 39 e 40 e il piatto 42. Da rigenerare con il prompt corretto: il piatto 45 e i luoghi 46, 50, 51 (la prima versione è in `bozze/` col suffisso `_v1`).
 
 Dai ritratti già generati sono usciti quattro difetti, e i prompt che restano li evitano:
 - **Logo o monogramma** su borse e vestiti (era sulla borsa di Pua).
@@ -222,7 +222,7 @@ Solo se fai la cena. Luce più calda e meno noir, sempre con il bagliore del neo
 > [OBJECT] A tall glass of clear ice with two thick lemon slices, condensation running down it, on a dark bar counter, neon reflection in the water. [STYLE]
 
 ### 45 · `piatto_noe_piatto_vuoto.png`
-> [OBJECT] An empty white plate on a dark bar counter, a white plumeria lei laid on top, a dim neon sign blurred behind. Quiet, mournful. [STYLE]
+> [OBJECT] An empty white dinner plate on a dark bar counter, the center of the plate completely bare; a single white plumeria lei, a closed ring of strung flowers, laid across one edge of the plate, half on the plate and half on the wood. Only a soft out-of-focus neon glow far behind, no shapes. Quiet, mournful. [STYLE]
 
 ---
 
@@ -231,7 +231,7 @@ Solo se fai la cena. Luce più calda e meno noir, sempre con il bagliore del neo
 Formato 16:9. Nessuna persona.
 
 ### 46 · `luogo_sala.png`
-> A nightclub main hall after closing, Waikiki 2004, a small stage with a drum set and a microphone, a long koa wood bar with a cash register, bar stools, colored confetti and streamers on the floor, a blackboard above the bar (blurred, illegible), pink and teal neon, wet polished floor. [STYLE]
+> A nightclub main hall after closing, Waikiki 2004, a small stage with a plain unbranded drum set (blank drum heads, no brand name on any instrument or amplifier) and a microphone, a long koa wood bar with a cash register, bar stools, colored confetti and streamers on the floor, a blackboard above the bar (blurred, illegible), pink and teal neon tubes shaped only as straight horizontal lines, no letters or symbols in the neon, wet polished floor. [STYLE]
 
 ### 47 · `luogo_ufficio.png`
 > A small cluttered office from the 2000s, a dark wooden desk, a chair pulled back, a green banker's lamp, a notepad, framed photographs on the wall, an archive cabinet, teal neon from the window. [STYLE]
@@ -243,10 +243,10 @@ Formato 16:9. Nessuna persona.
 > A veranda facing a night beach, wicker chairs around a low table, a large glass door lit from inside by neon, a side staircase going down to the sand, palm silhouettes, surf in the dark. [STYLE]
 
 ### 50 · `luogo_cucina.png`
-> A restaurant kitchen after hours, steel counters, a sink, an iron charcoal brazier, hanging pans, a stack of white towels on a shelf. [STYLE]
+> A restaurant kitchen after hours, steel counters, a sink, an iron charcoal brazier, hanging pans, a stack of white towels on a shelf. The windows show only dark night and a soft out-of-focus teal glow, no neon signs visible through the glass. [STYLE]
 
 ### 51 · `luogo_scantinato.png`
-> A basement storeroom with a loading hatch open onto an alley at night, stacked wooden crates, a bare bulb. [STYLE]
+> A basement storeroom with a wide loading hatch open onto an alley at night, stacked plain unlabeled wooden crates and cardboard boxes, lit only by a single bare bulb and cold blue light from the alley, no neon inside the room. [STYLE]
 
 ---
 
@@ -265,8 +265,8 @@ Formato 16:9. Nessuna persona.
 | Ritratti | 01–12 | **Fatti** |
 | Indizi | 16–30 | **Fatti** |
 | Oggetti personali | 31–40 | Media: fatti 31, 32, 33, 35, 36, 37; mancano 34, 38, 39, 40 |
-| Piatti | 41–45 | Solo con la cena |
-| Luoghi | 46–51 | Bassa: per atmosfera |
+| Piatti | 41–45 | Solo con la cena: fatti 41, 43, 44; manca 42; da rifare 45 |
+| Luoghi | 46–51 | Fatti 47, 48, 49; da rifare 46, 50, 51 |
 | Copertina | 52 | **Fatta** |
 
 Se hai poco tempo: genera solo le **tre foto** e la **copertina**: i ritratti ci sono già. Il resto aggiunge atmosfera ma non cambia la partita.
