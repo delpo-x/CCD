@@ -6,7 +6,7 @@ Salva ogni immagine riuscita nella cartella `finali/` **con il nome indicato** a
 
 ## Stato dei lavori
 
-I **dodici ritratti (01–12) sono fatti** e sono in `finali/`. I loro prompt restano sotto, nel caso vogliate rigenerarne uno. Restano da fare: le tre foto di Noe (13–15), gli indizi (16–30), gli oggetti (31–40), i piatti (41–45), i luoghi (46–51) e la copertina (52).
+Sono fatti e sono in `finali/`: i dodici ritratti (01–12), le tre foto di Noe (13–15), gli indizi (16–30), gli oggetti 31, 32, 33, 35, 36, 37 e la copertina (52). I loro prompt restano sotto, nel caso vogliate rigenerarne uno. Restano da fare: gli oggetti 34, 38, 39 e 40, i piatti (41–45) e i luoghi (46–51).
 
 Dai ritratti già generati sono usciti quattro difetti, e i prompt che restano li evitano:
 - **Logo o monogramma** su borse e vestiti (era sulla borsa di Pua).
@@ -261,13 +261,13 @@ Formato 16:9. Nessuna persona.
 
 | Gruppo | File | Priorità |
 |--------|------|----------|
-| Foto di Noe (di gioco) | 13, 14, 15 | **Alta**: i giocatori le guardano |
+| Foto di Noe (di gioco) | 13, 14, 15 | **Fatte** |
 | Ritratti | 01–12 | **Fatti** |
-| Indizi | 16–30 | Media: servono se stampi le carte con immagine |
-| Oggetti personali | 31–40 | Media |
+| Indizi | 16–30 | **Fatti** |
+| Oggetti personali | 31–40 | Media: fatti 31, 32, 33, 35, 36, 37; mancano 34, 38, 39, 40 |
 | Piatti | 41–45 | Solo con la cena |
 | Luoghi | 46–51 | Bassa: per atmosfera |
-| Copertina | 52 | Media |
+| Copertina | 52 | **Fatta** |
 
 Se hai poco tempo: genera solo le **tre foto** e la **copertina**: i ritratti ci sono già. Il resto aggiunge atmosfera ma non cambia la partita.
 
