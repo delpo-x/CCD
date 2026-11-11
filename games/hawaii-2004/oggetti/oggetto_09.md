@@ -4,6 +4,8 @@
 
 *Una compatta argento con il badge stampa appeso alla tracolla.*
 
+![Oggetto 9](immagini/stampa/oggetto_09_macchina_noe.jpg)
+
 La scheda contiene quattordici foto della serata. Tre ci interessano:
 - **IMG_0412** (23:12) e **IMG_0414** (23:16) sono quelle che Noe mostra (indizio 06).
 - **IMG_0413** (23:15) è nascosta tra le foto personali di Kalea che Noe ha scattato di nascosto (indizio 26). Noe non vuole farle vedere a nessuno, e per questo non ha mostrato nemmeno la 0413.

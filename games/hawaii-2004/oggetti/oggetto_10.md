@@ -4,6 +4,8 @@
 
 *Un foglio ingiallito con un timbro e due firme.*
 
+![Oggetto 10](immagini/stampa/oggetto_10_atto_1958.jpg)
+
 Il terreno su cui sorge il Kapu Lounge appartiene alla famiglia Kealoha dal 1958.
 
 Clausola: «Qualsiasi vendita richiede il consenso scritto di tutti i membri della famiglia.»
