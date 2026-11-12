@@ -100,7 +100,7 @@ table.galleria td.tu img { border: 2pt solid var(--head); }
 .cover.bg h1 { font-size: 34pt; margin: 12pt 0 6pt; }
 .cover.bg .rule { margin: 12pt auto; }
 .cover.bg img.ritratto { width: 3.2cm; height: 4.2cm; margin-bottom: 10pt; }
-.cover.bg .warn { margin: 14pt auto 0; max-width: 13cm; font-size: 8.5pt; background: rgba(18,17,43,.6); }
+.cover.bg .warn { margin: 14pt auto 0; max-width: 14cm; font-size: 9.5pt; line-height: 1.45; background: rgba(18,17,43,.6); }
 """ % dict(th, header=cfg["header"])
 
 esc = lambda s: s.replace("'", "&#8217;")
