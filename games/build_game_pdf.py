@@ -96,7 +96,7 @@ table.galleria td.tu img { border: 2pt solid var(--head); }
 .cover .warn { margin: 5cm auto 0; max-width: 11cm; border: .8pt solid var(--cover-accent); padding: 10pt 14pt; font-size: 9pt; color: var(--cover-ink); text-align: left; }
 .cover.bg { padding: 0; position: relative; overflow: hidden; }
 .cover.bg img.bgimg { position: absolute; left: 0; top: 0; width: 210mm; height: 297mm; }
-.cover.bg .txt { position: absolute; left: 0; right: 0; bottom: 0; padding: 4.5cm 2cm 1.5cm; background: linear-gradient(to bottom, rgba(18,17,43,0), rgba(18,17,43,.9) 45%%, rgba(18,17,43,.96)); }
+.cover.bg .txt { position: absolute; left: 0; right: 0; bottom: 0; padding: 4.5cm 2cm 1.5cm; background: linear-gradient(to bottom, rgba(18,17,43,.004), rgba(18,17,43,.9) 45%%, rgba(18,17,43,.96)); }
 .cover.bg h1 { font-size: 34pt; margin: 12pt 0 6pt; }
 .cover.bg .rule { margin: 12pt auto; }
 .cover.bg img.ritratto { width: 3.2cm; height: 4.2cm; margin-bottom: 10pt; }
