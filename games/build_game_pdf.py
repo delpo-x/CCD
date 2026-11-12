@@ -94,13 +94,24 @@ table.galleria img { width: 100%%; height: auto; border: .6pt solid var(--line);
 table.galleria b { display: block; font-size: 8.6pt; color: var(--ink); margin-top: 2pt; }
 table.galleria td.tu img { border: 2pt solid var(--head); }
 .cover .warn { margin: 5cm auto 0; max-width: 11cm; border: .8pt solid var(--cover-accent); padding: 10pt 14pt; font-size: 9pt; color: var(--cover-ink); text-align: left; }
+.cover.bg { padding: 0; position: relative; overflow: hidden; }
+.cover.bg img.bgimg { position: absolute; left: 0; top: 0; width: 210mm; height: 297mm; }
+.cover.bg .txt { position: absolute; left: 0; right: 0; bottom: 0; padding: 4.5cm 2cm 1.5cm; background: linear-gradient(to bottom, rgba(18,17,43,0), rgba(18,17,43,.9) 45%%, rgba(18,17,43,.96)); }
+.cover.bg h1 { font-size: 34pt; margin: 12pt 0 6pt; }
+.cover.bg .rule { margin: 12pt auto; }
+.cover.bg img.ritratto { width: 3.2cm; height: 4.2cm; margin-bottom: 10pt; }
+.cover.bg .warn { margin: 14pt auto 0; max-width: 13cm; font-size: 8.5pt; background: rgba(18,17,43,.6); }
 """ % dict(th, header=cfg["header"])
 
 esc = lambda s: s.replace("'", "&#8217;")
 _img = (f'<img class="ritratto" src="{cfg["cover_image"]}">' if cfg.get("cover_image") else "")
-parts = [f'<div class="cover{" fig" if _img else ""}">{_img}<div class="kicker">{esc(cfg["kicker"])}</div><h1>{esc(cfg["title"])}</h1>'
-         f'<div class="rule"></div><div class="sub">{esc(cfg["subtitle"])}</div>'
-         f'<div class="warn">{esc(cfg["warn"])}</div></div>']
+_txt = (f'{_img}<div class="kicker">{esc(cfg["kicker"])}</div><h1>{esc(cfg["title"])}</h1>'
+        f'<div class="rule"></div><div class="sub">{esc(cfg["subtitle"])}</div>'
+        f'<div class="warn">{esc(cfg["warn"])}</div>')
+if cfg.get("cover_bg"):
+    parts = [f'<div class="cover bg"><img class="bgimg" src="{cfg["cover_bg"]}"><div class="txt">{_txt}</div></div>']
+else:
+    parts = [f'<div class="cover{" fig" if _img else ""}">{_txt}</div>']
 
 md = markdown.Markdown(extensions=["tables", "fenced_code", "sane_lists", "nl2br"])
 item = re.compile(r"\s*([-*▢]|\d+\.)\s")

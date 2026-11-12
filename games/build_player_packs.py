@@ -145,6 +145,7 @@ for n, slug in SLUG.items():
         "warn": f"Documento riservato: non mostrarlo a nessuno e non leggere le pagine segnate «non leggerla prima» finché non è il momento. Non serve impararlo a memoria.",
         "sections": [{"title": "", "files": files}],
         **({"cover_image": mini[n]} if n in mini else {}),
+        "cover_bg": "immagini/stampa/copertina.jpg",
     })
     cfgpath = tmp / f"cfg_{n}.json"
     cfgpath.write_text(json.dumps(cfg, ensure_ascii=False, indent=1), encoding="utf-8")

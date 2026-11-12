@@ -6,7 +6,7 @@ Salva ogni immagine riuscita nella cartella `finali/` **con il nome indicato** a
 
 ## Stato dei lavori
 
-Sono fatti e sono in `finali/`: i dodici ritratti (01–12), le tre foto di Noe (13–15), gli indizi (16–30), gli oggetti 31, 32, 33, 35, 36, 37, i piatti 41, 43, 44, i luoghi 47, 48, 49 e la copertina (52). I loro prompt restano sotto, nel caso vogliate rigenerarne uno. Restano da fare: gli oggetti 34, 38, 39 e 40 e il piatto 42. Da rigenerare con il prompt corretto: il piatto 45 e i luoghi 46, 50, 51 (la prima versione è in `bozze/` col suffisso `_v1`).
+Tutte le 52 immagini sono fatte e sono in `finali/`; le versioni per la stampa sono in `stampa/` (JPEG, 1200 px). I prompt restano sotto, nel caso vogliate rigenerarne una. Gli originali scartati stanno in `bozze/`.
 
 Dai ritratti già generati sono usciti quattro difetti, e i prompt che restano li evitano:
 - **Logo o monogramma** su borse e vestiti (era sulla borsa di Pua).
@@ -183,7 +183,7 @@ Tutti i fogli e i documenti: scrittura **illeggibile e sfocata** (regola 1).
 > [OBJECT] A plain light-wood cigar box, no markings, lid slightly open, a single cigar and a folded handwritten note inside (illegible), dark counter surface. [STYLE]
 
 ### 34 · `oggetto_04_offerta_rilanciata.png`
-> [OBJECT] A formal offer letter on corporate stationery with a blurred letterhead, a short clause in small print at the bottom, a fountain pen across it, dark desk. [STYLE]
+> [OBJECT] A formal business letter on cream stationery lying on a dark wooden desk, a fountain pen across it. The top of the page has a small rounded rectangle of plain grey ink where a letterhead would be. The body is made of soft grey horizontal bars like a censored document, with a short separate block of three thinner grey bars at the bottom, and a single looping blue ink signature line below. No readable words anywhere. [STYLE]
 
 ### 35 · `oggetto_05_ricevuta.png`
 > [OBJECT] A short receipt form with three handwritten lines (illegible) and an empty signature line, on a glossy table. [STYLE]
@@ -195,13 +195,13 @@ Tutti i fogli e i documenti: scrittura **illeggibile e sfocata** (regola 1).
 > [OBJECT] A thick brown envelope with hundred-dollar bills sticking out, resting inside an open ivory leather handbag, a flip phone beside it. [STYLE]
 
 ### 38 · `oggetto_08_registratore_noe.png`
-> [OBJECT] A journalist's handheld cassette recorder with a cassette inside, a hand pressing the play button, teal neon in the background. [STYLE]
+> [OBJECT] A journalist's handheld cassette recorder in silver and black with a cassette visible through the window, a woman's hand with plain nails pressing the play button, resting on a dark table. Teal neon glow behind, out of focus, with no shapes. No labels, no printed words on the device. [STYLE]
 
 ### 39 · `oggetto_09_macchina_noe.png`
-> [OBJECT] A silver compact digital camera with a press badge dangling from the strap, on a small table on a veranda at night, a dim wicker chair behind it. [STYLE]
+> [OBJECT] A silver compact digital camera from 2004 with a wrist strap, and a plain white plastic press badge dangling from the strap showing only a small grey rectangle where a photo would be, with no writing on it. On a small round table on a veranda at night, a dim wicker chair behind it out of focus. [STYLE]
 
 ### 40 · `oggetto_10_atto_1958.png`
-> [OBJECT] An aged yellowed property deed with a faded stamp and two blurred signatures, folded corners, old ink, on dark wood. [STYLE]
+> [OBJECT] An aged yellowed property deed with folded corners lying on dark wood. At the top a round faded ink stamp shown only as a ring and a smudge with no letters. The body is dense soft grey lines like old typewritten text out of focus, and at the bottom two short looping ink signature lines. No readable words. [STYLE]
 
 ---
 
@@ -213,7 +213,7 @@ Solo se fai la cena. Luce più calda e meno noir, sempre con il bagliore del neo
 > [OBJECT] A tray of small soft milk-bread buns filled with shredded smoked pulled pork, on dark wood, a paper napkin, warm tungsten light with pink neon rim. [STYLE]
 
 ### 42 · `piatto_lei_haupia.png`
-> [OBJECT] A white tray with squares of firm coconut pudding (haupia), a spatula beside it, on dark wood. [STYLE]
+> [OBJECT] A white rectangular tray with neat squares of firm white coconut pudding cut in a grid, a small metal spatula beside it, on dark wood, a paper napkin, warm tungsten light with a pink neon rim. [STYLE]
 
 ### 43 · `piatto_kapono_poke.png`
 > [OBJECT] Several small ceramic cups of salmon poke with sesame seeds and sliced onion, on a bed of crushed ice, a pair of chopsticks across the tray. [STYLE]

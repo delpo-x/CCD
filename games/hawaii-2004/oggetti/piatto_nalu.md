@@ -4,6 +4,8 @@
 
 *Un bicchiere alto, ghiaccio e due limoni.*
 
+![Piatto drink](immagini/stampa/piatto_nalu_drink.jpg)
+
 È il drink che Keoki ti ha insegnato per primo, il giorno in cui ti ha messo dietro il bancone. Non ha nome sul menù. Lo chiamate «la casa».
 
 **Cosa fare**: Portalo a Ike. Puoi offrirlo davanti a tutti o aspettare il momento giusto.
